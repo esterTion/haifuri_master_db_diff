@@ -1,0 +1,151 @@
+{
+  "Name":"Character", "Rows":[
+    {
+      "No":10001, "Name":"岬 明乃", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":1, "Birthday":"こんなに祝ってもらえるなんてうれしい！\nみんなありがとう\n今日は最高の誕生日だよ！", "WordWin1":"やったよ、\nもかちゃん！", "WordWin2":"やったー！みんなの\nおかげだよ！", "WordDraw1":"ふう。\n引き分けだったね！", "WordDraw2":"ちょうど引き分け\nなんだね！", "WordLose1":"あれ？\n負けちゃった…", "WordLose2":"うーん、\n何がいけなかった\nのかなあ"
+    },
+    {
+      "No":10002, "Name":"宗谷 ましろ", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":2, "Birthday":"こんな盛大に祝ってもらえるとはな\n今日はとても幸運だ、ありがとう！", "WordWin1":"私たちの勝利だ！", "WordWin2":"当然の結果だな", "WordDraw1":"む…\n引き分けなのか…", "WordDraw2":"互角だな", "WordLose1":"敗北か…\nやっぱりついてない", "WordLose2":"くっ、\n反省しなくては…"
+    },
+    {
+      "No":10003, "Name":"立石 志摩", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":3, "Birthday":"誕生日…祝ってくれて…ありがとう…\nすごく…うれしい！", "WordWin1":"ありがとう…", "WordWin2":"うーーい…！", "WordDraw1":"うい？", "WordDraw2":"引き分け…", "WordLose1":"ういぃぃ…", "WordLose2":"まけ…"
+    },
+    {
+      "No":10004, "Name":"西崎 芽依", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":4, "Birthday":"え？誕生日祝ってくれるの！\nやったー！\nありがとう、最高の誕生日だよー！", "WordWin1":"勝ったよ、タマ！", "WordWin2":"西崎芽依、\n大勝利であります！", "WordDraw1":"引き分け！？\nうそだあ！", "WordDraw2":"もう少しで\n勝てたのになー", "WordLose1":"負けるのやだあ～！", "WordLose2":"んあ～！\n悔しい～！"
+    },
+    {
+      "No":10005, "Name":"納沙 幸子", "School":1, "Student":1, "BranchArmy":3, "ProfileNo":5, "Birthday":"誕生日のお祝いありがとうございます！\n今日は最高の１日です！", "WordWin1":"やりましたよ～！", "WordWin2":"勝利の杯を\nかわすんじゃあ！", "WordDraw1":"あら？\n互角でしたね", "WordDraw2":"引き分けですねー", "WordLose1":"負けちゃい…\nましたね…", "WordLose2":"ダメでしたね…"
+    },
+    {
+      "No":10006, "Name":"知床 鈴", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":6, "Birthday":"わ、私の誕生日覚えててくれたんだ…！\nこんなに祝ってもらえるなんて……\nありがとう！", "WordWin1":"もう逃げ逃げじゃ\nないよ！", "WordWin2":"勝てたんだ、\n私たち…！", "WordDraw1":"引き分けかな？", "WordDraw2":"ぁ、危なかったね", "WordLose1":"ご、ごめんなさい…", "WordLose2":"私がもっと\n操舵出来てれば…"
+    },
+    {
+      "No":10007, "Name":"小笠原 光", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":7, "Birthday":"こんなに祝ってもらえるなんてね～！\nありがとう！いい日になったよ！", "WordWin1":"ガツンと\n決まったね！", "WordWin2":"やったあ！\n勝ったよー！", "WordDraw1":"ちょっと\nグズっちゃったかー", "WordDraw2":"何とか無事ですぅ…", "WordLose1":"次は負けないよ？", "WordLose2":"しょうがないよね…"
+    },
+    {
+      "No":10008, "Name":"武田 美千留", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":8, "Birthday":"誕生日のお祝いありがとう！\nこんなに盛大なのは久しぶりだよ！", "WordWin1":"いい感じに\n勝てたね！", "WordWin2":"問題ない勝利だね！", "WordDraw1":"引き分け？\n悔しいなー", "WordDraw2":"今度はもっと\n頑張ろう", "WordLose1":"負けちゃったかー…", "WordLose2":"はあ…\n残念だなあ…"
+    },
+    {
+      "No":10009, "Name":"日置 順子", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":9, "Birthday":"こんなにお祝してもらってありがとう！\n全方位盛り上がっていこう！", "WordWin1":"バキュンと勝利！", "WordWin2":"やったねー！\n次も任せてよ！", "WordDraw1":"うーん、\n引き分けか～", "WordDraw2":"あらら、\n惜しかったね～", "WordLose1":"勝てないな～！", "WordLose2":"足引っ張っちゃって\nごめん…"
+    },
+    {
+      "No":10010, "Name":"松永 理都子", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":10, "Birthday":"誕生日のお祝いありがと～！\nこんなに祝ってもらってうれしいよ～！", "WordWin1":"いえ～い！", "WordWin2":"勝てたね～！", "WordDraw1":"あれぇ？\n五分五分だねー", "WordDraw2":"おしかったねー", "WordLose1":"負けちゃったよ～…", "WordLose2":"あんまり\nだったかな～"
+    },
+    {
+      "No":10011, "Name":"姫路 果代子", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":11, "Birthday":"わぁー！　誕生日祝ってくれてありがとー！\n最高の誕生日だよー！", "WordWin1":"だ～いしょうり～！", "WordWin2":"寄り切ったね～！", "WordDraw1":"仕方ないね～", "WordDraw2":"あー、惜しいなあ", "WordLose1":"負けちゃったよ～", "WordLose2":"今度は負けないよ～"
+    },
+    {
+      "No":10012, "Name":"万里小路 楓", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":12, "Birthday":"まあ…！\nこんなに祝っていただけるなんて！\n心より感謝いたします\n良い１日になりそうです！", "WordWin1":"あら、\n勝利しましたね！", "WordWin2":"ありがとう\nございます！", "WordDraw1":"もう少しでしたわね", "WordDraw2":"あら引き分けですわ", "WordLose1":"お強いですわね…", "WordLose2":"なかなか\nむずかしいですわ"
+    },
+    {
+      "No":10013, "Name":"勝田 聡子", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":13, "Birthday":"おおー！\n誕生日祝ってくれてありがとうぞなー！\n五十六もありがとうぞな！", "WordWin1":"ウチらの\n大勝利ぞな～！", "WordWin2":"ウチはできる子、\nぞな！", "WordDraw1":"惜しかったぞな…", "WordDraw2":"あと\nもーちょっと\nだったかの～？", "WordLose1":"あーもう！\n負けたぞな！", "WordLose2":"もう一戦！\nもう一戦ぞな！"
+    },
+    {
+      "No":10014, "Name":"山下 秀子", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":14, "Birthday":"お誕生日のお祝いありがとうございます！\nすばらしい１日になりました！", "WordWin1":"やりましたね！！", "WordWin2":"うまく\n勝てましたー！", "WordDraw1":"まあまあかー", "WordDraw2":"引き分けだったねえ", "WordLose1":"やばかったもんね…", "WordLose2":"あんまり役に\n立てなかったね…"
+    },
+    {
+      "No":10015, "Name":"内田 まゆみ", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":15, "Birthday":"こんなに祝ってもらえてうれしいです！\n本当にありがとうございます！", "WordWin1":"私たち\nすごくない！？", "WordWin2":"すごいすごい！！", "WordDraw1":"危なかった…です…", "WordDraw2":"もうちょっと\n何か出来たかも…", "WordLose1":"ごめん…", "WordLose2":"負けちゃいました…"
+    },
+    {
+      "No":10016, "Name":"八木 鶫", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":16, "Birthday":"盛大に祝ってくれてありがとう！\n最高の誕生日になったよ！", "WordWin1":"やったね、勝ったよ", "WordWin2":"ダウジングの\n成果だね", "WordDraw1":"引き分けだったね", "WordDraw2":"うーん、\n惜しかったなあ", "WordLose1":"残念、\n負けちゃった", "WordLose2":"わあー、\nすみません……"
+    },
+    {
+      "No":10017, "Name":"宇田 慧", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":17, "Birthday":"誕生日のお祝いありがとう！\nテンション上がっちゃうよ～！", "WordWin1":"できたできた！", "WordWin2":"おつかれさまー！", "WordDraw1":"何とか\n大丈夫だったね", "WordDraw2":"あぶなかったー", "WordLose1":"無理でしょー…", "WordLose2":"えぇ…\n負けちゃった…？"
+    },
+    {
+      "No":10018, "Name":"野間 マチコ", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":18, "Birthday":"誕生日を祝ってくれてありがとう\n感謝している", "WordWin1":"無事勝利した", "WordWin2":"全艦…異常なし！", "WordDraw1":"引き分けか…", "WordDraw2":"次はもっと粘ろう", "WordLose1":"敗北か…仕方ない", "WordLose2":"負けを認めよう…"
+    },
+    {
+      "No":10019, "Name":"柳原 麻侖", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":19, "Birthday":"また派手に祝ってくれたじゃねーか！\nありがとな！よーし、祭の準備でぃ！", "WordWin1":"あっ、\n一件落ちゃーく！", "WordWin2":"めでてーめでてー！", "WordDraw1":"惜しかったなー！", "WordDraw2":"互角だったか―", "WordLose1":"盛り上がらねーなぁ", "WordLose2":"まあこういう時も\nあるって"
+    },
+    {
+      "No":10020, "Name":"黒木 洋美", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":20, "Birthday":"誕生日のお祝いありがとう！\n宗谷さんに祝ってもらえるなんて…\n今日は最高だわ！", "WordWin1":"お疲れ様", "WordWin2":"よくやったわね", "WordDraw1":"何とか持ったわね", "WordDraw2":"まあまあ\nなんじゃない？", "WordLose1":"全く、\n無理させすぎなのよ", "WordLose2":"次に期待ね"
+    },
+    {
+      "No":10021, "Name":"若狭 麗緒", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":21, "Birthday":"こんな盛大に祝ってもらっちゃって…\nありがとう！最高の誕生日だよ！", "WordWin1":"勝ったの？\nやったね！", "WordWin2":"おうし座、\n１位だったりした？", "WordDraw1":"えー、\n引き分けなんだあ…", "WordDraw2":"もっと攻めないと\n駄目かあ", "WordLose1":"負けかー、\nざーんねん", "WordLose2":"国士無双\n決められた気分…"
+    },
+    {
+      "No":10022, "Name":"伊勢 桜良", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":22, "Birthday":"誕生日のお祝いありがとう！\nプレゼントも大物期待していいかしら？\nふふっ！", "WordWin1":"勝てたねー！", "WordWin2":"はい、和了りね！", "WordDraw1":"まあギリギリ\nだったかな？", "WordDraw2":"引き分けか～…", "WordLose1":"ごめんねー…", "WordLose2":"うそー…\n負けちゃったのー？"
+    },
+    {
+      "No":10023, "Name":"駿河 留奈", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":23, "Birthday":"うわすっごい！　こんなにでっかく祝って\nもらうの初めてだよー！\n最高の誕生日だよー！ありがとー！", "WordWin1":"やったー！\n勝ったよー！", "WordWin2":"えへへ、\n絶好調だよー！", "WordDraw1":"ま、\nしょうがないよ！", "WordDraw2":"つぎつぎ！\nつぎ行こう！", "WordLose1":"ええ！？\n負けちゃったー！", "WordLose2":"うわああん！\n負けたああ！"
+    },
+    {
+      "No":10024, "Name":"広田 空", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":24, "Birthday":"こんなに祝ってもらえるなんてね\nうれしいですよ、ありがとうございます", "WordWin1":"さすがですね", "WordWin2":"よかったですね", "WordDraw1":"まあ\nこんなもんでしょ", "WordDraw2":"ふー…やばかった", "WordLose1":"罰ゲームですか…？", "WordLose2":"は～負け負け"
+    },
+    {
+      "No":10025, "Name":"和住 媛萌", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":25, "Birthday":"誕生日のお祝い本当にありがとう！\nムチャクチャうれしかったよ！", "WordWin1":"勝利勝利、\n大勝利！", "WordWin2":"うんうん！\nいい感じだね！", "WordDraw1":"うーん、\n惜しかったなー！", "WordDraw2":"ありゃ、\n引き分けだったかー", "WordLose1":"あちゃー、\n負けちゃったかー", "WordLose2":"うう～\nすっごい悔しい！"
+    },
+    {
+      "No":10026, "Name":"青木 百々", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":26, "Birthday":"こんな盛大に祝ってもらえてうれしいっす！\nけどちょっと緊張するっすね", "WordWin1":"お手柄っすねー！", "WordWin2":"完ぺきな\n勝利っすね！！", "WordDraw1":"まあまあっすね", "WordDraw2":"危なかったっすー…", "WordLose1":"こりゃ\n滅茶苦茶っす…", "WordLose2":"だめだめっすよ～"
+    },
+    {
+      "No":10027, "Name":"等松 美海", "School":1, "Student":1, "BranchArmy":3, "ProfileNo":27, "Birthday":"きゃー！\nマッチにお祝いして貰っちゃったー！\n今日は記念日よ！マッチ記念日よ！", "WordWin1":"この勝利を\nマッチに捧げる！", "WordWin2":"2000パー\nしょーうりー！", "WordDraw1":"やだーん！\n惜しいー！", "WordDraw2":"もう少し頑張れば…", "WordLose1":"ごめんマッチー！", "WordLose2":"次は\n負けないからー！"
+    },
+    {
+      "No":10028, "Name":"伊良子 美甘", "School":1, "Student":1, "BranchArmy":3, "ProfileNo":28, "Birthday":"わぁ！\nこんなに盛大に祝ってくれてありがとう！\nお料理もたくさん！うれしいよ！", "WordWin1":"勝利記念に\nケーキ作るね！", "WordWin2":"今日はイタリア料理\n祭りだよ！", "WordDraw1":"引き分けでも、\n頑張ったよー！", "WordDraw2":"あんまり\n美味しくないね…", "WordLose1":"ガーン！\n…ま、負けた", "WordLose2":"炊飯器が故障\nしちゃったよ～！"
+    },
+    {
+      "No":10029, "Name":"杵崎 ほまれ", "School":1, "Student":1, "BranchArmy":3, "ProfileNo":29, "Birthday":"お誕生日のお祝いありがと～！\nじゃあケーキ作っちゃうね\nえ？　主役だからそこに座ってて？", "WordWin1":"杵崎家特製の\nどら焼き、\n出来てまーす", "WordWin2":"お汁粉出来たよ", "WordDraw1":"あぶなかったね", "WordDraw2":"引き分けだったね", "WordLose1":"失敗しちゃったー…", "WordLose2":"大変だったもの…"
+    },
+    {
+      "No":10030, "Name":"杵崎 あかね", "School":1, "Student":1, "BranchArmy":3, "ProfileNo":30, "Birthday":"お誕生日のお祝いありがとう！\nじゃあお礼にオリジナル料理を…\nえ？　主役だからそこに座ってて？", "WordWin1":"やったあ！\n勝ったあ！", "WordWin2":"カレーと\nクリームシチュー\nどっちがいいかな？", "WordDraw1":"あはは、\n引き分けかー", "WordDraw2":"ちょっと惜しかったね", "WordLose1":"うう…\n負けちゃったな…", "WordLose2":"ご、\nごめんなさいっ！"
+    },
+    {
+      "No":10031, "Name":"鏑木 美波", "School":1, "Student":1, "BranchArmy":3, "ProfileNo":31, "Birthday":"食前方丈\nこんなに誕生日を祝ってもらえるとは\n素直にうれしい……ありがとう", "WordWin1":"彼を知り己を知れば\n百戦して危うからず", "WordWin2":"…みんなのおかげだ", "WordDraw1":"可も無く、\n不可も無く", "WordDraw2":"互角、\nというわけだな", "WordLose1":"敗軍の将は\n兵を語らず…", "WordLose2":"負けか…\n今後の課題だな"
+    },
+    {
+      "No":10032, "Name":"五十六", "School":1, "Student":1, "BranchArmy":0, "ProfileNo":32, "Birthday":"", "WordWin1":"ぬん", "WordWin2":"ぬん", "WordDraw1":"ぬふぅ", "WordDraw2":"ぬふぅ", "WordLose1":"ぬぅ", "WordLose2":"ぬぅ"
+    },
+    {
+      "No":10033, "Name":"知名 もえか", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":33, "Birthday":"誕生日のお祝いありがとう！\nとっても嬉しかった！\n最高の誕生日になったよ！", "WordWin1":"やったよ、\nミケちゃん！", "WordWin2":"慢心せず…でも\n喜んじゃおうかな！", "WordDraw1":"引き分けだね", "WordDraw2":"成程、\n互角なんだね", "WordLose1":"うーん、\n負けちゃった…", "WordLose2":"敗戦の\n原因究明しないと"
+    },
+    {
+      "No":10034, "Name":"ヴィルヘルミーナ", "School":2, "Student":1, "BranchArmy":0, "ProfileNo":34, "Birthday":"おお…！　こんなに盛大な祝いの席を用意\nしてもらえるとは…\n感激じゃ！ワシはド感激しとるぞ！", "WordWin1":"ようやったのう！\nワレ！", "WordWin2":"みんな\nド無事じゃな！！", "WordDraw1":"次はもっと\nうまくやろう", "WordDraw2":"互角じゃったな", "WordLose1":"このド阿呆がぁ…", "WordLose2":"く…すまない…"
+    },
+    {
+      "No":10035, "Name":"テア", "School":2, "Student":1, "BranchArmy":0, "ProfileNo":35, "Birthday":"私の誕生日にこんな盛大な祝いの場を設けて\nいただき感謝する。\nこんな経験はあまりなかったから…\n本当にうれしい…！", "WordWin1":"みんな、よくやった", "WordWin2":"ダンケ・シェーン", "WordDraw1":"押しが\n足りなかったか…", "WordDraw2":"皆が無事ならいい…", "WordLose1":"敗北だ、\nすまなかった", "WordLose2":"私の力不足だ…"
+    },
+    {
+      "No":10036, "Name":"榊原 つむぎ", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":36, "Birthday":"こんな盛大に祝ってもらえるなんて…\n静かで少人数でいいって言ったのに…\nきみちゃんったら\nでもこういうのも悪くないわね…ありがとう", "WordWin1":"勝ちましたね\n…ふぅ", "WordWin2":"平穏を\n取り戻しました", "WordDraw1":"引き分けですか…", "WordDraw2":"平穏に\n終わりましたね", "WordLose1":"負け…ですか\n…ふぅ", "WordLose2":"次に活かしましょう"
+    },
+    {
+      "No":10037, "Name":"長澤 君江", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":37, "Birthday":"誕生日のお祝いありがとうございます！\nではこの場を盛り上げるために一発ギャグを\nやります！艦長が！", "WordWin1":"勝ちましたー！\nビクトリー！", "WordWin2":"やりました！\n勝ちましたよ！", "WordDraw1":"引き分けですね", "WordDraw2":"惜しかったですねー", "WordLose1":"負けちゃい\nましたね…", "WordLose2":"盛り上げが\n足りませんでしたか"
+    },
+    {
+      "No":10038, "Name":"大谷 由美子", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":38, "Birthday":"おおー！　こんなに祝ってもらえるなんて！\nありがとう！\nまるで勝利投手になったみたい！", "WordWin1":"勝ちました！\n勝利投手ですよ！", "WordWin2":"完封勝利！", "WordDraw1":"実力は同じみたい", "WordDraw2":"決着は\nつきませんでしたか", "WordLose1":"こっちの\n負けかぁ…", "WordLose2":"次こそは勝つ！"
+    },
+    {
+      "No":10039, "Name":"賀茂 つつじ", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":39, "Birthday":"誕生日のお祝いありがとう！\nわたしなんでも最速で終わらせるけど、\nこのお祝いだけはゆっくり楽しみたいね！", "WordWin1":"やったー！\n最速で勝利―！", "WordWin2":"わたしの速さには\n誰も追いつけない！", "WordDraw1":"引き分けかー", "WordDraw2":"速さは\n同じだったか…", "WordLose1":"負けた…\nいろいろ遅かった！", "WordLose2":"次はもっと\n速くいこう！"
+    },
+    {
+      "No":10040, "Name":"高橋 千華", "School":1, "Student":0, "BranchArmy":2, "ProfileNo":40, "Birthday":"ふふーん、今日は私の誕生日！\nつまり私が一番！主役ってこと！\nちゃんと祝ってくれて感謝するわ！", "WordWin1":"勝って当然よ！\n私がナンバーワン\nなんだから！", "WordWin2":"これで私がトップね！", "WordDraw1":"むぅ…引き分け…", "WordDraw2":"互角だったわね", "WordLose1":"うそ！？\n負けた！？", "WordLose2":"もう\n負けないんだから！\n覚えてなさい！"
+    },
+    {
+      "No":10041, "Name":"山辺 あゆみ", "School":1, "Student":1, "BranchArmy":1, "ProfileNo":41, "Birthday":"お誕生日のお祝いありがとうございます\nこんなに盛大なのは久しぶりだから、\nすごくうれしい…！", "WordWin1":"勝利です。みんな\n頑張りましたね！", "WordWin2":"これもみんなの\n頑張りのおかげです", "WordDraw1":"引き分けです…", "WordDraw2":"みんなは\n無事だよね？", "WordLose1":"負けちゃい\nましたね…", "WordLose2":"次の糧にしましょう"
+    },
+    {
+      "No":10042, "Name":"大指 紀子", "School":1, "Student":1, "BranchArmy":2, "ProfileNo":42, "Birthday":"いやぁ…\nこんなに盛大に祝われるとうれしいぜ\nハードボイルドの世界でも誕生日は\nめでたい日だからな\nありがとう！", "WordWin1":"勝利…\nいい響きだぜ", "WordWin2":"勝ったな！\n風呂に入ってくるぜ！", "WordDraw1":"引き分けか…", "WordDraw2":"互角とは\n相手もやるな！", "WordLose1":"負けちまったな", "WordLose2":"相手も相当の\nタフガイだった"
+    },
+    {
+      "No":10043, "Name":"加藤 小百合", "School":1, "Student":1, "BranchArmy":4, "ProfileNo":43, "Birthday":"バースデーサプライズうれしいヨ！\nとっても豪華なパーティーネ！サンキュー！", "WordWin1":"アメージング！\n勝ったヨ！", "WordWin2":"ちょっと\nフネのメンテナンス\nしてくるネ！", "WordDraw1":"引き分けだネ…", "WordDraw2":"惜しかったネ…", "WordLose1":"メンテナンス不足\nだったヨ…", "WordLose2":"ダメだったヨ…でも\n次はがんばるネ！"
+    },
+    {
+      "No":10044, "Name":"古庄 薫", "School":1, "Student":0, "BranchArmy":0, "ProfileNo":44, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"少し\n大人気なかったかも\n知れませんね", "WordWin2":"少し\n大人気なかったかも\n知れませんね", "WordDraw1":"互角です、\n上達しましたね", "WordDraw2":"互角です、\n上達しましたね", "WordLose1":"負けを\n認めましょう", "WordLose2":"負けを\n認めましょう"
+    },
+    {
+      "No":10045, "Name":"宗谷 真雪", "School":0, "Student":0, "BranchArmy":0, "ProfileNo":45, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"負けるわけには\nいきませんからね", "WordWin2":"負けるわけには\nいきませんからね", "WordDraw1":"まさか互角とは…", "WordDraw2":"まさか互角とは…", "WordLose1":"立派に\nなったわね…", "WordLose2":"立派に\nなったわね…"
+    },
+    {
+      "No":10046, "Name":"宗谷 真霜", "School":0, "Student":0, "BranchArmy":0, "ProfileNo":46, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"勝ちました！", "WordWin2":"勝ちました！", "WordDraw1":"引き分けですか…", "WordDraw2":"引き分けですか…", "WordLose1":"負けました…", "WordLose2":"負けました…"
+    },
+    {
+      "No":10047, "Name":"宗谷 真冬", "School":0, "Student":0, "BranchArmy":0, "ProfileNo":47, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"よっしゃ！勝ったぜ！", "WordWin2":"よっしゃ！勝ったぜ！", "WordDraw1":"決着つかずか…", "WordDraw2":"決着つかずか…", "WordLose1":"次は負けないぜ！", "WordLose2":"次は負けないぜ！"
+    },
+    {
+      "No":10048, "Name":"平賀 倫子", "School":0, "Student":0, "BranchArmy":0, "ProfileNo":48, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"勝ちました！", "WordWin2":"勝ちました！", "WordDraw1":"引き分けですか…", "WordDraw2":"引き分けですか…", "WordLose1":"負けました…", "WordLose2":"負けました…"
+    },
+    {
+      "No":10049, "Name":"福内 典子", "School":0, "Student":0, "BranchArmy":0, "ProfileNo":49, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"勝ちました！", "WordWin2":"勝ちました！", "WordDraw1":"引き分けですか…", "WordDraw2":"引き分けですか…", "WordLose1":"負けました…", "WordLose2":"負けました…"
+    }
+  ]
+}

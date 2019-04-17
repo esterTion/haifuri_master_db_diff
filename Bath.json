@@ -1,0 +1,10 @@
+{
+  "Name":"Bath", "Rows":[
+    {
+      "No":1, "Order":1, "Resource":1901, "SteamGroup":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":2, "Order":2, "Resource":601, "SteamGroup":2, "ValidTime":"2018-01-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    }
+  ]
+}

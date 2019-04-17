@@ -1,0 +1,58 @@
+{
+  "Name":"MapStage", "Rows":[
+    {
+      "No":100101, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100102, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100103, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100104, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100105, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100106, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100107, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100108, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":100109, "Resource":11, "Layout":1001, "Name":"横須賀近海", "Time":1, "SizeX":4000, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200101, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200102, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200103, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200104, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200105, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200106, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200107, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200108, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":3500, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    },
+    {
+      "No":200109, "Resource":21, "Layout":3004, "Name":"トラック諸島付近", "Time":1, "SizeX":4000, "SizeZ":3000, "CameraPositionX":800, "CameraPositionY":3750, "CameraPositionZ":4500, "CameraAngleX":40, "CameraAngleY":0, "CameraAngleZ":0, "OrthographicSizeEffects":1500, "OrthographicZoomOutSize":2500, "OrthographicZoomSizeOffset":850, "AllySortiePosition":750, "OpponentSortiePosition":750
+    }
+  ]
+}

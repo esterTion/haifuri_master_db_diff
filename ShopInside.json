@@ -1,0 +1,574 @@
+{
+  "Name":"ShopInside", "Rows":[
+    {
+      "No":10001001, "CollabNo":0, "Group":10001, "ProductGroup":4000101, "Description":"航海科用の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001002, "CollabNo":0, "Group":10001, "ProductGroup":4000201, "Description":"航海科用の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001003, "CollabNo":0, "Group":10001, "ProductGroup":4000301, "Description":"航海科用の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001004, "CollabNo":0, "Group":10001, "ProductGroup":4000401, "Description":"砲雷科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001005, "CollabNo":0, "Group":10001, "ProductGroup":4000501, "Description":"砲雷科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001006, "CollabNo":0, "Group":10001, "ProductGroup":4000601, "Description":"砲雷科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001007, "CollabNo":0, "Group":10001, "ProductGroup":4000701, "Description":"機関科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001008, "CollabNo":0, "Group":10001, "ProductGroup":4000801, "Description":"機関科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001009, "CollabNo":0, "Group":10001, "ProductGroup":4000901, "Description":"機関科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001010, "CollabNo":0, "Group":10001, "ProductGroup":4001001, "Description":"主計科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001011, "CollabNo":0, "Group":10001, "ProductGroup":4001101, "Description":"主計科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001012, "CollabNo":0, "Group":10001, "ProductGroup":4001201, "Description":"主計科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001013, "CollabNo":0, "Group":10001, "ProductGroup":4001301, "Description":"その他の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001014, "CollabNo":0, "Group":10001, "ProductGroup":4001401, "Description":"その他の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001015, "CollabNo":0, "Group":10001, "ProductGroup":4001501, "Description":"その他の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":15, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":20001001, "CollabNo":0, "Group":20001, "ProductGroup":4001601, "Description":"お風呂チケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":1, "PaymentItemNo":0, "PaymentCount":50, "PurchaseLimit":15, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":20001002, "CollabNo":0, "Group":20001, "ProductGroup":4001602, "Description":"お風呂チケット（15枚のセット）", "DailyType":0, "DailyProbability":0, "Order":2, "Type":1, "PaymentItemNo":0, "PaymentCount":750, "PurchaseLimit":9, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":20001003, "CollabNo":0, "Group":20001, "ProductGroup":4001701, "Description":"コイン　10000", "DailyType":0, "DailyProbability":0, "Order":3, "Type":1, "PaymentItemNo":0, "PaymentCount":100, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":20001004, "CollabNo":0, "Group":20001, "ProductGroup":4001702, "Description":"コイン　50000", "DailyType":0, "DailyProbability":0, "Order":4, "Type":1, "PaymentItemNo":0, "PaymentCount":450, "PurchaseLimit":18, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":20001005, "CollabNo":0, "Group":20001, "ProductGroup":4001801, "Description":"外洋訓練支援物資", "DailyType":0, "DailyProbability":0, "Order":5, "Type":1, "PaymentItemNo":0, "PaymentCount":500, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":20001006, "CollabNo":0, "Group":20001, "ProductGroup":4001901, "Description":"強化特訓でスキルの強化状態を\r\nリセットすることができる", "DailyType":0, "DailyProbability":0, "Order":6, "Type":1, "PaymentItemNo":0, "PaymentCount":300, "PurchaseLimit":5, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001001, "CollabNo":4001002, "Group":40001, "ProductGroup":40051, "Description":"限界突破素材 岬 明乃☆4", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001002, "CollabNo":4001003, "Group":40001, "ProductGroup":40051, "Description":"限界突破素材 岬 明乃☆4", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001003, "CollabNo":4001004, "Group":40001, "ProductGroup":40051, "Description":"限界突破素材 岬 明乃☆4", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001004, "CollabNo":4001005, "Group":40001, "ProductGroup":40051, "Description":"限界突破素材 岬 明乃☆4", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001005, "CollabNo":0, "Group":40001, "ProductGroup":40051, "Description":"限界突破素材 岬 明乃☆4", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001006, "CollabNo":4001007, "Group":40001, "ProductGroup":40052, "Description":"限界突破素材 岬 明乃☆5", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001007, "CollabNo":4001008, "Group":40001, "ProductGroup":40052, "Description":"限界突破素材 岬 明乃☆5", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001008, "CollabNo":4001009, "Group":40001, "ProductGroup":40052, "Description":"限界突破素材 岬 明乃☆5", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001009, "CollabNo":4001010, "Group":40001, "ProductGroup":40052, "Description":"限界突破素材 岬 明乃☆5", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001010, "CollabNo":0, "Group":40001, "ProductGroup":40052, "Description":"限界突破素材 岬 明乃☆5", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001011, "CollabNo":4001012, "Group":40001, "ProductGroup":40053, "Description":"限界突破素材 宗谷 ましろ☆4", "DailyType":0, "DailyProbability":0, "Order":102, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001012, "CollabNo":4001013, "Group":40001, "ProductGroup":40053, "Description":"限界突破素材 宗谷 ましろ☆4", "DailyType":0, "DailyProbability":0, "Order":102, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001013, "CollabNo":4001014, "Group":40001, "ProductGroup":40053, "Description":"限界突破素材 宗谷 ましろ☆4", "DailyType":0, "DailyProbability":0, "Order":102, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001014, "CollabNo":4001015, "Group":40001, "ProductGroup":40053, "Description":"限界突破素材 宗谷 ましろ☆4", "DailyType":0, "DailyProbability":0, "Order":102, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001015, "CollabNo":0, "Group":40001, "ProductGroup":40053, "Description":"限界突破素材 宗谷 ましろ☆4", "DailyType":0, "DailyProbability":0, "Order":102, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001016, "CollabNo":4001017, "Group":40001, "ProductGroup":40054, "Description":"限界突破素材 立石 志摩☆5", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001017, "CollabNo":4001018, "Group":40001, "ProductGroup":40054, "Description":"限界突破素材 立石 志摩☆5", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001018, "CollabNo":4001019, "Group":40001, "ProductGroup":40054, "Description":"限界突破素材 立石 志摩☆5", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001019, "CollabNo":4001020, "Group":40001, "ProductGroup":40054, "Description":"限界突破素材 立石 志摩☆5", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001020, "CollabNo":0, "Group":40001, "ProductGroup":40054, "Description":"限界突破素材 立石 志摩☆5", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001021, "CollabNo":4001022, "Group":40001, "ProductGroup":40055, "Description":"限界突破素材 西崎 芽依☆5", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001022, "CollabNo":4001023, "Group":40001, "ProductGroup":40055, "Description":"限界突破素材 西崎 芽依☆5", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001023, "CollabNo":4001024, "Group":40001, "ProductGroup":40055, "Description":"限界突破素材 西崎 芽依☆5", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001024, "CollabNo":4001025, "Group":40001, "ProductGroup":40055, "Description":"限界突破素材 西崎 芽依☆5", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001025, "CollabNo":0, "Group":40001, "ProductGroup":40055, "Description":"限界突破素材 西崎 芽依☆5", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001026, "CollabNo":4001027, "Group":40001, "ProductGroup":40056, "Description":"限界突破素材 納沙 幸子☆4", "DailyType":0, "DailyProbability":0, "Order":103, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001027, "CollabNo":4001028, "Group":40001, "ProductGroup":40056, "Description":"限界突破素材 納沙 幸子☆4", "DailyType":0, "DailyProbability":0, "Order":103, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001028, "CollabNo":4001029, "Group":40001, "ProductGroup":40056, "Description":"限界突破素材 納沙 幸子☆4", "DailyType":0, "DailyProbability":0, "Order":103, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001029, "CollabNo":4001030, "Group":40001, "ProductGroup":40056, "Description":"限界突破素材 納沙 幸子☆4", "DailyType":0, "DailyProbability":0, "Order":103, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001030, "CollabNo":0, "Group":40001, "ProductGroup":40056, "Description":"限界突破素材 納沙 幸子☆4", "DailyType":0, "DailyProbability":0, "Order":103, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001031, "CollabNo":4001032, "Group":40001, "ProductGroup":40057, "Description":"限界突破素材 小笠原 光☆4", "DailyType":0, "DailyProbability":0, "Order":104, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001032, "CollabNo":4001033, "Group":40001, "ProductGroup":40057, "Description":"限界突破素材 小笠原 光☆4", "DailyType":0, "DailyProbability":0, "Order":104, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001033, "CollabNo":4001034, "Group":40001, "ProductGroup":40057, "Description":"限界突破素材 小笠原 光☆4", "DailyType":0, "DailyProbability":0, "Order":104, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001034, "CollabNo":4001035, "Group":40001, "ProductGroup":40057, "Description":"限界突破素材 小笠原 光☆4", "DailyType":0, "DailyProbability":0, "Order":104, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001035, "CollabNo":0, "Group":40001, "ProductGroup":40057, "Description":"限界突破素材 小笠原 光☆4", "DailyType":0, "DailyProbability":0, "Order":104, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001036, "CollabNo":4001037, "Group":40001, "ProductGroup":40058, "Description":"限界突破素材 松永 理都子☆4", "DailyType":0, "DailyProbability":0, "Order":105, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001037, "CollabNo":4001038, "Group":40001, "ProductGroup":40058, "Description":"限界突破素材 松永 理都子☆4", "DailyType":0, "DailyProbability":0, "Order":105, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001038, "CollabNo":4001039, "Group":40001, "ProductGroup":40058, "Description":"限界突破素材 松永 理都子☆4", "DailyType":0, "DailyProbability":0, "Order":105, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001039, "CollabNo":4001040, "Group":40001, "ProductGroup":40058, "Description":"限界突破素材 松永 理都子☆4", "DailyType":0, "DailyProbability":0, "Order":105, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001040, "CollabNo":0, "Group":40001, "ProductGroup":40058, "Description":"限界突破素材 松永 理都子☆4", "DailyType":0, "DailyProbability":0, "Order":105, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001041, "CollabNo":4001042, "Group":40001, "ProductGroup":40059, "Description":"限界突破素材 万里小路 楓☆5", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001042, "CollabNo":4001043, "Group":40001, "ProductGroup":40059, "Description":"限界突破素材 万里小路 楓☆5", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001043, "CollabNo":4001044, "Group":40001, "ProductGroup":40059, "Description":"限界突破素材 万里小路 楓☆5", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001044, "CollabNo":4001045, "Group":40001, "ProductGroup":40059, "Description":"限界突破素材 万里小路 楓☆5", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001045, "CollabNo":0, "Group":40001, "ProductGroup":40059, "Description":"限界突破素材 万里小路 楓☆5", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001046, "CollabNo":4001047, "Group":40001, "ProductGroup":40060, "Description":"限界突破素材 勝田 聡子☆4", "DailyType":0, "DailyProbability":0, "Order":106, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001047, "CollabNo":4001048, "Group":40001, "ProductGroup":40060, "Description":"限界突破素材 勝田 聡子☆4", "DailyType":0, "DailyProbability":0, "Order":106, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001048, "CollabNo":4001049, "Group":40001, "ProductGroup":40060, "Description":"限界突破素材 勝田 聡子☆4", "DailyType":0, "DailyProbability":0, "Order":106, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001049, "CollabNo":4001050, "Group":40001, "ProductGroup":40060, "Description":"限界突破素材 勝田 聡子☆4", "DailyType":0, "DailyProbability":0, "Order":106, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001050, "CollabNo":0, "Group":40001, "ProductGroup":40060, "Description":"限界突破素材 勝田 聡子☆4", "DailyType":0, "DailyProbability":0, "Order":106, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001051, "CollabNo":4001052, "Group":40001, "ProductGroup":40061, "Description":"限界突破素材 武田 美千留☆5", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001052, "CollabNo":4001053, "Group":40001, "ProductGroup":40061, "Description":"限界突破素材 武田 美千留☆5", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001053, "CollabNo":4001054, "Group":40001, "ProductGroup":40061, "Description":"限界突破素材 武田 美千留☆5", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001054, "CollabNo":4001055, "Group":40001, "ProductGroup":40061, "Description":"限界突破素材 武田 美千留☆5", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001055, "CollabNo":0, "Group":40001, "ProductGroup":40061, "Description":"限界突破素材 武田 美千留☆5", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001056, "CollabNo":4001057, "Group":40001, "ProductGroup":40062, "Description":"限界突破素材 柳原 麻侖☆5", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001057, "CollabNo":4001058, "Group":40001, "ProductGroup":40062, "Description":"限界突破素材 柳原 麻侖☆5", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001058, "CollabNo":4001059, "Group":40001, "ProductGroup":40062, "Description":"限界突破素材 柳原 麻侖☆5", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001059, "CollabNo":4001060, "Group":40001, "ProductGroup":40062, "Description":"限界突破素材 柳原 麻侖☆5", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001060, "CollabNo":0, "Group":40001, "ProductGroup":40062, "Description":"限界突破素材 柳原 麻侖☆5", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001061, "CollabNo":4001062, "Group":40001, "ProductGroup":40063, "Description":"限界突破素材 黒木 洋美☆4", "DailyType":0, "DailyProbability":0, "Order":107, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001062, "CollabNo":4001063, "Group":40001, "ProductGroup":40063, "Description":"限界突破素材 黒木 洋美☆4", "DailyType":0, "DailyProbability":0, "Order":107, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001063, "CollabNo":4001064, "Group":40001, "ProductGroup":40063, "Description":"限界突破素材 黒木 洋美☆4", "DailyType":0, "DailyProbability":0, "Order":107, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001064, "CollabNo":4001065, "Group":40001, "ProductGroup":40063, "Description":"限界突破素材 黒木 洋美☆4", "DailyType":0, "DailyProbability":0, "Order":107, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001065, "CollabNo":0, "Group":40001, "ProductGroup":40063, "Description":"限界突破素材 黒木 洋美☆4", "DailyType":0, "DailyProbability":0, "Order":107, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001066, "CollabNo":4001067, "Group":40001, "ProductGroup":40064, "Description":"限界突破素材 和住 媛萌☆4", "DailyType":0, "DailyProbability":0, "Order":108, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001067, "CollabNo":4001068, "Group":40001, "ProductGroup":40064, "Description":"限界突破素材 和住 媛萌☆4", "DailyType":0, "DailyProbability":0, "Order":108, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001068, "CollabNo":4001069, "Group":40001, "ProductGroup":40064, "Description":"限界突破素材 和住 媛萌☆4", "DailyType":0, "DailyProbability":0, "Order":108, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001069, "CollabNo":4001070, "Group":40001, "ProductGroup":40064, "Description":"限界突破素材 和住 媛萌☆4", "DailyType":0, "DailyProbability":0, "Order":108, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001070, "CollabNo":0, "Group":40001, "ProductGroup":40064, "Description":"限界突破素材 和住 媛萌☆4", "DailyType":0, "DailyProbability":0, "Order":108, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001071, "CollabNo":4001072, "Group":40001, "ProductGroup":40065, "Description":"限界突破素材 伊良子 美甘☆4", "DailyType":0, "DailyProbability":0, "Order":109, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001072, "CollabNo":4001073, "Group":40001, "ProductGroup":40065, "Description":"限界突破素材 伊良子 美甘☆4", "DailyType":0, "DailyProbability":0, "Order":109, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001073, "CollabNo":4001074, "Group":40001, "ProductGroup":40065, "Description":"限界突破素材 伊良子 美甘☆4", "DailyType":0, "DailyProbability":0, "Order":109, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001074, "CollabNo":4001075, "Group":40001, "ProductGroup":40065, "Description":"限界突破素材 伊良子 美甘☆4", "DailyType":0, "DailyProbability":0, "Order":109, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001075, "CollabNo":0, "Group":40001, "ProductGroup":40065, "Description":"限界突破素材 伊良子 美甘☆4", "DailyType":0, "DailyProbability":0, "Order":109, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001076, "CollabNo":4001077, "Group":40001, "ProductGroup":40066, "Description":"限界突破素材 知名 もえか☆5", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001077, "CollabNo":4001078, "Group":40001, "ProductGroup":40066, "Description":"限界突破素材 知名 もえか☆5", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001078, "CollabNo":4001079, "Group":40001, "ProductGroup":40066, "Description":"限界突破素材 知名 もえか☆5", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001079, "CollabNo":4001080, "Group":40001, "ProductGroup":40066, "Description":"限界突破素材 知名 もえか☆5", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001080, "CollabNo":0, "Group":40001, "ProductGroup":40066, "Description":"限界突破素材 知名 もえか☆5", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001081, "CollabNo":4001082, "Group":40001, "ProductGroup":40067, "Description":"限界突破素材 ヴィルヘルミーナ☆5", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001082, "CollabNo":4001083, "Group":40001, "ProductGroup":40067, "Description":"限界突破素材 ヴィルヘルミーナ☆5", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001083, "CollabNo":4001084, "Group":40001, "ProductGroup":40067, "Description":"限界突破素材 ヴィルヘルミーナ☆5", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001084, "CollabNo":4001085, "Group":40001, "ProductGroup":40067, "Description":"限界突破素材 ヴィルヘルミーナ☆5", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001085, "CollabNo":0, "Group":40001, "ProductGroup":40067, "Description":"限界突破素材 ヴィルヘルミーナ☆5", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001086, "CollabNo":4001087, "Group":40001, "ProductGroup":40068, "Description":"限界突破素材 榊原 つむぎ☆5", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001087, "CollabNo":4001088, "Group":40001, "ProductGroup":40068, "Description":"限界突破素材 榊原 つむぎ☆5", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001088, "CollabNo":4001089, "Group":40001, "ProductGroup":40068, "Description":"限界突破素材 榊原 つむぎ☆5", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001089, "CollabNo":4001090, "Group":40001, "ProductGroup":40068, "Description":"限界突破素材 榊原 つむぎ☆5", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001090, "CollabNo":0, "Group":40001, "ProductGroup":40068, "Description":"限界突破素材 榊原 つむぎ☆5", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001091, "CollabNo":4001092, "Group":40001, "ProductGroup":40069, "Description":"限界突破素材 長澤 君江☆4", "DailyType":0, "DailyProbability":0, "Order":110, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001092, "CollabNo":4001093, "Group":40001, "ProductGroup":40069, "Description":"限界突破素材 長澤 君江☆4", "DailyType":0, "DailyProbability":0, "Order":110, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001093, "CollabNo":4001094, "Group":40001, "ProductGroup":40069, "Description":"限界突破素材 長澤 君江☆4", "DailyType":0, "DailyProbability":0, "Order":110, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001094, "CollabNo":4001095, "Group":40001, "ProductGroup":40069, "Description":"限界突破素材 長澤 君江☆4", "DailyType":0, "DailyProbability":0, "Order":110, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001095, "CollabNo":0, "Group":40001, "ProductGroup":40069, "Description":"限界突破素材 長澤 君江☆4", "DailyType":0, "DailyProbability":0, "Order":110, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001096, "CollabNo":4001097, "Group":40001, "ProductGroup":40070, "Description":"限界突破素材 高橋 千華☆5", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001097, "CollabNo":4001098, "Group":40001, "ProductGroup":40070, "Description":"限界突破素材 高橋 千華☆5", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001098, "CollabNo":4001099, "Group":40001, "ProductGroup":40070, "Description":"限界突破素材 高橋 千華☆5", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001099, "CollabNo":4001100, "Group":40001, "ProductGroup":40070, "Description":"限界突破素材 高橋 千華☆5", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001100, "CollabNo":0, "Group":40001, "ProductGroup":40070, "Description":"限界突破素材 高橋 千華☆5", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001101, "CollabNo":4001102, "Group":40001, "ProductGroup":40071, "Description":"限界突破素材 山辺 あゆみ☆4", "DailyType":0, "DailyProbability":0, "Order":111, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001102, "CollabNo":4001103, "Group":40001, "ProductGroup":40071, "Description":"限界突破素材 山辺 あゆみ☆4", "DailyType":0, "DailyProbability":0, "Order":111, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001103, "CollabNo":4001104, "Group":40001, "ProductGroup":40071, "Description":"限界突破素材 山辺 あゆみ☆4", "DailyType":0, "DailyProbability":0, "Order":111, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001104, "CollabNo":4001105, "Group":40001, "ProductGroup":40071, "Description":"限界突破素材 山辺 あゆみ☆4", "DailyType":0, "DailyProbability":0, "Order":111, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001105, "CollabNo":0, "Group":40001, "ProductGroup":40071, "Description":"限界突破素材 山辺 あゆみ☆4", "DailyType":0, "DailyProbability":0, "Order":111, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001106, "CollabNo":4001107, "Group":40001, "ProductGroup":40072, "Description":"限界突破素材 知床 鈴☆5", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001107, "CollabNo":4001108, "Group":40001, "ProductGroup":40072, "Description":"限界突破素材 知床 鈴☆5", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001108, "CollabNo":4001109, "Group":40001, "ProductGroup":40072, "Description":"限界突破素材 知床 鈴☆5", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001109, "CollabNo":4001110, "Group":40001, "ProductGroup":40072, "Description":"限界突破素材 知床 鈴☆5", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001110, "CollabNo":0, "Group":40001, "ProductGroup":40072, "Description":"限界突破素材 知床 鈴☆5", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001111, "CollabNo":4001112, "Group":40001, "ProductGroup":40073, "Description":"限界突破素材 山下 秀子☆5", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001112, "CollabNo":4001113, "Group":40001, "ProductGroup":40073, "Description":"限界突破素材 山下 秀子☆5", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001113, "CollabNo":4001114, "Group":40001, "ProductGroup":40073, "Description":"限界突破素材 山下 秀子☆5", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001114, "CollabNo":4001115, "Group":40001, "ProductGroup":40073, "Description":"限界突破素材 山下 秀子☆5", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001115, "CollabNo":0, "Group":40001, "ProductGroup":40073, "Description":"限界突破素材 山下 秀子☆5", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001116, "CollabNo":4001117, "Group":40001, "ProductGroup":40074, "Description":"限界突破素材 大谷 由美子☆4", "DailyType":0, "DailyProbability":0, "Order":112, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001117, "CollabNo":4001118, "Group":40001, "ProductGroup":40074, "Description":"限界突破素材 大谷 由美子☆4", "DailyType":0, "DailyProbability":0, "Order":112, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001118, "CollabNo":4001119, "Group":40001, "ProductGroup":40074, "Description":"限界突破素材 大谷 由美子☆4", "DailyType":0, "DailyProbability":0, "Order":112, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001119, "CollabNo":4001120, "Group":40001, "ProductGroup":40074, "Description":"限界突破素材 大谷 由美子☆4", "DailyType":0, "DailyProbability":0, "Order":112, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001120, "CollabNo":0, "Group":40001, "ProductGroup":40074, "Description":"限界突破素材 大谷 由美子☆4", "DailyType":0, "DailyProbability":0, "Order":112, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001121, "CollabNo":4001122, "Group":40001, "ProductGroup":40075, "Description":"限界突破素材 大指 紀子☆4", "DailyType":0, "DailyProbability":0, "Order":113, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001122, "CollabNo":4001123, "Group":40001, "ProductGroup":40075, "Description":"限界突破素材 大指 紀子☆4", "DailyType":0, "DailyProbability":0, "Order":113, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001123, "CollabNo":4001124, "Group":40001, "ProductGroup":40075, "Description":"限界突破素材 大指 紀子☆4", "DailyType":0, "DailyProbability":0, "Order":113, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001124, "CollabNo":4001125, "Group":40001, "ProductGroup":40075, "Description":"限界突破素材 大指 紀子☆4", "DailyType":0, "DailyProbability":0, "Order":113, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001125, "CollabNo":0, "Group":40001, "ProductGroup":40075, "Description":"限界突破素材 大指 紀子☆4", "DailyType":0, "DailyProbability":0, "Order":113, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001126, "CollabNo":4001127, "Group":40001, "ProductGroup":40076, "Description":"限界突破素材 納沙 幸子☆5", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001127, "CollabNo":4001128, "Group":40001, "ProductGroup":40076, "Description":"限界突破素材 納沙 幸子☆5", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001128, "CollabNo":4001129, "Group":40001, "ProductGroup":40076, "Description":"限界突破素材 納沙 幸子☆5", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001129, "CollabNo":4001130, "Group":40001, "ProductGroup":40076, "Description":"限界突破素材 納沙 幸子☆5", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001130, "CollabNo":0, "Group":40001, "ProductGroup":40076, "Description":"限界突破素材 納沙 幸子☆5", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001131, "CollabNo":4001132, "Group":40001, "ProductGroup":40077, "Description":"限界突破素材 小笠原 光☆5", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001132, "CollabNo":4001133, "Group":40001, "ProductGroup":40077, "Description":"限界突破素材 小笠原 光☆5", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001133, "CollabNo":4001134, "Group":40001, "ProductGroup":40077, "Description":"限界突破素材 小笠原 光☆5", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001134, "CollabNo":4001135, "Group":40001, "ProductGroup":40077, "Description":"限界突破素材 小笠原 光☆5", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001135, "CollabNo":0, "Group":40001, "ProductGroup":40077, "Description":"限界突破素材 小笠原 光☆5", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001136, "CollabNo":4001137, "Group":40001, "ProductGroup":40078, "Description":"限界突破素材 広田 空☆4", "DailyType":0, "DailyProbability":0, "Order":114, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001137, "CollabNo":4001138, "Group":40001, "ProductGroup":40078, "Description":"限界突破素材 広田 空☆4", "DailyType":0, "DailyProbability":0, "Order":114, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001138, "CollabNo":4001139, "Group":40001, "ProductGroup":40078, "Description":"限界突破素材 広田 空☆4", "DailyType":0, "DailyProbability":0, "Order":114, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001139, "CollabNo":4001140, "Group":40001, "ProductGroup":40078, "Description":"限界突破素材 広田 空☆4", "DailyType":0, "DailyProbability":0, "Order":114, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001140, "CollabNo":0, "Group":40001, "ProductGroup":40078, "Description":"限界突破素材 広田 空☆4", "DailyType":0, "DailyProbability":0, "Order":114, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001141, "CollabNo":4001142, "Group":40001, "ProductGroup":40079, "Description":"限界突破素材 青木 百々☆4", "DailyType":0, "DailyProbability":0, "Order":115, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001142, "CollabNo":4001143, "Group":40001, "ProductGroup":40079, "Description":"限界突破素材 青木 百々☆4", "DailyType":0, "DailyProbability":0, "Order":115, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001143, "CollabNo":4001144, "Group":40001, "ProductGroup":40079, "Description":"限界突破素材 青木 百々☆4", "DailyType":0, "DailyProbability":0, "Order":115, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001144, "CollabNo":4001145, "Group":40001, "ProductGroup":40079, "Description":"限界突破素材 青木 百々☆4", "DailyType":0, "DailyProbability":0, "Order":115, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001145, "CollabNo":0, "Group":40001, "ProductGroup":40079, "Description":"限界突破素材 青木 百々☆4", "DailyType":0, "DailyProbability":0, "Order":115, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002001, "CollabNo":0, "Group":40002, "ProductGroup":50001, "Description":"【くじ引き最強伝説】岬 明乃", "DailyType":1, "DailyProbability":1, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002002, "CollabNo":0, "Group":40002, "ProductGroup":50002, "Description":"【ソフトボール】立石 志摩", "DailyType":1, "DailyProbability":1, "Order":2, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002003, "CollabNo":0, "Group":40002, "ProductGroup":50003, "Description":"【将棋だいすき】西崎 芽依", "DailyType":1, "DailyProbability":1, "Order":3, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002004, "CollabNo":0, "Group":40002, "ProductGroup":50004, "Description":"【弦楽器は得意】万里小路 楓", "DailyType":1, "DailyProbability":1, "Order":4, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002005, "CollabNo":0, "Group":40002, "ProductGroup":50005, "Description":"【ビリヤードは得意】武田 美千留", "DailyType":1, "DailyProbability":1, "Order":5, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002006, "CollabNo":0, "Group":40002, "ProductGroup":50006, "Description":"【魚は苦手】柳原 麻侖", "DailyType":1, "DailyProbability":1, "Order":6, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002007, "CollabNo":0, "Group":40002, "ProductGroup":50007, "Description":"【ハヤシライス派】知名 もえか", "DailyType":1, "DailyProbability":1, "Order":7, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002008, "CollabNo":0, "Group":40002, "ProductGroup":50008, "Description":"【将棋とチェス】ヴィルヘルミーナ", "DailyType":1, "DailyProbability":1, "Order":8, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002009, "CollabNo":0, "Group":40002, "ProductGroup":50009, "Description":"【手芸が得意】榊原 つむぎ", "DailyType":1, "DailyProbability":1, "Order":9, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002010, "CollabNo":0, "Group":40002, "ProductGroup":50010, "Description":"【格ゲーなら負けない】高橋 千華", "DailyType":1, "DailyProbability":1, "Order":10, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+    },
+    {
+      "No":4002011, "CollabNo":0, "Group":40002, "ProductGroup":50011, "Description":"【副長の役割】宗谷 ましろ", "DailyType":2, "DailyProbability":1, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002012, "CollabNo":0, "Group":40002, "ProductGroup":50012, "Description":"【記録員の任務】納沙 幸子", "DailyType":2, "DailyProbability":1, "Order":102, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002013, "CollabNo":0, "Group":40002, "ProductGroup":50013, "Description":"【主砲照準担当のお仕事】小笠原 光", "DailyType":2, "DailyProbability":1, "Order":103, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002014, "CollabNo":0, "Group":40002, "ProductGroup":50014, "Description":"【一番魚雷発射管での秘密】松永 理都子", "DailyType":2, "DailyProbability":1, "Order":104, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002015, "CollabNo":0, "Group":40002, "ProductGroup":50015, "Description":"【海図を見るぞな】勝田 聡子", "DailyType":2, "DailyProbability":1, "Order":105, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002016, "CollabNo":0, "Group":40002, "ProductGroup":50016, "Description":"【憧れの宗谷さん】黒木 洋美", "DailyType":2, "DailyProbability":1, "Order":106, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002017, "CollabNo":0, "Group":40002, "ProductGroup":50017, "Description":"【応急長のお仕事】和住 媛萌", "DailyType":2, "DailyProbability":1, "Order":107, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002018, "CollabNo":0, "Group":40002, "ProductGroup":50018, "Description":"【給養員のお仕事】伊良子 美甘", "DailyType":2, "DailyProbability":1, "Order":108, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002019, "CollabNo":0, "Group":40002, "ProductGroup":50019, "Description":"【面白さ最優先】長澤 君江", "DailyType":2, "DailyProbability":1, "Order":109, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002020, "CollabNo":0, "Group":40002, "ProductGroup":50020, "Description":"【支えます】山辺 あゆみ", "DailyType":2, "DailyProbability":1, "Order":110, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002021, "CollabNo":0, "Group":40002, "ProductGroup":50021, "Description":"【短距離走王者決定戦】知床 鈴", "DailyType":1, "DailyProbability":1, "Order":11, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002022, "CollabNo":0, "Group":40002, "ProductGroup":50022, "Description":"【聞き上手】山下 秀子", "DailyType":1, "DailyProbability":1, "Order":12, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002023, "CollabNo":0, "Group":40002, "ProductGroup":50023, "Description":"【ハードボイルド】大指 紀子", "DailyType":2, "DailyProbability":1, "Order":111, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002024, "CollabNo":0, "Group":40002, "ProductGroup":50024, "Description":"【野球と魚雷の共通点】大谷 由美子", "DailyType":2, "DailyProbability":1, "Order":112, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    }
+  ]
+}

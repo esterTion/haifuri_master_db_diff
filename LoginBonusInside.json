@@ -1,0 +1,85 @@
+{
+  "Name":"LoginBonusInside", "Rows":[
+    {
+      "No":1000101, "Group":10001, "Count":1, "PrizeGroup":130020, "PickUp":false
+    },
+    {
+      "No":1000102, "Group":10001, "Count":2, "PrizeGroup":130025, "PickUp":false
+    },
+    {
+      "No":1000103, "Group":10001, "Count":3, "PrizeGroup":130026, "PickUp":false
+    },
+    {
+      "No":1000104, "Group":10001, "Count":4, "PrizeGroup":130021, "PickUp":false
+    },
+    {
+      "No":1000105, "Group":10001, "Count":5, "PrizeGroup":13028, "PickUp":true
+    },
+    {
+      "No":1000106, "Group":10001, "Count":6, "PrizeGroup":130020, "PickUp":false
+    },
+    {
+      "No":1000107, "Group":10001, "Count":7, "PrizeGroup":130025, "PickUp":false
+    },
+    {
+      "No":1000108, "Group":10001, "Count":8, "PrizeGroup":130026, "PickUp":false
+    },
+    {
+      "No":1000109, "Group":10001, "Count":9, "PrizeGroup":130021, "PickUp":false
+    },
+    {
+      "No":1000110, "Group":10001, "Count":10, "PrizeGroup":13029, "PickUp":true
+    },
+    {
+      "No":2000101, "Group":20001, "Count":1, "PrizeGroup":130001, "PickUp":false
+    },
+    {
+      "No":2000102, "Group":20001, "Count":2, "PrizeGroup":130002, "PickUp":false
+    },
+    {
+      "No":2000103, "Group":20001, "Count":3, "PrizeGroup":130003, "PickUp":false
+    },
+    {
+      "No":2000104, "Group":20001, "Count":4, "PrizeGroup":130004, "PickUp":false
+    },
+    {
+      "No":2000105, "Group":20001, "Count":5, "PrizeGroup":130005, "PickUp":true
+    },
+    {
+      "No":2000106, "Group":20001, "Count":6, "PrizeGroup":130006, "PickUp":false
+    },
+    {
+      "No":2000107, "Group":20001, "Count":7, "PrizeGroup":130007, "PickUp":false
+    },
+    {
+      "No":2000108, "Group":20001, "Count":8, "PrizeGroup":130008, "PickUp":false
+    },
+    {
+      "No":2000109, "Group":20001, "Count":9, "PrizeGroup":130009, "PickUp":false
+    },
+    {
+      "No":2000110, "Group":20001, "Count":10, "PrizeGroup":130010, "PickUp":true
+    },
+    {
+      "No":2000201, "Group":20002, "Count":1, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000202, "Group":20002, "Count":2, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000203, "Group":20002, "Count":3, "PrizeGroup":130022, "PickUp":false
+    },
+    {
+      "No":2000204, "Group":20002, "Count":4, "PrizeGroup":130024, "PickUp":false
+    },
+    {
+      "No":2000205, "Group":20002, "Count":5, "PrizeGroup":130022, "PickUp":false
+    },
+    {
+      "No":2000206, "Group":20002, "Count":6, "PrizeGroup":130022, "PickUp":false
+    },
+    {
+      "No":2000207, "Group":20002, "Count":7, "PrizeGroup":130027, "PickUp":true
+    }
+  ]
+}

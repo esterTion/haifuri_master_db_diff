@@ -1,0 +1,124 @@
+{
+  "Name":"Steam", "Rows":[
+    {
+      "No":101, "Group":1, "Order":1, "PositionX":345, "PositionY":-242, "ScaleX":9, "ScaleY":2
+    },
+    {
+      "No":102, "Group":1, "Order":2, "PositionX":-351, "PositionY":-233, "ScaleX":9, "ScaleY":2
+    },
+    {
+      "No":103, "Group":1, "Order":3, "PositionX":-236, "PositionY":244, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":104, "Group":1, "Order":4, "PositionX":169, "PositionY":235, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":105, "Group":1, "Order":5, "PositionX":-298, "PositionY":89, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":106, "Group":1, "Order":6, "PositionX":162, "PositionY":42, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":107, "Group":1, "Order":7, "PositionX":-7, "PositionY":204, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":108, "Group":1, "Order":8, "PositionX":-178, "PositionY":16, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":109, "Group":1, "Order":9, "PositionX":-466, "PositionY":-112, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":110, "Group":1, "Order":10, "PositionX":-564, "PositionY":-262, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":111, "Group":1, "Order":11, "PositionX":296, "PositionY":-279, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":112, "Group":1, "Order":12, "PositionX":377, "PositionY":-105, "ScaleX":3, "ScaleY":2
+    },
+    {
+      "No":113, "Group":1, "Order":13, "PositionX":-247.3, "PositionY":248.3, "ScaleX":3.9, "ScaleY":2
+    },
+    {
+      "No":114, "Group":1, "Order":14, "PositionX":327, "PositionY":32, "ScaleX":9, "ScaleY":2
+    },
+    {
+      "No":115, "Group":1, "Order":15, "PositionX":-517, "PositionY":-18, "ScaleX":9, "ScaleY":2
+    },
+    {
+      "No":116, "Group":1, "Order":16, "PositionX":395, "PositionY":289, "ScaleX":9, "ScaleY":2
+    },
+    {
+      "No":117, "Group":1, "Order":17, "PositionX":91.3, "PositionY":-189.6, "ScaleX":4.2, "ScaleY":2.16
+    },
+    {
+      "No":118, "Group":1, "Order":18, "PositionX":-61.4, "PositionY":-216, "ScaleX":4.68, "ScaleY":2.4
+    },
+    {
+      "No":119, "Group":1, "Order":19, "PositionX":-47.6, "PositionY":-197.7, "ScaleX":3.36, "ScaleY":1.8
+    },
+    {
+      "No":120, "Group":1, "Order":20, "PositionX":-70.9, "PositionY":-157.4, "ScaleX":3.96, "ScaleY":1.8
+    },
+    {
+      "No":201, "Group":2, "Order":1, "PositionX":-376, "PositionY":142, "ScaleX":4.35, "ScaleY":2.66
+    },
+    {
+      "No":202, "Group":2, "Order":2, "PositionX":-81.7, "PositionY":284.6, "ScaleX":7.77, "ScaleY":1.82
+    },
+    {
+      "No":203, "Group":2, "Order":3, "PositionX":-361, "PositionY":100, "ScaleX":3.62, "ScaleY":1.66
+    },
+    {
+      "No":204, "Group":2, "Order":4, "PositionX":443.3, "PositionY":-320.6, "ScaleX":4.35, "ScaleY":1.82
+    },
+    {
+      "No":205, "Group":2, "Order":5, "PositionX":-204.4, "PositionY":-347.5, "ScaleX":6.09, "ScaleY":2.16
+    },
+    {
+      "No":206, "Group":2, "Order":6, "PositionX":-16, "PositionY":240.7, "ScaleX":7.18, "ScaleY":2.01
+    },
+    {
+      "No":207, "Group":2, "Order":7, "PositionX":394, "PositionY":142, "ScaleX":3.62, "ScaleY":2.32
+    },
+    {
+      "No":208, "Group":2, "Order":8, "PositionX":77, "PositionY":154, "ScaleX":5.44, "ScaleY":2.56
+    },
+    {
+      "No":209, "Group":2, "Order":9, "PositionX":58.6, "PositionY":17.9, "ScaleX":7.24, "ScaleY":2.02
+    },
+    {
+      "No":210, "Group":2, "Order":10, "PositionX":-77, "PositionY":88, "ScaleX":3.62, "ScaleY":1.66
+    },
+    {
+      "No":211, "Group":2, "Order":11, "PositionX":396.8, "PositionY":70.3, "ScaleX":3.62, "ScaleY":1.46
+    },
+    {
+      "No":212, "Group":2, "Order":12, "PositionX":-116.4, "PositionY":12.3, "ScaleX":3.62, "ScaleY":2.16
+    },
+    {
+      "No":213, "Group":2, "Order":13, "PositionX":407, "PositionY":-124, "ScaleX":4.53, "ScaleY":1.84
+    },
+    {
+      "No":214, "Group":2, "Order":14, "PositionX":-316.6, "PositionY":-112.7, "ScaleX":5.3, "ScaleY":2.4
+    },
+    {
+      "No":215, "Group":2, "Order":15, "PositionX":358, "PositionY":17, "ScaleX":4.53, "ScaleY":1.84
+    },
+    {
+      "No":216, "Group":2, "Order":16, "PositionX":-232.7, "PositionY":-53.5, "ScaleX":4.53, "ScaleY":2.21
+    },
+    {
+      "No":217, "Group":2, "Order":17, "PositionX":362, "PositionY":-140, "ScaleX":4.53, "ScaleY":1.84
+    },
+    {
+      "No":218, "Group":2, "Order":18, "PositionX":-149, "PositionY":-207, "ScaleX":3.62, "ScaleY":1.66
+    },
+    {
+      "No":219, "Group":2, "Order":19, "PositionX":94, "PositionY":-180, "ScaleX":5.66, "ScaleY":2.31
+    },
+    {
+      "No":220, "Group":2, "Order":20, "PositionX":124.2, "PositionY":-218, "ScaleX":7.58, "ScaleY":2.21
+    }
+  ]
+}

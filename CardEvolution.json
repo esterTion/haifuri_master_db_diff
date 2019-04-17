@@ -1,0 +1,49 @@
+{
+  "Name":"CardEvolution", "Rows":[
+    {
+      "Group":103, "ItemNo":8001001, "ItemCount":200, "Coin":10000
+    },
+    {
+      "Group":104, "ItemNo":8001002, "ItemCount":100, "Coin":30000
+    },
+    {
+      "Group":105, "ItemNo":8001003, "ItemCount":50, "Coin":50000
+    },
+    {
+      "Group":203, "ItemNo":8002001, "ItemCount":200, "Coin":10000
+    },
+    {
+      "Group":204, "ItemNo":8002002, "ItemCount":100, "Coin":30000
+    },
+    {
+      "Group":205, "ItemNo":8002003, "ItemCount":50, "Coin":50000
+    },
+    {
+      "Group":303, "ItemNo":8003001, "ItemCount":200, "Coin":10000
+    },
+    {
+      "Group":304, "ItemNo":8003002, "ItemCount":100, "Coin":30000
+    },
+    {
+      "Group":305, "ItemNo":8003003, "ItemCount":50, "Coin":50000
+    },
+    {
+      "Group":403, "ItemNo":8004001, "ItemCount":200, "Coin":10000
+    },
+    {
+      "Group":404, "ItemNo":8004002, "ItemCount":100, "Coin":30000
+    },
+    {
+      "Group":405, "ItemNo":8004003, "ItemCount":50, "Coin":50000
+    },
+    {
+      "Group":503, "ItemNo":8005001, "ItemCount":200, "Coin":10000
+    },
+    {
+      "Group":504, "ItemNo":8005002, "ItemCount":100, "Coin":30000
+    },
+    {
+      "Group":505, "ItemNo":8005003, "ItemCount":50, "Coin":50000
+    }
+  ]
+}

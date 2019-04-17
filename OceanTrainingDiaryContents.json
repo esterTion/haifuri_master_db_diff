@@ -1,0 +1,301 @@
+{
+  "Name":"OceanTrainingDiaryContents", "Rows":[
+    {
+      "No":10011101, "EventResource":100111, "BgResource":101, "Weather":1, "Facial":3, "Message":"トイレットペーパー\nが枯渇しました！\n補給を要請！"
+    },
+    {
+      "No":10011102, "EventResource":100111, "BgResource":101, "Weather":1, "Facial":3, "Message":"食糧が\n少なくなってきました！\n補給を要請！"
+    },
+    {
+      "No":10021201, "EventResource":100211, "BgResource":101, "Weather":2, "Facial":4, "Message":"艦影を発見したため\n減速航行！"
+    },
+    {
+      "No":10031101, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":1, "Message":"海上警備に協力！"
+    },
+    {
+      "No":10031102, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":2, "Message":"イルカを発見！\nいいことが\n起きるといいな！"
+    },
+    {
+      "No":10031103, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":2, "Message":"ショッピングモール艦\nを発見！\nちょっと寄り道？"
+    },
+    {
+      "No":10031104, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":4, "Message":"潜水艦の反応あり！\n進路を避けて航行！"
+    },
+    {
+      "No":10031105, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":3, "Message":"艦内にネズミ！？\n五十六お願い！"
+    },
+    {
+      "No":10031106, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":1, "Message":"迷子と思われる\n艦船を発見！"
+    },
+    {
+      "No":10031107, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":1, "Message":"クジラを発見！\n衝突しないように注意！"
+    },
+    {
+      "No":10031108, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":3, "Message":"機関故障！？\n応急修理を！"
+    },
+    {
+      "No":10031109, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":1, "Message":"漁業船を発見！\n邪魔をしないように航行！"
+    },
+    {
+      "No":10031110, "EventResource":100311, "BgResource":101, "Weather":1, "Facial":2, "Message":"修理完了！\n航行再開！"
+    },
+    {
+      "No":10031201, "EventResource":100311, "BgResource":101, "Weather":2, "Facial":1, "Message":"嵐を切り抜けた！"
+    },
+    {
+      "No":10031202, "EventResource":100311, "BgResource":101, "Weather":2, "Facial":1, "Message":"霧が晴れた！"
+    },
+    {
+      "No":10031203, "EventResource":100311, "BgResource":101, "Weather":2, "Facial":1, "Message":"雪が降り止んだ！"
+    },
+    {
+      "No":10031204, "EventResource":100311, "BgResource":101, "Weather":2, "Facial":4, "Message":"岩礁地帯のため\n慎重に航行！"
+    },
+    {
+      "No":10031205, "EventResource":100311, "BgResource":101, "Weather":2, "Facial":4, "Message":"前方に機雷発見！\n機雷を除去！"
+    },
+    {
+      "No":10032301, "EventResource":100311, "BgResource":201, "Weather":3, "Facial":1, "Message":"夜間航行に切り替えました"
+    },
+    {
+      "No":10032302, "EventResource":100311, "BgResource":201, "Weather":3, "Facial":3, "Message":"海が大時化！\n揺れに注意！"
+    },
+    {
+      "No":10032103, "EventResource":100311, "BgResource":201, "Weather":1, "Facial":3, "Message":"艦内で風邪が流行！？\n体調管理はしっかり！"
+    },
+    {
+      "No":10042301, "EventResource":100411, "BgResource":101, "Weather":3, "Facial":4, "Message":"救難信号を確認！\n救助に急行！"
+    },
+    {
+      "No":10061101, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":2, "Message":"#shipと遭遇！"
+    },
+    {
+      "No":10061102, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":2, "Message":"#playerと遭遇！"
+    },
+    {
+      "No":10061103, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本操舵訓練を実施！"
+    },
+    {
+      "No":10061104, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本砲撃訓練を実施！"
+    },
+    {
+      "No":10061105, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本魚雷訓練を実施！"
+    },
+    {
+      "No":10061106, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用操舵訓練を実施！"
+    },
+    {
+      "No":10061107, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用砲撃訓練を実施！"
+    },
+    {
+      "No":10061108, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用魚雷訓練を実施！"
+    },
+    {
+      "No":10061109, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本物資補給訓練を実施！"
+    },
+    {
+      "No":10061110, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本補給支援訓練を実施！"
+    },
+    {
+      "No":10061111, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本修理訓練を実施！"
+    },
+    {
+      "No":10061112, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用物資補給訓練を実施！"
+    },
+    {
+      "No":10061113, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用補給支援訓練を実施！"
+    },
+    {
+      "No":10061114, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用修理訓練を実施！"
+    },
+    {
+      "No":10061115, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"補給物受け渡し訓練を実施！"
+    },
+    {
+      "No":10061116, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本資源輸送訓練を実施！"
+    },
+    {
+      "No":10061117, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本修理部品輸送訓練を実施！"
+    },
+    {
+      "No":10061118, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"基本輸送船護衛訓練を実施！"
+    },
+    {
+      "No":10061119, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用資源輸送訓練を実施！"
+    },
+    {
+      "No":10061120, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用修理部品輸送訓練を実施！"
+    },
+    {
+      "No":10061121, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"応用輸送船護衛訓練を実施！"
+    },
+    {
+      "No":10061122, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"食事支援訓練を実施！"
+    },
+    {
+      "No":10061123, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"支給品輸送訓練を実施！"
+    },
+    {
+      "No":10061124, "EventResource":100611, "BgResource":101, "Weather":1, "Facial":1, "Message":"機銃掃射訓練を実施！"
+    },
+    {
+      "No":10071101, "EventResource":100710, "BgResource":101, "Weather":1, "Facial":1, "Message":"横須賀女子海洋学校を出港"
+    },
+    {
+      "No":10081101, "EventResource":100810, "BgResource":101, "Weather":1, "Facial":2, "Message":"外洋訓練完了！"
+    },
+    {
+      "No":10081102, "EventResource":100810, "BgResource":101, "Weather":1, "Facial":2, "Message":"外洋訓練から帰還しました"
+    },
+    {
+      "No":20011101, "EventResource":200110, "BgResource":101, "Weather":1, "Facial":1, "Message":"砲撃訓練を実施！"
+    },
+    {
+      "No":20021101, "EventResource":200210, "BgResource":101, "Weather":1, "Facial":1, "Message":"雷撃訓練を実施！"
+    },
+    {
+      "No":20030101, "EventResource":200300, "BgResource":0, "Weather":1, "Facial":1, "Message":"模擬演習を実施！"
+    },
+    {
+      "No":20050101, "EventResource":200500, "BgResource":0, "Weather":1, "Facial":1, "Message":"ブルーマーメイドと\n模擬演習を実施"
+    },
+    {
+      "No":20060101, "EventResource":200600, "BgResource":0, "Weather":1, "Facial":1, "Message":"#playerと\n合同演習を実施"
+    },
+    {
+      "No":20060102, "EventResource":200600, "BgResource":0, "Weather":1, "Facial":1, "Message":"#shipと\n合同演習を実施"
+    },
+    {
+      "No":20070101, "EventResource":200700, "BgResource":0, "Weather":1, "Facial":1, "Message":"小規模火力演習を実施！"
+    },
+    {
+      "No":20080101, "EventResource":200800, "BgResource":0, "Weather":1, "Facial":1, "Message":"中規模火力演習を実施！"
+    },
+    {
+      "No":20090101, "EventResource":200900, "BgResource":0, "Weather":1, "Facial":1, "Message":"大規模火力演習を実施！"
+    },
+    {
+      "No":20101101, "EventResource":201010, "BgResource":101, "Weather":1, "Facial":1, "Message":"拠点防衛訓練を実施！"
+    },
+    {
+      "No":20110101, "EventResource":201100, "BgResource":0, "Weather":1, "Facial":1, "Message":"スキッパー機動訓練\nを実施！"
+    },
+    {
+      "No":20120101, "EventResource":201200, "BgResource":0, "Weather":1, "Facial":1, "Message":"資源回収訓練を実施！"
+    },
+    {
+      "No":20131101, "EventResource":201310, "BgResource":101, "Weather":1, "Facial":1, "Message":"物資輸送訓練を実施！"
+    },
+    {
+      "No":20141101, "EventResource":201410, "BgResource":101, "Weather":1, "Facial":1, "Message":"要人護送訓練を実施！"
+    },
+    {
+      "No":20151101, "EventResource":201510, "BgResource":101, "Weather":1, "Facial":1, "Message":"海上支援訓練を実施！"
+    },
+    {
+      "No":20161101, "EventResource":201610, "BgResource":101, "Weather":1, "Facial":1, "Message":"艦船護衛訓練を実施！"
+    },
+    {
+      "No":20170101, "EventResource":201700, "BgResource":0, "Weather":1, "Facial":1, "Message":"訓練航海を実施！"
+    },
+    {
+      "No":20180101, "EventResource":201800, "BgResource":0, "Weather":1, "Facial":1, "Message":"海難事故救出訓練を実施！"
+    },
+    {
+      "No":20190101, "EventResource":201900, "BgResource":0, "Weather":1, "Facial":1, "Message":"災害救助訓練を実施！"
+    },
+    {
+      "No":20180301, "EventResource":201800, "BgResource":0, "Weather":3, "Facial":1, "Message":"海難事故救出訓練を実施！"
+    },
+    {
+      "No":20190201, "EventResource":201900, "BgResource":0, "Weather":2, "Facial":1, "Message":"災害救助訓練を実施！"
+    },
+    {
+      "No":20200101, "EventResource":202000, "BgResource":0, "Weather":1, "Facial":1, "Message":"海上偵察訓練を実施！"
+    },
+    {
+      "No":20210101, "EventResource":202100, "BgResource":0, "Weather":1, "Facial":1, "Message":"海上警備訓練を実施！"
+    },
+    {
+      "No":20220101, "EventResource":202200, "BgResource":0, "Weather":1, "Facial":1, "Message":"応急修理訓練を実施！"
+    },
+    {
+      "No":20231101, "EventResource":202310, "BgResource":101, "Weather":1, "Facial":1, "Message":"海上補給訓練を実施！"
+    },
+    {
+      "No":30011101, "EventResource":300111, "BgResource":101, "Weather":1, "Facial":2, "Message":"訓練成功！\n「#item」\nを手に入れた！"
+    },
+    {
+      "No":30011102, "EventResource":300111, "BgResource":101, "Weather":1, "Facial":2, "Message":"漂流物を見つけた！"
+    },
+    {
+      "No":30011103, "EventResource":300111, "BgResource":101, "Weather":1, "Facial":2, "Message":"海上清掃中に\n漂流物を見つけた！"
+    },
+    {
+      "No":30011104, "EventResource":300111, "BgResource":101, "Weather":1, "Facial":2, "Message":"協力のお礼として\n「#item」\nをもらった！"
+    },
+    {
+      "No":30011105, "EventResource":300111, "BgResource":101, "Weather":1, "Facial":1, "Message":"艦内で\n「#item」\nを発見！何でここに！？"
+    },
+    {
+      "No":30011106, "EventResource":300111, "BgResource":101, "Weather":1, "Facial":2, "Message":"物資の補給を受けました！"
+    },
+    {
+      "No":30021701, "EventResource":300210, "BgResource":101, "Weather":7, "Facial":2, "Message":"甲板になにか落ちている\n「#item」\nを発見！"
+    },
+    {
+      "No":30021702, "EventResource":300210, "BgResource":101, "Weather":1, "Facial":2, "Message":"五十六がネズミを確保！\n「#item」\nが落ちていた！"
+    },
+    {
+      "No":40011101, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"訓練成功！\n経験値を手に入れた！"
+    },
+    {
+      "No":40011102, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"訓練大成功！\n経験値を手に入れた！"
+    },
+    {
+      "No":40011201, "EventResource":400111, "BgResource":101, "Weather":2, "Facial":2, "Message":"嵐を切り抜けた！"
+    },
+    {
+      "No":40011202, "EventResource":400111, "BgResource":101, "Weather":2, "Facial":2, "Message":"霧が晴れた！"
+    },
+    {
+      "No":40011103, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"嵐を切り抜けた！"
+    },
+    {
+      "No":40011104, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"霧が晴れた！"
+    },
+    {
+      "No":40011105, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"雪が降り止んだ！"
+    },
+    {
+      "No":40021101, "EventResource":400211, "BgResource":101, "Weather":1, "Facial":2, "Message":"新メニューは好評！\n経験値を手に入れた！"
+    },
+    {
+      "No":40021102, "EventResource":400211, "BgResource":101, "Weather":1, "Facial":2, "Message":"新メニューは好評！"
+    },
+    {
+      "No":50012501, "EventResource":500110, "BgResource":201, "Weather":5, "Facial":1, "Message":"嵐に遭遇！"
+    },
+    {
+      "No":50030401, "EventResource":500300, "BgResource":0, "Weather":4, "Facial":1, "Message":"降雪による凍結に注意！\n甲板は走らない！"
+    },
+    {
+      "No":50050601, "EventResource":500500, "BgResource":0, "Weather":6, "Facial":1, "Message":"濃霧発生！\n視界不良に注意！"
+    },
+    {
+      "No":50060701, "EventResource":500600, "BgResource":0, "Weather":7, "Facial":1, "Message":"虹を発見！\nいいことがあるかも？"
+    },
+    {
+      "No":60011101, "EventResource":600110, "BgResource":101, "Weather":1, "Facial":1, "Message":"マロンが祭りを提案！\n祭りが始まる！"
+    },
+    {
+      "No":60020101, "EventResource":600200, "BgResource":0, "Weather":1, "Facial":1, "Message":"炊事委員が\n新メニューを開発！"
+    },
+    {
+      "No":60032501, "EventResource":600310, "BgResource":201, "Weather":5, "Facial":1, "Message":"雷で艦長が\n部屋から出てきません！"
+    },
+    {
+      "No":60041101, "EventResource":600410, "BgResource":101, "Weather":1, "Facial":1, "Message":"物資が少なくなってきた為\n節約を実施！"
+    }
+  ]
+}

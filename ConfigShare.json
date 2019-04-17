@@ -1,0 +1,94 @@
+{
+  "Name":"ConfigShare", "Rows":[
+    {
+      "Name":"SkillResetItemNo", "Value":"26001001", "Type":"INTEGER"
+    },
+    {
+      "Name":"SkillResetItemCount", "Value":"1", "Type":"INTEGER"
+    },
+    {
+      "Name":"SkillResetJewelPaidOnly", "Value":"1", "Type":"INTEGER"
+    },
+    {
+      "Name":"SkillResetJewelAmount", "Value":"500", "Type":"INTEGER"
+    },
+    {
+      "Name":"LevelUpItemNo", "Value":"5001001", "Type":"INTEGER"
+    },
+    {
+      "Name":"MaxPaidJewel", "Value":"100000", "Type":"INTEGER"
+    },
+    {
+      "Name":"OverflowExpItemNo", "Value":"5001001", "Type":"INTEGER"
+    },
+    {
+      "Name":"PurchaseLimit15", "Value":"5000", "Type":"INTEGER"
+    },
+    {
+      "Name":"PurchaseLimit19", "Value":"30000", "Type":"INTEGER"
+    },
+    {
+      "Name":"RoomHeartbeatTimeout", "Value":"300", "Type":"INTEGER"
+    },
+    {
+      "Name":"DailyBattleRewardMax", "Value":"15", "Type":"INTEGER"
+    },
+    {
+      "Name":"DisconnectPenaltyLimit", "Value":"3", "Type":"INTEGER"
+    },
+    {
+      "Name":"DisconnectPenaltyLimitPerDay", "Value":"10", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingTimeLimitForRoom", "Value":"600", "Type":"INTEGER"
+    },
+    {
+      "Name":"DailyShopCountRare", "Value":"1", "Type":"INTEGER"
+    },
+    {
+      "Name":"DailyShopCountNormal", "Value":"4", "Type":"INTEGER"
+    },
+    {
+      "Name":"TutorialBattle1", "Value":"30010101", "Type":"INTEGER"
+    },
+    {
+      "Name":"TutorialBattle2", "Value":"30010102", "Type":"INTEGER"
+    },
+    {
+      "Name":"TutorialBattle3", "Value":"30010103", "Type":"INTEGER"
+    },
+    {
+      "Name":"MainStory1Scene1", "Value":"10010101", "Type":"INTEGER"
+    },
+    {
+      "Name":"MainStory1Scene12", "Value":"10011301", "Type":"INTEGER"
+    },
+    {
+      "Name":"BattlePointLimit", "Value":"2998", "Type":"INTEGER"
+    },
+    {
+      "Name":"OverflowExpForItem", "Value":"1000", "Type":"INTEGER"
+    },
+    {
+      "Name":"MissionMeasureStartProgress", "Value":"720200", "Type":"INTEGER"
+    },
+    {
+      "Name":"FollowLimitCount", "Value":"100", "Type":"INTEGER"
+    },
+    {
+      "Name":"FollowerLimitCount", "Value":"1000000", "Type":"INTEGER"
+    },
+    {
+      "Name":"ReviewGachaNo", "Value":"5002001", "Type":"INTEGER"
+    },
+    {
+      "Name":"TutorialGachaNo", "Value":"1102001", "Type":"INTEGER"
+    },
+    {
+      "Name":"TourSupportItemNo", "Value":"24001001", "Type":"INTEGER"
+    },
+    {
+      "Name":"TourSupportItemCount", "Value":"1", "Type":"INTEGER"
+    }
+  ]
+}

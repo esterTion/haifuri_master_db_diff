@@ -1,0 +1,10 @@
+{
+  "Name":"AssetVersions", "Rows":[
+    {
+      "Name":"AndroidAssets", "Version":201904052030
+    },
+    {
+      "Name":"iOSAssets", "Version":201904052030
+    }
+  ]
+}

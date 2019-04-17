@@ -1,0 +1,10 @@
+{
+  "Name":"JewelPassport", "Rows":[
+    {
+      "No":110001, "PaidJewel":600, "BonusJewel":85, "Duration":30, "RenewSpan":7
+    },
+    {
+      "No":210001, "PaidJewel":600, "BonusJewel":85, "Duration":30, "RenewSpan":7
+    }
+  ]
+}

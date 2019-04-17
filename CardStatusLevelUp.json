@@ -1,0 +1,2554 @@
+{
+  "Name":"CardStatusLevelUp", "Rows":[
+    {
+      "No":101001, "Group":1, "Level":1, "Value":1, "Power":100
+    },
+    {
+      "No":101002, "Group":1, "Level":2, "Value":1.1, "Power":105
+    },
+    {
+      "No":101003, "Group":1, "Level":3, "Value":1.2, "Power":110
+    },
+    {
+      "No":101004, "Group":1, "Level":4, "Value":1.3, "Power":115
+    },
+    {
+      "No":101005, "Group":1, "Level":5, "Value":1.4, "Power":120
+    },
+    {
+      "No":101006, "Group":1, "Level":6, "Value":1.5, "Power":125
+    },
+    {
+      "No":101007, "Group":1, "Level":7, "Value":1.6, "Power":130
+    },
+    {
+      "No":101008, "Group":1, "Level":8, "Value":1.7, "Power":135
+    },
+    {
+      "No":101009, "Group":1, "Level":9, "Value":1.8, "Power":140
+    },
+    {
+      "No":101010, "Group":1, "Level":10, "Value":1.9, "Power":145
+    },
+    {
+      "No":101011, "Group":1, "Level":11, "Value":2, "Power":150
+    },
+    {
+      "No":101012, "Group":1, "Level":12, "Value":2.1, "Power":155
+    },
+    {
+      "No":101013, "Group":1, "Level":13, "Value":2.2, "Power":160
+    },
+    {
+      "No":101014, "Group":1, "Level":14, "Value":2.3, "Power":165
+    },
+    {
+      "No":101015, "Group":1, "Level":15, "Value":2.4, "Power":170
+    },
+    {
+      "No":101016, "Group":1, "Level":16, "Value":2.5, "Power":175
+    },
+    {
+      "No":101017, "Group":1, "Level":17, "Value":2.6, "Power":180
+    },
+    {
+      "No":101018, "Group":1, "Level":18, "Value":2.7, "Power":185
+    },
+    {
+      "No":101019, "Group":1, "Level":19, "Value":2.8, "Power":190
+    },
+    {
+      "No":101020, "Group":1, "Level":20, "Value":2.9, "Power":195
+    },
+    {
+      "No":101021, "Group":1, "Level":21, "Value":3, "Power":200
+    },
+    {
+      "No":101022, "Group":1, "Level":22, "Value":3.1, "Power":205
+    },
+    {
+      "No":101023, "Group":1, "Level":23, "Value":3.2, "Power":210
+    },
+    {
+      "No":101024, "Group":1, "Level":24, "Value":3.3, "Power":215
+    },
+    {
+      "No":101025, "Group":1, "Level":25, "Value":3.4, "Power":220
+    },
+    {
+      "No":101026, "Group":1, "Level":26, "Value":3.5, "Power":225
+    },
+    {
+      "No":101027, "Group":1, "Level":27, "Value":3.6, "Power":230
+    },
+    {
+      "No":101028, "Group":1, "Level":28, "Value":3.7, "Power":235
+    },
+    {
+      "No":101029, "Group":1, "Level":29, "Value":3.8, "Power":240
+    },
+    {
+      "No":101030, "Group":1, "Level":30, "Value":3.9, "Power":245
+    },
+    {
+      "No":101031, "Group":1, "Level":31, "Value":4, "Power":250
+    },
+    {
+      "No":101032, "Group":1, "Level":32, "Value":4.1, "Power":255
+    },
+    {
+      "No":101033, "Group":1, "Level":33, "Value":4.2, "Power":260
+    },
+    {
+      "No":101034, "Group":1, "Level":34, "Value":4.3, "Power":265
+    },
+    {
+      "No":101035, "Group":1, "Level":35, "Value":4.4, "Power":270
+    },
+    {
+      "No":101036, "Group":1, "Level":36, "Value":4.5, "Power":275
+    },
+    {
+      "No":101037, "Group":1, "Level":37, "Value":4.6, "Power":280
+    },
+    {
+      "No":101038, "Group":1, "Level":38, "Value":4.7, "Power":285
+    },
+    {
+      "No":101039, "Group":1, "Level":39, "Value":4.8, "Power":290
+    },
+    {
+      "No":101040, "Group":1, "Level":40, "Value":4.9, "Power":295
+    },
+    {
+      "No":101041, "Group":1, "Level":41, "Value":5, "Power":300
+    },
+    {
+      "No":101042, "Group":1, "Level":42, "Value":5.1, "Power":305
+    },
+    {
+      "No":101043, "Group":1, "Level":43, "Value":5.2, "Power":310
+    },
+    {
+      "No":101044, "Group":1, "Level":44, "Value":5.3, "Power":315
+    },
+    {
+      "No":101045, "Group":1, "Level":45, "Value":5.4, "Power":320
+    },
+    {
+      "No":101046, "Group":1, "Level":46, "Value":5.5, "Power":325
+    },
+    {
+      "No":101047, "Group":1, "Level":47, "Value":5.6, "Power":330
+    },
+    {
+      "No":101048, "Group":1, "Level":48, "Value":5.7, "Power":335
+    },
+    {
+      "No":101049, "Group":1, "Level":49, "Value":5.8, "Power":340
+    },
+    {
+      "No":101050, "Group":1, "Level":50, "Value":6, "Power":350
+    },
+    {
+      "No":102001, "Group":2, "Level":1, "Value":4, "Power":250
+    },
+    {
+      "No":102002, "Group":2, "Level":2, "Value":4.1, "Power":255
+    },
+    {
+      "No":102003, "Group":2, "Level":3, "Value":4.2, "Power":260
+    },
+    {
+      "No":102004, "Group":2, "Level":4, "Value":4.3, "Power":265
+    },
+    {
+      "No":102005, "Group":2, "Level":5, "Value":4.4, "Power":270
+    },
+    {
+      "No":102006, "Group":2, "Level":6, "Value":4.5, "Power":275
+    },
+    {
+      "No":102007, "Group":2, "Level":7, "Value":4.6, "Power":280
+    },
+    {
+      "No":102008, "Group":2, "Level":8, "Value":4.7, "Power":285
+    },
+    {
+      "No":102009, "Group":2, "Level":9, "Value":4.8, "Power":290
+    },
+    {
+      "No":102010, "Group":2, "Level":10, "Value":4.9, "Power":295
+    },
+    {
+      "No":102011, "Group":2, "Level":11, "Value":5, "Power":300
+    },
+    {
+      "No":102012, "Group":2, "Level":12, "Value":5.1, "Power":305
+    },
+    {
+      "No":102013, "Group":2, "Level":13, "Value":5.2, "Power":310
+    },
+    {
+      "No":102014, "Group":2, "Level":14, "Value":5.3, "Power":315
+    },
+    {
+      "No":102015, "Group":2, "Level":15, "Value":5.4, "Power":320
+    },
+    {
+      "No":102016, "Group":2, "Level":16, "Value":5.5, "Power":325
+    },
+    {
+      "No":102017, "Group":2, "Level":17, "Value":5.6, "Power":330
+    },
+    {
+      "No":102018, "Group":2, "Level":18, "Value":5.7, "Power":335
+    },
+    {
+      "No":102019, "Group":2, "Level":19, "Value":5.8, "Power":340
+    },
+    {
+      "No":102020, "Group":2, "Level":20, "Value":5.9, "Power":345
+    },
+    {
+      "No":102021, "Group":2, "Level":21, "Value":6, "Power":350
+    },
+    {
+      "No":102022, "Group":2, "Level":22, "Value":6.1, "Power":355
+    },
+    {
+      "No":102023, "Group":2, "Level":23, "Value":6.2, "Power":360
+    },
+    {
+      "No":102024, "Group":2, "Level":24, "Value":6.3, "Power":365
+    },
+    {
+      "No":102025, "Group":2, "Level":25, "Value":6.4, "Power":370
+    },
+    {
+      "No":102026, "Group":2, "Level":26, "Value":6.5, "Power":375
+    },
+    {
+      "No":102027, "Group":2, "Level":27, "Value":6.6, "Power":380
+    },
+    {
+      "No":102028, "Group":2, "Level":28, "Value":6.7, "Power":385
+    },
+    {
+      "No":102029, "Group":2, "Level":29, "Value":6.8, "Power":390
+    },
+    {
+      "No":102030, "Group":2, "Level":30, "Value":6.9, "Power":395
+    },
+    {
+      "No":102031, "Group":2, "Level":31, "Value":7, "Power":400
+    },
+    {
+      "No":102032, "Group":2, "Level":32, "Value":7.1, "Power":405
+    },
+    {
+      "No":102033, "Group":2, "Level":33, "Value":7.2, "Power":410
+    },
+    {
+      "No":102034, "Group":2, "Level":34, "Value":7.3, "Power":415
+    },
+    {
+      "No":102035, "Group":2, "Level":35, "Value":7.4, "Power":420
+    },
+    {
+      "No":102036, "Group":2, "Level":36, "Value":7.5, "Power":425
+    },
+    {
+      "No":102037, "Group":2, "Level":37, "Value":7.6, "Power":430
+    },
+    {
+      "No":102038, "Group":2, "Level":38, "Value":7.7, "Power":435
+    },
+    {
+      "No":102039, "Group":2, "Level":39, "Value":7.8, "Power":440
+    },
+    {
+      "No":102040, "Group":2, "Level":40, "Value":7.9, "Power":445
+    },
+    {
+      "No":102041, "Group":2, "Level":41, "Value":8, "Power":450
+    },
+    {
+      "No":102042, "Group":2, "Level":42, "Value":8.1, "Power":455
+    },
+    {
+      "No":102043, "Group":2, "Level":43, "Value":8.2, "Power":460
+    },
+    {
+      "No":102044, "Group":2, "Level":44, "Value":8.3, "Power":465
+    },
+    {
+      "No":102045, "Group":2, "Level":45, "Value":8.4, "Power":470
+    },
+    {
+      "No":102046, "Group":2, "Level":46, "Value":8.5, "Power":475
+    },
+    {
+      "No":102047, "Group":2, "Level":47, "Value":8.6, "Power":480
+    },
+    {
+      "No":102048, "Group":2, "Level":48, "Value":8.7, "Power":485
+    },
+    {
+      "No":102049, "Group":2, "Level":49, "Value":8.8, "Power":490
+    },
+    {
+      "No":102050, "Group":2, "Level":50, "Value":9, "Power":500
+    },
+    {
+      "No":103001, "Group":3, "Level":1, "Value":8, "Power":450
+    },
+    {
+      "No":103002, "Group":3, "Level":2, "Value":8.1, "Power":455
+    },
+    {
+      "No":103003, "Group":3, "Level":3, "Value":8.2, "Power":460
+    },
+    {
+      "No":103004, "Group":3, "Level":4, "Value":8.3, "Power":465
+    },
+    {
+      "No":103005, "Group":3, "Level":5, "Value":8.4, "Power":470
+    },
+    {
+      "No":103006, "Group":3, "Level":6, "Value":8.5, "Power":475
+    },
+    {
+      "No":103007, "Group":3, "Level":7, "Value":8.6, "Power":480
+    },
+    {
+      "No":103008, "Group":3, "Level":8, "Value":8.7, "Power":485
+    },
+    {
+      "No":103009, "Group":3, "Level":9, "Value":8.8, "Power":490
+    },
+    {
+      "No":103010, "Group":3, "Level":10, "Value":8.9, "Power":495
+    },
+    {
+      "No":103011, "Group":3, "Level":11, "Value":9, "Power":500
+    },
+    {
+      "No":103012, "Group":3, "Level":12, "Value":9.1, "Power":505
+    },
+    {
+      "No":103013, "Group":3, "Level":13, "Value":9.2, "Power":510
+    },
+    {
+      "No":103014, "Group":3, "Level":14, "Value":9.3, "Power":515
+    },
+    {
+      "No":103015, "Group":3, "Level":15, "Value":9.4, "Power":520
+    },
+    {
+      "No":103016, "Group":3, "Level":16, "Value":9.5, "Power":525
+    },
+    {
+      "No":103017, "Group":3, "Level":17, "Value":9.6, "Power":530
+    },
+    {
+      "No":103018, "Group":3, "Level":18, "Value":9.7, "Power":535
+    },
+    {
+      "No":103019, "Group":3, "Level":19, "Value":9.8, "Power":540
+    },
+    {
+      "No":103020, "Group":3, "Level":20, "Value":9.9, "Power":545
+    },
+    {
+      "No":103021, "Group":3, "Level":21, "Value":10, "Power":550
+    },
+    {
+      "No":103022, "Group":3, "Level":22, "Value":10.1, "Power":555
+    },
+    {
+      "No":103023, "Group":3, "Level":23, "Value":10.2, "Power":560
+    },
+    {
+      "No":103024, "Group":3, "Level":24, "Value":10.3, "Power":565
+    },
+    {
+      "No":103025, "Group":3, "Level":25, "Value":10.4, "Power":570
+    },
+    {
+      "No":103026, "Group":3, "Level":26, "Value":10.5, "Power":575
+    },
+    {
+      "No":103027, "Group":3, "Level":27, "Value":10.6, "Power":580
+    },
+    {
+      "No":103028, "Group":3, "Level":28, "Value":10.7, "Power":585
+    },
+    {
+      "No":103029, "Group":3, "Level":29, "Value":10.8, "Power":590
+    },
+    {
+      "No":103030, "Group":3, "Level":30, "Value":10.9, "Power":595
+    },
+    {
+      "No":103031, "Group":3, "Level":31, "Value":11, "Power":600
+    },
+    {
+      "No":103032, "Group":3, "Level":32, "Value":11.1, "Power":605
+    },
+    {
+      "No":103033, "Group":3, "Level":33, "Value":11.2, "Power":610
+    },
+    {
+      "No":103034, "Group":3, "Level":34, "Value":11.3, "Power":615
+    },
+    {
+      "No":103035, "Group":3, "Level":35, "Value":11.4, "Power":620
+    },
+    {
+      "No":103036, "Group":3, "Level":36, "Value":11.5, "Power":625
+    },
+    {
+      "No":103037, "Group":3, "Level":37, "Value":11.6, "Power":630
+    },
+    {
+      "No":103038, "Group":3, "Level":38, "Value":11.7, "Power":635
+    },
+    {
+      "No":103039, "Group":3, "Level":39, "Value":11.8, "Power":640
+    },
+    {
+      "No":103040, "Group":3, "Level":40, "Value":11.9, "Power":645
+    },
+    {
+      "No":103041, "Group":3, "Level":41, "Value":12, "Power":650
+    },
+    {
+      "No":103042, "Group":3, "Level":42, "Value":12.1, "Power":655
+    },
+    {
+      "No":103043, "Group":3, "Level":43, "Value":12.2, "Power":660
+    },
+    {
+      "No":103044, "Group":3, "Level":44, "Value":12.3, "Power":665
+    },
+    {
+      "No":103045, "Group":3, "Level":45, "Value":12.4, "Power":670
+    },
+    {
+      "No":103046, "Group":3, "Level":46, "Value":12.5, "Power":675
+    },
+    {
+      "No":103047, "Group":3, "Level":47, "Value":12.6, "Power":680
+    },
+    {
+      "No":103048, "Group":3, "Level":48, "Value":12.7, "Power":685
+    },
+    {
+      "No":103049, "Group":3, "Level":49, "Value":12.8, "Power":690
+    },
+    {
+      "No":103050, "Group":3, "Level":50, "Value":13, "Power":700
+    },
+    {
+      "No":104001, "Group":4, "Level":1, "Value":12, "Power":650
+    },
+    {
+      "No":104002, "Group":4, "Level":2, "Value":12.1, "Power":655
+    },
+    {
+      "No":104003, "Group":4, "Level":3, "Value":12.2, "Power":660
+    },
+    {
+      "No":104004, "Group":4, "Level":4, "Value":12.3, "Power":665
+    },
+    {
+      "No":104005, "Group":4, "Level":5, "Value":12.4, "Power":670
+    },
+    {
+      "No":104006, "Group":4, "Level":6, "Value":12.5, "Power":675
+    },
+    {
+      "No":104007, "Group":4, "Level":7, "Value":12.6, "Power":680
+    },
+    {
+      "No":104008, "Group":4, "Level":8, "Value":12.7, "Power":685
+    },
+    {
+      "No":104009, "Group":4, "Level":9, "Value":12.8, "Power":690
+    },
+    {
+      "No":104010, "Group":4, "Level":10, "Value":12.9, "Power":695
+    },
+    {
+      "No":104011, "Group":4, "Level":11, "Value":13, "Power":700
+    },
+    {
+      "No":104012, "Group":4, "Level":12, "Value":13.1, "Power":705
+    },
+    {
+      "No":104013, "Group":4, "Level":13, "Value":13.2, "Power":710
+    },
+    {
+      "No":104014, "Group":4, "Level":14, "Value":13.3, "Power":715
+    },
+    {
+      "No":104015, "Group":4, "Level":15, "Value":13.4, "Power":720
+    },
+    {
+      "No":104016, "Group":4, "Level":16, "Value":13.5, "Power":725
+    },
+    {
+      "No":104017, "Group":4, "Level":17, "Value":13.6, "Power":730
+    },
+    {
+      "No":104018, "Group":4, "Level":18, "Value":13.7, "Power":735
+    },
+    {
+      "No":104019, "Group":4, "Level":19, "Value":13.8, "Power":740
+    },
+    {
+      "No":104020, "Group":4, "Level":20, "Value":13.9, "Power":745
+    },
+    {
+      "No":104021, "Group":4, "Level":21, "Value":14, "Power":750
+    },
+    {
+      "No":104022, "Group":4, "Level":22, "Value":14.1, "Power":755
+    },
+    {
+      "No":104023, "Group":4, "Level":23, "Value":14.2, "Power":760
+    },
+    {
+      "No":104024, "Group":4, "Level":24, "Value":14.3, "Power":765
+    },
+    {
+      "No":104025, "Group":4, "Level":25, "Value":14.4, "Power":770
+    },
+    {
+      "No":104026, "Group":4, "Level":26, "Value":14.5, "Power":775
+    },
+    {
+      "No":104027, "Group":4, "Level":27, "Value":14.6, "Power":780
+    },
+    {
+      "No":104028, "Group":4, "Level":28, "Value":14.7, "Power":785
+    },
+    {
+      "No":104029, "Group":4, "Level":29, "Value":14.8, "Power":790
+    },
+    {
+      "No":104030, "Group":4, "Level":30, "Value":14.9, "Power":795
+    },
+    {
+      "No":104031, "Group":4, "Level":31, "Value":15, "Power":800
+    },
+    {
+      "No":104032, "Group":4, "Level":32, "Value":15.1, "Power":805
+    },
+    {
+      "No":104033, "Group":4, "Level":33, "Value":15.2, "Power":810
+    },
+    {
+      "No":104034, "Group":4, "Level":34, "Value":15.3, "Power":815
+    },
+    {
+      "No":104035, "Group":4, "Level":35, "Value":15.4, "Power":820
+    },
+    {
+      "No":104036, "Group":4, "Level":36, "Value":15.5, "Power":825
+    },
+    {
+      "No":104037, "Group":4, "Level":37, "Value":15.6, "Power":830
+    },
+    {
+      "No":104038, "Group":4, "Level":38, "Value":15.7, "Power":835
+    },
+    {
+      "No":104039, "Group":4, "Level":39, "Value":15.8, "Power":840
+    },
+    {
+      "No":104040, "Group":4, "Level":40, "Value":15.9, "Power":845
+    },
+    {
+      "No":104041, "Group":4, "Level":41, "Value":16, "Power":850
+    },
+    {
+      "No":104042, "Group":4, "Level":42, "Value":16.1, "Power":855
+    },
+    {
+      "No":104043, "Group":4, "Level":43, "Value":16.2, "Power":860
+    },
+    {
+      "No":104044, "Group":4, "Level":44, "Value":16.3, "Power":865
+    },
+    {
+      "No":104045, "Group":4, "Level":45, "Value":16.4, "Power":870
+    },
+    {
+      "No":104046, "Group":4, "Level":46, "Value":16.5, "Power":875
+    },
+    {
+      "No":104047, "Group":4, "Level":47, "Value":16.6, "Power":880
+    },
+    {
+      "No":104048, "Group":4, "Level":48, "Value":16.7, "Power":885
+    },
+    {
+      "No":104049, "Group":4, "Level":49, "Value":16.8, "Power":890
+    },
+    {
+      "No":104050, "Group":4, "Level":50, "Value":17, "Power":900
+    },
+    {
+      "No":105001, "Group":5, "Level":1, "Value":-0.03, "Power":100
+    },
+    {
+      "No":105002, "Group":5, "Level":2, "Value":-0.06, "Power":105
+    },
+    {
+      "No":105003, "Group":5, "Level":3, "Value":-0.09, "Power":110
+    },
+    {
+      "No":105004, "Group":5, "Level":4, "Value":-0.12, "Power":115
+    },
+    {
+      "No":105005, "Group":5, "Level":5, "Value":-0.15, "Power":120
+    },
+    {
+      "No":105006, "Group":5, "Level":6, "Value":-0.18, "Power":125
+    },
+    {
+      "No":105007, "Group":5, "Level":7, "Value":-0.21, "Power":130
+    },
+    {
+      "No":105008, "Group":5, "Level":8, "Value":-0.24, "Power":135
+    },
+    {
+      "No":105009, "Group":5, "Level":9, "Value":-0.27, "Power":140
+    },
+    {
+      "No":105010, "Group":5, "Level":10, "Value":-0.3, "Power":145
+    },
+    {
+      "No":105011, "Group":5, "Level":11, "Value":-0.33, "Power":150
+    },
+    {
+      "No":105012, "Group":5, "Level":12, "Value":-0.36, "Power":155
+    },
+    {
+      "No":105013, "Group":5, "Level":13, "Value":-0.39, "Power":160
+    },
+    {
+      "No":105014, "Group":5, "Level":14, "Value":-0.42, "Power":165
+    },
+    {
+      "No":105015, "Group":5, "Level":15, "Value":-0.45, "Power":170
+    },
+    {
+      "No":105016, "Group":5, "Level":16, "Value":-0.48, "Power":175
+    },
+    {
+      "No":105017, "Group":5, "Level":17, "Value":-0.51, "Power":180
+    },
+    {
+      "No":105018, "Group":5, "Level":18, "Value":-0.54, "Power":185
+    },
+    {
+      "No":105019, "Group":5, "Level":19, "Value":-0.57, "Power":190
+    },
+    {
+      "No":105020, "Group":5, "Level":20, "Value":-0.6, "Power":195
+    },
+    {
+      "No":105021, "Group":5, "Level":21, "Value":-0.63, "Power":200
+    },
+    {
+      "No":105022, "Group":5, "Level":22, "Value":-0.66, "Power":205
+    },
+    {
+      "No":105023, "Group":5, "Level":23, "Value":-0.69, "Power":210
+    },
+    {
+      "No":105024, "Group":5, "Level":24, "Value":-0.72, "Power":215
+    },
+    {
+      "No":105025, "Group":5, "Level":25, "Value":-0.75, "Power":220
+    },
+    {
+      "No":105026, "Group":5, "Level":26, "Value":-0.78, "Power":225
+    },
+    {
+      "No":105027, "Group":5, "Level":27, "Value":-0.81, "Power":230
+    },
+    {
+      "No":105028, "Group":5, "Level":28, "Value":-0.84, "Power":235
+    },
+    {
+      "No":105029, "Group":5, "Level":29, "Value":-0.87, "Power":240
+    },
+    {
+      "No":105030, "Group":5, "Level":30, "Value":-0.9, "Power":245
+    },
+    {
+      "No":105031, "Group":5, "Level":31, "Value":-0.93, "Power":250
+    },
+    {
+      "No":105032, "Group":5, "Level":32, "Value":-0.96, "Power":255
+    },
+    {
+      "No":105033, "Group":5, "Level":33, "Value":-0.99, "Power":260
+    },
+    {
+      "No":105034, "Group":5, "Level":34, "Value":-1.02, "Power":265
+    },
+    {
+      "No":105035, "Group":5, "Level":35, "Value":-1.05, "Power":270
+    },
+    {
+      "No":105036, "Group":5, "Level":36, "Value":-1.08, "Power":275
+    },
+    {
+      "No":105037, "Group":5, "Level":37, "Value":-1.11, "Power":280
+    },
+    {
+      "No":105038, "Group":5, "Level":38, "Value":-1.14, "Power":285
+    },
+    {
+      "No":105039, "Group":5, "Level":39, "Value":-1.17, "Power":290
+    },
+    {
+      "No":105040, "Group":5, "Level":40, "Value":-1.2, "Power":295
+    },
+    {
+      "No":105041, "Group":5, "Level":41, "Value":-1.23, "Power":300
+    },
+    {
+      "No":105042, "Group":5, "Level":42, "Value":-1.26, "Power":305
+    },
+    {
+      "No":105043, "Group":5, "Level":43, "Value":-1.29, "Power":310
+    },
+    {
+      "No":105044, "Group":5, "Level":44, "Value":-1.32, "Power":315
+    },
+    {
+      "No":105045, "Group":5, "Level":45, "Value":-1.35, "Power":320
+    },
+    {
+      "No":105046, "Group":5, "Level":46, "Value":-1.38, "Power":325
+    },
+    {
+      "No":105047, "Group":5, "Level":47, "Value":-1.41, "Power":330
+    },
+    {
+      "No":105048, "Group":5, "Level":48, "Value":-1.44, "Power":335
+    },
+    {
+      "No":105049, "Group":5, "Level":49, "Value":-1.47, "Power":340
+    },
+    {
+      "No":105050, "Group":5, "Level":50, "Value":-1.5, "Power":350
+    },
+    {
+      "No":106001, "Group":6, "Level":1, "Value":-1.03, "Power":250
+    },
+    {
+      "No":106002, "Group":6, "Level":2, "Value":-1.06, "Power":255
+    },
+    {
+      "No":106003, "Group":6, "Level":3, "Value":-1.09, "Power":260
+    },
+    {
+      "No":106004, "Group":6, "Level":4, "Value":-1.12, "Power":265
+    },
+    {
+      "No":106005, "Group":6, "Level":5, "Value":-1.15, "Power":270
+    },
+    {
+      "No":106006, "Group":6, "Level":6, "Value":-1.18, "Power":275
+    },
+    {
+      "No":106007, "Group":6, "Level":7, "Value":-1.21, "Power":280
+    },
+    {
+      "No":106008, "Group":6, "Level":8, "Value":-1.24, "Power":285
+    },
+    {
+      "No":106009, "Group":6, "Level":9, "Value":-1.27, "Power":290
+    },
+    {
+      "No":106010, "Group":6, "Level":10, "Value":-1.3, "Power":295
+    },
+    {
+      "No":106011, "Group":6, "Level":11, "Value":-1.33, "Power":300
+    },
+    {
+      "No":106012, "Group":6, "Level":12, "Value":-1.36, "Power":305
+    },
+    {
+      "No":106013, "Group":6, "Level":13, "Value":-1.39, "Power":310
+    },
+    {
+      "No":106014, "Group":6, "Level":14, "Value":-1.42, "Power":315
+    },
+    {
+      "No":106015, "Group":6, "Level":15, "Value":-1.45, "Power":320
+    },
+    {
+      "No":106016, "Group":6, "Level":16, "Value":-1.48, "Power":325
+    },
+    {
+      "No":106017, "Group":6, "Level":17, "Value":-1.51, "Power":330
+    },
+    {
+      "No":106018, "Group":6, "Level":18, "Value":-1.54, "Power":335
+    },
+    {
+      "No":106019, "Group":6, "Level":19, "Value":-1.57, "Power":340
+    },
+    {
+      "No":106020, "Group":6, "Level":20, "Value":-1.6, "Power":345
+    },
+    {
+      "No":106021, "Group":6, "Level":21, "Value":-1.63, "Power":350
+    },
+    {
+      "No":106022, "Group":6, "Level":22, "Value":-1.66, "Power":355
+    },
+    {
+      "No":106023, "Group":6, "Level":23, "Value":-1.69, "Power":360
+    },
+    {
+      "No":106024, "Group":6, "Level":24, "Value":-1.72, "Power":365
+    },
+    {
+      "No":106025, "Group":6, "Level":25, "Value":-1.75, "Power":370
+    },
+    {
+      "No":106026, "Group":6, "Level":26, "Value":-1.78, "Power":375
+    },
+    {
+      "No":106027, "Group":6, "Level":27, "Value":-1.81, "Power":380
+    },
+    {
+      "No":106028, "Group":6, "Level":28, "Value":-1.84, "Power":385
+    },
+    {
+      "No":106029, "Group":6, "Level":29, "Value":-1.87, "Power":390
+    },
+    {
+      "No":106030, "Group":6, "Level":30, "Value":-1.9, "Power":395
+    },
+    {
+      "No":106031, "Group":6, "Level":31, "Value":-1.93, "Power":400
+    },
+    {
+      "No":106032, "Group":6, "Level":32, "Value":-1.96, "Power":405
+    },
+    {
+      "No":106033, "Group":6, "Level":33, "Value":-1.99, "Power":410
+    },
+    {
+      "No":106034, "Group":6, "Level":34, "Value":-2.02, "Power":415
+    },
+    {
+      "No":106035, "Group":6, "Level":35, "Value":-2.05, "Power":420
+    },
+    {
+      "No":106036, "Group":6, "Level":36, "Value":-2.08, "Power":425
+    },
+    {
+      "No":106037, "Group":6, "Level":37, "Value":-2.11, "Power":430
+    },
+    {
+      "No":106038, "Group":6, "Level":38, "Value":-2.14, "Power":435
+    },
+    {
+      "No":106039, "Group":6, "Level":39, "Value":-2.17, "Power":440
+    },
+    {
+      "No":106040, "Group":6, "Level":40, "Value":-2.2, "Power":445
+    },
+    {
+      "No":106041, "Group":6, "Level":41, "Value":-2.23, "Power":450
+    },
+    {
+      "No":106042, "Group":6, "Level":42, "Value":-2.26, "Power":455
+    },
+    {
+      "No":106043, "Group":6, "Level":43, "Value":-2.29, "Power":460
+    },
+    {
+      "No":106044, "Group":6, "Level":44, "Value":-2.32, "Power":465
+    },
+    {
+      "No":106045, "Group":6, "Level":45, "Value":-2.35, "Power":470
+    },
+    {
+      "No":106046, "Group":6, "Level":46, "Value":-2.38, "Power":475
+    },
+    {
+      "No":106047, "Group":6, "Level":47, "Value":-2.41, "Power":480
+    },
+    {
+      "No":106048, "Group":6, "Level":48, "Value":-2.44, "Power":485
+    },
+    {
+      "No":106049, "Group":6, "Level":49, "Value":-2.47, "Power":490
+    },
+    {
+      "No":106050, "Group":6, "Level":50, "Value":-2.5, "Power":500
+    },
+    {
+      "No":107001, "Group":7, "Level":1, "Value":-3.03, "Power":450
+    },
+    {
+      "No":107002, "Group":7, "Level":2, "Value":-3.06, "Power":455
+    },
+    {
+      "No":107003, "Group":7, "Level":3, "Value":-3.09, "Power":460
+    },
+    {
+      "No":107004, "Group":7, "Level":4, "Value":-3.12, "Power":465
+    },
+    {
+      "No":107005, "Group":7, "Level":5, "Value":-3.15, "Power":470
+    },
+    {
+      "No":107006, "Group":7, "Level":6, "Value":-3.18, "Power":475
+    },
+    {
+      "No":107007, "Group":7, "Level":7, "Value":-3.21, "Power":480
+    },
+    {
+      "No":107008, "Group":7, "Level":8, "Value":-3.24, "Power":485
+    },
+    {
+      "No":107009, "Group":7, "Level":9, "Value":-3.27, "Power":490
+    },
+    {
+      "No":107010, "Group":7, "Level":10, "Value":-3.3, "Power":495
+    },
+    {
+      "No":107011, "Group":7, "Level":11, "Value":-3.33, "Power":500
+    },
+    {
+      "No":107012, "Group":7, "Level":12, "Value":-3.36, "Power":505
+    },
+    {
+      "No":107013, "Group":7, "Level":13, "Value":-3.39, "Power":510
+    },
+    {
+      "No":107014, "Group":7, "Level":14, "Value":-3.42, "Power":515
+    },
+    {
+      "No":107015, "Group":7, "Level":15, "Value":-3.45, "Power":520
+    },
+    {
+      "No":107016, "Group":7, "Level":16, "Value":-3.48, "Power":525
+    },
+    {
+      "No":107017, "Group":7, "Level":17, "Value":-3.51, "Power":530
+    },
+    {
+      "No":107018, "Group":7, "Level":18, "Value":-3.54, "Power":535
+    },
+    {
+      "No":107019, "Group":7, "Level":19, "Value":-3.57, "Power":540
+    },
+    {
+      "No":107020, "Group":7, "Level":20, "Value":-3.6, "Power":545
+    },
+    {
+      "No":107021, "Group":7, "Level":21, "Value":-3.63, "Power":550
+    },
+    {
+      "No":107022, "Group":7, "Level":22, "Value":-3.66, "Power":555
+    },
+    {
+      "No":107023, "Group":7, "Level":23, "Value":-3.69, "Power":560
+    },
+    {
+      "No":107024, "Group":7, "Level":24, "Value":-3.72, "Power":565
+    },
+    {
+      "No":107025, "Group":7, "Level":25, "Value":-3.75, "Power":570
+    },
+    {
+      "No":107026, "Group":7, "Level":26, "Value":-3.78, "Power":575
+    },
+    {
+      "No":107027, "Group":7, "Level":27, "Value":-3.81, "Power":580
+    },
+    {
+      "No":107028, "Group":7, "Level":28, "Value":-3.84, "Power":585
+    },
+    {
+      "No":107029, "Group":7, "Level":29, "Value":-3.87, "Power":590
+    },
+    {
+      "No":107030, "Group":7, "Level":30, "Value":-3.9, "Power":595
+    },
+    {
+      "No":107031, "Group":7, "Level":31, "Value":-3.93, "Power":600
+    },
+    {
+      "No":107032, "Group":7, "Level":32, "Value":-3.96, "Power":605
+    },
+    {
+      "No":107033, "Group":7, "Level":33, "Value":-3.99, "Power":610
+    },
+    {
+      "No":107034, "Group":7, "Level":34, "Value":-4.02, "Power":615
+    },
+    {
+      "No":107035, "Group":7, "Level":35, "Value":-4.05, "Power":620
+    },
+    {
+      "No":107036, "Group":7, "Level":36, "Value":-4.08, "Power":625
+    },
+    {
+      "No":107037, "Group":7, "Level":37, "Value":-4.11, "Power":630
+    },
+    {
+      "No":107038, "Group":7, "Level":38, "Value":-4.14, "Power":635
+    },
+    {
+      "No":107039, "Group":7, "Level":39, "Value":-4.17, "Power":640
+    },
+    {
+      "No":107040, "Group":7, "Level":40, "Value":-4.2, "Power":645
+    },
+    {
+      "No":107041, "Group":7, "Level":41, "Value":-4.23, "Power":650
+    },
+    {
+      "No":107042, "Group":7, "Level":42, "Value":-4.26, "Power":655
+    },
+    {
+      "No":107043, "Group":7, "Level":43, "Value":-4.29, "Power":660
+    },
+    {
+      "No":107044, "Group":7, "Level":44, "Value":-4.32, "Power":665
+    },
+    {
+      "No":107045, "Group":7, "Level":45, "Value":-4.35, "Power":670
+    },
+    {
+      "No":107046, "Group":7, "Level":46, "Value":-4.38, "Power":675
+    },
+    {
+      "No":107047, "Group":7, "Level":47, "Value":-4.41, "Power":680
+    },
+    {
+      "No":107048, "Group":7, "Level":48, "Value":-4.44, "Power":685
+    },
+    {
+      "No":107049, "Group":7, "Level":49, "Value":-4.47, "Power":690
+    },
+    {
+      "No":107050, "Group":7, "Level":50, "Value":-4.5, "Power":700
+    },
+    {
+      "No":108001, "Group":8, "Level":1, "Value":-5.03, "Power":650
+    },
+    {
+      "No":108002, "Group":8, "Level":2, "Value":-5.06, "Power":655
+    },
+    {
+      "No":108003, "Group":8, "Level":3, "Value":-5.09, "Power":660
+    },
+    {
+      "No":108004, "Group":8, "Level":4, "Value":-5.12, "Power":665
+    },
+    {
+      "No":108005, "Group":8, "Level":5, "Value":-5.15, "Power":670
+    },
+    {
+      "No":108006, "Group":8, "Level":6, "Value":-5.18, "Power":675
+    },
+    {
+      "No":108007, "Group":8, "Level":7, "Value":-5.21, "Power":680
+    },
+    {
+      "No":108008, "Group":8, "Level":8, "Value":-5.24, "Power":685
+    },
+    {
+      "No":108009, "Group":8, "Level":9, "Value":-5.27, "Power":690
+    },
+    {
+      "No":108010, "Group":8, "Level":10, "Value":-5.3, "Power":695
+    },
+    {
+      "No":108011, "Group":8, "Level":11, "Value":-5.33, "Power":700
+    },
+    {
+      "No":108012, "Group":8, "Level":12, "Value":-5.36, "Power":705
+    },
+    {
+      "No":108013, "Group":8, "Level":13, "Value":-5.39, "Power":710
+    },
+    {
+      "No":108014, "Group":8, "Level":14, "Value":-5.42, "Power":715
+    },
+    {
+      "No":108015, "Group":8, "Level":15, "Value":-5.45, "Power":720
+    },
+    {
+      "No":108016, "Group":8, "Level":16, "Value":-5.48, "Power":725
+    },
+    {
+      "No":108017, "Group":8, "Level":17, "Value":-5.51, "Power":730
+    },
+    {
+      "No":108018, "Group":8, "Level":18, "Value":-5.54, "Power":735
+    },
+    {
+      "No":108019, "Group":8, "Level":19, "Value":-5.57, "Power":740
+    },
+    {
+      "No":108020, "Group":8, "Level":20, "Value":-5.6, "Power":745
+    },
+    {
+      "No":108021, "Group":8, "Level":21, "Value":-5.63, "Power":750
+    },
+    {
+      "No":108022, "Group":8, "Level":22, "Value":-5.66, "Power":755
+    },
+    {
+      "No":108023, "Group":8, "Level":23, "Value":-5.69, "Power":760
+    },
+    {
+      "No":108024, "Group":8, "Level":24, "Value":-5.72, "Power":765
+    },
+    {
+      "No":108025, "Group":8, "Level":25, "Value":-5.75, "Power":770
+    },
+    {
+      "No":108026, "Group":8, "Level":26, "Value":-5.78, "Power":775
+    },
+    {
+      "No":108027, "Group":8, "Level":27, "Value":-5.81, "Power":780
+    },
+    {
+      "No":108028, "Group":8, "Level":28, "Value":-5.84, "Power":785
+    },
+    {
+      "No":108029, "Group":8, "Level":29, "Value":-5.87, "Power":790
+    },
+    {
+      "No":108030, "Group":8, "Level":30, "Value":-5.9, "Power":795
+    },
+    {
+      "No":108031, "Group":8, "Level":31, "Value":-5.93, "Power":800
+    },
+    {
+      "No":108032, "Group":8, "Level":32, "Value":-5.96, "Power":805
+    },
+    {
+      "No":108033, "Group":8, "Level":33, "Value":-5.99, "Power":810
+    },
+    {
+      "No":108034, "Group":8, "Level":34, "Value":-6.02, "Power":815
+    },
+    {
+      "No":108035, "Group":8, "Level":35, "Value":-6.05, "Power":820
+    },
+    {
+      "No":108036, "Group":8, "Level":36, "Value":-6.08, "Power":825
+    },
+    {
+      "No":108037, "Group":8, "Level":37, "Value":-6.11, "Power":830
+    },
+    {
+      "No":108038, "Group":8, "Level":38, "Value":-6.14, "Power":835
+    },
+    {
+      "No":108039, "Group":8, "Level":39, "Value":-6.17, "Power":840
+    },
+    {
+      "No":108040, "Group":8, "Level":40, "Value":-6.2, "Power":845
+    },
+    {
+      "No":108041, "Group":8, "Level":41, "Value":-6.23, "Power":850
+    },
+    {
+      "No":108042, "Group":8, "Level":42, "Value":-6.26, "Power":855
+    },
+    {
+      "No":108043, "Group":8, "Level":43, "Value":-6.29, "Power":860
+    },
+    {
+      "No":108044, "Group":8, "Level":44, "Value":-6.32, "Power":865
+    },
+    {
+      "No":108045, "Group":8, "Level":45, "Value":-6.35, "Power":870
+    },
+    {
+      "No":108046, "Group":8, "Level":46, "Value":-6.38, "Power":875
+    },
+    {
+      "No":108047, "Group":8, "Level":47, "Value":-6.41, "Power":880
+    },
+    {
+      "No":108048, "Group":8, "Level":48, "Value":-6.44, "Power":885
+    },
+    {
+      "No":108049, "Group":8, "Level":49, "Value":-6.47, "Power":890
+    },
+    {
+      "No":108050, "Group":8, "Level":50, "Value":-6.5, "Power":900
+    },
+    {
+      "No":121001, "Group":21, "Level":1, "Value":4, "Power":250
+    },
+    {
+      "No":121002, "Group":21, "Level":2, "Value":4.1, "Power":255
+    },
+    {
+      "No":121003, "Group":21, "Level":3, "Value":4.2, "Power":260
+    },
+    {
+      "No":121004, "Group":21, "Level":4, "Value":4.3, "Power":265
+    },
+    {
+      "No":121005, "Group":21, "Level":5, "Value":4.4, "Power":270
+    },
+    {
+      "No":121006, "Group":21, "Level":6, "Value":4.5, "Power":275
+    },
+    {
+      "No":121007, "Group":21, "Level":7, "Value":4.6, "Power":280
+    },
+    {
+      "No":121008, "Group":21, "Level":8, "Value":4.7, "Power":285
+    },
+    {
+      "No":121009, "Group":21, "Level":9, "Value":4.8, "Power":290
+    },
+    {
+      "No":121010, "Group":21, "Level":10, "Value":4.9, "Power":295
+    },
+    {
+      "No":121011, "Group":21, "Level":11, "Value":5, "Power":300
+    },
+    {
+      "No":121012, "Group":21, "Level":12, "Value":5.1, "Power":305
+    },
+    {
+      "No":121013, "Group":21, "Level":13, "Value":5.2, "Power":310
+    },
+    {
+      "No":121014, "Group":21, "Level":14, "Value":5.3, "Power":315
+    },
+    {
+      "No":121015, "Group":21, "Level":15, "Value":5.4, "Power":320
+    },
+    {
+      "No":121016, "Group":21, "Level":16, "Value":5.5, "Power":325
+    },
+    {
+      "No":121017, "Group":21, "Level":17, "Value":5.6, "Power":330
+    },
+    {
+      "No":121018, "Group":21, "Level":18, "Value":5.7, "Power":335
+    },
+    {
+      "No":121019, "Group":21, "Level":19, "Value":5.8, "Power":340
+    },
+    {
+      "No":121020, "Group":21, "Level":20, "Value":5.9, "Power":345
+    },
+    {
+      "No":121021, "Group":21, "Level":21, "Value":6, "Power":350
+    },
+    {
+      "No":121022, "Group":21, "Level":22, "Value":6.1, "Power":355
+    },
+    {
+      "No":121023, "Group":21, "Level":23, "Value":6.2, "Power":360
+    },
+    {
+      "No":121024, "Group":21, "Level":24, "Value":6.3, "Power":365
+    },
+    {
+      "No":121025, "Group":21, "Level":25, "Value":6.4, "Power":370
+    },
+    {
+      "No":121026, "Group":21, "Level":26, "Value":6.5, "Power":375
+    },
+    {
+      "No":121027, "Group":21, "Level":27, "Value":6.6, "Power":380
+    },
+    {
+      "No":121028, "Group":21, "Level":28, "Value":6.7, "Power":385
+    },
+    {
+      "No":121029, "Group":21, "Level":29, "Value":6.8, "Power":390
+    },
+    {
+      "No":121030, "Group":21, "Level":30, "Value":6.9, "Power":395
+    },
+    {
+      "No":121031, "Group":21, "Level":31, "Value":7, "Power":400
+    },
+    {
+      "No":121032, "Group":21, "Level":32, "Value":7.1, "Power":405
+    },
+    {
+      "No":121033, "Group":21, "Level":33, "Value":7.2, "Power":410
+    },
+    {
+      "No":121034, "Group":21, "Level":34, "Value":7.3, "Power":415
+    },
+    {
+      "No":121035, "Group":21, "Level":35, "Value":7.4, "Power":420
+    },
+    {
+      "No":121036, "Group":21, "Level":36, "Value":7.5, "Power":425
+    },
+    {
+      "No":121037, "Group":21, "Level":37, "Value":7.6, "Power":430
+    },
+    {
+      "No":121038, "Group":21, "Level":38, "Value":7.7, "Power":435
+    },
+    {
+      "No":121039, "Group":21, "Level":39, "Value":7.8, "Power":440
+    },
+    {
+      "No":121040, "Group":21, "Level":40, "Value":7.9, "Power":445
+    },
+    {
+      "No":121041, "Group":21, "Level":41, "Value":8, "Power":450
+    },
+    {
+      "No":121042, "Group":21, "Level":42, "Value":8.1, "Power":455
+    },
+    {
+      "No":121043, "Group":21, "Level":43, "Value":8.2, "Power":460
+    },
+    {
+      "No":121044, "Group":21, "Level":44, "Value":8.3, "Power":465
+    },
+    {
+      "No":121045, "Group":21, "Level":45, "Value":8.4, "Power":470
+    },
+    {
+      "No":121046, "Group":21, "Level":46, "Value":8.5, "Power":475
+    },
+    {
+      "No":121047, "Group":21, "Level":47, "Value":8.6, "Power":480
+    },
+    {
+      "No":121048, "Group":21, "Level":48, "Value":8.7, "Power":485
+    },
+    {
+      "No":121049, "Group":21, "Level":49, "Value":8.8, "Power":490
+    },
+    {
+      "No":121050, "Group":21, "Level":50, "Value":9, "Power":500
+    },
+    {
+      "No":122001, "Group":22, "Level":1, "Value":7, "Power":400
+    },
+    {
+      "No":122002, "Group":22, "Level":2, "Value":7.1, "Power":405
+    },
+    {
+      "No":122003, "Group":22, "Level":3, "Value":7.2, "Power":410
+    },
+    {
+      "No":122004, "Group":22, "Level":4, "Value":7.3, "Power":415
+    },
+    {
+      "No":122005, "Group":22, "Level":5, "Value":7.4, "Power":420
+    },
+    {
+      "No":122006, "Group":22, "Level":6, "Value":7.5, "Power":425
+    },
+    {
+      "No":122007, "Group":22, "Level":7, "Value":7.6, "Power":430
+    },
+    {
+      "No":122008, "Group":22, "Level":8, "Value":7.7, "Power":435
+    },
+    {
+      "No":122009, "Group":22, "Level":9, "Value":7.8, "Power":440
+    },
+    {
+      "No":122010, "Group":22, "Level":10, "Value":7.9, "Power":445
+    },
+    {
+      "No":122011, "Group":22, "Level":11, "Value":8, "Power":450
+    },
+    {
+      "No":122012, "Group":22, "Level":12, "Value":8.1, "Power":455
+    },
+    {
+      "No":122013, "Group":22, "Level":13, "Value":8.2, "Power":460
+    },
+    {
+      "No":122014, "Group":22, "Level":14, "Value":8.3, "Power":465
+    },
+    {
+      "No":122015, "Group":22, "Level":15, "Value":8.4, "Power":470
+    },
+    {
+      "No":122016, "Group":22, "Level":16, "Value":8.5, "Power":475
+    },
+    {
+      "No":122017, "Group":22, "Level":17, "Value":8.6, "Power":480
+    },
+    {
+      "No":122018, "Group":22, "Level":18, "Value":8.7, "Power":485
+    },
+    {
+      "No":122019, "Group":22, "Level":19, "Value":8.8, "Power":490
+    },
+    {
+      "No":122020, "Group":22, "Level":20, "Value":8.9, "Power":495
+    },
+    {
+      "No":122021, "Group":22, "Level":21, "Value":9, "Power":500
+    },
+    {
+      "No":122022, "Group":22, "Level":22, "Value":9.1, "Power":505
+    },
+    {
+      "No":122023, "Group":22, "Level":23, "Value":9.2, "Power":510
+    },
+    {
+      "No":122024, "Group":22, "Level":24, "Value":9.3, "Power":515
+    },
+    {
+      "No":122025, "Group":22, "Level":25, "Value":9.4, "Power":520
+    },
+    {
+      "No":122026, "Group":22, "Level":26, "Value":9.5, "Power":525
+    },
+    {
+      "No":122027, "Group":22, "Level":27, "Value":9.6, "Power":530
+    },
+    {
+      "No":122028, "Group":22, "Level":28, "Value":9.7, "Power":535
+    },
+    {
+      "No":122029, "Group":22, "Level":29, "Value":9.8, "Power":540
+    },
+    {
+      "No":122030, "Group":22, "Level":30, "Value":9.9, "Power":545
+    },
+    {
+      "No":122031, "Group":22, "Level":31, "Value":10, "Power":550
+    },
+    {
+      "No":122032, "Group":22, "Level":32, "Value":10.1, "Power":555
+    },
+    {
+      "No":122033, "Group":22, "Level":33, "Value":10.2, "Power":560
+    },
+    {
+      "No":122034, "Group":22, "Level":34, "Value":10.3, "Power":565
+    },
+    {
+      "No":122035, "Group":22, "Level":35, "Value":10.4, "Power":570
+    },
+    {
+      "No":122036, "Group":22, "Level":36, "Value":10.5, "Power":575
+    },
+    {
+      "No":122037, "Group":22, "Level":37, "Value":10.6, "Power":580
+    },
+    {
+      "No":122038, "Group":22, "Level":38, "Value":10.7, "Power":585
+    },
+    {
+      "No":122039, "Group":22, "Level":39, "Value":10.8, "Power":590
+    },
+    {
+      "No":122040, "Group":22, "Level":40, "Value":10.9, "Power":595
+    },
+    {
+      "No":122041, "Group":22, "Level":41, "Value":11, "Power":600
+    },
+    {
+      "No":122042, "Group":22, "Level":42, "Value":11.1, "Power":605
+    },
+    {
+      "No":122043, "Group":22, "Level":43, "Value":11.2, "Power":610
+    },
+    {
+      "No":122044, "Group":22, "Level":44, "Value":11.3, "Power":615
+    },
+    {
+      "No":122045, "Group":22, "Level":45, "Value":11.4, "Power":620
+    },
+    {
+      "No":122046, "Group":22, "Level":46, "Value":11.5, "Power":625
+    },
+    {
+      "No":122047, "Group":22, "Level":47, "Value":11.6, "Power":630
+    },
+    {
+      "No":122048, "Group":22, "Level":48, "Value":11.7, "Power":635
+    },
+    {
+      "No":122049, "Group":22, "Level":49, "Value":11.8, "Power":640
+    },
+    {
+      "No":122050, "Group":22, "Level":50, "Value":12, "Power":650
+    },
+    {
+      "No":123001, "Group":23, "Level":1, "Value":11, "Power":600
+    },
+    {
+      "No":123002, "Group":23, "Level":2, "Value":11.1, "Power":605
+    },
+    {
+      "No":123003, "Group":23, "Level":3, "Value":11.2, "Power":610
+    },
+    {
+      "No":123004, "Group":23, "Level":4, "Value":11.3, "Power":615
+    },
+    {
+      "No":123005, "Group":23, "Level":5, "Value":11.4, "Power":620
+    },
+    {
+      "No":123006, "Group":23, "Level":6, "Value":11.5, "Power":625
+    },
+    {
+      "No":123007, "Group":23, "Level":7, "Value":11.6, "Power":630
+    },
+    {
+      "No":123008, "Group":23, "Level":8, "Value":11.7, "Power":635
+    },
+    {
+      "No":123009, "Group":23, "Level":9, "Value":11.8, "Power":640
+    },
+    {
+      "No":123010, "Group":23, "Level":10, "Value":11.9, "Power":645
+    },
+    {
+      "No":123011, "Group":23, "Level":11, "Value":12, "Power":650
+    },
+    {
+      "No":123012, "Group":23, "Level":12, "Value":12.1, "Power":655
+    },
+    {
+      "No":123013, "Group":23, "Level":13, "Value":12.2, "Power":660
+    },
+    {
+      "No":123014, "Group":23, "Level":14, "Value":12.3, "Power":665
+    },
+    {
+      "No":123015, "Group":23, "Level":15, "Value":12.4, "Power":670
+    },
+    {
+      "No":123016, "Group":23, "Level":16, "Value":12.5, "Power":675
+    },
+    {
+      "No":123017, "Group":23, "Level":17, "Value":12.6, "Power":680
+    },
+    {
+      "No":123018, "Group":23, "Level":18, "Value":12.7, "Power":685
+    },
+    {
+      "No":123019, "Group":23, "Level":19, "Value":12.8, "Power":690
+    },
+    {
+      "No":123020, "Group":23, "Level":20, "Value":12.9, "Power":695
+    },
+    {
+      "No":123021, "Group":23, "Level":21, "Value":13, "Power":700
+    },
+    {
+      "No":123022, "Group":23, "Level":22, "Value":13.1, "Power":705
+    },
+    {
+      "No":123023, "Group":23, "Level":23, "Value":13.2, "Power":710
+    },
+    {
+      "No":123024, "Group":23, "Level":24, "Value":13.3, "Power":715
+    },
+    {
+      "No":123025, "Group":23, "Level":25, "Value":13.4, "Power":720
+    },
+    {
+      "No":123026, "Group":23, "Level":26, "Value":13.5, "Power":725
+    },
+    {
+      "No":123027, "Group":23, "Level":27, "Value":13.6, "Power":730
+    },
+    {
+      "No":123028, "Group":23, "Level":28, "Value":13.7, "Power":735
+    },
+    {
+      "No":123029, "Group":23, "Level":29, "Value":13.8, "Power":740
+    },
+    {
+      "No":123030, "Group":23, "Level":30, "Value":13.9, "Power":745
+    },
+    {
+      "No":123031, "Group":23, "Level":31, "Value":14, "Power":750
+    },
+    {
+      "No":123032, "Group":23, "Level":32, "Value":14.1, "Power":755
+    },
+    {
+      "No":123033, "Group":23, "Level":33, "Value":14.2, "Power":760
+    },
+    {
+      "No":123034, "Group":23, "Level":34, "Value":14.3, "Power":765
+    },
+    {
+      "No":123035, "Group":23, "Level":35, "Value":14.4, "Power":770
+    },
+    {
+      "No":123036, "Group":23, "Level":36, "Value":14.5, "Power":775
+    },
+    {
+      "No":123037, "Group":23, "Level":37, "Value":14.6, "Power":780
+    },
+    {
+      "No":123038, "Group":23, "Level":38, "Value":14.7, "Power":785
+    },
+    {
+      "No":123039, "Group":23, "Level":39, "Value":14.8, "Power":790
+    },
+    {
+      "No":123040, "Group":23, "Level":40, "Value":14.9, "Power":795
+    },
+    {
+      "No":123041, "Group":23, "Level":41, "Value":15, "Power":800
+    },
+    {
+      "No":123042, "Group":23, "Level":42, "Value":15.1, "Power":805
+    },
+    {
+      "No":123043, "Group":23, "Level":43, "Value":15.2, "Power":810
+    },
+    {
+      "No":123044, "Group":23, "Level":44, "Value":15.3, "Power":815
+    },
+    {
+      "No":123045, "Group":23, "Level":45, "Value":15.4, "Power":820
+    },
+    {
+      "No":123046, "Group":23, "Level":46, "Value":15.5, "Power":825
+    },
+    {
+      "No":123047, "Group":23, "Level":47, "Value":15.6, "Power":830
+    },
+    {
+      "No":123048, "Group":23, "Level":48, "Value":15.7, "Power":835
+    },
+    {
+      "No":123049, "Group":23, "Level":49, "Value":15.8, "Power":840
+    },
+    {
+      "No":123050, "Group":23, "Level":50, "Value":16, "Power":850
+    },
+    {
+      "No":124001, "Group":24, "Level":1, "Value":15, "Power":800
+    },
+    {
+      "No":124002, "Group":24, "Level":2, "Value":15.1, "Power":805
+    },
+    {
+      "No":124003, "Group":24, "Level":3, "Value":15.2, "Power":810
+    },
+    {
+      "No":124004, "Group":24, "Level":4, "Value":15.3, "Power":815
+    },
+    {
+      "No":124005, "Group":24, "Level":5, "Value":15.4, "Power":820
+    },
+    {
+      "No":124006, "Group":24, "Level":6, "Value":15.5, "Power":825
+    },
+    {
+      "No":124007, "Group":24, "Level":7, "Value":15.6, "Power":830
+    },
+    {
+      "No":124008, "Group":24, "Level":8, "Value":15.7, "Power":835
+    },
+    {
+      "No":124009, "Group":24, "Level":9, "Value":15.8, "Power":840
+    },
+    {
+      "No":124010, "Group":24, "Level":10, "Value":15.9, "Power":845
+    },
+    {
+      "No":124011, "Group":24, "Level":11, "Value":16, "Power":850
+    },
+    {
+      "No":124012, "Group":24, "Level":12, "Value":16.1, "Power":855
+    },
+    {
+      "No":124013, "Group":24, "Level":13, "Value":16.2, "Power":860
+    },
+    {
+      "No":124014, "Group":24, "Level":14, "Value":16.3, "Power":865
+    },
+    {
+      "No":124015, "Group":24, "Level":15, "Value":16.4, "Power":870
+    },
+    {
+      "No":124016, "Group":24, "Level":16, "Value":16.5, "Power":875
+    },
+    {
+      "No":124017, "Group":24, "Level":17, "Value":16.6, "Power":880
+    },
+    {
+      "No":124018, "Group":24, "Level":18, "Value":16.7, "Power":885
+    },
+    {
+      "No":124019, "Group":24, "Level":19, "Value":16.8, "Power":890
+    },
+    {
+      "No":124020, "Group":24, "Level":20, "Value":16.9, "Power":895
+    },
+    {
+      "No":124021, "Group":24, "Level":21, "Value":17, "Power":900
+    },
+    {
+      "No":124022, "Group":24, "Level":22, "Value":17.1, "Power":905
+    },
+    {
+      "No":124023, "Group":24, "Level":23, "Value":17.2, "Power":910
+    },
+    {
+      "No":124024, "Group":24, "Level":24, "Value":17.3, "Power":915
+    },
+    {
+      "No":124025, "Group":24, "Level":25, "Value":17.4, "Power":920
+    },
+    {
+      "No":124026, "Group":24, "Level":26, "Value":17.5, "Power":925
+    },
+    {
+      "No":124027, "Group":24, "Level":27, "Value":17.6, "Power":930
+    },
+    {
+      "No":124028, "Group":24, "Level":28, "Value":17.7, "Power":935
+    },
+    {
+      "No":124029, "Group":24, "Level":29, "Value":17.8, "Power":940
+    },
+    {
+      "No":124030, "Group":24, "Level":30, "Value":17.9, "Power":945
+    },
+    {
+      "No":124031, "Group":24, "Level":31, "Value":18, "Power":950
+    },
+    {
+      "No":124032, "Group":24, "Level":32, "Value":18.1, "Power":955
+    },
+    {
+      "No":124033, "Group":24, "Level":33, "Value":18.2, "Power":960
+    },
+    {
+      "No":124034, "Group":24, "Level":34, "Value":18.3, "Power":965
+    },
+    {
+      "No":124035, "Group":24, "Level":35, "Value":18.4, "Power":970
+    },
+    {
+      "No":124036, "Group":24, "Level":36, "Value":18.5, "Power":975
+    },
+    {
+      "No":124037, "Group":24, "Level":37, "Value":18.6, "Power":980
+    },
+    {
+      "No":124038, "Group":24, "Level":38, "Value":18.7, "Power":985
+    },
+    {
+      "No":124039, "Group":24, "Level":39, "Value":18.8, "Power":990
+    },
+    {
+      "No":124040, "Group":24, "Level":40, "Value":18.9, "Power":995
+    },
+    {
+      "No":124041, "Group":24, "Level":41, "Value":19, "Power":1000
+    },
+    {
+      "No":124042, "Group":24, "Level":42, "Value":19.1, "Power":1005
+    },
+    {
+      "No":124043, "Group":24, "Level":43, "Value":19.2, "Power":1010
+    },
+    {
+      "No":124044, "Group":24, "Level":44, "Value":19.3, "Power":1015
+    },
+    {
+      "No":124045, "Group":24, "Level":45, "Value":19.4, "Power":1020
+    },
+    {
+      "No":124046, "Group":24, "Level":46, "Value":19.5, "Power":1025
+    },
+    {
+      "No":124047, "Group":24, "Level":47, "Value":19.6, "Power":1030
+    },
+    {
+      "No":124048, "Group":24, "Level":48, "Value":19.7, "Power":1035
+    },
+    {
+      "No":124049, "Group":24, "Level":49, "Value":19.8, "Power":1040
+    },
+    {
+      "No":124050, "Group":24, "Level":50, "Value":20, "Power":1050
+    },
+    {
+      "No":125001, "Group":25, "Level":1, "Value":-1.03, "Power":250
+    },
+    {
+      "No":125002, "Group":25, "Level":2, "Value":-1.06, "Power":255
+    },
+    {
+      "No":125003, "Group":25, "Level":3, "Value":-1.09, "Power":260
+    },
+    {
+      "No":125004, "Group":25, "Level":4, "Value":-1.12, "Power":265
+    },
+    {
+      "No":125005, "Group":25, "Level":5, "Value":-1.15, "Power":270
+    },
+    {
+      "No":125006, "Group":25, "Level":6, "Value":-1.18, "Power":275
+    },
+    {
+      "No":125007, "Group":25, "Level":7, "Value":-1.21, "Power":280
+    },
+    {
+      "No":125008, "Group":25, "Level":8, "Value":-1.24, "Power":285
+    },
+    {
+      "No":125009, "Group":25, "Level":9, "Value":-1.27, "Power":290
+    },
+    {
+      "No":125010, "Group":25, "Level":10, "Value":-1.3, "Power":295
+    },
+    {
+      "No":125011, "Group":25, "Level":11, "Value":-1.33, "Power":300
+    },
+    {
+      "No":125012, "Group":25, "Level":12, "Value":-1.36, "Power":305
+    },
+    {
+      "No":125013, "Group":25, "Level":13, "Value":-1.39, "Power":310
+    },
+    {
+      "No":125014, "Group":25, "Level":14, "Value":-1.42, "Power":315
+    },
+    {
+      "No":125015, "Group":25, "Level":15, "Value":-1.45, "Power":320
+    },
+    {
+      "No":125016, "Group":25, "Level":16, "Value":-1.48, "Power":325
+    },
+    {
+      "No":125017, "Group":25, "Level":17, "Value":-1.51, "Power":330
+    },
+    {
+      "No":125018, "Group":25, "Level":18, "Value":-1.54, "Power":335
+    },
+    {
+      "No":125019, "Group":25, "Level":19, "Value":-1.57, "Power":340
+    },
+    {
+      "No":125020, "Group":25, "Level":20, "Value":-1.6, "Power":345
+    },
+    {
+      "No":125021, "Group":25, "Level":21, "Value":-1.63, "Power":350
+    },
+    {
+      "No":125022, "Group":25, "Level":22, "Value":-1.66, "Power":355
+    },
+    {
+      "No":125023, "Group":25, "Level":23, "Value":-1.69, "Power":360
+    },
+    {
+      "No":125024, "Group":25, "Level":24, "Value":-1.72, "Power":365
+    },
+    {
+      "No":125025, "Group":25, "Level":25, "Value":-1.75, "Power":370
+    },
+    {
+      "No":125026, "Group":25, "Level":26, "Value":-1.78, "Power":375
+    },
+    {
+      "No":125027, "Group":25, "Level":27, "Value":-1.81, "Power":380
+    },
+    {
+      "No":125028, "Group":25, "Level":28, "Value":-1.84, "Power":385
+    },
+    {
+      "No":125029, "Group":25, "Level":29, "Value":-1.87, "Power":390
+    },
+    {
+      "No":125030, "Group":25, "Level":30, "Value":-1.9, "Power":395
+    },
+    {
+      "No":125031, "Group":25, "Level":31, "Value":-1.93, "Power":400
+    },
+    {
+      "No":125032, "Group":25, "Level":32, "Value":-1.96, "Power":405
+    },
+    {
+      "No":125033, "Group":25, "Level":33, "Value":-1.99, "Power":410
+    },
+    {
+      "No":125034, "Group":25, "Level":34, "Value":-2.02, "Power":415
+    },
+    {
+      "No":125035, "Group":25, "Level":35, "Value":-2.05, "Power":420
+    },
+    {
+      "No":125036, "Group":25, "Level":36, "Value":-2.08, "Power":425
+    },
+    {
+      "No":125037, "Group":25, "Level":37, "Value":-2.11, "Power":430
+    },
+    {
+      "No":125038, "Group":25, "Level":38, "Value":-2.14, "Power":435
+    },
+    {
+      "No":125039, "Group":25, "Level":39, "Value":-2.17, "Power":440
+    },
+    {
+      "No":125040, "Group":25, "Level":40, "Value":-2.2, "Power":445
+    },
+    {
+      "No":125041, "Group":25, "Level":41, "Value":-2.23, "Power":450
+    },
+    {
+      "No":125042, "Group":25, "Level":42, "Value":-2.26, "Power":455
+    },
+    {
+      "No":125043, "Group":25, "Level":43, "Value":-2.29, "Power":460
+    },
+    {
+      "No":125044, "Group":25, "Level":44, "Value":-2.32, "Power":465
+    },
+    {
+      "No":125045, "Group":25, "Level":45, "Value":-2.35, "Power":470
+    },
+    {
+      "No":125046, "Group":25, "Level":46, "Value":-2.38, "Power":475
+    },
+    {
+      "No":125047, "Group":25, "Level":47, "Value":-2.41, "Power":480
+    },
+    {
+      "No":125048, "Group":25, "Level":48, "Value":-2.44, "Power":485
+    },
+    {
+      "No":125049, "Group":25, "Level":49, "Value":-2.47, "Power":490
+    },
+    {
+      "No":125050, "Group":25, "Level":50, "Value":-2.5, "Power":500
+    },
+    {
+      "No":126001, "Group":26, "Level":1, "Value":-2.03, "Power":400
+    },
+    {
+      "No":126002, "Group":26, "Level":2, "Value":-2.06, "Power":405
+    },
+    {
+      "No":126003, "Group":26, "Level":3, "Value":-2.09, "Power":410
+    },
+    {
+      "No":126004, "Group":26, "Level":4, "Value":-2.12, "Power":415
+    },
+    {
+      "No":126005, "Group":26, "Level":5, "Value":-2.15, "Power":420
+    },
+    {
+      "No":126006, "Group":26, "Level":6, "Value":-2.18, "Power":425
+    },
+    {
+      "No":126007, "Group":26, "Level":7, "Value":-2.21, "Power":430
+    },
+    {
+      "No":126008, "Group":26, "Level":8, "Value":-2.24, "Power":435
+    },
+    {
+      "No":126009, "Group":26, "Level":9, "Value":-2.27, "Power":440
+    },
+    {
+      "No":126010, "Group":26, "Level":10, "Value":-2.3, "Power":445
+    },
+    {
+      "No":126011, "Group":26, "Level":11, "Value":-2.33, "Power":450
+    },
+    {
+      "No":126012, "Group":26, "Level":12, "Value":-2.36, "Power":455
+    },
+    {
+      "No":126013, "Group":26, "Level":13, "Value":-2.39, "Power":460
+    },
+    {
+      "No":126014, "Group":26, "Level":14, "Value":-2.42, "Power":465
+    },
+    {
+      "No":126015, "Group":26, "Level":15, "Value":-2.45, "Power":470
+    },
+    {
+      "No":126016, "Group":26, "Level":16, "Value":-2.48, "Power":475
+    },
+    {
+      "No":126017, "Group":26, "Level":17, "Value":-2.51, "Power":480
+    },
+    {
+      "No":126018, "Group":26, "Level":18, "Value":-2.54, "Power":485
+    },
+    {
+      "No":126019, "Group":26, "Level":19, "Value":-2.57, "Power":490
+    },
+    {
+      "No":126020, "Group":26, "Level":20, "Value":-2.6, "Power":495
+    },
+    {
+      "No":126021, "Group":26, "Level":21, "Value":-2.63, "Power":500
+    },
+    {
+      "No":126022, "Group":26, "Level":22, "Value":-2.66, "Power":505
+    },
+    {
+      "No":126023, "Group":26, "Level":23, "Value":-2.69, "Power":510
+    },
+    {
+      "No":126024, "Group":26, "Level":24, "Value":-2.72, "Power":515
+    },
+    {
+      "No":126025, "Group":26, "Level":25, "Value":-2.75, "Power":520
+    },
+    {
+      "No":126026, "Group":26, "Level":26, "Value":-2.78, "Power":525
+    },
+    {
+      "No":126027, "Group":26, "Level":27, "Value":-2.81, "Power":530
+    },
+    {
+      "No":126028, "Group":26, "Level":28, "Value":-2.84, "Power":535
+    },
+    {
+      "No":126029, "Group":26, "Level":29, "Value":-2.87, "Power":540
+    },
+    {
+      "No":126030, "Group":26, "Level":30, "Value":-2.9, "Power":545
+    },
+    {
+      "No":126031, "Group":26, "Level":31, "Value":-2.93, "Power":550
+    },
+    {
+      "No":126032, "Group":26, "Level":32, "Value":-2.96, "Power":555
+    },
+    {
+      "No":126033, "Group":26, "Level":33, "Value":-2.99, "Power":560
+    },
+    {
+      "No":126034, "Group":26, "Level":34, "Value":-3.02, "Power":565
+    },
+    {
+      "No":126035, "Group":26, "Level":35, "Value":-3.05, "Power":570
+    },
+    {
+      "No":126036, "Group":26, "Level":36, "Value":-3.08, "Power":575
+    },
+    {
+      "No":126037, "Group":26, "Level":37, "Value":-3.11, "Power":580
+    },
+    {
+      "No":126038, "Group":26, "Level":38, "Value":-3.14, "Power":585
+    },
+    {
+      "No":126039, "Group":26, "Level":39, "Value":-3.17, "Power":590
+    },
+    {
+      "No":126040, "Group":26, "Level":40, "Value":-3.2, "Power":595
+    },
+    {
+      "No":126041, "Group":26, "Level":41, "Value":-3.23, "Power":600
+    },
+    {
+      "No":126042, "Group":26, "Level":42, "Value":-3.26, "Power":605
+    },
+    {
+      "No":126043, "Group":26, "Level":43, "Value":-3.29, "Power":610
+    },
+    {
+      "No":126044, "Group":26, "Level":44, "Value":-3.32, "Power":615
+    },
+    {
+      "No":126045, "Group":26, "Level":45, "Value":-3.35, "Power":620
+    },
+    {
+      "No":126046, "Group":26, "Level":46, "Value":-3.38, "Power":625
+    },
+    {
+      "No":126047, "Group":26, "Level":47, "Value":-3.41, "Power":630
+    },
+    {
+      "No":126048, "Group":26, "Level":48, "Value":-3.44, "Power":635
+    },
+    {
+      "No":126049, "Group":26, "Level":49, "Value":-3.47, "Power":640
+    },
+    {
+      "No":126050, "Group":26, "Level":50, "Value":-3.5, "Power":650
+    },
+    {
+      "No":127001, "Group":27, "Level":1, "Value":-4.03, "Power":600
+    },
+    {
+      "No":127002, "Group":27, "Level":2, "Value":-4.06, "Power":605
+    },
+    {
+      "No":127003, "Group":27, "Level":3, "Value":-4.09, "Power":610
+    },
+    {
+      "No":127004, "Group":27, "Level":4, "Value":-4.12, "Power":615
+    },
+    {
+      "No":127005, "Group":27, "Level":5, "Value":-4.15, "Power":620
+    },
+    {
+      "No":127006, "Group":27, "Level":6, "Value":-4.18, "Power":625
+    },
+    {
+      "No":127007, "Group":27, "Level":7, "Value":-4.21, "Power":630
+    },
+    {
+      "No":127008, "Group":27, "Level":8, "Value":-4.24, "Power":635
+    },
+    {
+      "No":127009, "Group":27, "Level":9, "Value":-4.27, "Power":640
+    },
+    {
+      "No":127010, "Group":27, "Level":10, "Value":-4.3, "Power":645
+    },
+    {
+      "No":127011, "Group":27, "Level":11, "Value":-4.33, "Power":650
+    },
+    {
+      "No":127012, "Group":27, "Level":12, "Value":-4.36, "Power":655
+    },
+    {
+      "No":127013, "Group":27, "Level":13, "Value":-4.39, "Power":660
+    },
+    {
+      "No":127014, "Group":27, "Level":14, "Value":-4.42, "Power":665
+    },
+    {
+      "No":127015, "Group":27, "Level":15, "Value":-4.45, "Power":670
+    },
+    {
+      "No":127016, "Group":27, "Level":16, "Value":-4.48, "Power":675
+    },
+    {
+      "No":127017, "Group":27, "Level":17, "Value":-4.51, "Power":680
+    },
+    {
+      "No":127018, "Group":27, "Level":18, "Value":-4.54, "Power":685
+    },
+    {
+      "No":127019, "Group":27, "Level":19, "Value":-4.57, "Power":690
+    },
+    {
+      "No":127020, "Group":27, "Level":20, "Value":-4.6, "Power":695
+    },
+    {
+      "No":127021, "Group":27, "Level":21, "Value":-4.63, "Power":700
+    },
+    {
+      "No":127022, "Group":27, "Level":22, "Value":-4.66, "Power":705
+    },
+    {
+      "No":127023, "Group":27, "Level":23, "Value":-4.69, "Power":710
+    },
+    {
+      "No":127024, "Group":27, "Level":24, "Value":-4.72, "Power":715
+    },
+    {
+      "No":127025, "Group":27, "Level":25, "Value":-4.75, "Power":720
+    },
+    {
+      "No":127026, "Group":27, "Level":26, "Value":-4.78, "Power":725
+    },
+    {
+      "No":127027, "Group":27, "Level":27, "Value":-4.81, "Power":730
+    },
+    {
+      "No":127028, "Group":27, "Level":28, "Value":-4.84, "Power":735
+    },
+    {
+      "No":127029, "Group":27, "Level":29, "Value":-4.87, "Power":740
+    },
+    {
+      "No":127030, "Group":27, "Level":30, "Value":-4.9, "Power":745
+    },
+    {
+      "No":127031, "Group":27, "Level":31, "Value":-4.93, "Power":750
+    },
+    {
+      "No":127032, "Group":27, "Level":32, "Value":-4.96, "Power":755
+    },
+    {
+      "No":127033, "Group":27, "Level":33, "Value":-4.99, "Power":760
+    },
+    {
+      "No":127034, "Group":27, "Level":34, "Value":-5.02, "Power":765
+    },
+    {
+      "No":127035, "Group":27, "Level":35, "Value":-5.05, "Power":770
+    },
+    {
+      "No":127036, "Group":27, "Level":36, "Value":-5.08, "Power":775
+    },
+    {
+      "No":127037, "Group":27, "Level":37, "Value":-5.11, "Power":780
+    },
+    {
+      "No":127038, "Group":27, "Level":38, "Value":-5.14, "Power":785
+    },
+    {
+      "No":127039, "Group":27, "Level":39, "Value":-5.17, "Power":790
+    },
+    {
+      "No":127040, "Group":27, "Level":40, "Value":-5.2, "Power":795
+    },
+    {
+      "No":127041, "Group":27, "Level":41, "Value":-5.23, "Power":800
+    },
+    {
+      "No":127042, "Group":27, "Level":42, "Value":-5.26, "Power":805
+    },
+    {
+      "No":127043, "Group":27, "Level":43, "Value":-5.29, "Power":810
+    },
+    {
+      "No":127044, "Group":27, "Level":44, "Value":-5.32, "Power":815
+    },
+    {
+      "No":127045, "Group":27, "Level":45, "Value":-5.35, "Power":820
+    },
+    {
+      "No":127046, "Group":27, "Level":46, "Value":-5.38, "Power":825
+    },
+    {
+      "No":127047, "Group":27, "Level":47, "Value":-5.41, "Power":830
+    },
+    {
+      "No":127048, "Group":27, "Level":48, "Value":-5.44, "Power":835
+    },
+    {
+      "No":127049, "Group":27, "Level":49, "Value":-5.47, "Power":840
+    },
+    {
+      "No":127050, "Group":27, "Level":50, "Value":-5.5, "Power":850
+    },
+    {
+      "No":128001, "Group":28, "Level":1, "Value":-6.03, "Power":800
+    },
+    {
+      "No":128002, "Group":28, "Level":2, "Value":-6.06, "Power":805
+    },
+    {
+      "No":128003, "Group":28, "Level":3, "Value":-6.09, "Power":810
+    },
+    {
+      "No":128004, "Group":28, "Level":4, "Value":-6.12, "Power":815
+    },
+    {
+      "No":128005, "Group":28, "Level":5, "Value":-6.15, "Power":820
+    },
+    {
+      "No":128006, "Group":28, "Level":6, "Value":-6.18, "Power":825
+    },
+    {
+      "No":128007, "Group":28, "Level":7, "Value":-6.21, "Power":830
+    },
+    {
+      "No":128008, "Group":28, "Level":8, "Value":-6.24, "Power":835
+    },
+    {
+      "No":128009, "Group":28, "Level":9, "Value":-6.27, "Power":840
+    },
+    {
+      "No":128010, "Group":28, "Level":10, "Value":-6.3, "Power":845
+    },
+    {
+      "No":128011, "Group":28, "Level":11, "Value":-6.33, "Power":850
+    },
+    {
+      "No":128012, "Group":28, "Level":12, "Value":-6.36, "Power":855
+    },
+    {
+      "No":128013, "Group":28, "Level":13, "Value":-6.39, "Power":860
+    },
+    {
+      "No":128014, "Group":28, "Level":14, "Value":-6.42, "Power":865
+    },
+    {
+      "No":128015, "Group":28, "Level":15, "Value":-6.45, "Power":870
+    },
+    {
+      "No":128016, "Group":28, "Level":16, "Value":-6.48, "Power":875
+    },
+    {
+      "No":128017, "Group":28, "Level":17, "Value":-6.51, "Power":880
+    },
+    {
+      "No":128018, "Group":28, "Level":18, "Value":-6.54, "Power":885
+    },
+    {
+      "No":128019, "Group":28, "Level":19, "Value":-6.57, "Power":890
+    },
+    {
+      "No":128020, "Group":28, "Level":20, "Value":-6.6, "Power":895
+    },
+    {
+      "No":128021, "Group":28, "Level":21, "Value":-6.63, "Power":900
+    },
+    {
+      "No":128022, "Group":28, "Level":22, "Value":-6.66, "Power":905
+    },
+    {
+      "No":128023, "Group":28, "Level":23, "Value":-6.69, "Power":910
+    },
+    {
+      "No":128024, "Group":28, "Level":24, "Value":-6.72, "Power":915
+    },
+    {
+      "No":128025, "Group":28, "Level":25, "Value":-6.75, "Power":920
+    },
+    {
+      "No":128026, "Group":28, "Level":26, "Value":-6.78, "Power":925
+    },
+    {
+      "No":128027, "Group":28, "Level":27, "Value":-6.81, "Power":930
+    },
+    {
+      "No":128028, "Group":28, "Level":28, "Value":-6.84, "Power":935
+    },
+    {
+      "No":128029, "Group":28, "Level":29, "Value":-6.87, "Power":940
+    },
+    {
+      "No":128030, "Group":28, "Level":30, "Value":-6.9, "Power":945
+    },
+    {
+      "No":128031, "Group":28, "Level":31, "Value":-6.93, "Power":950
+    },
+    {
+      "No":128032, "Group":28, "Level":32, "Value":-6.96, "Power":955
+    },
+    {
+      "No":128033, "Group":28, "Level":33, "Value":-6.99, "Power":960
+    },
+    {
+      "No":128034, "Group":28, "Level":34, "Value":-7.02, "Power":965
+    },
+    {
+      "No":128035, "Group":28, "Level":35, "Value":-7.05, "Power":970
+    },
+    {
+      "No":128036, "Group":28, "Level":36, "Value":-7.08, "Power":975
+    },
+    {
+      "No":128037, "Group":28, "Level":37, "Value":-7.11, "Power":980
+    },
+    {
+      "No":128038, "Group":28, "Level":38, "Value":-7.14, "Power":985
+    },
+    {
+      "No":128039, "Group":28, "Level":39, "Value":-7.17, "Power":990
+    },
+    {
+      "No":128040, "Group":28, "Level":40, "Value":-7.2, "Power":995
+    },
+    {
+      "No":128041, "Group":28, "Level":41, "Value":-7.23, "Power":1000
+    },
+    {
+      "No":128042, "Group":28, "Level":42, "Value":-7.26, "Power":1005
+    },
+    {
+      "No":128043, "Group":28, "Level":43, "Value":-7.29, "Power":1010
+    },
+    {
+      "No":128044, "Group":28, "Level":44, "Value":-7.32, "Power":1015
+    },
+    {
+      "No":128045, "Group":28, "Level":45, "Value":-7.35, "Power":1020
+    },
+    {
+      "No":128046, "Group":28, "Level":46, "Value":-7.38, "Power":1025
+    },
+    {
+      "No":128047, "Group":28, "Level":47, "Value":-7.41, "Power":1030
+    },
+    {
+      "No":128048, "Group":28, "Level":48, "Value":-7.44, "Power":1035
+    },
+    {
+      "No":128049, "Group":28, "Level":49, "Value":-7.47, "Power":1040
+    },
+    {
+      "No":128050, "Group":28, "Level":50, "Value":-7.5, "Power":1050
+    },
+    {
+      "No":501001, "Group":501, "Level":1, "Value":-10, "Power":0
+    },
+    {
+      "No":501002, "Group":501, "Level":2, "Value":-10, "Power":0
+    },
+    {
+      "No":501003, "Group":501, "Level":3, "Value":-10, "Power":0
+    },
+    {
+      "No":501004, "Group":501, "Level":4, "Value":-10, "Power":0
+    },
+    {
+      "No":501005, "Group":501, "Level":5, "Value":-10, "Power":0
+    },
+    {
+      "No":501006, "Group":501, "Level":6, "Value":-10, "Power":0
+    },
+    {
+      "No":501007, "Group":501, "Level":7, "Value":-10, "Power":0
+    },
+    {
+      "No":501008, "Group":501, "Level":8, "Value":-10, "Power":0
+    },
+    {
+      "No":501009, "Group":501, "Level":9, "Value":-10, "Power":0
+    },
+    {
+      "No":501010, "Group":501, "Level":10, "Value":-10, "Power":0
+    },
+    {
+      "No":501011, "Group":501, "Level":11, "Value":-10, "Power":0
+    },
+    {
+      "No":501012, "Group":501, "Level":12, "Value":-10, "Power":0
+    },
+    {
+      "No":501013, "Group":501, "Level":13, "Value":-10, "Power":0
+    },
+    {
+      "No":501014, "Group":501, "Level":14, "Value":-10, "Power":0
+    },
+    {
+      "No":501015, "Group":501, "Level":15, "Value":-10, "Power":0
+    },
+    {
+      "No":501016, "Group":501, "Level":16, "Value":-10, "Power":0
+    },
+    {
+      "No":501017, "Group":501, "Level":17, "Value":-10, "Power":0
+    },
+    {
+      "No":501018, "Group":501, "Level":18, "Value":-10, "Power":0
+    },
+    {
+      "No":501019, "Group":501, "Level":19, "Value":-10, "Power":0
+    },
+    {
+      "No":501020, "Group":501, "Level":20, "Value":-10, "Power":0
+    },
+    {
+      "No":501021, "Group":501, "Level":21, "Value":-10, "Power":0
+    },
+    {
+      "No":501022, "Group":501, "Level":22, "Value":-10, "Power":0
+    },
+    {
+      "No":501023, "Group":501, "Level":23, "Value":-10, "Power":0
+    },
+    {
+      "No":501024, "Group":501, "Level":24, "Value":-10, "Power":0
+    },
+    {
+      "No":501025, "Group":501, "Level":25, "Value":-10, "Power":0
+    },
+    {
+      "No":501026, "Group":501, "Level":26, "Value":-10, "Power":0
+    },
+    {
+      "No":501027, "Group":501, "Level":27, "Value":-10, "Power":0
+    },
+    {
+      "No":501028, "Group":501, "Level":28, "Value":-10, "Power":0
+    },
+    {
+      "No":501029, "Group":501, "Level":29, "Value":-10, "Power":0
+    },
+    {
+      "No":501030, "Group":501, "Level":30, "Value":-10, "Power":0
+    },
+    {
+      "No":501031, "Group":501, "Level":31, "Value":-10, "Power":0
+    },
+    {
+      "No":501032, "Group":501, "Level":32, "Value":-10, "Power":0
+    },
+    {
+      "No":501033, "Group":501, "Level":33, "Value":-10, "Power":0
+    },
+    {
+      "No":501034, "Group":501, "Level":34, "Value":-10, "Power":0
+    },
+    {
+      "No":501035, "Group":501, "Level":35, "Value":-10, "Power":0
+    },
+    {
+      "No":501036, "Group":501, "Level":36, "Value":-10, "Power":0
+    },
+    {
+      "No":501037, "Group":501, "Level":37, "Value":-10, "Power":0
+    },
+    {
+      "No":501038, "Group":501, "Level":38, "Value":-10, "Power":0
+    },
+    {
+      "No":501039, "Group":501, "Level":39, "Value":-10, "Power":0
+    },
+    {
+      "No":501040, "Group":501, "Level":40, "Value":-10, "Power":0
+    },
+    {
+      "No":501041, "Group":501, "Level":41, "Value":-10, "Power":0
+    },
+    {
+      "No":501042, "Group":501, "Level":42, "Value":-10, "Power":0
+    },
+    {
+      "No":501043, "Group":501, "Level":43, "Value":-10, "Power":0
+    },
+    {
+      "No":501044, "Group":501, "Level":44, "Value":-10, "Power":0
+    },
+    {
+      "No":501045, "Group":501, "Level":45, "Value":-10, "Power":0
+    },
+    {
+      "No":501046, "Group":501, "Level":46, "Value":-10, "Power":0
+    },
+    {
+      "No":501047, "Group":501, "Level":47, "Value":-10, "Power":0
+    },
+    {
+      "No":501048, "Group":501, "Level":48, "Value":-10, "Power":0
+    },
+    {
+      "No":501049, "Group":501, "Level":49, "Value":-10, "Power":0
+    },
+    {
+      "No":501050, "Group":501, "Level":50, "Value":-10, "Power":0
+    }
+  ]
+}

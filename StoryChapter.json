@@ -1,0 +1,160 @@
+{
+  "Name":"StoryChapter", "Rows":[
+    {
+      "No":100101, "Type":1, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"第１章", "Group":1001, "PrizeGroup":14008, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":100201, "Type":1, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"第２章", "Group":1002, "PrizeGroup":14008, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200101, "Type":2, "RankmatchSeasonNo":0, "Order":1, "CharNo":10001, "Title":"岬 明乃", "Group":2001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200201, "Type":2, "RankmatchSeasonNo":0, "Order":2, "CharNo":10002, "Title":"宗谷 ましろ", "Group":2002, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200301, "Type":2, "RankmatchSeasonNo":0, "Order":3, "CharNo":10003, "Title":"立石 志摩", "Group":2003, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200401, "Type":2, "RankmatchSeasonNo":0, "Order":4, "CharNo":10004, "Title":"西崎 芽依", "Group":2004, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200501, "Type":2, "RankmatchSeasonNo":0, "Order":5, "CharNo":10005, "Title":"納沙 幸子", "Group":2005, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200601, "Type":2, "RankmatchSeasonNo":0, "Order":6, "CharNo":10006, "Title":"知床 鈴", "Group":2006, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200701, "Type":2, "RankmatchSeasonNo":0, "Order":7, "CharNo":10007, "Title":"小笠原 光", "Group":2007, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200801, "Type":2, "RankmatchSeasonNo":0, "Order":8, "CharNo":10008, "Title":"武田 美千留", "Group":2008, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":200901, "Type":2, "RankmatchSeasonNo":0, "Order":9, "CharNo":10009, "Title":"日置 順子", "Group":2009, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201001, "Type":2, "RankmatchSeasonNo":0, "Order":10, "CharNo":10010, "Title":"松永 理都子", "Group":2010, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201101, "Type":2, "RankmatchSeasonNo":0, "Order":11, "CharNo":10011, "Title":"姫路 果代子", "Group":2011, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201201, "Type":2, "RankmatchSeasonNo":0, "Order":12, "CharNo":10012, "Title":"万里小路 楓", "Group":2012, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201301, "Type":2, "RankmatchSeasonNo":0, "Order":13, "CharNo":10013, "Title":"勝田 聡子", "Group":2013, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201401, "Type":2, "RankmatchSeasonNo":0, "Order":14, "CharNo":10014, "Title":"山下 秀子", "Group":2014, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201501, "Type":2, "RankmatchSeasonNo":0, "Order":15, "CharNo":10015, "Title":"内田 まゆみ", "Group":2015, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201601, "Type":2, "RankmatchSeasonNo":0, "Order":16, "CharNo":10016, "Title":"八木 鶫", "Group":2016, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201701, "Type":2, "RankmatchSeasonNo":0, "Order":17, "CharNo":10017, "Title":"宇田 慧", "Group":2017, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201801, "Type":2, "RankmatchSeasonNo":0, "Order":18, "CharNo":10018, "Title":"野間 マチコ", "Group":2018, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":201901, "Type":2, "RankmatchSeasonNo":0, "Order":19, "CharNo":10019, "Title":"柳原 麻侖", "Group":2019, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202001, "Type":2, "RankmatchSeasonNo":0, "Order":20, "CharNo":10020, "Title":"黒木 洋美", "Group":2020, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202101, "Type":2, "RankmatchSeasonNo":0, "Order":21, "CharNo":10021, "Title":"若狭 麗緒", "Group":2021, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202201, "Type":2, "RankmatchSeasonNo":0, "Order":22, "CharNo":10022, "Title":"伊勢 桜良", "Group":2022, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202301, "Type":2, "RankmatchSeasonNo":0, "Order":23, "CharNo":10023, "Title":"駿河 留奈", "Group":2023, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202401, "Type":2, "RankmatchSeasonNo":0, "Order":24, "CharNo":10024, "Title":"広田 空", "Group":2024, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202501, "Type":2, "RankmatchSeasonNo":0, "Order":25, "CharNo":10025, "Title":"和住 媛萌", "Group":2025, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202601, "Type":2, "RankmatchSeasonNo":0, "Order":26, "CharNo":10026, "Title":"青木 百々", "Group":2026, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202701, "Type":2, "RankmatchSeasonNo":0, "Order":27, "CharNo":10027, "Title":"等松 美海", "Group":2027, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202801, "Type":2, "RankmatchSeasonNo":0, "Order":28, "CharNo":10028, "Title":"伊良子 美甘", "Group":2028, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":202901, "Type":2, "RankmatchSeasonNo":0, "Order":29, "CharNo":10029, "Title":"杵崎 ほまれ", "Group":2029, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203001, "Type":2, "RankmatchSeasonNo":0, "Order":30, "CharNo":10030, "Title":"杵崎 あかね", "Group":2030, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203101, "Type":2, "RankmatchSeasonNo":0, "Order":31, "CharNo":10031, "Title":"鏑木 美波", "Group":2031, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203301, "Type":2, "RankmatchSeasonNo":0, "Order":33, "CharNo":10033, "Title":"知名 もえか", "Group":2033, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203401, "Type":2, "RankmatchSeasonNo":0, "Order":34, "CharNo":10034, "Title":"ヴィルヘルミーナ", "Group":2034, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203501, "Type":2, "RankmatchSeasonNo":0, "Order":35, "CharNo":10035, "Title":"テア", "Group":2035, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203601, "Type":2, "RankmatchSeasonNo":0, "Order":36, "CharNo":10036, "Title":"榊原 つむぎ", "Group":2036, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203701, "Type":2, "RankmatchSeasonNo":0, "Order":37, "CharNo":10037, "Title":"長澤 君江", "Group":2037, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203801, "Type":2, "RankmatchSeasonNo":0, "Order":38, "CharNo":10038, "Title":"大谷 由美子", "Group":2038, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":203901, "Type":2, "RankmatchSeasonNo":0, "Order":39, "CharNo":10039, "Title":"賀茂 つつじ", "Group":2039, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":204001, "Type":2, "RankmatchSeasonNo":0, "Order":40, "CharNo":10040, "Title":"高橋 千華", "Group":2040, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":204101, "Type":2, "RankmatchSeasonNo":0, "Order":41, "CharNo":10041, "Title":"山辺 あゆみ", "Group":2041, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":204201, "Type":2, "RankmatchSeasonNo":0, "Order":42, "CharNo":10042, "Title":"大指 紀子", "Group":2042, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":204301, "Type":2, "RankmatchSeasonNo":0, "Order":43, "CharNo":10043, "Title":"加藤 小百合", "Group":2043, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":300101, "Type":3, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"チュートリアル", "Group":3001, "PrizeGroup":140003, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":300201, "Type":3, "RankmatchSeasonNo":0, "Order":3, "CharNo":0, "Title":"大型艦「比叡」獲得チャレンジ", "Group":3002, "PrizeGroup":14006, "Resource":0, "StartTime":"2019-04-04T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":300301, "Type":3, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"強化素材獲得チャレンジ", "Group":3003, "PrizeGroup":14010, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":300401, "Type":3, "RankmatchSeasonNo":0, "Order":4, "CharNo":0, "Title":"AJチャレンジ", "Group":3004, "PrizeGroup":14004, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":300501, "Type":3, "RankmatchSeasonNo":0, "Order":5, "CharNo":0, "Title":"艦隊戦演習マップ", "Group":3005, "PrizeGroup":14010, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2018-01-01T00:00:00+09:00"
+    },
+    {
+      "No":400201, "Type":4, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"正月", "Group":4002, "PrizeGroup":140002, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2018-01-01T00:00:00+09:00"
+    },
+    {
+      "No":500101, "Type":5, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"今週のハイフリ 第1週～第10週", "Group":5001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":500201, "Type":5, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"今週のハイフリ 第11週～第12週", "Group":5002, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2018-01-01T00:00:00+09:00"
+    }
+  ]
+}

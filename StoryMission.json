@@ -1,0 +1,82 @@
+{
+  "Name":"StoryMission", "Rows":[
+    {
+      "No":1001, "Name":"ストーリーをクリアせよ！", "Description":"", "Type":1, "MissionType":1, "ClearValue":0
+    },
+    {
+      "No":2001, "Name":"180秒以内に勝利せよ！", "Description":"", "Type":2, "MissionType":2, "ClearValue":180
+    },
+    {
+      "No":2002, "Name":"150秒以内に勝利せよ！", "Description":"", "Type":2, "MissionType":2, "ClearValue":150
+    },
+    {
+      "No":2003, "Name":"120秒以内に勝利せよ！", "Description":"", "Type":2, "MissionType":2, "ClearValue":120
+    },
+    {
+      "No":2004, "Name":"90秒以内に勝利せよ！", "Description":"", "Type":2, "MissionType":2, "ClearValue":90
+    },
+    {
+      "No":2005, "Name":"60秒以内に勝利せよ！", "Description":"", "Type":2, "MissionType":2, "ClearValue":60
+    },
+    {
+      "No":3001, "Name":"60秒以上経過で勝利せよ！", "Description":"", "Type":3, "MissionType":2, "ClearValue":60
+    },
+    {
+      "No":4001, "Name":"航洋艦のみで勝利せよ！", "Description":"", "Type":4, "MissionType":2, "ClearValue":1
+    },
+    {
+      "No":5001, "Name":"航洋艦を入れずに勝利せよ！", "Description":"", "Type":5, "MissionType":2, "ClearValue":1
+    },
+    {
+      "No":6001, "Name":"相手拠点を破壊して勝利せよ！", "Description":"", "Type":6, "MissionType":1, "ClearValue":0
+    },
+    {
+      "No":7001, "Name":"時間を使い切り勝利せよ！", "Description":"", "Type":7, "MissionType":1, "ClearValue":0
+    },
+    {
+      "No":8001, "Name":"自拠点の耐久値が50％以上で勝利せよ！", "Description":"", "Type":8, "MissionType":2, "ClearValue":50
+    },
+    {
+      "No":9001, "Name":"相手艦船を3隻以上撃破して勝利せよ！", "Description":"", "Type":9, "MissionType":2, "ClearValue":3
+    },
+    {
+      "No":10001, "Name":"相手艦船を3隻以下の撃破数で勝利せよ！", "Description":"", "Type":10, "MissionType":2, "ClearValue":3
+    },
+    {
+      "No":11001, "Name":"味方艦船の撤退数が5隻以下で勝利せよ！", "Description":"", "Type":11, "MissionType":2, "ClearValue":5
+    },
+    {
+      "No":12001, "Name":"航海科のみの艦隊（5隻全て）で勝利せよ！", "Description":"", "Type":12, "MissionType":2, "ClearValue":1
+    },
+    {
+      "No":13001, "Name":"艦長に岬 明乃を含めて勝利せよ！", "Description":"", "Type":13, "MissionType":2, "ClearValue":10001
+    },
+    {
+      "No":14001, "Name":"艦長に航海科を含めて勝利せよ！", "Description":"", "Type":14, "MissionType":2, "ClearValue":1
+    },
+    {
+      "No":15001, "Name":"艦長に航海科を含めずに勝利せよ！", "Description":"", "Type":15, "MissionType":2, "ClearValue":1
+    },
+    {
+      "No":16001, "Name":"艦長を航海科のみで勝利せよ！", "Description":"", "Type":16, "MissionType":2, "ClearValue":1
+    },
+    {
+      "No":17001, "Name":"艦長スキルを2回以上使い勝利せよ！", "Description":"", "Type":17, "MissionType":2, "ClearValue":2
+    },
+    {
+      "No":18001, "Name":"艦長スキルの使用が2回以下で勝利せよ！", "Description":"", "Type":18, "MissionType":2, "ClearValue":2
+    },
+    {
+      "No":19001, "Name":"全艦船を出撃させて勝利せよ！", "Description":"", "Type":19, "MissionType":1, "ClearValue":0
+    },
+    {
+      "No":20001, "Name":"全てのスキルが砲撃のみの艦隊で勝利せよ！", "Description":"", "Type":20, "MissionType":2, "ClearValue":1
+    },
+    {
+      "No":20002, "Name":"全てのスキルが魚雷のみの艦隊で勝利せよ！", "Description":"", "Type":20, "MissionType":2, "ClearValue":2
+    },
+    {
+      "No":20003, "Name":"全てのスキルが機雷のみの艦隊で勝利せよ！", "Description":"", "Type":20, "MissionType":2, "ClearValue":3
+    }
+  ]
+}

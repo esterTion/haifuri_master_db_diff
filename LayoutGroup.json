@@ -1,0 +1,112 @@
+{
+  "Name":"LayoutGroup", "Rows":[
+    {
+      "No":1001001, "Group":1001, "LayoutObjectSkillNo":101001
+    },
+    {
+      "No":2001001, "Group":2001, "LayoutObjectSkillNo":102001
+    },
+    {
+      "No":3001001, "Group":3001, "LayoutObjectSkillNo":103001
+    },
+    {
+      "No":4001001, "Group":4001, "LayoutObjectSkillNo":104001
+    },
+    {
+      "No":5001001, "Group":5001, "LayoutObjectSkillNo":105001
+    },
+    {
+      "No":6001001, "Group":6001, "LayoutObjectSkillNo":106001
+    },
+    {
+      "No":7001001, "Group":7001, "LayoutObjectSkillNo":107001
+    },
+    {
+      "No":11001001, "Group":11001, "LayoutObjectSkillNo":111001
+    },
+    {
+      "No":12001001, "Group":12001, "LayoutObjectSkillNo":112001
+    },
+    {
+      "No":12001002, "Group":12002, "LayoutObjectSkillNo":112002
+    },
+    {
+      "No":12001003, "Group":12003, "LayoutObjectSkillNo":112003
+    },
+    {
+      "No":13001001, "Group":13001, "LayoutObjectSkillNo":113001
+    },
+    {
+      "No":21001001, "Group":21001, "LayoutObjectSkillNo":121001
+    },
+    {
+      "No":22001001, "Group":22001, "LayoutObjectSkillNo":122001
+    },
+    {
+      "No":23001001, "Group":23001, "LayoutObjectSkillNo":123001
+    },
+    {
+      "No":31001001, "Group":31001, "LayoutObjectSkillNo":131001
+    },
+    {
+      "No":32001001, "Group":32001, "LayoutObjectSkillNo":132001
+    },
+    {
+      "No":33001001, "Group":33001, "LayoutObjectSkillNo":133001
+    },
+    {
+      "No":1021001, "Group":1021, "LayoutObjectSkillNo":201001
+    },
+    {
+      "No":2021001, "Group":2021, "LayoutObjectSkillNo":202001
+    },
+    {
+      "No":3021001, "Group":3021, "LayoutObjectSkillNo":203001
+    },
+    {
+      "No":4021001, "Group":4021, "LayoutObjectSkillNo":204001
+    },
+    {
+      "No":5021001, "Group":5021, "LayoutObjectSkillNo":205001
+    },
+    {
+      "No":6021001, "Group":6021, "LayoutObjectSkillNo":206001
+    },
+    {
+      "No":7021001, "Group":7021, "LayoutObjectSkillNo":207001
+    },
+    {
+      "No":11021001, "Group":11021, "LayoutObjectSkillNo":211001
+    },
+    {
+      "No":12021001, "Group":12021, "LayoutObjectSkillNo":212001
+    },
+    {
+      "No":12021002, "Group":12022, "LayoutObjectSkillNo":212002
+    },
+    {
+      "No":12021003, "Group":12023, "LayoutObjectSkillNo":212003
+    },
+    {
+      "No":13021001, "Group":13021, "LayoutObjectSkillNo":213001
+    },
+    {
+      "No":21021001, "Group":21021, "LayoutObjectSkillNo":221001
+    },
+    {
+      "No":22021001, "Group":22021, "LayoutObjectSkillNo":222001
+    },
+    {
+      "No":23021001, "Group":23021, "LayoutObjectSkillNo":223001
+    },
+    {
+      "No":31021001, "Group":31021, "LayoutObjectSkillNo":231001
+    },
+    {
+      "No":32021001, "Group":32021, "LayoutObjectSkillNo":232001
+    },
+    {
+      "No":33021001, "Group":33021, "LayoutObjectSkillNo":233001
+    }
+  ]
+}

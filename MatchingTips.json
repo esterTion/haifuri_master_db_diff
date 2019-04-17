@@ -1,0 +1,40 @@
+{
+  "Name":"MatchingTips", "Rows":[
+    {
+      "No":1001, "Message":"ブーストタイムになると\n指揮ゲージの上昇は早くなる！", "Order":1, "Valid":true
+    },
+    {
+      "No":1002, "Message":"戦術は交戦と突撃がある\n交戦：敵艦船と遭遇すると撃ち合う\n突撃：航行を止めず敵拠点に突っ込む", "Order":2, "Valid":true
+    },
+    {
+      "No":1003, "Message":"マニュアル操作はクラスBから解放！", "Order":3, "Valid":true
+    },
+    {
+      "No":1004, "Message":"くの字ルートは自陣防衛後、\nMAP中央から拠点を最短距離で目指す\n", "Order":4, "Valid":true
+    },
+    {
+      "No":1005, "Message":"L字ルートは、MAPの両端から\n拠点に奇襲をかける", "Order":5, "Valid":true
+    },
+    {
+      "No":1006, "Message":"敵に勝てないときは、\nキャラクターの育成や\n艦隊編成を見直そう", "Order":6, "Valid":true
+    },
+    {
+      "No":2001, "Message":"イベントヒント表示テスト1", "Order":7, "Valid":false
+    },
+    {
+      "No":2002, "Message":"イベントヒント表示テスト2\nイベントヒント表示テスト2", "Order":8, "Valid":false
+    },
+    {
+      "No":2003, "Message":"イベントヒント表示テスト3\nイベントヒント表示テスト3\nイベントヒント表示テスト3", "Order":9, "Valid":false
+    },
+    {
+      "No":2004, "Message":"イベントヒント表示テスト4", "Order":10, "Valid":false
+    },
+    {
+      "No":2005, "Message":"イベントヒント表示テスト5\nイベントヒント表示テスト5", "Order":11, "Valid":false
+    },
+    {
+      "No":2006, "Message":"イベントヒント表示テスト6\nイベントヒント表示テスト6\nイベントヒント表示テスト6", "Order":12, "Valid":false
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "Name":"CardExpList", "Rows":[
+    {
+      "No":101001, "Group":101, "Level":1, "Next":100, "ItemNo":5001001
+    },
+    {
+      "No":101002, "Group":101, "Level":2, "Next":300, "ItemNo":5001001
+    },
+    {
+      "No":101003, "Group":101, "Level":3, "Next":600, "ItemNo":5001001
+    },
+    {
+      "No":101004, "Group":101, "Level":4, "Next":900, "ItemNo":5001001
+    },
+    {
+      "No":101005, "Group":101, "Level":5, "Next":1200, "ItemNo":5001001
+    },
+    {
+      "No":101006, "Group":101, "Level":6, "Next":1500, "ItemNo":5001001
+    },
+    {
+      "No":101007, "Group":101, "Level":7, "Next":1800, "ItemNo":5001001
+    },
+    {
+      "No":101008, "Group":101, "Level":8, "Next":2100, "ItemNo":5001001
+    },
+    {
+      "No":101009, "Group":101, "Level":9, "Next":2400, "ItemNo":5001001
+    },
+    {
+      "No":101010, "Group":101, "Level":10, "Next":2700, "ItemNo":5001001
+    },
+    {
+      "No":101011, "Group":101, "Level":11, "Next":3000, "ItemNo":5001001
+    },
+    {
+      "No":101012, "Group":101, "Level":12, "Next":3300, "ItemNo":5001001
+    },
+    {
+      "No":101013, "Group":101, "Level":13, "Next":3600, "ItemNo":5001001
+    },
+    {
+      "No":101014, "Group":101, "Level":14, "Next":3900, "ItemNo":5001001
+    },
+    {
+      "No":101015, "Group":101, "Level":15, "Next":4200, "ItemNo":5001001
+    },
+    {
+      "No":101016, "Group":101, "Level":16, "Next":4500, "ItemNo":5001001
+    },
+    {
+      "No":101017, "Group":101, "Level":17, "Next":4800, "ItemNo":5001001
+    },
+    {
+      "No":101018, "Group":101, "Level":18, "Next":5100, "ItemNo":5001001
+    },
+    {
+      "No":101019, "Group":101, "Level":19, "Next":5400, "ItemNo":5001001
+    },
+    {
+      "No":101020, "Group":101, "Level":20, "Next":5700, "ItemNo":5001001
+    },
+    {
+      "No":101021, "Group":101, "Level":21, "Next":6000, "ItemNo":5001001
+    },
+    {
+      "No":101022, "Group":101, "Level":22, "Next":6300, "ItemNo":5001001
+    },
+    {
+      "No":101023, "Group":101, "Level":23, "Next":6600, "ItemNo":5001001
+    },
+    {
+      "No":101024, "Group":101, "Level":24, "Next":6900, "ItemNo":5001001
+    },
+    {
+      "No":101025, "Group":101, "Level":25, "Next":7200, "ItemNo":5001001
+    },
+    {
+      "No":101026, "Group":101, "Level":26, "Next":7500, "ItemNo":5001001
+    },
+    {
+      "No":101027, "Group":101, "Level":27, "Next":7800, "ItemNo":5001001
+    },
+    {
+      "No":101028, "Group":101, "Level":28, "Next":8100, "ItemNo":5001001
+    },
+    {
+      "No":101029, "Group":101, "Level":29, "Next":8400, "ItemNo":5001001
+    },
+    {
+      "No":101030, "Group":101, "Level":30, "Next":8700, "ItemNo":5001001
+    },
+    {
+      "No":101031, "Group":101, "Level":31, "Next":9000, "ItemNo":5001001
+    },
+    {
+      "No":101032, "Group":101, "Level":32, "Next":9300, "ItemNo":5001001
+    },
+    {
+      "No":101033, "Group":101, "Level":33, "Next":9600, "ItemNo":5001001
+    },
+    {
+      "No":101034, "Group":101, "Level":34, "Next":9900, "ItemNo":5001001
+    },
+    {
+      "No":101035, "Group":101, "Level":35, "Next":10200, "ItemNo":5001001
+    },
+    {
+      "No":101036, "Group":101, "Level":36, "Next":10500, "ItemNo":5001001
+    },
+    {
+      "No":101037, "Group":101, "Level":37, "Next":10800, "ItemNo":5001001
+    },
+    {
+      "No":101038, "Group":101, "Level":38, "Next":11100, "ItemNo":5001001
+    },
+    {
+      "No":101039, "Group":101, "Level":39, "Next":11400, "ItemNo":5001001
+    },
+    {
+      "No":101040, "Group":101, "Level":40, "Next":11700, "ItemNo":5001001
+    },
+    {
+      "No":101041, "Group":101, "Level":41, "Next":12000, "ItemNo":5001001
+    },
+    {
+      "No":101042, "Group":101, "Level":42, "Next":12300, "ItemNo":5001001
+    },
+    {
+      "No":101043, "Group":101, "Level":43, "Next":12600, "ItemNo":5001001
+    },
+    {
+      "No":101044, "Group":101, "Level":44, "Next":12900, "ItemNo":5001001
+    },
+    {
+      "No":101045, "Group":101, "Level":45, "Next":13200, "ItemNo":5001001
+    },
+    {
+      "No":101046, "Group":101, "Level":46, "Next":13500, "ItemNo":5001001
+    },
+    {
+      "No":101047, "Group":101, "Level":47, "Next":13800, "ItemNo":5001001
+    },
+    {
+      "No":101048, "Group":101, "Level":48, "Next":14100, "ItemNo":5001001
+    },
+    {
+      "No":101049, "Group":101, "Level":49, "Next":14400, "ItemNo":5001001
+    },
+    {
+      "No":101050, "Group":101, "Level":50, "Next":0, "ItemNo":0
+    },
+    {
+      "No":201001, "Group":201, "Level":1, "Next":100, "ItemNo":5001001
+    },
+    {
+      "No":201002, "Group":201, "Level":2, "Next":300, "ItemNo":5001001
+    },
+    {
+      "No":201003, "Group":201, "Level":3, "Next":600, "ItemNo":5001001
+    },
+    {
+      "No":201004, "Group":201, "Level":4, "Next":900, "ItemNo":5001001
+    },
+    {
+      "No":201005, "Group":201, "Level":5, "Next":1200, "ItemNo":5001001
+    },
+    {
+      "No":201006, "Group":201, "Level":6, "Next":1500, "ItemNo":5001001
+    },
+    {
+      "No":201007, "Group":201, "Level":7, "Next":1800, "ItemNo":5001001
+    },
+    {
+      "No":201008, "Group":201, "Level":8, "Next":2100, "ItemNo":5001001
+    },
+    {
+      "No":201009, "Group":201, "Level":9, "Next":2400, "ItemNo":5001001
+    },
+    {
+      "No":201010, "Group":201, "Level":10, "Next":2700, "ItemNo":5001001
+    },
+    {
+      "No":201011, "Group":201, "Level":11, "Next":3000, "ItemNo":5001001
+    },
+    {
+      "No":201012, "Group":201, "Level":12, "Next":3300, "ItemNo":5001001
+    },
+    {
+      "No":201013, "Group":201, "Level":13, "Next":3600, "ItemNo":5001001
+    },
+    {
+      "No":201014, "Group":201, "Level":14, "Next":3900, "ItemNo":5001001
+    },
+    {
+      "No":201015, "Group":201, "Level":15, "Next":4200, "ItemNo":5001001
+    },
+    {
+      "No":201016, "Group":201, "Level":16, "Next":4500, "ItemNo":5001001
+    },
+    {
+      "No":201017, "Group":201, "Level":17, "Next":4800, "ItemNo":5001001
+    },
+    {
+      "No":201018, "Group":201, "Level":18, "Next":5100, "ItemNo":5001001
+    },
+    {
+      "No":201019, "Group":201, "Level":19, "Next":5400, "ItemNo":5001001
+    },
+    {
+      "No":201020, "Group":201, "Level":20, "Next":5700, "ItemNo":5001001
+    },
+    {
+      "No":201021, "Group":201, "Level":21, "Next":6000, "ItemNo":5001001
+    },
+    {
+      "No":201022, "Group":201, "Level":22, "Next":6300, "ItemNo":5001001
+    },
+    {
+      "No":201023, "Group":201, "Level":23, "Next":6600, "ItemNo":5001001
+    },
+    {
+      "No":201024, "Group":201, "Level":24, "Next":6900, "ItemNo":5001001
+    },
+    {
+      "No":201025, "Group":201, "Level":25, "Next":7200, "ItemNo":5001001
+    },
+    {
+      "No":201026, "Group":201, "Level":26, "Next":7500, "ItemNo":5001001
+    },
+    {
+      "No":201027, "Group":201, "Level":27, "Next":7800, "ItemNo":5001001
+    },
+    {
+      "No":201028, "Group":201, "Level":28, "Next":8100, "ItemNo":5001001
+    },
+    {
+      "No":201029, "Group":201, "Level":29, "Next":8400, "ItemNo":5001001
+    },
+    {
+      "No":201030, "Group":201, "Level":30, "Next":8700, "ItemNo":5001001
+    },
+    {
+      "No":201031, "Group":201, "Level":31, "Next":9000, "ItemNo":5001001
+    },
+    {
+      "No":201032, "Group":201, "Level":32, "Next":9300, "ItemNo":5001001
+    },
+    {
+      "No":201033, "Group":201, "Level":33, "Next":9600, "ItemNo":5001001
+    },
+    {
+      "No":201034, "Group":201, "Level":34, "Next":9900, "ItemNo":5001001
+    },
+    {
+      "No":201035, "Group":201, "Level":35, "Next":10200, "ItemNo":5001001
+    },
+    {
+      "No":201036, "Group":201, "Level":36, "Next":10500, "ItemNo":5001001
+    },
+    {
+      "No":201037, "Group":201, "Level":37, "Next":10800, "ItemNo":5001001
+    },
+    {
+      "No":201038, "Group":201, "Level":38, "Next":11100, "ItemNo":5001001
+    },
+    {
+      "No":201039, "Group":201, "Level":39, "Next":11400, "ItemNo":5001001
+    },
+    {
+      "No":201040, "Group":201, "Level":40, "Next":11700, "ItemNo":5001001
+    },
+    {
+      "No":201041, "Group":201, "Level":41, "Next":12000, "ItemNo":5001001
+    },
+    {
+      "No":201042, "Group":201, "Level":42, "Next":12300, "ItemNo":5001001
+    },
+    {
+      "No":201043, "Group":201, "Level":43, "Next":12600, "ItemNo":5001001
+    },
+    {
+      "No":201044, "Group":201, "Level":44, "Next":12900, "ItemNo":5001001
+    },
+    {
+      "No":201045, "Group":201, "Level":45, "Next":13200, "ItemNo":5001001
+    },
+    {
+      "No":201046, "Group":201, "Level":46, "Next":13500, "ItemNo":5001001
+    },
+    {
+      "No":201047, "Group":201, "Level":47, "Next":13800, "ItemNo":5001001
+    },
+    {
+      "No":201048, "Group":201, "Level":48, "Next":14100, "ItemNo":5001001
+    },
+    {
+      "No":201049, "Group":201, "Level":49, "Next":14400, "ItemNo":5001001
+    },
+    {
+      "No":201050, "Group":201, "Level":50, "Next":0, "ItemNo":5001001
+    },
+    {
+      "No":301001, "Group":301, "Level":1, "Next":100, "ItemNo":5001001
+    },
+    {
+      "No":301002, "Group":301, "Level":2, "Next":300, "ItemNo":5001001
+    },
+    {
+      "No":301003, "Group":301, "Level":3, "Next":600, "ItemNo":5001001
+    },
+    {
+      "No":301004, "Group":301, "Level":4, "Next":900, "ItemNo":5001001
+    },
+    {
+      "No":301005, "Group":301, "Level":5, "Next":1200, "ItemNo":5001001
+    },
+    {
+      "No":301006, "Group":301, "Level":6, "Next":1500, "ItemNo":5001001
+    },
+    {
+      "No":301007, "Group":301, "Level":7, "Next":1800, "ItemNo":5001001
+    },
+    {
+      "No":301008, "Group":301, "Level":8, "Next":2100, "ItemNo":5001001
+    },
+    {
+      "No":301009, "Group":301, "Level":9, "Next":2400, "ItemNo":5001001
+    },
+    {
+      "No":301010, "Group":301, "Level":10, "Next":2700, "ItemNo":5001001
+    },
+    {
+      "No":301011, "Group":301, "Level":11, "Next":3000, "ItemNo":5001001
+    },
+    {
+      "No":301012, "Group":301, "Level":12, "Next":3300, "ItemNo":5001001
+    },
+    {
+      "No":301013, "Group":301, "Level":13, "Next":3600, "ItemNo":5001001
+    },
+    {
+      "No":301014, "Group":301, "Level":14, "Next":3900, "ItemNo":5001001
+    },
+    {
+      "No":301015, "Group":301, "Level":15, "Next":4200, "ItemNo":5001001
+    },
+    {
+      "No":301016, "Group":301, "Level":16, "Next":4500, "ItemNo":5001001
+    },
+    {
+      "No":301017, "Group":301, "Level":17, "Next":4800, "ItemNo":5001001
+    },
+    {
+      "No":301018, "Group":301, "Level":18, "Next":5100, "ItemNo":5001001
+    },
+    {
+      "No":301019, "Group":301, "Level":19, "Next":5400, "ItemNo":5001001
+    },
+    {
+      "No":301020, "Group":301, "Level":20, "Next":5700, "ItemNo":5001001
+    },
+    {
+      "No":301021, "Group":301, "Level":21, "Next":6000, "ItemNo":5001001
+    },
+    {
+      "No":301022, "Group":301, "Level":22, "Next":6300, "ItemNo":5001001
+    },
+    {
+      "No":301023, "Group":301, "Level":23, "Next":6600, "ItemNo":5001001
+    },
+    {
+      "No":301024, "Group":301, "Level":24, "Next":6900, "ItemNo":5001001
+    },
+    {
+      "No":301025, "Group":301, "Level":25, "Next":7200, "ItemNo":5001001
+    },
+    {
+      "No":301026, "Group":301, "Level":26, "Next":7500, "ItemNo":5001001
+    },
+    {
+      "No":301027, "Group":301, "Level":27, "Next":7800, "ItemNo":5001001
+    },
+    {
+      "No":301028, "Group":301, "Level":28, "Next":8100, "ItemNo":5001001
+    },
+    {
+      "No":301029, "Group":301, "Level":29, "Next":8400, "ItemNo":5001001
+    },
+    {
+      "No":301030, "Group":301, "Level":30, "Next":8700, "ItemNo":5001001
+    },
+    {
+      "No":301031, "Group":301, "Level":31, "Next":9000, "ItemNo":5001001
+    },
+    {
+      "No":301032, "Group":301, "Level":32, "Next":9300, "ItemNo":5001001
+    },
+    {
+      "No":301033, "Group":301, "Level":33, "Next":9600, "ItemNo":5001001
+    },
+    {
+      "No":301034, "Group":301, "Level":34, "Next":9900, "ItemNo":5001001
+    },
+    {
+      "No":301035, "Group":301, "Level":35, "Next":10200, "ItemNo":5001001
+    },
+    {
+      "No":301036, "Group":301, "Level":36, "Next":10500, "ItemNo":5001001
+    },
+    {
+      "No":301037, "Group":301, "Level":37, "Next":10800, "ItemNo":5001001
+    },
+    {
+      "No":301038, "Group":301, "Level":38, "Next":11100, "ItemNo":5001001
+    },
+    {
+      "No":301039, "Group":301, "Level":39, "Next":11400, "ItemNo":5001001
+    },
+    {
+      "No":301040, "Group":301, "Level":40, "Next":11700, "ItemNo":5001001
+    },
+    {
+      "No":301041, "Group":301, "Level":41, "Next":12000, "ItemNo":5001001
+    },
+    {
+      "No":301042, "Group":301, "Level":42, "Next":12300, "ItemNo":5001001
+    },
+    {
+      "No":301043, "Group":301, "Level":43, "Next":12600, "ItemNo":5001001
+    },
+    {
+      "No":301044, "Group":301, "Level":44, "Next":12900, "ItemNo":5001001
+    },
+    {
+      "No":301045, "Group":301, "Level":45, "Next":13200, "ItemNo":5001001
+    },
+    {
+      "No":301046, "Group":301, "Level":46, "Next":13500, "ItemNo":5001001
+    },
+    {
+      "No":301047, "Group":301, "Level":47, "Next":13800, "ItemNo":5001001
+    },
+    {
+      "No":301048, "Group":301, "Level":48, "Next":14100, "ItemNo":5001001
+    },
+    {
+      "No":301049, "Group":301, "Level":49, "Next":14400, "ItemNo":5001001
+    },
+    {
+      "No":301050, "Group":301, "Level":50, "Next":0, "ItemNo":0
+    },
+    {
+      "No":401001, "Group":401, "Level":1, "Next":150, "ItemNo":5001001
+    },
+    {
+      "No":401002, "Group":401, "Level":2, "Next":450, "ItemNo":5001001
+    },
+    {
+      "No":401003, "Group":401, "Level":3, "Next":900, "ItemNo":5001001
+    },
+    {
+      "No":401004, "Group":401, "Level":4, "Next":1350, "ItemNo":5001001
+    },
+    {
+      "No":401005, "Group":401, "Level":5, "Next":1800, "ItemNo":5001001
+    },
+    {
+      "No":401006, "Group":401, "Level":6, "Next":2250, "ItemNo":5001001
+    },
+    {
+      "No":401007, "Group":401, "Level":7, "Next":2700, "ItemNo":5001001
+    },
+    {
+      "No":401008, "Group":401, "Level":8, "Next":3150, "ItemNo":5001001
+    },
+    {
+      "No":401009, "Group":401, "Level":9, "Next":3600, "ItemNo":5001001
+    },
+    {
+      "No":401010, "Group":401, "Level":10, "Next":4050, "ItemNo":5001001
+    },
+    {
+      "No":401011, "Group":401, "Level":11, "Next":4500, "ItemNo":5001001
+    },
+    {
+      "No":401012, "Group":401, "Level":12, "Next":4950, "ItemNo":5001001
+    },
+    {
+      "No":401013, "Group":401, "Level":13, "Next":5400, "ItemNo":5001001
+    },
+    {
+      "No":401014, "Group":401, "Level":14, "Next":5850, "ItemNo":5001001
+    },
+    {
+      "No":401015, "Group":401, "Level":15, "Next":6300, "ItemNo":5001001
+    },
+    {
+      "No":401016, "Group":401, "Level":16, "Next":6750, "ItemNo":5001001
+    },
+    {
+      "No":401017, "Group":401, "Level":17, "Next":7200, "ItemNo":5001001
+    },
+    {
+      "No":401018, "Group":401, "Level":18, "Next":7650, "ItemNo":5001001
+    },
+    {
+      "No":401019, "Group":401, "Level":19, "Next":8100, "ItemNo":5001001
+    },
+    {
+      "No":401020, "Group":401, "Level":20, "Next":8550, "ItemNo":5001001
+    },
+    {
+      "No":401021, "Group":401, "Level":21, "Next":9000, "ItemNo":5001001
+    },
+    {
+      "No":401022, "Group":401, "Level":22, "Next":9450, "ItemNo":5001001
+    },
+    {
+      "No":401023, "Group":401, "Level":23, "Next":9900, "ItemNo":5001001
+    },
+    {
+      "No":401024, "Group":401, "Level":24, "Next":10350, "ItemNo":5001001
+    },
+    {
+      "No":401025, "Group":401, "Level":25, "Next":10800, "ItemNo":5001001
+    },
+    {
+      "No":401026, "Group":401, "Level":26, "Next":11250, "ItemNo":5001001
+    },
+    {
+      "No":401027, "Group":401, "Level":27, "Next":11700, "ItemNo":5001001
+    },
+    {
+      "No":401028, "Group":401, "Level":28, "Next":12150, "ItemNo":5001001
+    },
+    {
+      "No":401029, "Group":401, "Level":29, "Next":12600, "ItemNo":5001001
+    },
+    {
+      "No":401030, "Group":401, "Level":30, "Next":13050, "ItemNo":5001001
+    },
+    {
+      "No":401031, "Group":401, "Level":31, "Next":13500, "ItemNo":5001001
+    },
+    {
+      "No":401032, "Group":401, "Level":32, "Next":13950, "ItemNo":5001001
+    },
+    {
+      "No":401033, "Group":401, "Level":33, "Next":14400, "ItemNo":5001001
+    },
+    {
+      "No":401034, "Group":401, "Level":34, "Next":14850, "ItemNo":5001001
+    },
+    {
+      "No":401035, "Group":401, "Level":35, "Next":15300, "ItemNo":5001001
+    },
+    {
+      "No":401036, "Group":401, "Level":36, "Next":15750, "ItemNo":5001001
+    },
+    {
+      "No":401037, "Group":401, "Level":37, "Next":16200, "ItemNo":5001001
+    },
+    {
+      "No":401038, "Group":401, "Level":38, "Next":16650, "ItemNo":5001001
+    },
+    {
+      "No":401039, "Group":401, "Level":39, "Next":17100, "ItemNo":5001001
+    },
+    {
+      "No":401040, "Group":401, "Level":40, "Next":17550, "ItemNo":5001001
+    },
+    {
+      "No":401041, "Group":401, "Level":41, "Next":18000, "ItemNo":5001001
+    },
+    {
+      "No":401042, "Group":401, "Level":42, "Next":18450, "ItemNo":5001001
+    },
+    {
+      "No":401043, "Group":401, "Level":43, "Next":18900, "ItemNo":5001001
+    },
+    {
+      "No":401044, "Group":401, "Level":44, "Next":19350, "ItemNo":5001001
+    },
+    {
+      "No":401045, "Group":401, "Level":45, "Next":19800, "ItemNo":5001001
+    },
+    {
+      "No":401046, "Group":401, "Level":46, "Next":20250, "ItemNo":5001001
+    },
+    {
+      "No":401047, "Group":401, "Level":47, "Next":20700, "ItemNo":5001001
+    },
+    {
+      "No":401048, "Group":401, "Level":48, "Next":21150, "ItemNo":5001001
+    },
+    {
+      "No":401049, "Group":401, "Level":49, "Next":21600, "ItemNo":5001001
+    },
+    {
+      "No":401050, "Group":401, "Level":50, "Next":0, "ItemNo":0
+    },
+    {
+      "No":501001, "Group":501, "Level":1, "Next":150, "ItemNo":5001001
+    },
+    {
+      "No":501002, "Group":501, "Level":2, "Next":450, "ItemNo":5001001
+    },
+    {
+      "No":501003, "Group":501, "Level":3, "Next":900, "ItemNo":5001001
+    },
+    {
+      "No":501004, "Group":501, "Level":4, "Next":1350, "ItemNo":5001001
+    },
+    {
+      "No":501005, "Group":501, "Level":5, "Next":1800, "ItemNo":5001001
+    },
+    {
+      "No":501006, "Group":501, "Level":6, "Next":2250, "ItemNo":5001001
+    },
+    {
+      "No":501007, "Group":501, "Level":7, "Next":2700, "ItemNo":5001001
+    },
+    {
+      "No":501008, "Group":501, "Level":8, "Next":3150, "ItemNo":5001001
+    },
+    {
+      "No":501009, "Group":501, "Level":9, "Next":3600, "ItemNo":5001001
+    },
+    {
+      "No":501010, "Group":501, "Level":10, "Next":4050, "ItemNo":5001001
+    },
+    {
+      "No":501011, "Group":501, "Level":11, "Next":4500, "ItemNo":5001001
+    },
+    {
+      "No":501012, "Group":501, "Level":12, "Next":4950, "ItemNo":5001001
+    },
+    {
+      "No":501013, "Group":501, "Level":13, "Next":5400, "ItemNo":5001001
+    },
+    {
+      "No":501014, "Group":501, "Level":14, "Next":5850, "ItemNo":5001001
+    },
+    {
+      "No":501015, "Group":501, "Level":15, "Next":6300, "ItemNo":5001001
+    },
+    {
+      "No":501016, "Group":501, "Level":16, "Next":6750, "ItemNo":5001001
+    },
+    {
+      "No":501017, "Group":501, "Level":17, "Next":7200, "ItemNo":5001001
+    },
+    {
+      "No":501018, "Group":501, "Level":18, "Next":7650, "ItemNo":5001001
+    },
+    {
+      "No":501019, "Group":501, "Level":19, "Next":8100, "ItemNo":5001001
+    },
+    {
+      "No":501020, "Group":501, "Level":20, "Next":8550, "ItemNo":5001001
+    },
+    {
+      "No":501021, "Group":501, "Level":21, "Next":9000, "ItemNo":5001001
+    },
+    {
+      "No":501022, "Group":501, "Level":22, "Next":9450, "ItemNo":5001001
+    },
+    {
+      "No":501023, "Group":501, "Level":23, "Next":9900, "ItemNo":5001001
+    },
+    {
+      "No":501024, "Group":501, "Level":24, "Next":10350, "ItemNo":5001001
+    },
+    {
+      "No":501025, "Group":501, "Level":25, "Next":10800, "ItemNo":5001001
+    },
+    {
+      "No":501026, "Group":501, "Level":26, "Next":11250, "ItemNo":5001001
+    },
+    {
+      "No":501027, "Group":501, "Level":27, "Next":11700, "ItemNo":5001001
+    },
+    {
+      "No":501028, "Group":501, "Level":28, "Next":12150, "ItemNo":5001001
+    },
+    {
+      "No":501029, "Group":501, "Level":29, "Next":12600, "ItemNo":5001001
+    },
+    {
+      "No":501030, "Group":501, "Level":30, "Next":13050, "ItemNo":5001001
+    },
+    {
+      "No":501031, "Group":501, "Level":31, "Next":13500, "ItemNo":5001001
+    },
+    {
+      "No":501032, "Group":501, "Level":32, "Next":13950, "ItemNo":5001001
+    },
+    {
+      "No":501033, "Group":501, "Level":33, "Next":14400, "ItemNo":5001001
+    },
+    {
+      "No":501034, "Group":501, "Level":34, "Next":14850, "ItemNo":5001001
+    },
+    {
+      "No":501035, "Group":501, "Level":35, "Next":15300, "ItemNo":5001001
+    },
+    {
+      "No":501036, "Group":501, "Level":36, "Next":15750, "ItemNo":5001001
+    },
+    {
+      "No":501037, "Group":501, "Level":37, "Next":16200, "ItemNo":5001001
+    },
+    {
+      "No":501038, "Group":501, "Level":38, "Next":16650, "ItemNo":5001001
+    },
+    {
+      "No":501039, "Group":501, "Level":39, "Next":17100, "ItemNo":5001001
+    },
+    {
+      "No":501040, "Group":501, "Level":40, "Next":17550, "ItemNo":5001001
+    },
+    {
+      "No":501041, "Group":501, "Level":41, "Next":18000, "ItemNo":5001001
+    },
+    {
+      "No":501042, "Group":501, "Level":42, "Next":18450, "ItemNo":5001001
+    },
+    {
+      "No":501043, "Group":501, "Level":43, "Next":18900, "ItemNo":5001001
+    },
+    {
+      "No":501044, "Group":501, "Level":44, "Next":19350, "ItemNo":5001001
+    },
+    {
+      "No":501045, "Group":501, "Level":45, "Next":19800, "ItemNo":5001001
+    },
+    {
+      "No":501046, "Group":501, "Level":46, "Next":20250, "ItemNo":5001001
+    },
+    {
+      "No":501047, "Group":501, "Level":47, "Next":20700, "ItemNo":5001001
+    },
+    {
+      "No":501048, "Group":501, "Level":48, "Next":21150, "ItemNo":5001001
+    },
+    {
+      "No":501049, "Group":501, "Level":49, "Next":21600, "ItemNo":5001001
+    },
+    {
+      "No":501050, "Group":501, "Level":50, "Next":0, "ItemNo":0
+    }
+  ]
+}

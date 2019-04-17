@@ -1,0 +1,37 @@
+{
+  "Name":"System", "Rows":[
+    {
+      "Property":"ResourceVersion", "Value":1
+    },
+    {
+      "Property":"BaseServiceStatus", "Value":1
+    },
+    {
+      "Property":"BattleServiceStatus", "Value":0
+    },
+    {
+      "Property":"DockServiceStatus", "Value":1
+    },
+    {
+      "Property":"StoryServiceStatus", "Value":2
+    },
+    {
+      "Property":"EventServiceStatus", "Value":0
+    },
+    {
+      "Property":"WatchServiceStatus", "Value":0
+    },
+    {
+      "Property":"TourServiceStatus", "Value":0
+    },
+    {
+      "Property":"GachaServiceStatus", "Value":0
+    },
+    {
+      "Property":"ShopServiceStatus", "Value":0
+    },
+    {
+      "Property":"FriendServiceStatus", "Value":0
+    }
+  ]
+}

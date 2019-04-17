@@ -1,0 +1,64 @@
+{
+  "Name":"Refresh", "Rows":[
+    {
+      "No":1, "RefreshCount":1, "JewelCount":100, "ItemNo":4001001, "ItemCount":1, "RefreshValue":15
+    },
+    {
+      "No":2, "RefreshCount":2, "JewelCount":100, "ItemNo":4001001, "ItemCount":1, "RefreshValue":15
+    },
+    {
+      "No":3, "RefreshCount":3, "JewelCount":100, "ItemNo":4001001, "ItemCount":1, "RefreshValue":15
+    },
+    {
+      "No":4, "RefreshCount":4, "JewelCount":200, "ItemNo":4001001, "ItemCount":2, "RefreshValue":15
+    },
+    {
+      "No":5, "RefreshCount":5, "JewelCount":200, "ItemNo":4001001, "ItemCount":2, "RefreshValue":15
+    },
+    {
+      "No":6, "RefreshCount":6, "JewelCount":200, "ItemNo":4001001, "ItemCount":2, "RefreshValue":15
+    },
+    {
+      "No":7, "RefreshCount":7, "JewelCount":400, "ItemNo":4001001, "ItemCount":4, "RefreshValue":15
+    },
+    {
+      "No":8, "RefreshCount":8, "JewelCount":400, "ItemNo":4001001, "ItemCount":4, "RefreshValue":15
+    },
+    {
+      "No":9, "RefreshCount":9, "JewelCount":400, "ItemNo":4001001, "ItemCount":4, "RefreshValue":15
+    },
+    {
+      "No":10, "RefreshCount":10, "JewelCount":600, "ItemNo":4001001, "ItemCount":6, "RefreshValue":15
+    },
+    {
+      "No":11, "RefreshCount":11, "JewelCount":600, "ItemNo":4001001, "ItemCount":6, "RefreshValue":15
+    },
+    {
+      "No":12, "RefreshCount":12, "JewelCount":600, "ItemNo":4001001, "ItemCount":6, "RefreshValue":15
+    },
+    {
+      "No":13, "RefreshCount":13, "JewelCount":800, "ItemNo":4001001, "ItemCount":8, "RefreshValue":15
+    },
+    {
+      "No":14, "RefreshCount":14, "JewelCount":800, "ItemNo":4001001, "ItemCount":8, "RefreshValue":15
+    },
+    {
+      "No":15, "RefreshCount":15, "JewelCount":800, "ItemNo":4001001, "ItemCount":8, "RefreshValue":15
+    },
+    {
+      "No":16, "RefreshCount":16, "JewelCount":1000, "ItemNo":4001001, "ItemCount":10, "RefreshValue":15
+    },
+    {
+      "No":17, "RefreshCount":17, "JewelCount":1000, "ItemNo":4001001, "ItemCount":10, "RefreshValue":15
+    },
+    {
+      "No":18, "RefreshCount":18, "JewelCount":1000, "ItemNo":4001001, "ItemCount":10, "RefreshValue":15
+    },
+    {
+      "No":19, "RefreshCount":19, "JewelCount":1200, "ItemNo":4001001, "ItemCount":12, "RefreshValue":15
+    },
+    {
+      "No":20, "RefreshCount":20, "JewelCount":1200, "ItemNo":4001001, "ItemCount":12, "RefreshValue":15
+    }
+  ]
+}

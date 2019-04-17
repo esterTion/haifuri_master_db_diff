@@ -1,0 +1,64 @@
+{
+  "Name":"RandomFleet", "Rows":[
+    {
+      "No":11, "Type":1, "ShipIndex":1, "ShipType1":3, "ShipType2":2, "ShipType3":1, "ShipCondition":3, "CaptainSkillRandomType1":3, "CaptainSkillRandomType2":10, "CaptainSkillRandomType3":6, "CrewSkillRandomType1":3, "CrewSkillRandomTypeCount1":10, "CrewSkillRandomType2":1, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":7, "CrewSkillRandomTypeCount3":1
+    },
+    {
+      "No":12, "Type":1, "ShipIndex":2, "ShipType1":2, "ShipType2":3, "ShipType3":1, "ShipCondition":1, "CaptainSkillRandomType1":4, "CaptainSkillRandomType2":8, "CaptainSkillRandomType3":9, "CrewSkillRandomType1":7, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":1, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":4, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":13, "Type":1, "ShipIndex":3, "ShipType1":1, "ShipType2":2, "ShipType3":3, "ShipCondition":1, "CaptainSkillRandomType1":5, "CaptainSkillRandomType2":4, "CaptainSkillRandomType3":1, "CrewSkillRandomType1":8, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":5, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":4, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":14, "Type":1, "ShipIndex":4, "ShipType1":2, "ShipType2":3, "ShipType3":1, "ShipCondition":2, "CaptainSkillRandomType1":4, "CaptainSkillRandomType2":1, "CaptainSkillRandomType3":6, "CrewSkillRandomType1":2, "CrewSkillRandomTypeCount1":2, "CrewSkillRandomType2":1, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":4, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":15, "Type":1, "ShipIndex":5, "ShipType1":1, "ShipType2":2, "ShipType3":3, "ShipCondition":2, "CaptainSkillRandomType1":1, "CaptainSkillRandomType2":7, "CaptainSkillRandomType3":2, "CrewSkillRandomType1":5, "CrewSkillRandomTypeCount1":5, "CrewSkillRandomType2":4, "CrewSkillRandomTypeCount2":4, "CrewSkillRandomType3":8, "CrewSkillRandomTypeCount3":1
+    },
+    {
+      "No":21, "Type":2, "ShipIndex":1, "ShipType1":3, "ShipType2":2, "ShipType3":1, "ShipCondition":3, "CaptainSkillRandomType1":3, "CaptainSkillRandomType2":6, "CaptainSkillRandomType3":10, "CrewSkillRandomType1":3, "CrewSkillRandomTypeCount1":5, "CrewSkillRandomType2":1, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":9, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":22, "Type":2, "ShipIndex":2, "ShipType1":2, "ShipType2":3, "ShipType3":1, "ShipCondition":3, "CaptainSkillRandomType1":4, "CaptainSkillRandomType2":1, "CaptainSkillRandomType3":6, "CrewSkillRandomType1":2, "CrewSkillRandomTypeCount1":10, "CrewSkillRandomType2":1, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":9, "CrewSkillRandomTypeCount3":2
+    },
+    {
+      "No":23, "Type":2, "ShipIndex":3, "ShipType1":1, "ShipType2":3, "ShipType3":2, "ShipCondition":3, "CaptainSkillRandomType1":1, "CaptainSkillRandomType2":2, "CaptainSkillRandomType3":6, "CrewSkillRandomType1":5, "CrewSkillRandomTypeCount1":10, "CrewSkillRandomType2":4, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":8, "CrewSkillRandomTypeCount3":1
+    },
+    {
+      "No":24, "Type":2, "ShipIndex":4, "ShipType1":2, "ShipType2":3, "ShipType3":1, "ShipCondition":3, "CaptainSkillRandomType1":6, "CaptainSkillRandomType2":4, "CaptainSkillRandomType3":1, "CrewSkillRandomType1":1, "CrewSkillRandomTypeCount1":10, "CrewSkillRandomType2":2, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":9, "CrewSkillRandomTypeCount3":2
+    },
+    {
+      "No":25, "Type":2, "ShipIndex":5, "ShipType1":3, "ShipType2":2, "ShipType3":1, "ShipCondition":3, "CaptainSkillRandomType1":3, "CaptainSkillRandomType2":6, "CaptainSkillRandomType3":10, "CrewSkillRandomType1":7, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":3, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":1, "CrewSkillRandomTypeCount3":2
+    },
+    {
+      "No":31, "Type":3, "ShipIndex":1, "ShipType1":3, "ShipType2":2, "ShipType3":1, "ShipCondition":2, "CaptainSkillRandomType1":3, "CaptainSkillRandomType2":13, "CaptainSkillRandomType3":7, "CrewSkillRandomType1":3, "CrewSkillRandomTypeCount1":5, "CrewSkillRandomType2":1, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":9, "CrewSkillRandomTypeCount3":1
+    },
+    {
+      "No":32, "Type":3, "ShipIndex":2, "ShipType1":2, "ShipType2":3, "ShipType3":1, "ShipCondition":2, "CaptainSkillRandomType1":7, "CaptainSkillRandomType2":8, "CaptainSkillRandomType3":4, "CrewSkillRandomType1":7, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":2, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":1, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":33, "Type":3, "ShipIndex":3, "ShipType1":1, "ShipType2":3, "ShipType3":2, "ShipCondition":2, "CaptainSkillRandomType1":7, "CaptainSkillRandomType2":12, "CaptainSkillRandomType3":1, "CrewSkillRandomType1":5, "CrewSkillRandomTypeCount1":10, "CrewSkillRandomType2":4, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":7, "CrewSkillRandomTypeCount3":1
+    },
+    {
+      "No":34, "Type":3, "ShipIndex":4, "ShipType1":2, "ShipType2":3, "ShipType3":1, "ShipCondition":2, "CaptainSkillRandomType1":11, "CaptainSkillRandomType2":4, "CaptainSkillRandomType3":3, "CrewSkillRandomType1":7, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":2, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":1, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":35, "Type":3, "ShipIndex":5, "ShipType1":2, "ShipType2":3, "ShipType3":1, "ShipCondition":2, "CaptainSkillRandomType1":4, "CaptainSkillRandomType2":3, "CaptainSkillRandomType3":7, "CrewSkillRandomType1":1, "CrewSkillRandomTypeCount1":5, "CrewSkillRandomType2":2, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":4, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":41, "Type":4, "ShipIndex":1, "ShipType1":3, "ShipType2":1, "ShipType3":2, "ShipCondition":2, "CaptainSkillRandomType1":10, "CaptainSkillRandomType2":3, "CaptainSkillRandomType3":13, "CrewSkillRandomType1":3, "CrewSkillRandomTypeCount1":5, "CrewSkillRandomType2":1, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":9, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":42, "Type":4, "ShipIndex":2, "ShipType1":2, "ShipType2":1, "ShipType3":3, "ShipCondition":2, "CaptainSkillRandomType1":10, "CaptainSkillRandomType2":4, "CaptainSkillRandomType3":13, "CrewSkillRandomType1":7, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":2, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":1, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":43, "Type":4, "ShipIndex":3, "ShipType1":1, "ShipType2":2, "ShipType3":3, "ShipCondition":1, "CaptainSkillRandomType1":5, "CaptainSkillRandomType2":10, "CaptainSkillRandomType3":1, "CrewSkillRandomType1":8, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":5, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":4, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":44, "Type":4, "ShipIndex":4, "ShipType1":1, "ShipType2":2, "ShipType3":3, "ShipCondition":1, "CaptainSkillRandomType1":5, "CaptainSkillRandomType2":10, "CaptainSkillRandomType3":1, "CrewSkillRandomType1":8, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":5, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":4, "CrewSkillRandomTypeCount3":10
+    },
+    {
+      "No":45, "Type":4, "ShipIndex":5, "ShipType1":1, "ShipType2":2, "ShipType3":3, "ShipCondition":1, "CaptainSkillRandomType1":5, "CaptainSkillRandomType2":10, "CaptainSkillRandomType3":1, "CrewSkillRandomType1":8, "CrewSkillRandomTypeCount1":1, "CrewSkillRandomType2":5, "CrewSkillRandomTypeCount2":10, "CrewSkillRandomType3":4, "CrewSkillRandomTypeCount3":10
+    }
+  ]
+}

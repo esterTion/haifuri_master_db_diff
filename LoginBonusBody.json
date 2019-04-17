@@ -1,0 +1,13 @@
+{
+  "Name":"LoginBonusBody", "Rows":[
+    {
+      "No":10001, "Order":1, "Title":"毎日出席ログインボーナス", "Type":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "BonusGroup":10001
+    },
+    {
+      "No":20001, "Order":2, "Title":"リリース記念ログインボーナス（テスト用）", "Type":2, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00", "BonusGroup":20001
+    },
+    {
+      "No":20002, "Order":2, "Title":"リリース記念ログインボーナス", "Type":2, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "BonusGroup":20002
+    }
+  ]
+}

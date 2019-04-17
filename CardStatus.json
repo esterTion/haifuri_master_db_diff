@@ -1,0 +1,367 @@
+{
+  "Name":"CardStatus", "Rows":[
+    {
+      "No":101010, "Type":1, "LevelGroup":1, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":101020, "Type":1, "LevelGroup":2, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":101030, "Type":1, "LevelGroup":3, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":101040, "Type":1, "LevelGroup":4, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":201010, "Type":2, "LevelGroup":1, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":201020, "Type":2, "LevelGroup":2, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":201030, "Type":2, "LevelGroup":3, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":201040, "Type":2, "LevelGroup":4, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":301010, "Type":3, "LevelGroup":1, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":301020, "Type":3, "LevelGroup":2, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":301030, "Type":3, "LevelGroup":3, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":301040, "Type":3, "LevelGroup":4, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":401010, "Type":4, "LevelGroup":1, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":401020, "Type":4, "LevelGroup":2, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":401030, "Type":4, "LevelGroup":3, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":401040, "Type":4, "LevelGroup":4, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":501010, "Type":5, "LevelGroup":1, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":501020, "Type":5, "LevelGroup":2, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":501030, "Type":5, "LevelGroup":3, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":501040, "Type":5, "LevelGroup":4, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":601010, "Type":6, "LevelGroup":1, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":601020, "Type":6, "LevelGroup":2, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":601030, "Type":6, "LevelGroup":3, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":601040, "Type":6, "LevelGroup":4, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":701010, "Type":7, "LevelGroup":1, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":701020, "Type":7, "LevelGroup":2, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":701030, "Type":7, "LevelGroup":3, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":701040, "Type":7, "LevelGroup":4, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":801010, "Type":8, "LevelGroup":1, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":801020, "Type":8, "LevelGroup":2, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":801030, "Type":8, "LevelGroup":3, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":801040, "Type":8, "LevelGroup":4, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":901010, "Type":9, "LevelGroup":1, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":901020, "Type":9, "LevelGroup":2, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":901030, "Type":9, "LevelGroup":3, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":901040, "Type":9, "LevelGroup":4, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":1001010, "Type":10, "LevelGroup":5, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1001020, "Type":10, "LevelGroup":6, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1001030, "Type":10, "LevelGroup":7, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1001040, "Type":10, "LevelGroup":8, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1101050, "Type":11, "LevelGroup":5, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1101060, "Type":11, "LevelGroup":6, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1101070, "Type":11, "LevelGroup":7, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1101080, "Type":11, "LevelGroup":8, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1201050, "Type":12, "LevelGroup":5, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1201060, "Type":12, "LevelGroup":6, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1201070, "Type":12, "LevelGroup":7, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1201080, "Type":12, "LevelGroup":8, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1301050, "Type":13, "LevelGroup":5, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1301060, "Type":13, "LevelGroup":6, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1301070, "Type":13, "LevelGroup":7, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1301080, "Type":13, "LevelGroup":8, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1401010, "Type":14, "LevelGroup":1, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1401020, "Type":14, "LevelGroup":2, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1401030, "Type":14, "LevelGroup":3, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1401040, "Type":14, "LevelGroup":4, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1501050, "Type":15, "LevelGroup":5, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":1501060, "Type":15, "LevelGroup":6, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":1501070, "Type":15, "LevelGroup":7, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":1501080, "Type":15, "LevelGroup":8, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":101210, "Type":1, "LevelGroup":21, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":101220, "Type":1, "LevelGroup":22, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":101230, "Type":1, "LevelGroup":23, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":101240, "Type":1, "LevelGroup":24, "StatusUpGroup":101, "Forced":false
+    },
+    {
+      "No":201210, "Type":2, "LevelGroup":21, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":201220, "Type":2, "LevelGroup":22, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":201230, "Type":2, "LevelGroup":23, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":201240, "Type":2, "LevelGroup":24, "StatusUpGroup":201, "Forced":false
+    },
+    {
+      "No":301210, "Type":3, "LevelGroup":21, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":301220, "Type":3, "LevelGroup":22, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":301230, "Type":3, "LevelGroup":23, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":301240, "Type":3, "LevelGroup":24, "StatusUpGroup":301, "Forced":false
+    },
+    {
+      "No":401210, "Type":4, "LevelGroup":21, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":401220, "Type":4, "LevelGroup":22, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":401230, "Type":4, "LevelGroup":23, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":401240, "Type":4, "LevelGroup":24, "StatusUpGroup":401, "Forced":false
+    },
+    {
+      "No":501210, "Type":5, "LevelGroup":21, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":501220, "Type":5, "LevelGroup":22, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":501230, "Type":5, "LevelGroup":23, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":501240, "Type":5, "LevelGroup":24, "StatusUpGroup":501, "Forced":false
+    },
+    {
+      "No":601210, "Type":6, "LevelGroup":21, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":601220, "Type":6, "LevelGroup":22, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":601230, "Type":6, "LevelGroup":23, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":601240, "Type":6, "LevelGroup":24, "StatusUpGroup":601, "Forced":false
+    },
+    {
+      "No":701210, "Type":7, "LevelGroup":21, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":701220, "Type":7, "LevelGroup":22, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":701230, "Type":7, "LevelGroup":23, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":701240, "Type":7, "LevelGroup":24, "StatusUpGroup":701, "Forced":false
+    },
+    {
+      "No":801210, "Type":8, "LevelGroup":21, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":801220, "Type":8, "LevelGroup":22, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":801230, "Type":8, "LevelGroup":23, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":801240, "Type":8, "LevelGroup":24, "StatusUpGroup":801, "Forced":false
+    },
+    {
+      "No":901210, "Type":9, "LevelGroup":21, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":901220, "Type":9, "LevelGroup":22, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":901230, "Type":9, "LevelGroup":23, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":901240, "Type":9, "LevelGroup":24, "StatusUpGroup":901, "Forced":false
+    },
+    {
+      "No":1001210, "Type":10, "LevelGroup":25, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1001220, "Type":10, "LevelGroup":26, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1001230, "Type":10, "LevelGroup":27, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1001240, "Type":10, "LevelGroup":28, "StatusUpGroup":1001, "Forced":false
+    },
+    {
+      "No":1101250, "Type":11, "LevelGroup":25, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1101260, "Type":11, "LevelGroup":26, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1101270, "Type":11, "LevelGroup":27, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1101280, "Type":11, "LevelGroup":28, "StatusUpGroup":1101, "Forced":false
+    },
+    {
+      "No":1201250, "Type":12, "LevelGroup":25, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1201260, "Type":12, "LevelGroup":26, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1201270, "Type":12, "LevelGroup":27, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1201280, "Type":12, "LevelGroup":28, "StatusUpGroup":1201, "Forced":false
+    },
+    {
+      "No":1301250, "Type":13, "LevelGroup":25, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1301260, "Type":13, "LevelGroup":26, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1301270, "Type":13, "LevelGroup":27, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1301280, "Type":13, "LevelGroup":28, "StatusUpGroup":1301, "Forced":false
+    },
+    {
+      "No":1401210, "Type":14, "LevelGroup":21, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1401220, "Type":14, "LevelGroup":22, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1401230, "Type":14, "LevelGroup":23, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1401240, "Type":14, "LevelGroup":24, "StatusUpGroup":1401, "Forced":false
+    },
+    {
+      "No":1501250, "Type":15, "LevelGroup":25, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":1501260, "Type":15, "LevelGroup":26, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":1501270, "Type":15, "LevelGroup":27, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":1501280, "Type":15, "LevelGroup":28, "StatusUpGroup":1501, "Forced":false
+    },
+    {
+      "No":9901010, "Type":1, "LevelGroup":501, "StatusUpGroup":101, "Forced":true
+    }
+  ]
+}
