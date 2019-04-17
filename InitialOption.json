@@ -1,0 +1,34 @@
+{
+  "Name":"InitialOption", "Rows":[
+    {
+      "SettingName":"NotificationNotice", "SettingValue":"true"
+    },
+    {
+      "SettingName":"NotificationTour", "SettingValue":"true"
+    },
+    {
+      "SettingName":"NotificationEvents", "SettingValue":"true"
+    },
+    {
+      "SettingName":"NotificationRoomInvitation", "SettingValue":"true"
+    },
+    {
+      "SettingName":"NotificationMaintenanceEnd", "SettingValue":"true"
+    },
+    {
+      "SettingName":"RewardBonus", "SettingValue":"true"
+    },
+    {
+      "SettingName":"NotificationAchieveMission", "SettingValue":"true"
+    },
+    {
+      "SettingName":"NotificationNightNotice", "SettingValue":"true"
+    },
+    {
+      "SettingName":"NotificationNightTimeStart", "SettingValue":"21"
+    },
+    {
+      "SettingName":"NotificationNightTimeEnd", "SettingValue":"6"
+    }
+  ]
+}

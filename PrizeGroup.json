@@ -10724,6 +10724,9 @@
     },
     {
       "No":14034001, "Group":14034, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":40259
+    },
+    {
+      "No":14035001, "Group":14035, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20001
     }
   ]
 }

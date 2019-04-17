@@ -100,10 +100,10 @@
       "Type":33, "Description":"敵艦船に対して強力な魚雷攻撃\n一定距離まで空を飛び着水後攻撃", "CombatType":2, "MissionType":2
     },
     {
-      "Type":34, "Description":"範囲内にいる艦船の耐久力を\n大きく回復（固定値回復）", "CombatType":0, "MissionType":0
+      "Type":34, "Description":"範囲内にいる艦船1隻の耐久力を\n大きく回復（固定値回復）", "CombatType":0, "MissionType":0
     },
     {
-      "Type":35, "Description":"範囲内にいる艦船の耐久力を\n一定時間継続回復する", "CombatType":0, "MissionType":0
+      "Type":35, "Description":"範囲内にいる艦船1隻の耐久力を\n一定時間継続回復する", "CombatType":0, "MissionType":0
     },
     {
       "Type":36, "Description":"特殊な航行技術により\n一定のダメージを軽減する", "CombatType":0, "MissionType":0

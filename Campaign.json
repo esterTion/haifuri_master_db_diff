@@ -7,7 +7,7 @@
       "No":2001, "LinkNo":2001, "Title":"リリース開始記念育成応援キャンペーン2", "ValidITime":"2017-01-01T00:00:00+09:00", "InvalidTime":"2017-01-01T00:00:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":false, "Saturday":false, "Sunday":false, "Type":2, "LotteryUpCount":0, "WinAddLotteryCount":0, "LoseAddLotteryCount":0, "IncreaseRate":0, "CoinReductionRate":0
     },
     {
-      "No":2002, "LinkNo":2001, "Title":"リリース開始記念育成応援キャンペーン3", "ValidITime":"2017-01-01T00:00:00+09:00", "InvalidTime":"2017-01-01T00:00:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":false, "Saturday":false, "Sunday":false, "Type":202, "LotteryUpCount":0, "WinAddLotteryCount":0, "LoseAddLotteryCount":0, "IncreaseRate":0, "CoinReductionRate":0
+      "No":2002, "LinkNo":2001, "Title":"外洋訓練応援キャンペーン", "ValidITime":"2017-01-01T00:00:00+09:00", "InvalidTime":"2019-05-07T13:59:59+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true, "Type":202, "LotteryUpCount":4, "WinAddLotteryCount":0, "LoseAddLotteryCount":0, "IncreaseRate":0, "CoinReductionRate":0
     }
   ]
 }

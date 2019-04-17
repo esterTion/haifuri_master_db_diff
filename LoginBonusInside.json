@@ -80,6 +80,21 @@
     },
     {
       "No":2000207, "Group":20002, "Count":7, "PrizeGroup":130027, "PickUp":true
+    },
+    {
+      "No":2000301, "Group":20003, "Count":1, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000302, "Group":20003, "Count":2, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000303, "Group":20003, "Count":3, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000304, "Group":20003, "Count":4, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000305, "Group":20003, "Count":5, "PrizeGroup":130023, "PickUp":false
     }
   ]
 }

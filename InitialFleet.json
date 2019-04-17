@@ -1,0 +1,79 @@
+{
+  "Name":"InitialFleet", "Rows":[
+    {
+      "FleetName":"艦隊Aチーム", "UnitNo":0, "ShipNo":10101, "CardNo1":810000, "CardNo2":1410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Aチーム", "UnitNo":1, "ShipNo":10301, "CardNo1":920000, "CardNo2":1720000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Aチーム", "UnitNo":2, "ShipNo":10201, "CardNo1":1010000, "CardNo2":2210000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Aチーム", "UnitNo":3, "ShipNo":20401, "CardNo1":1120000, "CardNo2":2320000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Aチーム", "UnitNo":4, "ShipNo":30901, "CardNo1":1320000, "CardNo2":2410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Bチーム", "UnitNo":0, "ShipNo":10101, "CardNo1":810000, "CardNo2":1410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Bチーム", "UnitNo":1, "ShipNo":10301, "CardNo1":920000, "CardNo2":1720000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Bチーム", "UnitNo":2, "ShipNo":10201, "CardNo1":1010000, "CardNo2":2210000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Bチーム", "UnitNo":3, "ShipNo":20401, "CardNo1":1120000, "CardNo2":2320000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Bチーム", "UnitNo":4, "ShipNo":30901, "CardNo1":1320000, "CardNo2":2410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Cチーム", "UnitNo":0, "ShipNo":10101, "CardNo1":810000, "CardNo2":1410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Cチーム", "UnitNo":1, "ShipNo":10301, "CardNo1":920000, "CardNo2":1720000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Cチーム", "UnitNo":2, "ShipNo":10201, "CardNo1":1010000, "CardNo2":2210000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Cチーム", "UnitNo":3, "ShipNo":20401, "CardNo1":1120000, "CardNo2":2320000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Cチーム", "UnitNo":4, "ShipNo":30901, "CardNo1":1320000, "CardNo2":2410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Dチーム", "UnitNo":0, "ShipNo":10101, "CardNo1":810000, "CardNo2":1410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Dチーム", "UnitNo":1, "ShipNo":10301, "CardNo1":920000, "CardNo2":1720000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Dチーム", "UnitNo":2, "ShipNo":10201, "CardNo1":1010000, "CardNo2":2210000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Dチーム", "UnitNo":3, "ShipNo":20401, "CardNo1":1120000, "CardNo2":2320000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Dチーム", "UnitNo":4, "ShipNo":30901, "CardNo1":1320000, "CardNo2":2410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Eチーム", "UnitNo":0, "ShipNo":10101, "CardNo1":810000, "CardNo2":1410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Eチーム", "UnitNo":1, "ShipNo":10301, "CardNo1":920000, "CardNo2":1720000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Eチーム", "UnitNo":2, "ShipNo":10201, "CardNo1":1010000, "CardNo2":2210000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Eチーム", "UnitNo":3, "ShipNo":20401, "CardNo1":1120000, "CardNo2":2320000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    },
+    {
+      "FleetName":"艦隊Eチーム", "UnitNo":4, "ShipNo":30901, "CardNo1":1320000, "CardNo2":2410000, "CardNo3":0, "CardNo4":0, "CardNo5":0, "CardNo6":0, "CardNo7":0, "CardNo8":0, "CardNo9":0, "CardNo10":0
+    }
+  ]
+}

@@ -188,6 +188,9 @@
     },
     {
       "No":2205011, "PlayerName":"相手チーム", "UnitNo1":22050111, "UnitNo2":22050112, "UnitNo3":22050113, "UnitNo4":22050114, "UnitNo5":22050115, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205021, "PlayerName":"相手チーム", "UnitNo1":22050121, "UnitNo2":22050122, "UnitNo3":22050123, "UnitNo4":22050124, "UnitNo5":22050125, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
     }
   ]
 }
