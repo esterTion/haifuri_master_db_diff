@@ -1,5 +1,5 @@
 {
-  "Version":479, "Signatures":[
+  "Version":502, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"7d0f958640b2580fb0cb0d009c0c20a263611b0f7c682374", "Iv":"b8bd357d59894e9abc7d73345f2d4868", "Salt":"476e03c6b8c25cf66e29542d45353dbab2d9d4c555af57483b2fc2c23a7e7504", "Size":128, "Sha1":"44f25379c6da03fc726404297b9fbc021125fc16"
     },
@@ -103,7 +103,7 @@
       "MasterName":"Item", "Signature":"0c808030d65d0820e90a70c2670d70d150750d20bd070d3060f8", "Iv":"d2cde98ccae54aa7cecb9ca8c8712d1b", "Salt":"2e659e45d03113d448871d7a4695aba6c6f6a173a2db7c5a60127b5dcfe7f6b2", "Size":102528, "Sha1":"62bd194f4d1fe4a81a00018bc2351829d53e4859"
     },
     {
-      "MasterName":"JewelPassport", "Signature":"2f110e80d30ce0cf0b70a44b0992e09b6f0ca0df08648035f50", "Iv":"c817dff8cb31844b666065629599d2cf", "Salt":"bc029134c36ee6af342c0eee94d5c2cf4dfbd3c32e72d425a8c4e8eb5d5c9d41", "Size":192, "Sha1":"26c4f78abb5b59ca9ee33f057bd828294666faac"
+      "MasterName":"JewelPassport", "Signature":"45790a80cf352d0f50db150fe0862000992b0a80960f2050bd", "Iv":"41f95240cd530f0bcf60b0245a456b3f", "Salt":"35ef847034c3fb5ba024eac03247d75d3b72bec44d0c7ba336d6f0ad9daa0a72", "Size":192, "Sha1":"108f51137579117cea00ba8e0bb9fdcc918ae79c"
     },
     {
       "MasterName":"JewelShop", "Signature":"6a0b244300930e17c35700c50d4534b0a60ae0a6410990ca0b2", "Iv":"bc3eee27339ddd616a7a0f6e2d466847", "Salt":"cc4f4c5566016ed6b56de55d5bd86a16a54212985687a3c06bd13c6e5a9161df", "Size":7600, "Sha1":"cc3af0661c3614490c5c07d0be831bf56b886b04"
