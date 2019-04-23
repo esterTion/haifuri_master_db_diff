@@ -1,5 +1,5 @@
 {
-  "Version":567, "Signatures":[
+  "Version":568, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"3309064566d0890a4761540df030b00f20c337550c50970f0", "Iv":"93b22c5845daaa73c4ca6b7fb6a18be0", "Salt":"b364b4da301a05f9c1c7b125d28d9612b2d3f05967ac1ef3b36fa1196b1d2567", "Size":128, "Sha1":"eccedf7a48453da725e0da31b2086e6a104125ec"
     },
@@ -64,7 +64,7 @@
       "MasterName":"ContestRewardLottery", "Signature":"0a13a0ad59711d610ee070bb0b10d20df0b50f808f7d0db250f1", "Iv":"61118e5191d8e996b8dc22403dd6b369", "Salt":"af3b88be69aad15b2dd9b064649f2461d22bd264643c4b4baa9771919f31f07f", "Size":2224, "Sha1":"b2b4ff77489a07a6b375a17d7b5676cf88c47907"
     },
     {
-      "MasterName":"CrewSkill", "Signature":"0c12f650d1020e30fa035d760c8790e053190c60cf0309f0f9", "Iv":"6f4a8e9c8f3ae334699904c656bbcda2", "Salt":"b165379b45f41634d1b25f5b48a1ca07388b06cd49e7b4304d73a67f4efd8026", "Size":21040, "Sha1":"1a33a7499479c6874a5796a59d1696a669a24308"
+      "MasterName":"CrewSkill", "Signature":"2b6b630b60a20b11f0a0ce0ad0d0b90a90c439120d51f050a2", "Iv":"973c94b5bbe24b5fbec5ace5469e8e5f", "Salt":"8fc0244b6e472275cd1e83a95207fdca36194d77b007645fc8286a9cad8f8abe", "Size":21264, "Sha1":"84f02bf755f93ce0c0cd8b983cf84ddf24ae2956"
     },
     {
       "MasterName":"FixedCaptainSkill", "Signature":"09c385e3d144f0cb0c93e09604300fb6f0f5580fa19090a9", "Iv":"674bd8baa86a65ee53a891416a224659", "Salt":"510ba544636229fc95e1cde79e131a593a7e8d304452afcd53559471c7767740", "Size":21968, "Sha1":"5e620f93d6758557b9f14e359f3e7f57ba084c45"
@@ -190,7 +190,7 @@
       "MasterName":"SkillStatusUp", "Signature":"17543f0bb0dc0e4330ad6b3d01456a0980c0360f0a24f6c", "Iv":"aef76ec2be4c989e30dd85ea94b4f9aa", "Salt":"aefe2f04c7609061cae91be23a76df982e3cfb9933a2181552e2dab04d1063f2", "Size":155856, "Sha1":"a8428cdbea96fb98402215c93074c8514cf7d924"
     },
     {
-      "MasterName":"SkillType", "Signature":"0d40fb0ab08d0f10a5420dd0ce0c059466e08c0ea0fc0803d214f", "Iv":"be14f34e363795b291ebbcbd4233513b", "Salt":"a99cb399b70361f5580edd97a0c08e2e52fd264a2d9e764cacbb1b0bc044695d", "Size":6528, "Sha1":"e155c762ad936380a5a1f17503788ddfa70eafdb"
+      "MasterName":"SkillType", "Signature":"0fa1d1609f0b47e0eb0f60d0800d0890e2491458360cd3f0e6", "Iv":"c0c49f3f5d8d86c8d0de820d4846437c", "Salt":"b3c20bc8c1008d6d35d6512e5b587e50c792b1c899520470cd44eb0d3ee7d181", "Size":6560, "Sha1":"9c3313c2d3074a808e886a7da977f42da939b6ae"
     },
     {
       "MasterName":"SpineSkin", "Signature":"3f1e2c0f30d87b680d17b0ae3876406e0ac36096383f0fb", "Iv":"66decf6ead93bc1b4ca16f11b81d4a0d", "Salt":"4a1e62e14d6c9d032f4eb2acc54ce6544717e9eccdd72e61c6f8461746b1e861", "Size":120992, "Sha1":"4de8c8e9a9787da18eceda30fdb9bcce1ccdb830"
