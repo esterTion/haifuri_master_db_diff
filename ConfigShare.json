@@ -64,7 +64,7 @@
       "Name":"MainStory1Scene12", "Value":"10011301", "Type":"INTEGER"
     },
     {
-      "Name":"BattlePointLimit", "Value":"2998", "Type":"INTEGER"
+      "Name":"BattlePointLimit", "Value":"3998", "Type":"INTEGER"
     },
     {
       "Name":"OverflowExpForItem", "Value":"1000", "Type":"INTEGER"
@@ -89,6 +89,9 @@
     },
     {
       "Name":"TourSupportItemCount", "Value":"1", "Type":"INTEGER"
+    },
+    {
+      "Name":"SkillTutorial1", "Value":"30090101", "Type":"INTEGER"
     }
   ]
 }

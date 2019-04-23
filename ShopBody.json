@@ -1,25 +1,37 @@
 {
   "Name":"ShopBody", "Rows":[
     {
-      "No":1000101, "Type":0, "Order":20, "Title":"マーメイドジュエル 3月", "InsideGroup":20001, "ValidTime":"2019-03-01T05:00:00+09:00", "InvalidTime":"2019-04-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+      "No":1000101, "Type":0, "Order":200, "Title":"マーメイドジュエル 3月", "InsideGroup":20001, "ValidTime":"2019-03-01T05:00:00+09:00", "InvalidTime":"2019-04-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
     },
     {
-      "No":1000102, "Type":0, "Order":21, "Title":"マーメイドジュエル 4月", "InsideGroup":20001, "ValidTime":"2019-04-01T05:00:00+09:00", "InvalidTime":"2019-05-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+      "No":1000102, "Type":0, "Order":201, "Title":"マーメイドジュエル 4月", "InsideGroup":20001, "ValidTime":"2019-04-01T05:00:00+09:00", "InvalidTime":"2019-05-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
     },
     {
-      "No":4000101, "Type":1, "Order":1, "Title":"デイリーショップ", "InsideGroup":40002, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUpType":1
+      "No":1000103, "Type":0, "Order":202, "Title":"マーメイドジュエル 5月", "InsideGroup":20001, "ValidTime":"2019-05-01T05:00:00+09:00", "InvalidTime":"2019-06-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
     },
     {
-      "No":4000201, "Type":0, "Order":2, "Title":"限界突破素材", "InsideGroup":40001, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUpType":0
+      "No":1000104, "Type":0, "Order":203, "Title":"マーメイドジュエル 6月", "InsideGroup":20001, "ValidTime":"2019-06-01T05:00:00+09:00", "InvalidTime":"2019-07-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
     },
     {
-      "No":5000103, "Type":0, "Order":5, "Title":"3月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-03-01T05:00:00+09:00", "InvalidTime":"2019-04-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+      "No":3100101, "Type":0, "Order":10, "Title":"GWショップ", "InsideGroup":31001, "ValidTime":"2019-04-18T14:30:00+09:00", "InvalidTime":"2019-05-14T14:00:00+09:00", "UserHour":0, "PickUpType":2
     },
     {
-      "No":5000104, "Type":0, "Order":6, "Title":"4月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-04-01T05:00:00+09:00", "InvalidTime":"2019-05-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+      "No":4000101, "Type":1, "Order":100, "Title":"デイリーショップ", "InsideGroup":40002, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUpType":1
     },
     {
-      "No":5000105, "Type":0, "Order":7, "Title":"5月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-05-01T05:00:00+09:00", "InvalidTime":"2019-06-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+      "No":4000201, "Type":0, "Order":101, "Title":"限界突破素材", "InsideGroup":40001, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
+      "No":5000103, "Type":0, "Order":104, "Title":"3月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-03-01T05:00:00+09:00", "InvalidTime":"2019-04-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
+      "No":5000104, "Type":0, "Order":105, "Title":"4月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-04-01T05:00:00+09:00", "InvalidTime":"2019-05-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
+      "No":5000105, "Type":0, "Order":106, "Title":"5月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-05-01T05:00:00+09:00", "InvalidTime":"2019-06-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
+      "No":5000106, "Type":0, "Order":107, "Title":"6月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-06-01T05:00:00+09:00", "InvalidTime":"2019-07-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
     }
   ]
 }

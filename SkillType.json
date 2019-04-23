@@ -85,7 +85,7 @@
       "Type":28, "Description":"敵艦船に対して魚雷攻撃\n（特に大型艦に対して有効）", "CombatType":2, "MissionType":2
     },
     {
-      "Type":29, "Description":"スキッパーで索敵を行う", "CombatType":4, "MissionType":0
+      "Type":29, "Description":"艦船が出撃時にスキッパーを\n使い索敵を行う", "CombatType":4, "MissionType":0
     },
     {
       "Type":30, "Description":"機雷を設置し近づいた艦船を攻撃\n爆発により最大速度を減退させる", "CombatType":2, "MissionType":3

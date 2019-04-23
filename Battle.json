@@ -52,6 +52,12 @@
       "No":1111003, "MapNo":100109, "Group":12003, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
+      "No":1111004, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+    },
+    {
+      "No":1111005, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":90, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+    },
+    {
       "No":1121901, "MapNo":100109, "Group":12001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
     },
     {

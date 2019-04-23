@@ -133,19 +133,28 @@
       "No":204301, "Type":2, "RankmatchSeasonNo":0, "Order":43, "CharNo":10043, "Title":"加藤 小百合", "Group":2043, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":300101, "Type":3, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"チュートリアル", "Group":3001, "PrizeGroup":140003, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":300101, "Type":3, "RankmatchSeasonNo":0, "Order":100, "CharNo":0, "Title":"チュートリアル", "Group":3001, "PrizeGroup":140003, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":300201, "Type":3, "RankmatchSeasonNo":0, "Order":3, "CharNo":0, "Title":"大型艦「比叡」獲得チャレンジ", "Group":3002, "PrizeGroup":14006, "Resource":0, "StartTime":"2019-04-04T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":300201, "Type":3, "RankmatchSeasonNo":0, "Order":600, "CharNo":0, "Title":"大型艦「比叡」獲得チャレンジ", "Group":3002, "PrizeGroup":14006, "Resource":0, "StartTime":"2019-04-04T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":300301, "Type":3, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"強化素材獲得チャレンジ", "Group":3003, "PrizeGroup":14010, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":300301, "Type":3, "RankmatchSeasonNo":0, "Order":700, "CharNo":0, "Title":"強化素材獲得チャレンジ", "Group":3003, "PrizeGroup":14010, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":300401, "Type":3, "RankmatchSeasonNo":0, "Order":4, "CharNo":0, "Title":"AJチャレンジ", "Group":3004, "PrizeGroup":14004, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":300401, "Type":3, "RankmatchSeasonNo":0, "Order":400, "CharNo":0, "Title":"AJチャレンジ", "Group":3004, "PrizeGroup":14004, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":300501, "Type":3, "RankmatchSeasonNo":0, "Order":5, "CharNo":0, "Title":"艦隊戦演習マップ", "Group":3005, "PrizeGroup":14010, "Resource":0, "StartTime":"2019-04-15T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":300501, "Type":3, "RankmatchSeasonNo":0, "Order":500, "CharNo":0, "Title":"艦隊戦演習マップ", "Group":3005, "PrizeGroup":14010, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":300701, "Type":3, "RankmatchSeasonNo":0, "Order":200, "CharNo":0, "Title":"巡洋艦「五十鈴」獲得チャレンジ", "Group":3007, "PrizeGroup":14036, "Resource":0, "StartTime":"2019-04-18T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":300801, "Type":3, "RankmatchSeasonNo":0, "Order":300, "CharNo":0, "Title":"マーメイドジュエル獲得チャレンジ", "Group":3008, "PrizeGroup":14008, "Resource":0, "StartTime":"2019-04-18T14:30:00+09:00", "EndTime":"2019-05-07T13:59:59+09:00"
+    },
+    {
+      "No":300901, "Type":3, "RankmatchSeasonNo":0, "Order":400, "CharNo":0, "Title":"艦隊戦スキル演習", "Group":3009, "PrizeGroup":14035, "Resource":0, "StartTime":"2019-04-18T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
       "No":400201, "Type":4, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"正月", "Group":4002, "PrizeGroup":140002, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2018-01-01T00:00:00+09:00"

@@ -718,7 +718,7 @@
       "No":10006003, "Name":"対拠点強化パーツ・大", "Description":"対拠点強化パーツ・大アイテム説明文", "Type":10, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":236, "SalePrice":100
     },
     {
-      "No":11001001, "Name":"イベントアイテムA", "Description":"イベントアイテムAアイテム説明文", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":237, "SalePrice":100
+      "No":11001001, "Name":"GWコイン", "Description":"期間限定のGWショップで\nアイテムと交換ができる", "Type":11, "Category":1, "MaxCount":99999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":237, "SalePrice":100
     },
     {
       "No":11002001, "Name":"イベントアイテムB", "Description":"イベントアイテムBアイテム説明文", "Type":11, "Category":2, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":238, "SalePrice":100
