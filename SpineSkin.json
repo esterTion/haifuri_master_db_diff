@@ -370,7 +370,7 @@
       "No":2840000, "Name":"伊良子 美甘 ☆4-01 進化前", "CharNo":10028, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"じゃがいもはね、デコボコは気にしないで\nまずはザックリ皮を剥いちゃうのが\n速く剥くコツなの。細かいところを\n最後にチャチャっと処理して…\nほら、もう剥けたよ♪", "SpeechText2":"じゃがいもは\n皮を剥くとすぐ変色しちゃうから、\n皮を剥いたらすぐにたっぷりの\nお水に浸してあげてね\n料理は見た目も大事よ♪", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2841000, "Name":"伊良子 美甘 ☆4-01 進化後", "CharNo":10028, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"隠し味に、\nこっそり「アレ」を入れたからね…\n肉じゃがにこだわりのあるみなみさんも、\nきっと気に行ってくれるはず♪\nささ、みなみさん、召し上がれ♪", "SpeechText2":"秘密の隠し味の「アレ」は、\nじゃがいもはホクホクに…お肉は柔らかく…\nにんじんは甘～く仕上げてくれるの♪\nみなみさんどう？　おいしい？", "SpeechText3":"", "SpeechText4":""
+      "No":2841000, "Name":"伊良子 美甘 ☆4-01 進化後", "CharNo":10028, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"隠し味に、\nこっそり「アレ」を入れたからね…\n肉じゃがにこだわりのあるみなみさんも、\nきっと気に入ってくれるはず♪\nささ、みなみさん、召し上がれ♪", "SpeechText2":"秘密の隠し味の「アレ」は、\nじゃがいもはホクホクに…お肉は柔らかく…\nにんじんは甘～く仕上げてくれるの♪\nみなみさんどう？　おいしい？", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":2920000, "Name":"杵崎 ほまれ ☆2-01 進化前", "CharNo":10029, "ShopNo":0, "Rarity":20, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"今日もみんなを笑顔にする料理を\nがんばって作らないとね\nさーて、何にしようかな？", "SpeechText2":"次はどんな和菓子を作ろうかな…？\nたまには洋菓子に\n挑戦してみるのもいいかしら\nちょっとあっちゃんに相談してみよ", "SpeechText3":"", "SpeechText4":""
@@ -569,6 +569,9 @@
     },
     {
       "No":4930000, "Name":"福内 典子 ☆3-01 進化前", "CharNo":10049, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"吹き出しテキスト2\nテスト", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":5330000, "Name":"浦賀 鈴留 ☆3-01 進化前", "CharNo":10053, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"吹き出しテキスト2\nテスト", "SpeechText3":"", "SpeechText4":""
     }
   ]
 }

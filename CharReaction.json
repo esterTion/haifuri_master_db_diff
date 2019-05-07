@@ -8819,6 +8819,186 @@
     },
     {
       "No":493901, "CharNo":10049, "Condition":39, "Facial":2, "Emotion":1, "Priority":68, "Text":"これで進めるわ！"
+    },
+    {
+      "No":530101, "CharNo":10053, "Condition":1, "Facial":1, "Emotion":0, "Priority":50, "Text":""
+    },
+    {
+      "No":530201, "CharNo":10053, "Condition":2, "Facial":1, "Emotion":0, "Priority":120, "Text":"出撃"
+    },
+    {
+      "No":530301, "CharNo":10053, "Condition":3, "Facial":1, "Emotion":0, "Priority":110, "Text":"前進"
+    },
+    {
+      "No":530302, "CharNo":10053, "Condition":3, "Facial":1, "Emotion":0, "Priority":110, "Text":"前進"
+    },
+    {
+      "No":530303, "CharNo":10053, "Condition":3, "Facial":1, "Emotion":0, "Priority":110, "Text":"前進"
+    },
+    {
+      "No":530304, "CharNo":10053, "Condition":3, "Facial":1, "Emotion":0, "Priority":110, "Text":"前進"
+    },
+    {
+      "No":530401, "CharNo":10053, "Condition":4, "Facial":1, "Emotion":0, "Priority":150, "Text":""
+    },
+    {
+      "No":530501, "CharNo":10053, "Condition":5, "Facial":1, "Emotion":0, "Priority":100, "Text":"発見"
+    },
+    {
+      "No":530601, "CharNo":10053, "Condition":6, "Facial":1, "Emotion":0, "Priority":90, "Text":"確認"
+    },
+    {
+      "No":530701, "CharNo":10053, "Condition":7, "Facial":1, "Emotion":0, "Priority":60, "Text":"攻撃開始"
+    },
+    {
+      "No":530801, "CharNo":10053, "Condition":8, "Facial":1, "Emotion":0, "Priority":80, "Text":"戦闘用意"
+    },
+    {
+      "No":530901, "CharNo":10053, "Condition":9, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":530902, "CharNo":10053, "Condition":9, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":530903, "CharNo":10053, "Condition":9, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":530904, "CharNo":10053, "Condition":9, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":531001, "CharNo":10053, "Condition":10, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":531002, "CharNo":10053, "Condition":10, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":531003, "CharNo":10053, "Condition":10, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":531004, "CharNo":10053, "Condition":10, "Facial":1, "Emotion":0, "Priority":70, "Text":"交戦中"
+    },
+    {
+      "No":531101, "CharNo":10053, "Condition":11, "Facial":1, "Emotion":0, "Priority":20, "Text":"目標撃破"
+    },
+    {
+      "No":531201, "CharNo":10053, "Condition":12, "Facial":1, "Emotion":0, "Priority":10, "Text":"撤退"
+    },
+    {
+      "No":531301, "CharNo":10053, "Condition":13, "Facial":1, "Emotion":0, "Priority":30, "Text":"拠点攻撃開始"
+    },
+    {
+      "No":531401, "CharNo":10053, "Condition":14, "Facial":1, "Emotion":0, "Priority":40, "Text":"攻撃継続"
+    },
+    {
+      "No":531402, "CharNo":10053, "Condition":14, "Facial":1, "Emotion":0, "Priority":40, "Text":"攻撃継続"
+    },
+    {
+      "No":531403, "CharNo":10053, "Condition":14, "Facial":1, "Emotion":0, "Priority":40, "Text":"攻撃継続"
+    },
+    {
+      "No":531404, "CharNo":10053, "Condition":14, "Facial":1, "Emotion":0, "Priority":40, "Text":"攻撃継続"
+    },
+    {
+      "No":531501, "CharNo":10053, "Condition":15, "Facial":1, "Emotion":0, "Priority":55, "Text":"警告"
+    },
+    {
+      "No":531601, "CharNo":10053, "Condition":16, "Facial":1, "Emotion":0, "Priority":57, "Text":"機雷注意"
+    },
+    {
+      "No":531701, "CharNo":10053, "Condition":17, "Facial":1, "Emotion":0, "Priority":67, "Text":"回避"
+    },
+    {
+      "No":531801, "CharNo":10053, "Condition":18, "Facial":1, "Emotion":0, "Priority":64, "Text":"上昇効果"
+    },
+    {
+      "No":531802, "CharNo":10053, "Condition":18, "Facial":1, "Emotion":0, "Priority":64, "Text":"上昇効果"
+    },
+    {
+      "No":531803, "CharNo":10053, "Condition":18, "Facial":1, "Emotion":0, "Priority":64, "Text":"上昇効果"
+    },
+    {
+      "No":531804, "CharNo":10053, "Condition":18, "Facial":1, "Emotion":0, "Priority":64, "Text":"上昇効果"
+    },
+    {
+      "No":531901, "CharNo":10053, "Condition":19, "Facial":1, "Emotion":0, "Priority":63, "Text":"効果消滅"
+    },
+    {
+      "No":532001, "CharNo":10053, "Condition":20, "Facial":1, "Emotion":0, "Priority":63, "Text":"障害発生"
+    },
+    {
+      "No":532101, "CharNo":10053, "Condition":21, "Facial":1, "Emotion":0, "Priority":63, "Text":"煙幕発生"
+    },
+    {
+      "No":532201, "CharNo":10053, "Condition":22, "Facial":1, "Emotion":0, "Priority":63, "Text":"火災発生"
+    },
+    {
+      "No":532301, "CharNo":10053, "Condition":23, "Facial":1, "Emotion":0, "Priority":64, "Text":"船体回復"
+    },
+    {
+      "No":532401, "CharNo":10053, "Condition":24, "Facial":1, "Emotion":0, "Priority":66, "Text":"中破"
+    },
+    {
+      "No":532402, "CharNo":10053, "Condition":24, "Facial":1, "Emotion":0, "Priority":66, "Text":"中破"
+    },
+    {
+      "No":532403, "CharNo":10053, "Condition":24, "Facial":1, "Emotion":0, "Priority":66, "Text":"中破"
+    },
+    {
+      "No":532404, "CharNo":10053, "Condition":24, "Facial":1, "Emotion":0, "Priority":66, "Text":"中破"
+    },
+    {
+      "No":532501, "CharNo":10053, "Condition":25, "Facial":1, "Emotion":0, "Priority":65, "Text":"小破"
+    },
+    {
+      "No":532502, "CharNo":10053, "Condition":25, "Facial":1, "Emotion":0, "Priority":65, "Text":"小破"
+    },
+    {
+      "No":532503, "CharNo":10053, "Condition":25, "Facial":1, "Emotion":0, "Priority":65, "Text":"小破"
+    },
+    {
+      "No":532504, "CharNo":10053, "Condition":25, "Facial":1, "Emotion":0, "Priority":65, "Text":"小破"
+    },
+    {
+      "No":532601, "CharNo":10053, "Condition":26, "Facial":1, "Emotion":0, "Priority":64, "Text":"陣形変更"
+    },
+    {
+      "No":532701, "CharNo":10053, "Condition":27, "Facial":1, "Emotion":0, "Priority":56, "Text":"行動継続"
+    },
+    {
+      "No":532801, "CharNo":10053, "Condition":28, "Facial":1, "Emotion":0, "Priority":57, "Text":"効果小"
+    },
+    {
+      "No":532901, "CharNo":10053, "Condition":29, "Facial":1, "Emotion":0, "Priority":57, "Text":"効果大"
+    },
+    {
+      "No":533001, "CharNo":10053, "Condition":30, "Facial":1, "Emotion":0, "Priority":57, "Text":"速度上昇"
+    },
+    {
+      "No":533101, "CharNo":10053, "Condition":31, "Facial":1, "Emotion":0, "Priority":25, "Text":"要拠点防衛"
+    },
+    {
+      "No":533201, "CharNo":10053, "Condition":32, "Facial":1, "Emotion":0, "Priority":24, "Text":"要拠点防衛"
+    },
+    {
+      "No":533301, "CharNo":10053, "Condition":33, "Facial":1, "Emotion":0, "Priority":45, "Text":"暗礁突入"
+    },
+    {
+      "No":533401, "CharNo":10053, "Condition":34, "Facial":1, "Emotion":0, "Priority":45, "Text":"暗礁注意"
+    },
+    {
+      "No":533501, "CharNo":10053, "Condition":35, "Facial":1, "Emotion":0, "Priority":45, "Text":"暗礁危険"
+    },
+    {
+      "No":533601, "CharNo":10053, "Condition":36, "Facial":1, "Emotion":0, "Priority":45, "Text":"海流"
+    },
+    {
+      "No":533701, "CharNo":10053, "Condition":37, "Facial":1, "Emotion":0, "Priority":45, "Text":"海流逆"
+    },
+    {
+      "No":533801, "CharNo":10053, "Condition":38, "Facial":1, "Emotion":0, "Priority":68, "Text":"島命中"
+    },
+    {
+      "No":533901, "CharNo":10053, "Condition":39, "Facial":1, "Emotion":0, "Priority":68, "Text":"岩礁破壊"
     }
   ]
 }

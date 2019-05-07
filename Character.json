@@ -146,6 +146,9 @@
     },
     {
       "No":10049, "Name":"福内 典子", "School":0, "Student":0, "BranchArmy":0, "ProfileNo":49, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"勝ちました！", "WordWin2":"勝ちました！", "WordDraw1":"引き分けですか…", "WordDraw2":"引き分けですか…", "WordLose1":"負けました…", "WordLose2":"負けました…"
+    },
+    {
+      "No":10053, "Name":"浦賀 鈴留", "School":0, "Student":1, "BranchArmy":0, "ProfileNo":53, "Birthday":"誕生日吹き出しテキスト\nテスト", "WordWin1":"勝ちました！", "WordWin2":"勝ちました！", "WordDraw1":"引き分けですか…", "WordDraw2":"引き分けですか…", "WordLose1":"負けました…", "WordLose2":"負けました…"
     }
   ]
 }
