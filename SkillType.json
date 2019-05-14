@@ -52,7 +52,7 @@
       "Type":17, "Description":"自分の周囲の味方艦船数に応じて\n敵艦船からのダメージ減少", "CombatType":0, "MissionType":0
     },
     {
-      "Type":18, "Description":"範囲内にいる艦船の\n耐久力を大きく回復", "CombatType":0, "MissionType":0
+      "Type":18, "Description":"範囲内にいる艦船1隻の\n耐久力を大きく回復", "CombatType":0, "MissionType":0
     },
     {
       "Type":19, "Description":"耐久力が一定以下になると\n砲撃と魚雷の威力が上昇", "CombatType":0, "MissionType":0

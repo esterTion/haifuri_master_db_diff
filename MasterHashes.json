@@ -1,5 +1,5 @@
 {
-  "Version":653, "Signatures":[
+  "Version":655, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"5a5c08209a0df570ca78510d60ca640b70e60f40ff4f6f0a40aa", "Iv":"98caf72d92e0596f2fde39e6a70afc62", "Salt":"36c9d4bc9deed3e296cfe7b35b32febc3e28aa796c965975c53fe997425efdbe", "Size":128, "Sha1":"8fb54096f63cf84b568f26d997f1afa9f6269bff"
     },
@@ -22,7 +22,7 @@
       "MasterName":"Campaign", "Signature":"0cb6808e2f0e80d40c609a1863540b3240e09009c0a00be0b50ed", "Iv":"670cb0465e16a1a1953f6e95cdff6218", "Salt":"69fc6e0dbf693c8ad131be95b25253b73ce72bc55222766eb274900ebb3a6316", "Size":1584, "Sha1":"6a893956ea050ebc243bae4c5b692ceabc9ec7fb"
     },
     {
-      "MasterName":"CaptainSkill", "Signature":"0e033154527073f0c90ca0f73d792d530b6500ef0e1f2b", "Iv":"a551eef72f0688e32bd436b33cd24900", "Salt":"97453e64d10f821ad2f96de330919d066986b602bbaa012798214c03a7c37f8d", "Size":45168, "Sha1":"bb195012e0a2d0f0af720e48adbeabcde57d2b0c"
+      "MasterName":"CaptainSkill", "Signature":"42227d57490e00bd0cb4107081470c20f80aa1c08d0a0920d6", "Iv":"2f08eaa3996054ed9be407e269e2e7a9", "Salt":"bfeab344452f4a3396f5e62c5a528373c8b5cc3ea5d1637041a5d5c8401a5527", "Size":45184, "Sha1":"3c46e524e08386ab3be730381fc04ea42370544c"
     },
     {
       "MasterName":"Card", "Signature":"124e230b20d86c0f7098110bd172d2b580d57f0bb0d10a909d", "Iv":"9ee6857b434953375931968ca2b255f9", "Salt":"9b6e4ffe3f0d4e9c56628d5d5afdf661658ffc345055289b4b42c049a8274637", "Size":97744, "Sha1":"b83a34ef5f0248ee337ad0712504e5718062fdbd"
@@ -193,7 +193,7 @@
       "MasterName":"SkillStatusUp", "Signature":"097317a215d09023c280e10d20db0fc0a308e0aa0e70940af00", "Iv":"398f472e473581ae4d70eecab26cdaa3", "Salt":"2e7668c334d81819ae683bbc99b4ceb06d591924d1070b308f956395c1522229", "Size":166144, "Sha1":"74f0ae35cab9763d8a4274a37002dc27b354f394"
     },
     {
-      "MasterName":"SkillType", "Signature":"1e0eb0e53d0aa070b413450ba48400bc0ff1c57630e23d70", "Iv":"6aed15663182a68f4ce9efeb5370f412", "Salt":"3cd0a7b367b0b5aa553e62b862a218adadad8f672bcc69cc4de4676db733cc2f", "Size":6560, "Sha1":"fd7df2da4ddcde7e32dc4bb09af075bc659ba2cb"
+      "MasterName":"SkillType", "Signature":"0da1f0810ff1c0b408e0f40da0de0ed5e080d73e4c0e0d10ed0d8", "Iv":"368de23356aeafa9a2d2586660ec2f5c", "Salt":"559e39485b9302ff6f032ea0499b486bd1692de698758914a8b115c99458bbed", "Size":6576, "Sha1":"a3469cdbea65a9d71bc10e26f4c26a5afa4ef0d0"
     },
     {
       "MasterName":"SpecialEfficacyCard", "Signature":"2e0e5606f490dd0f7082720d0d2790c109c6908d6b0ed08d09f", "Iv":"2af23c1e98a920d7a6e0c18f6d9bf7c3", "Salt":"39a9ce0a921348a3a9f3ba603872a4eb980587dcb0bdd0c89dbea00a4ad748df", "Size":912, "Sha1":"0f3f701723e67c69ad45e95cc647a4230e5ef63d"
