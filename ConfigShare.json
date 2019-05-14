@@ -64,7 +64,7 @@
       "Name":"MainStory1Scene12", "Value":"10011301", "Type":"INTEGER"
     },
     {
-      "Name":"BattlePointLimit", "Value":"3998", "Type":"INTEGER"
+      "Name":"BattlePointLimit", "Value":"4998", "Type":"INTEGER"
     },
     {
       "Name":"OverflowExpForItem", "Value":"1000", "Type":"INTEGER"
@@ -92,6 +92,15 @@
     },
     {
       "Name":"SkillTutorial1", "Value":"30090101", "Type":"INTEGER"
+    },
+    {
+      "Name":"SameUserLimitCount", "Value":"3", "Type":"INTEGER"
+    },
+    {
+      "Name":"SameUserLimitResetCount", "Value":"4", "Type":"INTEGER"
+    },
+    {
+      "Name":"AIDisplayCluster", "Value":"4", "Type":"INTEGER"
     }
   ]
 }

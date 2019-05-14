@@ -1,10 +1,10 @@
 {
   "Name":"AssetVersions", "Rows":[
     {
-      "Name":"AndroidAssets", "Version":201905031650
+      "Name":"AndroidAssets", "Version":201905102250
     },
     {
-      "Name":"iOSAssets", "Version":201905031650
+      "Name":"iOSAssets", "Version":201905102250
     }
   ]
 }

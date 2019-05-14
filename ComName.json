@@ -1,0 +1,19 @@
+{
+  "Name":"ComName", "Rows":[
+    {
+      "No":1, "PlayerName":"アルマダA", "FleetName":"アルマダ艦隊A"
+    },
+    {
+      "No":2, "PlayerName":"アルマダB", "FleetName":"アルマダ艦隊B"
+    },
+    {
+      "No":3, "PlayerName":"アルマダC", "FleetName":"アルマダ艦隊C"
+    },
+    {
+      "No":4, "PlayerName":"アルマダD", "FleetName":"アルマダ艦隊D"
+    },
+    {
+      "No":5, "PlayerName":"アルマダE", "FleetName":"アルマダ艦隊E"
+    }
+  ]
+}

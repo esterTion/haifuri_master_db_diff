@@ -73,6 +73,78 @@
       "SceneNo":10011202, "Difficulty":2, "OpenSceneNo":10011202, "OpenSceneDifficulty":1, "BattleNo":1101001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2101121, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
     },
     {
+      "SceneNo":10020102, "Difficulty":1, "OpenSceneNo":10020102, "OpenSceneDifficulty":0, "BattleNo":1111221, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102012, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020102, "Difficulty":2, "OpenSceneNo":10020102, "OpenSceneDifficulty":1, "BattleNo":1111241, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102013, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020202, "Difficulty":1, "OpenSceneNo":10020202, "OpenSceneDifficulty":0, "BattleNo":1111222, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102022, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020202, "Difficulty":2, "OpenSceneNo":10020202, "OpenSceneDifficulty":1, "BattleNo":1111242, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102023, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020302, "Difficulty":1, "OpenSceneNo":10020302, "OpenSceneDifficulty":0, "BattleNo":1111223, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102032, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020302, "Difficulty":2, "OpenSceneNo":10020302, "OpenSceneDifficulty":1, "BattleNo":1111243, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102033, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020402, "Difficulty":1, "OpenSceneNo":10020402, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102042, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020402, "Difficulty":2, "OpenSceneNo":10020402, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102043, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020502, "Difficulty":1, "OpenSceneNo":10020502, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102052, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020502, "Difficulty":2, "OpenSceneNo":10020502, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102053, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020602, "Difficulty":1, "OpenSceneNo":10020602, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102062, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020602, "Difficulty":2, "OpenSceneNo":10020602, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102063, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020702, "Difficulty":1, "OpenSceneNo":10020702, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102072, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020702, "Difficulty":2, "OpenSceneNo":10020702, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102073, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020802, "Difficulty":1, "OpenSceneNo":10020802, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102082, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020802, "Difficulty":2, "OpenSceneNo":10020802, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102083, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020902, "Difficulty":1, "OpenSceneNo":10020902, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":1102092, "OpponentFixedFleetNo":2102092, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10020902, "Difficulty":2, "OpenSceneNo":10020902, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":1102093, "OpponentFixedFleetNo":2102093, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10021002, "Difficulty":1, "OpenSceneNo":10021002, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":1102102, "OpponentFixedFleetNo":2102102, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10021002, "Difficulty":2, "OpenSceneNo":10021002, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":1102103, "OpponentFixedFleetNo":2102103, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10021102, "Difficulty":1, "OpenSceneNo":10021102, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":2, "ClearConditionType":1, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":1, "PlayerFixedFleetNo":1102111, "OpponentFixedFleetNo":2102111, "BattlePrizeGroup":14007, "MissionNo1":1001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10021102, "Difficulty":2, "OpenSceneNo":10021102, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":2, "ClearConditionType":1, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":1, "PlayerFixedFleetNo":1102111, "OpponentFixedFleetNo":2102111, "BattlePrizeGroup":14007, "MissionNo1":1001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10021202, "Difficulty":1, "OpenSceneNo":10021202, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102122, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
+      "SceneNo":10021202, "Difficulty":2, "OpenSceneNo":10021202, "OpenSceneDifficulty":1, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2102123, "BattlePrizeGroup":14007, "MissionNo1":2001, "MissionNo2":0, "MissionNo3":0, "MissionPrizeGroup":14004
+    },
+    {
       "SceneNo":30030101, "Difficulty":1, "OpenSceneNo":30030101, "OpenSceneDifficulty":0, "BattleNo":1111001, "UnitCount":5, "ClearConditionMode":0, "ClearConditionType":0, "UnitDefeatCount":0, "UnitDefeatNo":0, "DamageAccept":0, "PlayerFixedFleetNo":0, "OpponentFixedFleetNo":2203012, "BattlePrizeGroup":14012, "MissionNo1":2001, "MissionNo2":6001, "MissionNo3":17001, "MissionPrizeGroup":14015
     },
     {

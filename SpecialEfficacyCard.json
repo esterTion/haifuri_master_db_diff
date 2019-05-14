@@ -1,0 +1,28 @@
+{
+  "Name":"SpecialEfficacyCard", "Rows":[
+    {
+      "No":1001, "SpecialEfficacyGroup":1, "CardNo":3940000, "PossessionRate":10, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":1002, "SpecialEfficacyGroup":1, "CardNo":3941000, "PossessionRate":10, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":1003, "SpecialEfficacyGroup":1, "CardNo":1140000, "PossessionRate":15, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":1004, "SpecialEfficacyGroup":1, "CardNo":1141000, "PossessionRate":15, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":1005, "SpecialEfficacyGroup":1, "CardNo":3150000, "PossessionRate":20, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":1006, "SpecialEfficacyGroup":1, "CardNo":3151000, "PossessionRate":20, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":1007, "SpecialEfficacyGroup":1, "CardNo":4350000, "PossessionRate":45, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":1008, "SpecialEfficacyGroup":1, "CardNo":4351000, "PossessionRate":45, "FleetRate":0, "DisplayFlag":false
+    }
+  ]
+}

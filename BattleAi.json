@@ -38,6 +38,39 @@
     },
     {
       "No":9000, "FirstSortieTimeMin":3, "FirstSortieTimeMax":5, "NextSortieIntervalTimeMin":8, "NextSortieIntervalTimeMax":12, "CaptainSkillActiveIntervalTime":10, "CaptainSkillActivePercent":0.5, "AreaDefense":false, "AreaDefenseIntervalTime":10
+    },
+    {
+      "No":20001, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":6, "NextSortieIntervalTimeMax":6, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20010, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":4, "NextSortieIntervalTimeMax":4, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20020, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20030, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20040, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20050, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20060, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20070, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20080, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20090, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
+    },
+    {
+      "No":20100, "FirstSortieTimeMin":3, "FirstSortieTimeMax":3, "NextSortieIntervalTimeMin":3, "NextSortieIntervalTimeMax":3, "CaptainSkillActiveIntervalTime":0.5, "CaptainSkillActivePercent":1, "AreaDefense":true, "AreaDefenseIntervalTime":3
     }
   ]
 }

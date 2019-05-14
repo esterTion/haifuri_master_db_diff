@@ -4,7 +4,7 @@
       "No":100101, "Type":1, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"第１章", "Group":1001, "PrizeGroup":14008, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":100201, "Type":1, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"第２章", "Group":1002, "PrizeGroup":14008, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":100201, "Type":1, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"第２章", "Group":1002, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
       "No":200101, "Type":2, "RankmatchSeasonNo":0, "Order":1, "CharNo":10001, "Title":"岬 明乃", "Group":2001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"

@@ -53,6 +53,48 @@
     },
     {
       "Name":"MatchingTime2", "Value":"20", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalBeginner1", "Value":"5", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalBeginner2", "Value":"20", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalD1", "Value":"5", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalD2", "Value":"20", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalC1", "Value":"5", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalC2", "Value":"20", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalB1", "Value":"5", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalB2", "Value":"20", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalA1", "Value":"5", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalA2", "Value":"20", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalS1", "Value":"5", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalS2", "Value":"20", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalMermaid1", "Value":"5", "Type":"INTEGER"
+    },
+    {
+      "Name":"MatchingIntervalMermaid2", "Value":"20", "Type":"INTEGER"
     }
   ]
 }
