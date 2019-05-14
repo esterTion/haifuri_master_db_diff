@@ -1,5 +1,5 @@
 {
-  "Version":655, "Signatures":[
+  "Version":656, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"5a5c08209a0df570ca78510d60ca640b70e60f40ff4f6f0a40aa", "Iv":"98caf72d92e0596f2fde39e6a70afc62", "Salt":"36c9d4bc9deed3e296cfe7b35b32febc3e28aa796c965975c53fe997425efdbe", "Size":128, "Sha1":"8fb54096f63cf84b568f26d997f1afa9f6269bff"
     },
@@ -193,7 +193,7 @@
       "MasterName":"SkillStatusUp", "Signature":"097317a215d09023c280e10d20db0fc0a308e0aa0e70940af00", "Iv":"398f472e473581ae4d70eecab26cdaa3", "Salt":"2e7668c334d81819ae683bbc99b4ceb06d591924d1070b308f956395c1522229", "Size":166144, "Sha1":"74f0ae35cab9763d8a4274a37002dc27b354f394"
     },
     {
-      "MasterName":"SkillType", "Signature":"0da1f0810ff1c0b408e0f40da0de0ed5e080d73e4c0e0d10ed0d8", "Iv":"368de23356aeafa9a2d2586660ec2f5c", "Salt":"559e39485b9302ff6f032ea0499b486bd1692de698758914a8b115c99458bbed", "Size":6576, "Sha1":"a3469cdbea65a9d71bc10e26f4c26a5afa4ef0d0"
+      "MasterName":"SkillType", "Signature":"6c6125272863010f0430e40609809600ab0a208d0a20d358", "Iv":"c1a1b2433b4f391c4f74912b70777e3d", "Salt":"a491b62a4ff0b73e31fc8802ae807b4934c5ebf0a8b6d37bbfe2dc9da5242547", "Size":6576, "Sha1":"f9e4bcf7c5ad6b1b285444f6103588e6e2f29ce0"
     },
     {
       "MasterName":"SpecialEfficacyCard", "Signature":"2e0e5606f490dd0f7082720d0d2790c109c6908d6b0ed08d09f", "Iv":"2af23c1e98a920d7a6e0c18f6d9bf7c3", "Salt":"39a9ce0a921348a3a9f3ba603872a4eb980587dcb0bdd0c89dbea00a4ad748df", "Size":912, "Sha1":"0f3f701723e67c69ad45e95cc647a4230e5ef63d"

@@ -139,7 +139,7 @@
       "Type":46, "Description":"物資補給を行い一定時間毎に\nコストを補給する", "CombatType":0, "MissionType":0
     },
     {
-      "Type":47, "Description":"緊急回避航行により一定時間\n相手の攻撃を回避する", "CombatType":0, "MissionType":0
+      "Type":47, "Description":"緊急回避航行により一定時間\n相手の攻撃を回避しやすくする", "CombatType":0, "MissionType":0
     },
     {
       "Type":48, "Description":"自艦と周囲の艦船が連動して\n一定時間相手の攻撃を回避する", "CombatType":0, "MissionType":0
