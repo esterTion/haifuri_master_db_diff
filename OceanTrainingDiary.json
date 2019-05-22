@@ -161,6 +161,27 @@
     },
     {
       "No":400003, "DepartureLogGroup":10001, "FirstHalfLogGroup":70001, "LatterHalfGroup":60001, "ReturnLogGroup":20001, "SupportLogGroup":30001
+    },
+    {
+      "No":400004, "DepartureLogGroup":10001, "FirstHalfLogGroup":70010, "LatterHalfGroup":40016, "ReturnLogGroup":20001, "SupportLogGroup":30001
+    },
+    {
+      "No":400005, "DepartureLogGroup":10001, "FirstHalfLogGroup":70011, "LatterHalfGroup":40017, "ReturnLogGroup":20001, "SupportLogGroup":30001
+    },
+    {
+      "No":400006, "DepartureLogGroup":10001, "FirstHalfLogGroup":70012, "LatterHalfGroup":40018, "ReturnLogGroup":20001, "SupportLogGroup":30001
+    },
+    {
+      "No":400007, "DepartureLogGroup":10001, "FirstHalfLogGroup":70010, "LatterHalfGroup":40016, "ReturnLogGroup":20001, "SupportLogGroup":30001
+    },
+    {
+      "No":400008, "DepartureLogGroup":10001, "FirstHalfLogGroup":70011, "LatterHalfGroup":40017, "ReturnLogGroup":20001, "SupportLogGroup":30001
+    },
+    {
+      "No":400009, "DepartureLogGroup":10001, "FirstHalfLogGroup":70012, "LatterHalfGroup":40018, "ReturnLogGroup":20001, "SupportLogGroup":30001
+    },
+    {
+      "No":400010, "DepartureLogGroup":10001, "FirstHalfLogGroup":60001, "LatterHalfGroup":70008, "ReturnLogGroup":20001, "SupportLogGroup":30001
     }
   ]
 }

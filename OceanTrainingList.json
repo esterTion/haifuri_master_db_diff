@@ -212,6 +212,27 @@
     },
     {
       "No":40018, "TrainingType":4, "Resource":2, "NoticeType":1, "Title":"GW限定主計科食糧輸送訓練", "TrainingSeconds":28800, "PrizeGroup":120068, "Coin":2500, "CostItemNo":0, "CostItemCount":0, "OneDayCount":999, "DiaryNo":300010, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-03T05:00:00+09:00", "InvalidTime":"2019-05-07T14:30:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
+    },
+    {
+      "No":40019, "TrainingType":4, "Resource":1, "NoticeType":1, "Title":"期間限定　速度維持強化訓練", "TrainingSeconds":10800, "PrizeGroup":120069, "Coin":1000, "CostItemNo":0, "CostItemCount":0, "OneDayCount":2, "DiaryNo":400004, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-21T14:30:00+09:00", "InvalidTime":"2019-05-28T05:00:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
+    },
+    {
+      "No":40020, "TrainingType":4, "Resource":1, "NoticeType":1, "Title":"期間限定　航行制御強化訓練", "TrainingSeconds":10800, "PrizeGroup":120070, "Coin":1000, "CostItemNo":0, "CostItemCount":0, "OneDayCount":2, "DiaryNo":400005, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-21T14:30:00+09:00", "InvalidTime":"2019-05-28T05:00:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
+    },
+    {
+      "No":40021, "TrainingType":4, "Resource":1, "NoticeType":1, "Title":"期間限定　陣形維持強化訓練", "TrainingSeconds":10800, "PrizeGroup":120071, "Coin":1000, "CostItemNo":0, "CostItemCount":0, "OneDayCount":2, "DiaryNo":400006, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-21T14:30:00+09:00", "InvalidTime":"2019-05-28T05:00:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
+    },
+    {
+      "No":40022, "TrainingType":4, "Resource":1, "NoticeType":1, "Title":"期間限定　機関性能検証訓練", "TrainingSeconds":10800, "PrizeGroup":120072, "Coin":1000, "CostItemNo":0, "CostItemCount":0, "OneDayCount":2, "DiaryNo":400007, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-28T05:00:00+09:00", "InvalidTime":"2019-06-04T14:30:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
+    },
+    {
+      "No":40023, "TrainingType":4, "Resource":1, "NoticeType":1, "Title":"期間限定　陣形形成強化訓練", "TrainingSeconds":10800, "PrizeGroup":120073, "Coin":1000, "CostItemNo":0, "CostItemCount":0, "OneDayCount":2, "DiaryNo":400008, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-28T05:00:00+09:00", "InvalidTime":"2019-06-04T14:30:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
+    },
+    {
+      "No":40024, "TrainingType":4, "Resource":1, "NoticeType":1, "Title":"期間限定　装填強化訓練", "TrainingSeconds":10800, "PrizeGroup":120074, "Coin":1000, "CostItemNo":0, "CostItemCount":0, "OneDayCount":2, "DiaryNo":400009, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-28T05:00:00+09:00", "InvalidTime":"2019-06-04T14:30:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
+    },
+    {
+      "No":40025, "TrainingType":4, "Resource":3, "NoticeType":1, "Title":"期間限定　資源回収訓練", "TrainingSeconds":3600, "PrizeGroup":120075, "Coin":0, "CostItemNo":0, "CostItemCount":0, "OneDayCount":1, "DiaryNo":400010, "SecondProbability":40, "FirstProbability":50, "GrandProbability":10, "OpenStorySceneNo":0, "OpenRank":1, "CardLevel":1, "CardCount":1, "BranchArmy1":0, "BranchArmy2":0, "BranchArmy3":0, "BranchArmy4":0, "BranchArmy5":0, "ValidITime":"2019-05-21T14:30:00+09:00", "InvalidTime":"2019-06-04T14:30:00+09:00", "Monday":true, "Tuesday":true, "Wednesday":true, "Thursday":true, "Friday":true, "Saturday":true, "Sunday":true
     }
   ]
 }

@@ -346,13 +346,13 @@
       "No":40908003, "Order":28, "Category":4, "Link":9, "Description":"累計:ランクマッチB1到達", "Type":908, "CollabNo":40908004, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":13, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "PrizeGroup":11014
     },
     {
-      "No":40908004, "Order":28, "Category":4, "Link":9, "Description":"累計:ランクマッチA1到達", "Type":908, "CollabNo":40908005, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":17, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00", "PrizeGroup":11018
+      "No":40908004, "Order":28, "Category":4, "Link":9, "Description":"累計:ランクマッチA1到達", "Type":908, "CollabNo":40908005, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":17, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "PrizeGroup":11018
     },
     {
-      "No":40908005, "Order":28, "Category":4, "Link":9, "Description":"累計:ランクマッチS1到達", "Type":908, "CollabNo":40908006, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":21, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00", "PrizeGroup":11018
+      "No":40908005, "Order":28, "Category":4, "Link":9, "Description":"累計:ランクマッチS1到達", "Type":908, "CollabNo":40908006, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":21, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "PrizeGroup":11018
     },
     {
-      "No":40908006, "Order":28, "Category":4, "Link":9, "Description":"累計:ランクマッチMERMAID到達", "Type":908, "CollabNo":0, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":25, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00", "PrizeGroup":11018
+      "No":40908006, "Order":28, "Category":4, "Link":9, "Description":"累計:ランクマッチMERMAID到達", "Type":908, "CollabNo":0, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":25, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "PrizeGroup":11018
     },
     {
       "No":41001001, "Order":2, "Category":4, "Link":10, "Description":"累計:お知らせを開く", "Type":1001, "CollabNo":0, "ClearCount":1, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "PrizeGroup":11019

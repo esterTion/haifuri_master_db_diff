@@ -100,7 +100,7 @@
       "Name":"SameUserLimitResetCount", "Value":"4", "Type":"INTEGER"
     },
     {
-      "Name":"AIDisplayCluster", "Value":"4", "Type":"INTEGER"
+      "Name":"AIDisplayCluster", "Value":"0", "Type":"INTEGER"
     }
   ]
 }
