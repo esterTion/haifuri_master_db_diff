@@ -1,5 +1,5 @@
 {
-  "Version":768, "Signatures":[
+  "Version":770, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"1a1d714745110853e0ae0bc0af1d0c11a511f0e40f305a", "Iv":"41f2ff46487f2437a890c0f6abd198c9", "Salt":"8fe47ee7c32d306b9c2801ad968cfd44b8547c1d56d34fab6910c9c657087264", "Size":128, "Sha1":"c713b002641fe84a6d18ac596a7dbb50060d8596"
     },
@@ -61,7 +61,7 @@
       "MasterName":"Config", "Signature":"0c80eb2a350c40af0e918340843200001340a50c50a54653", "Iv":"9f7a9d5037d7f5ccae3ed78f4744accc", "Salt":"95b2187cbc726dc7ab463a8c5b6643474107579f3fa9eedd3c136776bf5eaf46", "Size":2064, "Sha1":"2e344c1afa5ce36266a7633afefad04f2229aa4f"
     },
     {
-      "MasterName":"ConfigShare", "Signature":"0f70b84b637562396b09e09e0f0636d6f10690a30dd03097", "Iv":"ca73ae4eb40fe0dfc593e3a3a1ba63ea", "Salt":"9c0d634fc6b9ff01a9459bd2681038903ff57221acc2afc755026dfecfde010b", "Size":2224, "Sha1":"1464d386dad3b0997248a7d1c719a016e8cface8"
+      "MasterName":"ConfigShare", "Signature":"09e1a0a461594f7a0eb0bf0b25d0a350aa6309b340ea0da086", "Iv":"60c188912e91c5d63f49ebf94cba7764", "Salt":"4b549462512b0f7c34dcd23ea3f63133d30fa5ecc7b91481a3096613406769b3", "Size":2288, "Sha1":"c3d6f67fac7f50088f7e6e759746369c9c8472bd"
     },
     {
       "MasterName":"ContestRewardLottery", "Signature":"0c09a600d5083641e092775d0bd67696808d657c317b0fd", "Iv":"cdc3be8535a25e3b3738159bb4b15257", "Salt":"91b46be067321262ad9e83524dfd060297a3e86f486e76ee93587c034466c826", "Size":2224, "Sha1":"8aa2e4976cabe4310993be8bba3364ff40a1ce29"
@@ -79,7 +79,7 @@
       "MasterName":"FixedFleet", "Signature":"0cb0f0b56d08e08b320e765050aa720aa0d00209c0e00c9180ce", "Iv":"9da536778ff59457a975ade13841f90c", "Salt":"581168816abe9666694d8dde58e0bb34cbf33fdfa6c5b1953edfd3d9bce518f9", "Size":30240, "Sha1":"6a7d701c1e1c175e7f7f78d4b751b8071658257a"
     },
     {
-      "MasterName":"FixedUnit", "Signature":"170a30d155696c7f0fd46414109c380c27e0f70dd0d74f08", "Iv":"6644b14ed1728e00a4a5bada4eeabe93", "Salt":"6129c8a468302ac9923510876304633639630c682c3b29f09fc8c857c3b76065", "Size":485536, "Sha1":"9e9c28b0ab805705ece821a89b8723fd207ad6ce"
+      "MasterName":"FixedUnit", "Signature":"09e08f14253b0e80856f280823f0830b808e08d620c40bb0ab55", "Iv":"af6127dad0308966587590f8bed709b0", "Salt":"3e4b1415cfe44ea93a932cabad4cd50bb62c1e43c6fc32ed419c1e33b64618d6", "Size":485536, "Sha1":"607290129e6a7296bf8e99275e1bf6970b6caeb5"
     },
     {
       "MasterName":"GachaBody", "Signature":"0f72d0f908f4f154c09009819157a012d035a0a5160b720", "Iv":"6acad877527899eab62df5936093de0b", "Salt":"a8c45d8337a6ebfe4e53ee6cc238ad8a96291937cf536148a908ae4160a348e2", "Size":22528, "Sha1":"7838e39d5b62cfe3c0a47155b36edda7f17b4b47"
