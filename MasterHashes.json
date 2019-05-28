@@ -1,5 +1,5 @@
 {
-  "Version":770, "Signatures":[
+  "Version":772, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"1a1d714745110853e0ae0bc0af1d0c11a511f0e40f305a", "Iv":"41f2ff46487f2437a890c0f6abd198c9", "Salt":"8fe47ee7c32d306b9c2801ad968cfd44b8547c1d56d34fab6910c9c657087264", "Size":128, "Sha1":"c713b002641fe84a6d18ac596a7dbb50060d8596"
     },
@@ -55,7 +55,7 @@
       "MasterName":"ComMatching", "Signature":"0940a40a16d08c0cd671a0fa0dd4408d620b03e0ab1f730df22", "Iv":"aa83f195d2b799af59a0ceb7a581adb5", "Salt":"455e9a06cd421986701801a9386ed24f9736592a40430b9cc08a9de645a68ca7", "Size":12832, "Sha1":"7e395b0cccf406f011345d805014c75a5f24fa87"
     },
     {
-      "MasterName":"ComName", "Signature":"4208808b6d2708a0f209309b0a90d0690d70ba09b0db0ba500a141", "Iv":"b6808e56aeedc0cfccfab1eb3ab7b8a0", "Salt":"3d5c5bdcbaeff16142a3270e6ca8afea940228efa00ed858415827b42ce73acc", "Size":1920, "Sha1":"6212eb6e5bcc4d8e4cb1418a5444a5ec5a6a9ef3"
+      "MasterName":"ComName", "Signature":"0940bc3f0c80e24871510ab0c00980b4330f647402e037713", "Iv":"48ad695e306fd2f03f7987eebc0fc8e1", "Salt":"3439f830d27aad7ebbabaf44bec67e75a66f3217935930bdc7c012ba6ed964f6", "Size":1616, "Sha1":"f8fd5a5bb4bbd3127d67dac560c6a91f04db6725"
     },
     {
       "MasterName":"Config", "Signature":"0c80eb2a350c40af0e918340843200001340a50c50a54653", "Iv":"9f7a9d5037d7f5ccae3ed78f4744accc", "Salt":"95b2187cbc726dc7ab463a8c5b6643474107579f3fa9eedd3c136776bf5eaf46", "Size":2064, "Sha1":"2e344c1afa5ce36266a7633afefad04f2229aa4f"
