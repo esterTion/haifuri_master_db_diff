@@ -1,76 +1,76 @@
 {
   "Name":"ContestRewardLottery", "Rows":[
     {
-      "No":1, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":66, "Notice":true
+      "No":1, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":2, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":33, "Notice":false
+      "No":2, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":3, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":33, "Notice":false
+      "No":3, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":4, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":33, "Notice":false
+      "No":4, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":5, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":33, "Notice":false
+      "No":5, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":6, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":33, "Notice":false
+      "No":6, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":7, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":33, "Notice":false
+      "No":7, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":8, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":33, "Notice":false
+      "No":8, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":9, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":33, "Notice":false
+      "No":9, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":10, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":33, "Notice":false
+      "No":10, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":11, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":33, "Notice":false
+      "No":11, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":12, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":33, "Notice":false
+      "No":12, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":13, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":66, "Notice":true
+      "No":13, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":90, "Notice":true
     },
     {
-      "No":14, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":66, "Notice":true
+      "No":14, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":90, "Notice":true
     },
     {
-      "No":15, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":33, "Notice":false
+      "No":15, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":16, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":33, "Notice":false
+      "No":16, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":17, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":33, "Notice":false
+      "No":17, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":18, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":33, "Notice":false
+      "No":18, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":19, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":33, "Notice":false
+      "No":19, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":60, "Notice":false
     },
     {
-      "No":20, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":66, "Notice":true
+      "No":20, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":90, "Notice":true
     },
     {
-      "No":21, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":66, "Notice":true
+      "No":21, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":90, "Notice":true
     },
     {
-      "No":22, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":33, "Notice":false
+      "No":22, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":90, "Notice":true
     },
     {
-      "No":23, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":33, "Notice":false
+      "No":23, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":90, "Notice":true
     },
     {
-      "No":24, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":66, "Notice":true
+      "No":24, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":90, "Notice":true
     }
   ]
 }

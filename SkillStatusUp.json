@@ -598,34 +598,34 @@
       "No":101900, "Group":1019, "Count":0, "GrowthValue":0, "GrowthPower":0, "ItemNo1":7001001, "ItemCount1":50, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":10000
     },
     {
-      "No":101901, "Group":1019, "Count":1, "GrowthValue":50, "GrowthPower":30, "ItemNo1":7001001, "ItemCount1":75, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":20000
+      "No":101901, "Group":1019, "Count":1, "GrowthValue":60, "GrowthPower":30, "ItemNo1":7001001, "ItemCount1":75, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":20000
     },
     {
-      "No":101902, "Group":1019, "Count":2, "GrowthValue":100, "GrowthPower":60, "ItemNo1":7001001, "ItemCount1":100, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":40000
+      "No":101902, "Group":1019, "Count":2, "GrowthValue":120, "GrowthPower":60, "ItemNo1":7001001, "ItemCount1":100, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":40000
     },
     {
-      "No":101903, "Group":1019, "Count":3, "GrowthValue":150, "GrowthPower":90, "ItemNo1":7001001, "ItemCount1":125, "ItemNo2":7001002, "ItemCount2":50, "ItemNo3":0, "ItemCount3":0, "CoinCount":80000
+      "No":101903, "Group":1019, "Count":3, "GrowthValue":180, "GrowthPower":90, "ItemNo1":7001001, "ItemCount1":125, "ItemNo2":7001002, "ItemCount2":50, "ItemNo3":0, "ItemCount3":0, "CoinCount":80000
     },
     {
-      "No":101904, "Group":1019, "Count":4, "GrowthValue":200, "GrowthPower":120, "ItemNo1":7001001, "ItemCount1":150, "ItemNo2":7001002, "ItemCount2":85, "ItemNo3":0, "ItemCount3":0, "CoinCount":120000
+      "No":101904, "Group":1019, "Count":4, "GrowthValue":240, "GrowthPower":120, "ItemNo1":7001001, "ItemCount1":150, "ItemNo2":7001002, "ItemCount2":85, "ItemNo3":0, "ItemCount3":0, "CoinCount":120000
     },
     {
-      "No":101905, "Group":1019, "Count":5, "GrowthValue":250, "GrowthPower":150, "ItemNo1":7001001, "ItemCount1":175, "ItemNo2":7001002, "ItemCount2":120, "ItemNo3":0, "ItemCount3":0, "CoinCount":160000
+      "No":101905, "Group":1019, "Count":5, "GrowthValue":300, "GrowthPower":150, "ItemNo1":7001001, "ItemCount1":175, "ItemNo2":7001002, "ItemCount2":120, "ItemNo3":0, "ItemCount3":0, "CoinCount":160000
     },
     {
-      "No":101906, "Group":1019, "Count":6, "GrowthValue":300, "GrowthPower":180, "ItemNo1":7001001, "ItemCount1":200, "ItemNo2":7001002, "ItemCount2":155, "ItemNo3":7001003, "ItemCount3":100, "CoinCount":200000
+      "No":101906, "Group":1019, "Count":6, "GrowthValue":360, "GrowthPower":180, "ItemNo1":7001001, "ItemCount1":200, "ItemNo2":7001002, "ItemCount2":155, "ItemNo3":7001003, "ItemCount3":100, "CoinCount":200000
     },
     {
-      "No":101907, "Group":1019, "Count":7, "GrowthValue":350, "GrowthPower":210, "ItemNo1":7001001, "ItemCount1":225, "ItemNo2":7001002, "ItemCount2":190, "ItemNo3":7001003, "ItemCount3":150, "CoinCount":240000
+      "No":101907, "Group":1019, "Count":7, "GrowthValue":420, "GrowthPower":210, "ItemNo1":7001001, "ItemCount1":225, "ItemNo2":7001002, "ItemCount2":190, "ItemNo3":7001003, "ItemCount3":150, "CoinCount":240000
     },
     {
-      "No":101908, "Group":1019, "Count":8, "GrowthValue":400, "GrowthPower":240, "ItemNo1":7001001, "ItemCount1":250, "ItemNo2":7001002, "ItemCount2":225, "ItemNo3":7001003, "ItemCount3":200, "CoinCount":280000
+      "No":101908, "Group":1019, "Count":8, "GrowthValue":480, "GrowthPower":240, "ItemNo1":7001001, "ItemCount1":250, "ItemNo2":7001002, "ItemCount2":225, "ItemNo3":7001003, "ItemCount3":200, "CoinCount":280000
     },
     {
-      "No":101909, "Group":1019, "Count":9, "GrowthValue":450, "GrowthPower":270, "ItemNo1":7001001, "ItemCount1":275, "ItemNo2":7001002, "ItemCount2":260, "ItemNo3":7001003, "ItemCount3":250, "CoinCount":320000
+      "No":101909, "Group":1019, "Count":9, "GrowthValue":540, "GrowthPower":270, "ItemNo1":7001001, "ItemCount1":275, "ItemNo2":7001002, "ItemCount2":260, "ItemNo3":7001003, "ItemCount3":250, "CoinCount":320000
     },
     {
-      "No":101910, "Group":1019, "Count":10, "GrowthValue":500, "GrowthPower":300, "ItemNo1":0, "ItemCount1":0, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":0
+      "No":101910, "Group":1019, "Count":10, "GrowthValue":600, "GrowthPower":300, "ItemNo1":0, "ItemCount1":0, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":0
     },
     {
       "No":102000, "Group":1020, "Count":0, "GrowthValue":0, "GrowthPower":0, "ItemNo1":7001001, "ItemCount1":50, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":10000
@@ -1357,34 +1357,34 @@
       "No":300100, "Group":3001, "Count":0, "GrowthValue":0, "GrowthPower":0, "ItemNo1":7004001, "ItemCount1":50, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":10000
     },
     {
-      "No":300101, "Group":3001, "Count":1, "GrowthValue":40, "GrowthPower":30, "ItemNo1":7004001, "ItemCount1":75, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":20000
+      "No":300101, "Group":3001, "Count":1, "GrowthValue":30, "GrowthPower":30, "ItemNo1":7004001, "ItemCount1":75, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":20000
     },
     {
-      "No":300102, "Group":3001, "Count":2, "GrowthValue":80, "GrowthPower":60, "ItemNo1":7004001, "ItemCount1":100, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":40000
+      "No":300102, "Group":3001, "Count":2, "GrowthValue":60, "GrowthPower":60, "ItemNo1":7004001, "ItemCount1":100, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":40000
     },
     {
-      "No":300103, "Group":3001, "Count":3, "GrowthValue":120, "GrowthPower":90, "ItemNo1":7004001, "ItemCount1":125, "ItemNo2":7004002, "ItemCount2":50, "ItemNo3":0, "ItemCount3":0, "CoinCount":80000
+      "No":300103, "Group":3001, "Count":3, "GrowthValue":90, "GrowthPower":90, "ItemNo1":7004001, "ItemCount1":125, "ItemNo2":7004002, "ItemCount2":50, "ItemNo3":0, "ItemCount3":0, "CoinCount":80000
     },
     {
-      "No":300104, "Group":3001, "Count":4, "GrowthValue":160, "GrowthPower":120, "ItemNo1":7004001, "ItemCount1":150, "ItemNo2":7004002, "ItemCount2":85, "ItemNo3":0, "ItemCount3":0, "CoinCount":120000
+      "No":300104, "Group":3001, "Count":4, "GrowthValue":120, "GrowthPower":120, "ItemNo1":7004001, "ItemCount1":150, "ItemNo2":7004002, "ItemCount2":85, "ItemNo3":0, "ItemCount3":0, "CoinCount":120000
     },
     {
-      "No":300105, "Group":3001, "Count":5, "GrowthValue":200, "GrowthPower":150, "ItemNo1":7004001, "ItemCount1":175, "ItemNo2":7004002, "ItemCount2":120, "ItemNo3":0, "ItemCount3":0, "CoinCount":160000
+      "No":300105, "Group":3001, "Count":5, "GrowthValue":150, "GrowthPower":150, "ItemNo1":7004001, "ItemCount1":175, "ItemNo2":7004002, "ItemCount2":120, "ItemNo3":0, "ItemCount3":0, "CoinCount":160000
     },
     {
-      "No":300106, "Group":3001, "Count":6, "GrowthValue":240, "GrowthPower":180, "ItemNo1":7004001, "ItemCount1":200, "ItemNo2":7004002, "ItemCount2":155, "ItemNo3":7004003, "ItemCount3":100, "CoinCount":200000
+      "No":300106, "Group":3001, "Count":6, "GrowthValue":180, "GrowthPower":180, "ItemNo1":7004001, "ItemCount1":200, "ItemNo2":7004002, "ItemCount2":155, "ItemNo3":7004003, "ItemCount3":100, "CoinCount":200000
     },
     {
-      "No":300107, "Group":3001, "Count":7, "GrowthValue":280, "GrowthPower":210, "ItemNo1":7004001, "ItemCount1":225, "ItemNo2":7004002, "ItemCount2":190, "ItemNo3":7004003, "ItemCount3":150, "CoinCount":240000
+      "No":300107, "Group":3001, "Count":7, "GrowthValue":210, "GrowthPower":210, "ItemNo1":7004001, "ItemCount1":225, "ItemNo2":7004002, "ItemCount2":190, "ItemNo3":7004003, "ItemCount3":150, "CoinCount":240000
     },
     {
-      "No":300108, "Group":3001, "Count":8, "GrowthValue":320, "GrowthPower":240, "ItemNo1":7004001, "ItemCount1":250, "ItemNo2":7004002, "ItemCount2":225, "ItemNo3":7004003, "ItemCount3":200, "CoinCount":280000
+      "No":300108, "Group":3001, "Count":8, "GrowthValue":240, "GrowthPower":240, "ItemNo1":7004001, "ItemCount1":250, "ItemNo2":7004002, "ItemCount2":225, "ItemNo3":7004003, "ItemCount3":200, "CoinCount":280000
     },
     {
-      "No":300109, "Group":3001, "Count":9, "GrowthValue":360, "GrowthPower":270, "ItemNo1":7004001, "ItemCount1":275, "ItemNo2":7004002, "ItemCount2":260, "ItemNo3":7004003, "ItemCount3":250, "CoinCount":320000
+      "No":300109, "Group":3001, "Count":9, "GrowthValue":270, "GrowthPower":270, "ItemNo1":7004001, "ItemCount1":275, "ItemNo2":7004002, "ItemCount2":260, "ItemNo3":7004003, "ItemCount3":250, "CoinCount":320000
     },
     {
-      "No":300110, "Group":3001, "Count":10, "GrowthValue":400, "GrowthPower":300, "ItemNo1":0, "ItemCount1":0, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":0
+      "No":300110, "Group":3001, "Count":10, "GrowthValue":300, "GrowthPower":300, "ItemNo1":0, "ItemCount1":0, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":0
     },
     {
       "No":300200, "Group":3002, "Count":0, "GrowthValue":0, "GrowthPower":0, "ItemNo1":7004001, "ItemCount1":50, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":10000
@@ -2611,34 +2611,34 @@
       "No":1400100, "Group":14001, "Count":0, "GrowthValue":0, "GrowthPower":0, "ItemNo1":7007001, "ItemCount1":50, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":10000
     },
     {
-      "No":1400101, "Group":14001, "Count":1, "GrowthValue":75, "GrowthPower":30, "ItemNo1":7007001, "ItemCount1":75, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":20000
+      "No":1400101, "Group":14001, "Count":1, "GrowthValue":100, "GrowthPower":30, "ItemNo1":7007001, "ItemCount1":75, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":20000
     },
     {
-      "No":1400102, "Group":14001, "Count":2, "GrowthValue":150, "GrowthPower":60, "ItemNo1":7007001, "ItemCount1":100, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":40000
+      "No":1400102, "Group":14001, "Count":2, "GrowthValue":200, "GrowthPower":60, "ItemNo1":7007001, "ItemCount1":100, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":40000
     },
     {
-      "No":1400103, "Group":14001, "Count":3, "GrowthValue":225, "GrowthPower":90, "ItemNo1":7007001, "ItemCount1":125, "ItemNo2":7007002, "ItemCount2":50, "ItemNo3":0, "ItemCount3":0, "CoinCount":80000
+      "No":1400103, "Group":14001, "Count":3, "GrowthValue":300, "GrowthPower":90, "ItemNo1":7007001, "ItemCount1":125, "ItemNo2":7007002, "ItemCount2":50, "ItemNo3":0, "ItemCount3":0, "CoinCount":80000
     },
     {
-      "No":1400104, "Group":14001, "Count":4, "GrowthValue":300, "GrowthPower":120, "ItemNo1":7007001, "ItemCount1":150, "ItemNo2":7007002, "ItemCount2":85, "ItemNo3":0, "ItemCount3":0, "CoinCount":120000
+      "No":1400104, "Group":14001, "Count":4, "GrowthValue":400, "GrowthPower":120, "ItemNo1":7007001, "ItemCount1":150, "ItemNo2":7007002, "ItemCount2":85, "ItemNo3":0, "ItemCount3":0, "CoinCount":120000
     },
     {
-      "No":1400105, "Group":14001, "Count":5, "GrowthValue":375, "GrowthPower":150, "ItemNo1":7007001, "ItemCount1":175, "ItemNo2":7007002, "ItemCount2":120, "ItemNo3":0, "ItemCount3":0, "CoinCount":160000
+      "No":1400105, "Group":14001, "Count":5, "GrowthValue":500, "GrowthPower":150, "ItemNo1":7007001, "ItemCount1":175, "ItemNo2":7007002, "ItemCount2":120, "ItemNo3":0, "ItemCount3":0, "CoinCount":160000
     },
     {
-      "No":1400106, "Group":14001, "Count":6, "GrowthValue":450, "GrowthPower":180, "ItemNo1":7007001, "ItemCount1":200, "ItemNo2":7007002, "ItemCount2":155, "ItemNo3":7007003, "ItemCount3":100, "CoinCount":200000
+      "No":1400106, "Group":14001, "Count":6, "GrowthValue":600, "GrowthPower":180, "ItemNo1":7007001, "ItemCount1":200, "ItemNo2":7007002, "ItemCount2":155, "ItemNo3":7007003, "ItemCount3":100, "CoinCount":200000
     },
     {
-      "No":1400107, "Group":14001, "Count":7, "GrowthValue":525, "GrowthPower":210, "ItemNo1":7007001, "ItemCount1":225, "ItemNo2":7007002, "ItemCount2":190, "ItemNo3":7007003, "ItemCount3":150, "CoinCount":240000
+      "No":1400107, "Group":14001, "Count":7, "GrowthValue":700, "GrowthPower":210, "ItemNo1":7007001, "ItemCount1":225, "ItemNo2":7007002, "ItemCount2":190, "ItemNo3":7007003, "ItemCount3":150, "CoinCount":240000
     },
     {
-      "No":1400108, "Group":14001, "Count":8, "GrowthValue":600, "GrowthPower":240, "ItemNo1":7007001, "ItemCount1":250, "ItemNo2":7007002, "ItemCount2":225, "ItemNo3":7007003, "ItemCount3":200, "CoinCount":280000
+      "No":1400108, "Group":14001, "Count":8, "GrowthValue":800, "GrowthPower":240, "ItemNo1":7007001, "ItemCount1":250, "ItemNo2":7007002, "ItemCount2":225, "ItemNo3":7007003, "ItemCount3":200, "CoinCount":280000
     },
     {
-      "No":1400109, "Group":14001, "Count":9, "GrowthValue":675, "GrowthPower":270, "ItemNo1":7007001, "ItemCount1":275, "ItemNo2":7007002, "ItemCount2":260, "ItemNo3":7007003, "ItemCount3":250, "CoinCount":320000
+      "No":1400109, "Group":14001, "Count":9, "GrowthValue":900, "GrowthPower":270, "ItemNo1":7007001, "ItemCount1":275, "ItemNo2":7007002, "ItemCount2":260, "ItemNo3":7007003, "ItemCount3":250, "CoinCount":320000
     },
     {
-      "No":1400110, "Group":14001, "Count":10, "GrowthValue":750, "GrowthPower":300, "ItemNo1":0, "ItemCount1":0, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":0
+      "No":1400110, "Group":14001, "Count":10, "GrowthValue":1000, "GrowthPower":300, "ItemNo1":0, "ItemCount1":0, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":0
     },
     {
       "No":1401100, "Group":14011, "Count":0, "GrowthValue":0, "GrowthPower":0, "ItemNo1":7007001, "ItemCount1":50, "ItemNo2":0, "ItemCount2":0, "ItemNo3":0, "ItemCount3":0, "CoinCount":10000

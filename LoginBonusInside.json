@@ -125,6 +125,36 @@
     },
     {
       "No":2000410, "Group":20004, "Count":10, "PrizeGroup":13030, "PickUp":false
+    },
+    {
+      "No":2000501, "Group":20005, "Count":1, "PrizeGroup":13031, "PickUp":false
+    },
+    {
+      "No":2000502, "Group":20005, "Count":2, "PrizeGroup":13031, "PickUp":false
+    },
+    {
+      "No":2000503, "Group":20005, "Count":3, "PrizeGroup":13031, "PickUp":false
+    },
+    {
+      "No":2000504, "Group":20005, "Count":4, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000505, "Group":20005, "Count":5, "PrizeGroup":13031, "PickUp":false
+    },
+    {
+      "No":2000506, "Group":20005, "Count":6, "PrizeGroup":13031, "PickUp":false
+    },
+    {
+      "No":2000507, "Group":20005, "Count":7, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000508, "Group":20005, "Count":8, "PrizeGroup":13031, "PickUp":false
+    },
+    {
+      "No":2000509, "Group":20005, "Count":9, "PrizeGroup":13031, "PickUp":false
+    },
+    {
+      "No":2000510, "Group":20005, "Count":10, "PrizeGroup":130023, "PickUp":false
     }
   ]
 }

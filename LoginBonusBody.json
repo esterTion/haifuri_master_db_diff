@@ -10,10 +10,13 @@
       "No":20002, "Order":2, "Title":"リリース記念ログインボーナス", "Type":2, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "BonusGroup":20002
     },
     {
-      "No":20003, "Order":3, "Title":"放送開始3周年記念ログインボーナス", "Type":2, "ValidTime":"2019-04-16T14:30:00+09:00", "InvalidTime":"2019-04-23T14:00:00+09:00", "BonusGroup":20003
+      "No":20003, "Order":3, "Title":"放送開始3周年記念ログインボーナス", "Type":2, "ValidTime":"2019-04-11T00:00:00+09:00", "InvalidTime":"2019-04-23T14:00:00+09:00", "BonusGroup":20003
     },
     {
-      "No":20004, "Order":4, "Title":"GWログインボーナス", "Type":2, "ValidTime":"2019-04-23T14:30:00+09:00", "InvalidTime":"2019-05-07T14:00:00+09:00", "BonusGroup":20004
+      "No":20004, "Order":4, "Title":"GWログインボーナス", "Type":2, "ValidTime":"2019-04-18T14:30:00+09:00", "InvalidTime":"2019-05-07T14:00:00+09:00", "BonusGroup":20004
+    },
+    {
+      "No":20005, "Order":5, "Title":"仁義のないログインボーナス", "Type":2, "ValidTime":"2019-05-28T14:15:00+09:00", "InvalidTime":"2019-06-11T14:00:00+09:00", "BonusGroup":20005
     }
   ]
 }

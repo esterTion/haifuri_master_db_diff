@@ -4,7 +4,7 @@
       "No":20001, "URL":"gachadetail/01002001.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":50001, "URL":"eventdetail/campaign50001.html", "ExternalLink":false, "Order":9, "PlayProgress":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":50001, "URL":"eventdetail/campaign50001.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
       "No":50002, "URL":"eventdetail/campaign50002.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
@@ -94,19 +94,34 @@
       "No":20010, "URL":"gachadetail/01002010.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":50014, "URL":"eventdetail/campaign50014.html", "ExternalLink":false, "Order":3, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":50014, "URL":"eventdetail/campaign50014.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":10008, "URL":"eventdetail/news10008.html", "ExternalLink":false, "Order":4, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":10008, "URL":"eventdetail/news10008.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":30005, "URL":"eventdetail/rankmatch1110104.html", "ExternalLink":false, "Order":10, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":30005, "URL":"eventdetail/rankmatch1110104.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":20012, "URL":"gachadetail/01002012.html", "ExternalLink":false, "Order":1, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":20012, "URL":"gachadetail/01002012.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":50016, "URL":"eventdetail/campaign50016.html", "ExternalLink":false, "Order":2, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":50016, "URL":"eventdetail/campaign50016.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
+    },
+    {
+      "No":20011, "URL":"gachadetail/06001001.html", "ExternalLink":false, "Order":1, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":30006, "URL":"eventdetail/01120001.html", "ExternalLink":false, "Order":2, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":50017, "URL":"eventdetail/campaign50017.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
+    },
+    {
+      "No":50015, "URL":"eventdetail/campaign50015b.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
+    },
+    {
+      "No":50019, "URL":"eventdetail/campaign50019.html", "ExternalLink":false, "Order":5, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
     }
   ]
 }

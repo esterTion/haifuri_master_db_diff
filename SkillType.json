@@ -16,7 +16,7 @@
       "Type":5, "Description":"敵艦船を炎上させる砲撃攻撃\n炎上中は移動停止、艦長スキル不可", "CombatType":1, "MissionType":1
     },
     {
-      "Type":6, "Description":"煙幕を発生させる砲撃攻撃\n（相手の砲撃攻撃力がダウン）", "CombatType":1, "MissionType":1
+      "Type":6, "Description":"煙幕を発生させる砲撃攻撃\n（煙幕中は砲撃の威力がダウン）", "CombatType":1, "MissionType":1
     },
     {
       "Type":7, "Description":"敵拠点に対して強力な砲撃攻撃", "CombatType":3, "MissionType":0

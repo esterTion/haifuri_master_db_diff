@@ -1,436 +1,436 @@
 {
   "Name":"ComMatching", "Rows":[
     {
-      "No":1, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
+      "No":1, "Cluster":2, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
     },
     {
-      "No":2, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
+      "No":2, "Cluster":2, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
     },
     {
-      "No":3, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
+      "No":3, "Cluster":2, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
     },
     {
-      "No":4, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
+      "No":4, "Cluster":2, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
     },
     {
-      "No":5, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
+      "No":5, "Cluster":2, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
     },
     {
-      "No":6, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
+      "No":6, "Cluster":2, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
     },
     {
-      "No":7, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
+      "No":7, "Cluster":2, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
     },
     {
-      "No":8, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
+      "No":8, "Cluster":2, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
     },
     {
-      "No":9, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
+      "No":9, "Cluster":2, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
     },
     {
-      "No":10, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
+      "No":10, "Cluster":2, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
     },
     {
-      "No":11, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
+      "No":11, "Cluster":2, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
     },
     {
-      "No":12, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
+      "No":12, "Cluster":2, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
     },
     {
-      "No":13, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
+      "No":13, "Cluster":2, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
     },
     {
-      "No":14, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
+      "No":14, "Cluster":2, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
     },
     {
-      "No":15, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
+      "No":15, "Cluster":2, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
     },
     {
-      "No":16, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
+      "No":16, "Cluster":2, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
     },
     {
-      "No":17, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
+      "No":17, "Cluster":2, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
     },
     {
-      "No":18, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
+      "No":18, "Cluster":2, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
     },
     {
-      "No":19, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
+      "No":19, "Cluster":2, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
     },
     {
-      "No":20, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
+      "No":20, "Cluster":2, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
     },
     {
-      "No":21, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
+      "No":21, "Cluster":2, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
     },
     {
-      "No":22, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
+      "No":22, "Cluster":2, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
     },
     {
-      "No":23, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
+      "No":23, "Cluster":2, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
     },
     {
-      "No":24, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
+      "No":24, "Cluster":2, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
     },
     {
-      "No":301, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
+      "No":301, "Cluster":3, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
     },
     {
-      "No":302, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
+      "No":302, "Cluster":3, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
     },
     {
-      "No":303, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
+      "No":303, "Cluster":3, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
     },
     {
-      "No":304, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
+      "No":304, "Cluster":3, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
     },
     {
-      "No":305, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
+      "No":305, "Cluster":3, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
     },
     {
-      "No":306, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
+      "No":306, "Cluster":3, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
     },
     {
-      "No":307, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
+      "No":307, "Cluster":3, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
     },
     {
-      "No":308, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
+      "No":308, "Cluster":3, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
     },
     {
-      "No":309, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
+      "No":309, "Cluster":3, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
     },
     {
-      "No":310, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
+      "No":310, "Cluster":3, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
     },
     {
-      "No":311, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
+      "No":311, "Cluster":3, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
     },
     {
-      "No":312, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
+      "No":312, "Cluster":3, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
     },
     {
-      "No":313, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
+      "No":313, "Cluster":3, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
     },
     {
-      "No":314, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
+      "No":314, "Cluster":3, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
     },
     {
-      "No":315, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
+      "No":315, "Cluster":3, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
     },
     {
-      "No":316, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
+      "No":316, "Cluster":3, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
     },
     {
-      "No":317, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
+      "No":317, "Cluster":3, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
     },
     {
-      "No":318, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
+      "No":318, "Cluster":3, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
     },
     {
-      "No":319, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
+      "No":319, "Cluster":3, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
     },
     {
-      "No":320, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
+      "No":320, "Cluster":3, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
     },
     {
-      "No":321, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
+      "No":321, "Cluster":3, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
     },
     {
-      "No":322, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
+      "No":322, "Cluster":3, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
     },
     {
-      "No":323, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
+      "No":323, "Cluster":3, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
     },
     {
-      "No":324, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
+      "No":324, "Cluster":3, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
     },
     {
-      "No":401, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
+      "No":401, "Cluster":4, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
     },
     {
-      "No":402, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
+      "No":402, "Cluster":4, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
     },
     {
-      "No":403, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
+      "No":403, "Cluster":4, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
     },
     {
-      "No":404, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
+      "No":404, "Cluster":4, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
     },
     {
-      "No":405, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
+      "No":405, "Cluster":4, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
     },
     {
-      "No":406, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
+      "No":406, "Cluster":4, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
     },
     {
-      "No":407, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
+      "No":407, "Cluster":4, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
     },
     {
-      "No":408, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
+      "No":408, "Cluster":4, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
     },
     {
-      "No":409, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
+      "No":409, "Cluster":4, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
     },
     {
-      "No":410, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
+      "No":410, "Cluster":4, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
     },
     {
-      "No":411, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
+      "No":411, "Cluster":4, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
     },
     {
-      "No":412, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
+      "No":412, "Cluster":4, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
     },
     {
-      "No":413, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
+      "No":413, "Cluster":4, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
     },
     {
-      "No":414, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
+      "No":414, "Cluster":4, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
     },
     {
-      "No":415, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
+      "No":415, "Cluster":4, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
     },
     {
-      "No":416, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
+      "No":416, "Cluster":4, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
     },
     {
-      "No":417, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
+      "No":417, "Cluster":4, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
     },
     {
-      "No":418, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
+      "No":418, "Cluster":4, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
     },
     {
-      "No":419, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
+      "No":419, "Cluster":4, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
     },
     {
-      "No":420, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
+      "No":420, "Cluster":4, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
     },
     {
-      "No":421, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
+      "No":421, "Cluster":4, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
     },
     {
-      "No":422, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
+      "No":422, "Cluster":4, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
     },
     {
-      "No":423, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
+      "No":423, "Cluster":4, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
     },
     {
-      "No":424, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
+      "No":424, "Cluster":4, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
     },
     {
-      "No":501, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
+      "No":501, "Cluster":5, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
     },
     {
-      "No":502, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
+      "No":502, "Cluster":5, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
     },
     {
-      "No":503, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
+      "No":503, "Cluster":5, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
     },
     {
-      "No":504, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
+      "No":504, "Cluster":5, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
     },
     {
-      "No":505, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
+      "No":505, "Cluster":5, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
     },
     {
-      "No":506, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
+      "No":506, "Cluster":5, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
     },
     {
-      "No":507, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
+      "No":507, "Cluster":5, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
     },
     {
-      "No":508, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
+      "No":508, "Cluster":5, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
     },
     {
-      "No":509, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
+      "No":509, "Cluster":5, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
     },
     {
-      "No":510, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
+      "No":510, "Cluster":5, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
     },
     {
-      "No":511, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
+      "No":511, "Cluster":5, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
     },
     {
-      "No":512, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
+      "No":512, "Cluster":5, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
     },
     {
-      "No":513, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
+      "No":513, "Cluster":5, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
     },
     {
-      "No":514, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
+      "No":514, "Cluster":5, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
     },
     {
-      "No":515, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
+      "No":515, "Cluster":5, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
     },
     {
-      "No":516, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
+      "No":516, "Cluster":5, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
     },
     {
-      "No":517, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
+      "No":517, "Cluster":5, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
     },
     {
-      "No":518, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
+      "No":518, "Cluster":5, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
     },
     {
-      "No":519, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
+      "No":519, "Cluster":5, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
     },
     {
-      "No":520, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
+      "No":520, "Cluster":5, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
     },
     {
-      "No":521, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
+      "No":521, "Cluster":5, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
     },
     {
-      "No":522, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
+      "No":522, "Cluster":5, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
     },
     {
-      "No":523, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
+      "No":523, "Cluster":5, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
     },
     {
-      "No":524, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
+      "No":524, "Cluster":5, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
     },
     {
-      "No":601, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
+      "No":601, "Cluster":6, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
     },
     {
-      "No":602, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
+      "No":602, "Cluster":6, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
     },
     {
-      "No":603, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
+      "No":603, "Cluster":6, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
     },
     {
-      "No":604, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
+      "No":604, "Cluster":6, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
     },
     {
-      "No":605, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
+      "No":605, "Cluster":6, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
     },
     {
-      "No":606, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
+      "No":606, "Cluster":6, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
     },
     {
-      "No":607, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
+      "No":607, "Cluster":6, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
     },
     {
-      "No":608, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
+      "No":608, "Cluster":6, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
     },
     {
-      "No":609, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
+      "No":609, "Cluster":6, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
     },
     {
-      "No":610, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
+      "No":610, "Cluster":6, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
     },
     {
-      "No":611, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
+      "No":611, "Cluster":6, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
     },
     {
-      "No":612, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
+      "No":612, "Cluster":6, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
     },
     {
-      "No":613, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
+      "No":613, "Cluster":6, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
     },
     {
-      "No":614, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
+      "No":614, "Cluster":6, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
     },
     {
-      "No":615, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
+      "No":615, "Cluster":6, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
     },
     {
-      "No":616, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
+      "No":616, "Cluster":6, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
     },
     {
-      "No":617, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
+      "No":617, "Cluster":6, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
     },
     {
-      "No":618, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
+      "No":618, "Cluster":6, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
     },
     {
-      "No":619, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
+      "No":619, "Cluster":6, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
     },
     {
-      "No":620, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
+      "No":620, "Cluster":6, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
     },
     {
-      "No":621, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
+      "No":621, "Cluster":6, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
     },
     {
-      "No":622, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
+      "No":622, "Cluster":6, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
     },
     {
-      "No":623, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
+      "No":623, "Cluster":6, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
     },
     {
-      "No":624, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
+      "No":624, "Cluster":6, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
     },
     {
-      "No":701, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
+      "No":701, "Cluster":7, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
     },
     {
-      "No":702, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
+      "No":702, "Cluster":7, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25
     },
     {
-      "No":703, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
+      "No":703, "Cluster":7, "ValidITime":"02:00:00", "InvalidTime":"02:59:59", "Probability":0
     },
     {
-      "No":704, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
+      "No":704, "Cluster":7, "ValidITime":"03:00:00", "InvalidTime":"03:59:59", "Probability":0
     },
     {
-      "No":705, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
+      "No":705, "Cluster":7, "ValidITime":"04:00:00", "InvalidTime":"04:59:59", "Probability":0
     },
     {
-      "No":706, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
+      "No":706, "Cluster":7, "ValidITime":"05:00:00", "InvalidTime":"05:59:59", "Probability":0
     },
     {
-      "No":707, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
+      "No":707, "Cluster":7, "ValidITime":"06:00:00", "InvalidTime":"06:59:59", "Probability":0
     },
     {
-      "No":708, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
+      "No":708, "Cluster":7, "ValidITime":"07:00:00", "InvalidTime":"07:59:59", "Probability":50
     },
     {
-      "No":709, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
+      "No":709, "Cluster":7, "ValidITime":"08:00:00", "InvalidTime":"08:59:59", "Probability":50
     },
     {
-      "No":710, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
+      "No":710, "Cluster":7, "ValidITime":"09:00:00", "InvalidTime":"09:59:59", "Probability":50
     },
     {
-      "No":711, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
+      "No":711, "Cluster":7, "ValidITime":"10:00:00", "InvalidTime":"10:59:59", "Probability":50
     },
     {
-      "No":712, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
+      "No":712, "Cluster":7, "ValidITime":"11:00:00", "InvalidTime":"11:59:59", "Probability":50
     },
     {
-      "No":713, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
+      "No":713, "Cluster":7, "ValidITime":"12:00:00", "InvalidTime":"12:59:59", "Probability":100
     },
     {
-      "No":714, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
+      "No":714, "Cluster":7, "ValidITime":"13:00:00", "InvalidTime":"13:59:59", "Probability":100
     },
     {
-      "No":715, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
+      "No":715, "Cluster":7, "ValidITime":"14:00:00", "InvalidTime":"14:59:59", "Probability":50
     },
     {
-      "No":716, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
+      "No":716, "Cluster":7, "ValidITime":"15:00:00", "InvalidTime":"15:59:59", "Probability":50
     },
     {
-      "No":717, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
+      "No":717, "Cluster":7, "ValidITime":"16:00:00", "InvalidTime":"16:59:59", "Probability":50
     },
     {
-      "No":718, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
+      "No":718, "Cluster":7, "ValidITime":"17:00:00", "InvalidTime":"17:59:59", "Probability":75
     },
     {
-      "No":719, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
+      "No":719, "Cluster":7, "ValidITime":"18:00:00", "InvalidTime":"18:59:59", "Probability":75
     },
     {
-      "No":720, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
+      "No":720, "Cluster":7, "ValidITime":"19:00:00", "InvalidTime":"19:59:59", "Probability":100
     },
     {
-      "No":721, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
+      "No":721, "Cluster":7, "ValidITime":"20:00:00", "InvalidTime":"20:59:59", "Probability":100
     },
     {
-      "No":722, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
+      "No":722, "Cluster":7, "ValidITime":"21:00:00", "InvalidTime":"21:59:59", "Probability":100
     },
     {
-      "No":723, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
+      "No":723, "Cluster":7, "ValidITime":"22:00:00", "InvalidTime":"22:59:59", "Probability":100
     },
     {
-      "No":724, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
+      "No":724, "Cluster":7, "ValidITime":"23:00:00", "InvalidTime":"23:59:59", "Probability":100
     }
   ]
 }

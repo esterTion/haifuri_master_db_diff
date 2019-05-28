@@ -94,13 +94,16 @@
       "Name":"SkillTutorial1", "Value":"30090101", "Type":"INTEGER"
     },
     {
-      "Name":"SameUserLimitCount", "Value":"3", "Type":"INTEGER"
+      "Name":"SameUserLimitCount", "Value":"2", "Type":"INTEGER"
     },
     {
       "Name":"SameUserLimitResetCount", "Value":"4", "Type":"INTEGER"
     },
     {
-      "Name":"AIDisplayCluster", "Value":"0", "Type":"INTEGER"
+      "Name":"AIDisplayCluster", "Value":"3", "Type":"INTEGER"
+    },
+    {
+      "Name":"BaseDamageShipWreckType", "Value":"1", "Type":"INTEGER"
     }
   ]
 }
