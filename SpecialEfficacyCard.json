@@ -35,6 +35,18 @@
     },
     {
       "No":1012, "SpecialEfficacyGroup":1, "CardNo":3941000, "PossessionRate":10, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":1013, "SpecialEfficacyGroup":1, "CardNo":3350000, "PossessionRate":25, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":1014, "SpecialEfficacyGroup":1, "CardNo":3351000, "PossessionRate":25, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":1015, "SpecialEfficacyGroup":1, "CardNo":4050000, "PossessionRate":25, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":1016, "SpecialEfficacyGroup":1, "CardNo":4051000, "PossessionRate":25, "FleetRate":0, "DisplayFlag":false
     }
   ]
 }

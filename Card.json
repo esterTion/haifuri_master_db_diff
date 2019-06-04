@@ -55,6 +55,12 @@
       "No":351000, "Name":"【ソフトボール】", "CharNo":10003, "PrevCardNo":350000, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":350000, "SkillUpCount":4, "SpineSkinNo":351000, "SdSkinNo":3001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":1, "CrewSkillNo":600002, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1101280, "BreakCount1":0, "StatusNo2":801220, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
+      "No":350010, "Name":"【タマの水着選び】", "CharNo":10003, "PrevCardNo":0, "NextCardNo":351010, "Rarity":50, "EvolutionGroup":205, "LimitBreakGroup":350010, "SkillUpCount":1, "SpineSkinNo":350010, "SdSkinNo":3001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":1, "CrewSkillNo":600002, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1101080, "BreakCount1":0, "StatusNo2":801020, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":351010, "Name":"【タマの水着選び】", "CharNo":10003, "PrevCardNo":350010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":350010, "SkillUpCount":4, "SpineSkinNo":351010, "SdSkinNo":3001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":1, "CrewSkillNo":600002, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1101280, "BreakCount1":0, "StatusNo2":801220, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
       "No":430000, "Name":"", "CharNo":10004, "PrevCardNo":0, "NextCardNo":431000, "Rarity":30, "EvolutionGroup":203, "LimitBreakGroup":430000, "SkillUpCount":1, "SpineSkinNo":430000, "SdSkinNo":4001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":0, "CrewSkillNo":610008, "MaxLevel":50, "ExpNo":301, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":1, "StatusNo1":901010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
@@ -199,6 +205,12 @@
       "No":1251000, "Name":"【弦楽器は得意】", "CharNo":10012, "PrevCardNo":1250000, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":1250000, "SkillUpCount":4, "SpineSkinNo":1251000, "SdSkinNo":12001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":30003, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1201280, "BreakCount1":0, "StatusNo2":801220, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
+      "No":1250010, "Name":"【リアルマーメイド】", "CharNo":10012, "PrevCardNo":0, "NextCardNo":1251010, "Rarity":50, "EvolutionGroup":205, "LimitBreakGroup":1250010, "SkillUpCount":1, "SpineSkinNo":1250010, "SdSkinNo":12001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":30003, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1201080, "BreakCount1":0, "StatusNo2":801020, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":1251010, "Name":"【リアルマーメイド】", "CharNo":10012, "PrevCardNo":1250010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":1250010, "SkillUpCount":4, "SpineSkinNo":1251010, "SdSkinNo":12001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":30003, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1201280, "BreakCount1":0, "StatusNo2":801220, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
       "No":1320000, "Name":"", "CharNo":10013, "PrevCardNo":0, "NextCardNo":1321000, "Rarity":20, "EvolutionGroup":103, "LimitBreakGroup":1320000, "SkillUpCount":1, "SpineSkinNo":1320000, "SdSkinNo":13001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":0, "CrewSkillNo":610002, "MaxLevel":50, "ExpNo":201, "MaxLimitBreak":4, "DuplicateItemNo":9013001, "DuplicateItemCount":1, "StatusNo1":701010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
@@ -289,6 +301,12 @@
       "No":1951000, "Name":"【魚は苦手】", "CharNo":10019, "PrevCardNo":1950000, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":1950000, "SkillUpCount":4, "SpineSkinNo":1951000, "SdSkinNo":19001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":33001, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1401240, "BreakCount1":0, "StatusNo2":1001220, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
+      "No":1950010, "Name":"【暑中見舞い申し上げます】", "CharNo":10019, "PrevCardNo":0, "NextCardNo":1951010, "Rarity":50, "EvolutionGroup":305, "LimitBreakGroup":1950010, "SkillUpCount":1, "SpineSkinNo":1950010, "SdSkinNo":19001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":33001, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1401040, "BreakCount1":0, "StatusNo2":1001020, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":1951010, "Name":"【暑中見舞い申し上げます】", "CharNo":10019, "PrevCardNo":1950010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":1950010, "SkillUpCount":4, "SpineSkinNo":1951010, "SdSkinNo":19001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":33001, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1401240, "BreakCount1":0, "StatusNo2":1001220, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
       "No":2030000, "Name":"", "CharNo":10020, "PrevCardNo":0, "NextCardNo":2031000, "Rarity":30, "EvolutionGroup":303, "LimitBreakGroup":2030000, "SkillUpCount":1, "SpineSkinNo":2030000, "SdSkinNo":20001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":0, "CrewSkillNo":610009, "MaxLevel":50, "ExpNo":301, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":1, "StatusNo1":101010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
@@ -367,6 +385,12 @@
       "No":2541000, "Name":"【応急長のお仕事】", "CharNo":10025, "PrevCardNo":2540000, "NextCardNo":0, "Rarity":41, "EvolutionGroup":0, "LimitBreakGroup":2540000, "SkillUpCount":4, "SpineSkinNo":2541000, "SdSkinNo":25001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":33002, "CrewSkillNo":600008, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":1501270, "BreakCount1":0, "StatusNo2":101210, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
+      "No":2540010, "Name":"【釣りにご用心】", "CharNo":10025, "PrevCardNo":0, "NextCardNo":2541010, "Rarity":40, "EvolutionGroup":304, "LimitBreakGroup":2540010, "SkillUpCount":1, "SpineSkinNo":2540010, "SdSkinNo":25001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":33002, "CrewSkillNo":600008, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":1501070, "BreakCount1":0, "StatusNo2":101010, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":2541010, "Name":"【釣りにご用心】", "CharNo":10025, "PrevCardNo":2540010, "NextCardNo":0, "Rarity":41, "EvolutionGroup":0, "LimitBreakGroup":2540010, "SkillUpCount":4, "SpineSkinNo":2541010, "SdSkinNo":25001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":33002, "CrewSkillNo":600008, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":1501270, "BreakCount1":0, "StatusNo2":101210, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
       "No":2620000, "Name":"", "CharNo":10026, "PrevCardNo":0, "NextCardNo":2621000, "Rarity":20, "EvolutionGroup":303, "LimitBreakGroup":2620000, "SkillUpCount":1, "SpineSkinNo":2620000, "SdSkinNo":26001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":0, "CrewSkillNo":610008, "MaxLevel":50, "ExpNo":201, "MaxLimitBreak":4, "DuplicateItemNo":9026001, "DuplicateItemCount":1, "StatusNo1":101010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
@@ -401,6 +425,12 @@
     },
     {
       "No":2841000, "Name":"【給養員のお仕事】", "CharNo":10028, "PrevCardNo":2840000, "NextCardNo":0, "Rarity":41, "EvolutionGroup":0, "LimitBreakGroup":2840000, "SkillUpCount":4, "SpineSkinNo":2841000, "SdSkinNo":28001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":33002, "CrewSkillNo":600008, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":601230, "BreakCount1":0, "StatusNo2":1401210, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":2850010, "Name":"【サバイバル料理？】", "CharNo":10028, "PrevCardNo":0, "NextCardNo":2851010, "Rarity":50, "EvolutionGroup":405, "LimitBreakGroup":2850010, "SkillUpCount":1, "SpineSkinNo":2850010, "SdSkinNo":28001, "Tactics":2, "MoveRoot":1, "CaptainSkillNo":31001, "CrewSkillNo":600008, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":9901010, "BreakCount1":0, "StatusNo2":1301080, "BreakCount2":0, "StatusNo3":701020, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":2851010, "Name":"【サバイバル料理？】", "CharNo":10028, "PrevCardNo":2850010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":2850010, "SkillUpCount":4, "SpineSkinNo":2851010, "SdSkinNo":28001, "Tactics":2, "MoveRoot":1, "CaptainSkillNo":31001, "CrewSkillNo":600008, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":9901010, "BreakCount1":0, "StatusNo2":1301280, "BreakCount2":0, "StatusNo3":701220, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
       "No":2920000, "Name":"", "CharNo":10029, "PrevCardNo":0, "NextCardNo":2921000, "Rarity":20, "EvolutionGroup":403, "LimitBreakGroup":2920000, "SkillUpCount":1, "SpineSkinNo":2920000, "SdSkinNo":29001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":0, "CrewSkillNo":610002, "MaxLevel":50, "ExpNo":201, "MaxLimitBreak":4, "DuplicateItemNo":9029001, "DuplicateItemCount":1, "StatusNo1":701010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
@@ -455,6 +485,12 @@
     },
     {
       "No":3351000, "Name":"【ハヤシライス派】", "CharNo":10033, "PrevCardNo":3350000, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":3350000, "SkillUpCount":4, "SpineSkinNo":3351000, "SdSkinNo":33001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":2, "CrewSkillNo":600001, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":101230, "BreakCount1":0, "StatusNo2":1101260, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":3350010, "Name":"【もかちゃんは前向き】", "CharNo":10033, "PrevCardNo":0, "NextCardNo":3351010, "Rarity":50, "EvolutionGroup":105, "LimitBreakGroup":3350010, "SkillUpCount":1, "SpineSkinNo":3350010, "SdSkinNo":33001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":2, "CrewSkillNo":600001, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":101030, "BreakCount1":0, "StatusNo2":1101060, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":3351010, "Name":"【もかちゃんは前向き】", "CharNo":10033, "PrevCardNo":3350010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":3350010, "SkillUpCount":4, "SpineSkinNo":3351010, "SdSkinNo":33001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":2, "CrewSkillNo":600001, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":101230, "BreakCount1":0, "StatusNo2":1101260, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
       "No":3430000, "Name":"", "CharNo":10034, "PrevCardNo":0, "NextCardNo":3431000, "Rarity":30, "EvolutionGroup":503, "LimitBreakGroup":3430000, "SkillUpCount":1, "SpineSkinNo":3430000, "SdSkinNo":34001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":0, "CrewSkillNo":610001, "MaxLevel":50, "ExpNo":301, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":1, "StatusNo1":201010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
@@ -517,6 +553,12 @@
       "No":3741000, "Name":"【面白さ最優先】", "CharNo":10037, "PrevCardNo":3740000, "NextCardNo":0, "Rarity":41, "EvolutionGroup":0, "LimitBreakGroup":3740000, "SkillUpCount":4, "SpineSkinNo":3741000, "SdSkinNo":37001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":1002, "CrewSkillNo":600011, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":1201270, "BreakCount1":0, "StatusNo2":1501250, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
+      "No":3750010, "Name":"【ぐるぐるスイカ割り】", "CharNo":10037, "PrevCardNo":0, "NextCardNo":3751010, "Rarity":50, "EvolutionGroup":205, "LimitBreakGroup":3750010, "SkillUpCount":1, "SpineSkinNo":3750010, "SdSkinNo":37001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":32004, "CrewSkillNo":600011, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1101080, "BreakCount1":0, "StatusNo2":1301060, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":3751010, "Name":"【ぐるぐるスイカ割り】", "CharNo":10037, "PrevCardNo":3750010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":3750010, "SkillUpCount":4, "SpineSkinNo":3751010, "SdSkinNo":37001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":32004, "CrewSkillNo":600011, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1101280, "BreakCount1":0, "StatusNo2":1301260, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
       "No":3820000, "Name":"", "CharNo":10038, "PrevCardNo":0, "NextCardNo":3821000, "Rarity":20, "EvolutionGroup":203, "LimitBreakGroup":3820000, "SkillUpCount":1, "SpineSkinNo":3820000, "SdSkinNo":38001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":0, "CrewSkillNo":610010, "MaxLevel":50, "ExpNo":201, "MaxLimitBreak":4, "DuplicateItemNo":9038001, "DuplicateItemCount":1, "StatusNo1":901010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
@@ -527,6 +569,12 @@
     },
     {
       "No":3841000, "Name":"【野球と魚雷の共通点】", "CharNo":10038, "PrevCardNo":3840000, "NextCardNo":0, "Rarity":41, "EvolutionGroup":0, "LimitBreakGroup":3840000, "SkillUpCount":4, "SpineSkinNo":3841000, "SdSkinNo":38001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":62003, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":501230, "BreakCount1":0, "StatusNo2":801210, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":3840010, "Name":"【野球じゃなかった！】", "CharNo":10038, "PrevCardNo":0, "NextCardNo":3841010, "Rarity":40, "EvolutionGroup":204, "LimitBreakGroup":3840010, "SkillUpCount":1, "SpineSkinNo":3840010, "SdSkinNo":38001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":62003, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":501030, "BreakCount1":0, "StatusNo2":801010, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":3841010, "Name":"【野球じゃなかった！】", "CharNo":10038, "PrevCardNo":3840010, "NextCardNo":0, "Rarity":41, "EvolutionGroup":0, "LimitBreakGroup":3840010, "SkillUpCount":4, "SpineSkinNo":3841010, "SdSkinNo":38001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":62003, "CrewSkillNo":600010, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":501230, "BreakCount1":0, "StatusNo2":801210, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
       "No":3910000, "Name":"", "CharNo":10039, "PrevCardNo":0, "NextCardNo":3911000, "Rarity":10, "EvolutionGroup":103, "LimitBreakGroup":3910000, "SkillUpCount":1, "SpineSkinNo":3910000, "SdSkinNo":39001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":0, "CrewSkillNo":610003, "MaxLevel":50, "ExpNo":101, "MaxLimitBreak":4, "DuplicateItemNo":9039001, "DuplicateItemCount":1, "StatusNo1":401010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
@@ -559,6 +607,12 @@
       "No":4051000, "Name":"【格ゲーなら負けない】", "CharNo":10040, "PrevCardNo":4050000, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":4050000, "SkillUpCount":4, "SpineSkinNo":4051000, "SdSkinNo":40001, "Tactics":2, "MoveRoot":1, "CaptainSkillNo":30001, "CrewSkillNo":600009, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":9901010, "BreakCount1":0, "StatusNo2":1101280, "BreakCount2":0, "StatusNo3":1301260, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
+      "No":4050010, "Name":"【なんだってわたしが一番】", "CharNo":10040, "PrevCardNo":0, "NextCardNo":4051010, "Rarity":50, "EvolutionGroup":205, "LimitBreakGroup":4050010, "SkillUpCount":1, "SpineSkinNo":4050010, "SdSkinNo":40001, "Tactics":2, "MoveRoot":1, "CaptainSkillNo":30001, "CrewSkillNo":600009, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":9901010, "BreakCount1":0, "StatusNo2":1101080, "BreakCount2":0, "StatusNo3":1301060, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":4051010, "Name":"【なんだってわたしが一番】", "CharNo":10040, "PrevCardNo":4050010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":4050010, "SkillUpCount":4, "SpineSkinNo":4051010, "SdSkinNo":40001, "Tactics":2, "MoveRoot":1, "CaptainSkillNo":30001, "CrewSkillNo":600009, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":9901010, "BreakCount1":0, "StatusNo2":1101280, "BreakCount2":0, "StatusNo3":1301260, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
       "No":4130000, "Name":"", "CharNo":10041, "PrevCardNo":0, "NextCardNo":4131000, "Rarity":30, "EvolutionGroup":103, "LimitBreakGroup":4130000, "SkillUpCount":1, "SpineSkinNo":4130000, "SdSkinNo":41001, "Tactics":1, "MoveRoot":1, "CaptainSkillNo":0, "CrewSkillNo":610008, "MaxLevel":50, "ExpNo":301, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":1, "StatusNo1":101010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
@@ -581,6 +635,12 @@
     },
     {
       "No":4241000, "Name":"【ハードボイルド】", "CharNo":10042, "PrevCardNo":4240000, "NextCardNo":0, "Rarity":41, "EvolutionGroup":0, "LimitBreakGroup":4240000, "SkillUpCount":4, "SpineSkinNo":4241000, "SdSkinNo":42001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":5, "CrewSkillNo":600003, "MaxLevel":50, "ExpNo":401, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":7, "StatusNo1":401230, "BreakCount1":0, "StatusNo2":901210, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":4250010, "Name":"【水着のガンマン】", "CharNo":10042, "PrevCardNo":0, "NextCardNo":4251010, "Rarity":50, "EvolutionGroup":205, "LimitBreakGroup":4250010, "SkillUpCount":1, "SpineSkinNo":4250010, "SdSkinNo":42001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":34001, "CrewSkillNo":600003, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1101080, "BreakCount1":0, "StatusNo2":801020, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
+    },
+    {
+      "No":4251010, "Name":"【水着のガンマン】", "CharNo":10042, "PrevCardNo":4250010, "NextCardNo":0, "Rarity":51, "EvolutionGroup":0, "LimitBreakGroup":4250010, "SkillUpCount":4, "SpineSkinNo":4251010, "SdSkinNo":42001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":34001, "CrewSkillNo":600003, "MaxLevel":50, "ExpNo":501, "MaxLimitBreak":4, "DuplicateItemNo":27001001, "DuplicateItemCount":40, "StatusNo1":1101280, "BreakCount1":0, "StatusNo2":801220, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
     },
     {
       "No":4310000, "Name":"", "CharNo":10043, "PrevCardNo":0, "NextCardNo":4311000, "Rarity":10, "EvolutionGroup":303, "LimitBreakGroup":4310000, "SkillUpCount":1, "SpineSkinNo":4310000, "SdSkinNo":43001, "Tactics":1, "MoveRoot":9, "CaptainSkillNo":0, "CrewSkillNo":610002, "MaxLevel":50, "ExpNo":101, "MaxLimitBreak":4, "DuplicateItemNo":9043001, "DuplicateItemCount":1, "StatusNo1":1001010, "BreakCount1":0, "StatusNo2":0, "BreakCount2":0, "StatusNo3":0, "BreakCount3":0, "StatusNo4":0, "BreakCount4":0
