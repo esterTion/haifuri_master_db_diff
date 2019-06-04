@@ -1,5 +1,5 @@
 {
-  "Version":783, "Signatures":[
+  "Version":784, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"0da0d90cf0aa0b64c640c961114b461151061d0ca422343", "Iv":"9d1f1b126a5c7e67d4b86d02bdeb8f28", "Salt":"61357079c9a228d19f73cdc34a1070453e63bc0ea27ceb4a30059fe5557c8a7e", "Size":128, "Sha1":"79b9252c67695221308a462dff5983482dddc16d"
     },
@@ -82,7 +82,7 @@
       "MasterName":"FixedUnit", "Signature":"0c63c0ee0db0d143280b76a5f341f6108b0950af0e92c0c411", "Iv":"9086db50c4e8eaeeb7306070c1948530", "Salt":"6b88acca501b33b5aaacd5273d460a26b1cba17a9b6dbfc7a013c47abb840036", "Size":485536, "Sha1":"60cb74f101b0e75223c55298eccc6c2c3b6bb602"
     },
     {
-      "MasterName":"GachaBody", "Signature":"350a70b30d00f30e0d74030f80a27708060124a0a25273084", "Iv":"bd2104a9c1c8c05f6c8a51b7d4675b03", "Salt":"93e8b1d13275ba7f633cfb053cc4e58ac0cb20afca38406798ac8b14afd9c29c", "Size":23408, "Sha1":"977b312b6dcde3be0a8bbdab7a620bec25159055"
+      "MasterName":"GachaBody", "Signature":"0a03520090300c80e84b2a4a0bf230e05408b0f50e739470a0", "Iv":"91c119bf90cd2feda034aa0c50cfa705", "Salt":"56f1beca9060b44697462468c57d2f524dbdff7cba1d7339d34b2e4b95cb4bd9", "Size":23408, "Sha1":"e31d8eae97359b47db4ad7ff8d9a0659852d7b70"
     },
     {
       "MasterName":"GachaInside", "Signature":"0b27c0b00963a620c95b7e6508b0a0cd0890c44809d605e0dc", "Iv":"aac07df444405eb3c9907309b024d6eb", "Salt":"5c9c2fd3bbd3a22aa292519f601d49b961cd717fae736e11ce72ffd0b48475c8", "Size":251824, "Sha1":"35d930c518cc1a69b3acd43ee3545de962a42329"
