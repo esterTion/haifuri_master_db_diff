@@ -7,7 +7,7 @@
       "No":1002, "Message":"戦術は交戦と突撃がある\n交戦：敵艦船と遭遇すると撃ち合う\n突撃：航行を止めず敵拠点に突っ込む", "Order":2, "Valid":true
     },
     {
-      "No":1003, "Message":"マニュアル操作はクラスSから解放！", "Order":3, "Valid":true
+      "No":1003, "Message":"マニュアル操作はマーメイドから解放！", "Order":3, "Valid":false
     },
     {
       "No":1004, "Message":"くの字ルートは自陣防衛後、\nMAP中央から拠点を最短距離で目指す\n", "Order":4, "Valid":true

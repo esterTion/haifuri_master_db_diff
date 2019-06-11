@@ -448,6 +448,12 @@
       "No":50046, "Group":50046, "DataType":2, "DataNo":1240000, "Count":1
     },
     {
+      "No":6000101, "Group":6000101, "DataType":3, "DataNo":190000, "Count":1
+    },
+    {
+      "No":6000201, "Group":6000201, "DataType":3, "DataNo":190010, "Count":1
+    },
+    {
       "No":4000101, "Group":4000101, "DataType":5, "DataNo":8001001, "Count":20
     },
     {

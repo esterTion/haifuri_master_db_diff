@@ -1,19 +1,19 @@
 {
   "Name":"WinRateMatching", "Rows":[
     {
-      "No":1, "MaxSelfRate":100, "MinSelfRate":81, "UpperLimit1":20, "LowerLimit1":10, "UpperLimit2":20, "LowerLimit2":25
+      "No":1, "MaxSelfRate":100, "MinSelfRate":0, "UpperLimit1":100, "LowerLimit1":100, "UpperLimit2":100, "LowerLimit2":100
     },
     {
-      "No":2, "MaxSelfRate":80, "MinSelfRate":61, "UpperLimit1":20, "LowerLimit1":10, "UpperLimit2":30, "LowerLimit2":15
+      "No":2, "MaxSelfRate":100, "MinSelfRate":0, "UpperLimit1":100, "LowerLimit1":100, "UpperLimit2":100, "LowerLimit2":100
     },
     {
-      "No":3, "MaxSelfRate":60, "MinSelfRate":41, "UpperLimit1":15, "LowerLimit1":10, "UpperLimit2":20, "LowerLimit2":15
+      "No":3, "MaxSelfRate":100, "MinSelfRate":0, "UpperLimit1":100, "LowerLimit1":100, "UpperLimit2":100, "LowerLimit2":100
     },
     {
-      "No":4, "MaxSelfRate":40, "MinSelfRate":21, "UpperLimit1":15, "LowerLimit1":25, "UpperLimit2":15, "LowerLimit2":30
+      "No":4, "MaxSelfRate":100, "MinSelfRate":0, "UpperLimit1":100, "LowerLimit1":100, "UpperLimit2":100, "LowerLimit2":100
     },
     {
-      "No":5, "MaxSelfRate":20, "MinSelfRate":0, "UpperLimit1":15, "LowerLimit1":25, "UpperLimit2":15, "LowerLimit2":30
+      "No":5, "MaxSelfRate":100, "MinSelfRate":0, "UpperLimit1":100, "LowerLimit1":100, "UpperLimit2":100, "LowerLimit2":100
     }
   ]
 }

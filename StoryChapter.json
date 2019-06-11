@@ -157,10 +157,16 @@
       "No":300901, "Type":3, "RankmatchSeasonNo":0, "Order":400, "CharNo":0, "Title":"艦隊戦スキル演習", "Group":3009, "PrizeGroup":14035, "Resource":0, "StartTime":"2019-04-18T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":400101, "Type":4, "RankmatchSeasonNo":2110001, "Order":2, "CharNo":0, "Title":"第1回チーム対抗戦", "Group":4001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":400101, "Type":4, "RankmatchSeasonNo":2110001, "Order":3, "CharNo":0, "Title":"第1回チーム対抗戦", "Group":4001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":400201, "Type":4, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"仁義のない映画祭", "Group":4002, "PrizeGroup":0, "Resource":0, "StartTime":"2019-05-28T14:15:00+09:00", "EndTime":"2099-12-01T00:00:00+09:00"
+      "No":400201, "Type":4, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"仁義のない映画祭", "Group":4002, "PrizeGroup":0, "Resource":0, "StartTime":"2019-05-28T14:15:00+09:00", "EndTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":400301, "Type":4, "RankmatchSeasonNo":2110002, "Order":1, "CharNo":0, "Title":"第2回チーム対抗戦", "Group":4003, "PrizeGroup":0, "Resource":0, "StartTime":"2019-06-11T10:15:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":400401, "Type":4, "RankmatchSeasonNo":0, "Order":10, "CharNo":0, "Title":"南の島でサバイバル！？", "Group":4004, "PrizeGroup":0, "Resource":0, "StartTime":"2020-06-04T14:15:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
       "No":500101, "Type":5, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"今週のハイフリ 第1週～第10週", "Group":5001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"

@@ -64,7 +64,7 @@
       "Name":"MainStory1Scene12", "Value":"10011301", "Type":"INTEGER"
     },
     {
-      "Name":"BattlePointLimit", "Value":"4998", "Type":"INTEGER"
+      "Name":"BattlePointLimit", "Value":"5998", "Type":"INTEGER"
     },
     {
       "Name":"OverflowExpForItem", "Value":"1000", "Type":"INTEGER"

@@ -1529,6 +1529,48 @@
     },
     {
       "No":50182002, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を20回撃破", "Type":104, "CollabNo":0, "ClearCount":20, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-10T05:00:00+09:00", "InvalidTime":"2019-06-11T14:00:00+09:00", "PrizeGroup":11042
+    },
+    {
+      "No":50183001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-11T14:15:00+09:00", "InvalidTime":"2019-06-13T04:59:59+09:00", "PrizeGroup":11009
+    },
+    {
+      "No":50183002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-11T14:15:00+09:00", "InvalidTime":"2019-06-13T04:59:59+09:00", "PrizeGroup":11066
+    },
+    {
+      "No":50184001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-13T05:00:00+09:00", "InvalidTime":"2019-06-14T04:59:59+09:00", "PrizeGroup":11009
+    },
+    {
+      "No":50184002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-13T05:00:00+09:00", "InvalidTime":"2019-06-14T04:59:59+09:00", "PrizeGroup":11066
+    },
+    {
+      "No":50185001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-14T05:00:00+09:00", "InvalidTime":"2019-06-15T04:59:59+09:00", "PrizeGroup":11009
+    },
+    {
+      "No":50185002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-14T05:00:00+09:00", "InvalidTime":"2019-06-15T04:59:59+09:00", "PrizeGroup":11066
+    },
+    {
+      "No":50186001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-15T05:00:00+09:00", "InvalidTime":"2019-06-16T04:59:59+09:00", "PrizeGroup":11009
+    },
+    {
+      "No":50186002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-15T05:00:00+09:00", "InvalidTime":"2019-06-16T04:59:59+09:00", "PrizeGroup":11066
+    },
+    {
+      "No":50187001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-16T05:00:00+09:00", "InvalidTime":"2019-06-17T04:59:59+09:00", "PrizeGroup":11009
+    },
+    {
+      "No":50187002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-16T05:00:00+09:00", "InvalidTime":"2019-06-17T04:59:59+09:00", "PrizeGroup":11066
+    },
+    {
+      "No":50188001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-17T05:00:00+09:00", "InvalidTime":"2019-06-18T04:59:59+09:00", "PrizeGroup":11009
+    },
+    {
+      "No":50188002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-17T05:00:00+09:00", "InvalidTime":"2019-06-18T04:59:59+09:00", "PrizeGroup":11066
+    },
+    {
+      "No":50189001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-18T05:00:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "PrizeGroup":11009
+    },
+    {
+      "No":50189002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-18T05:00:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "PrizeGroup":11066
     }
   ]
 }

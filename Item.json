@@ -28,6 +28,12 @@
       "No":3004001, "Name":"11連イベントガチャチケット", "Description":"イベントガチャの11連を\n1回引けるチケット", "Type":3, "Category":4, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":6, "SalePrice":100
     },
     {
+      "No":3005001, "Name":"11連学科ガチャチケット", "Description":"各学科の11連ガチャを\n1回引けるチケット", "Type":3, "Category":5, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":7, "SalePrice":100
+    },
+    {
+      "No":3006001, "Name":"選択ガチャチケット", "Description":"選択ガチャを1回引けるチケット", "Type":3, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":8, "SalePrice":100
+    },
+    {
       "No":4001001, "Name":"お風呂チケット", "Description":"報酬ボーナスを回復することができる\nランクマッチTOPで使用できます\n（報酬ボーナス残り0回の時のみ使用可能）", "Type":4, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":7, "SalePrice":100
     },
     {
@@ -803,6 +809,9 @@
     },
     {
       "No":29001001, "Name":"イベントディスク【19年5月】", "Description":"期間限定イベント「仁義のない映画祭」専用\n集めるとイベントのストーリーが解放される\n（4話以降は6/4解放予定）", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":252, "SalePrice":100
+    },
+    {
+      "No":30001001, "Name":"AI戦チケット", "Description":"AI戦をプレイすることができるチケット", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":253, "SalePrice":100
     }
   ]
 }

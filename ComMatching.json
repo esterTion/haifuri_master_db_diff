@@ -1,7 +1,7 @@
 {
   "Name":"ComMatching", "Rows":[
     {
-      "No":1, "Cluster":2, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":50
+      "No":1, "Cluster":2, "ValidITime":"00:00:00", "InvalidTime":"00:59:59", "Probability":0
     },
     {
       "No":2, "Cluster":2, "ValidITime":"01:00:00", "InvalidTime":"01:59:59", "Probability":25

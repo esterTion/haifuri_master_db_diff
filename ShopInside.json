@@ -67,6 +67,12 @@
       "No":20001011, "CollabNo":0, "Group":20001, "ProductGroup":4002001, "Description":"今週のハイフリを解放することができる", "DailyType":0, "DailyProbability":0, "Order":10, "Type":1, "PaymentItemNo":0, "PaymentCount":100, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":20001012, "CollabNo":0, "Group":20001, "ProductGroup":6000101, "Description":"チーム対抗戦「どっちの水着がいいかな？」\nAチーム キレイ系水着 岬明乃のスキン", "DailyType":0, "DailyProbability":0, "Order":11, "Type":1, "PaymentItemNo":0, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2020-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":20001013, "CollabNo":0, "Group":20001, "ProductGroup":6000201, "Description":"チーム対抗戦「どっちの水着がいいかな？」\nBチーム 可愛い系水着 岬明乃のスキン", "DailyType":0, "DailyProbability":0, "Order":12, "Type":1, "PaymentItemNo":0, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2020-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":4001001, "CollabNo":4001002, "Group":40001, "ProductGroup":40051, "Description":"限界突破素材 岬 明乃☆4", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
@@ -979,9 +985,6 @@
       "No":4002039, "CollabNo":0, "Group":40002, "ProductGroup":50039, "Description":"【麻雀初心者】駿河 留奈", "DailyType":2, "DailyProbability":1, "Order":119, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31001001, "CollabNo":0, "Group":31001, "ProductGroup":31001001, "Description":"11連ガチャが引けるチケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":11001001, "PaymentCount":3000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-05-14T14:00:00+09:00", "UserHour":0, "PickUp":true
-    },
-    {
       "No":4002040, "CollabNo":0, "Group":40002, "ProductGroup":50040, "Description":"【実験は重要】鏑木 美波", "DailyType":1, "DailyProbability":1, "Order":21, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
@@ -1001,6 +1004,15 @@
     },
     {
       "No":4002046, "CollabNo":0, "Group":40002, "ProductGroup":50046, "Description":"【水測員のお仕事】万里小路 楓", "DailyType":2, "DailyProbability":1, "Order":122, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":60001001, "CollabNo":0, "Group":60001, "ProductGroup":6000101, "Description":"チーム対抗戦「どっちの水着がいいかな？」\nAチーム キレイ系水着 岬明乃のスキン", "DailyType":0, "DailyProbability":0, "Order":1, "Type":2, "PaymentItemNo":0, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2020-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":60001002, "CollabNo":0, "Group":60001, "ProductGroup":6000201, "Description":"チーム対抗戦「どっちの水着がいいかな？」\nBチーム 可愛い系水着 岬明乃のスキン", "DailyType":0, "DailyProbability":0, "Order":2, "Type":2, "PaymentItemNo":0, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2020-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":31001001, "CollabNo":0, "Group":31001, "ProductGroup":31001001, "Description":"11連ガチャが引けるチケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":11001001, "PaymentCount":3000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-05-14T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
       "No":31001002, "CollabNo":0, "Group":31001, "ProductGroup":31001002, "Description":"【速いの最高！】賀茂 つつじ　☆４", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":11001001, "PaymentCount":3000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-05-14T14:00:00+09:00", "UserHour":0, "PickUp":true

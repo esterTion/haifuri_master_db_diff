@@ -155,6 +155,15 @@
     },
     {
       "Type":52, "Description":"単独行動により上昇効果と減少効果の\n対象にならない", "CombatType":0, "MissionType":0
+    },
+    {
+      "Type":53, "Description":"巡洋艦に対してのみ威力が5.4倍の\n強力な砲撃攻撃", "CombatType":1, "MissionType":0
+    },
+    {
+      "Type":54, "Description":"広範囲の敵艦船に対して煙幕弾砲撃攻撃\n（相手の砲撃攻撃力がダウン）", "CombatType":1, "MissionType":0
+    },
+    {
+      "Type":55, "Description":"自艦を除く範囲内にいる複数の\n艦船の耐久力を固定値で回復する", "CombatType":0, "MissionType":0
     }
   ]
 }

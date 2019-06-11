@@ -155,6 +155,15 @@
     },
     {
       "No":2000510, "Group":20005, "Count":10, "PrizeGroup":130023, "PickUp":false
+    },
+    {
+      "No":2000601, "Group":20006, "Count":1, "PrizeGroup":130022, "PickUp":false
+    },
+    {
+      "No":2000602, "Group":20006, "Count":2, "PrizeGroup":130022, "PickUp":false
+    },
+    {
+      "No":2000603, "Group":20006, "Count":3, "PrizeGroup":130022, "PickUp":false
     }
   ]
 }
