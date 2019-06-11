@@ -1051,52 +1051,52 @@
       "No":31001013, "CollabNo":0, "Group":31001, "ProductGroup":31001013, "Description":"コイン　100", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":11001001, "PaymentCount":50, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-05-14T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002001, "CollabNo":0, "Group":31002, "ProductGroup":31002001, "Description":"【カチコミですけん】西崎 芽依", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":11002001, "PaymentCount":5000, "PurchaseLimit":1, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":31002001, "CollabNo":0, "Group":31002, "ProductGroup":31002001, "Description":"【カチコミですけん】西崎 芽依", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":11002001, "PaymentCount":5000, "PurchaseLimit":1, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":31002002, "CollabNo":0, "Group":31002, "ProductGroup":31002002, "Description":"期間限定イベント「仁義のない映画祭」専用\n集めるとイベントのストーリーが解放される（4話以降は6/4解放予定）", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1400, "PurchaseLimit":6, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":31002002, "CollabNo":0, "Group":31002, "ProductGroup":31002002, "Description":"期間限定イベント「仁義のない映画祭」専用\n集めるとイベントのストーリーが解放される（4話以降は6/4解放予定）", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1400, "PurchaseLimit":6, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":31002003, "CollabNo":0, "Group":31002, "ProductGroup":31002003, "Description":"限界突破素材 西崎 芽依☆4\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":11002001, "PaymentCount":600, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002003, "CollabNo":0, "Group":31002, "ProductGroup":31002003, "Description":"限界突破素材 西崎 芽依☆4\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":11002001, "PaymentCount":600, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002004, "CollabNo":0, "Group":31002, "ProductGroup":31002004, "Description":"砲雷科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":10, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002004, "CollabNo":0, "Group":31002, "ProductGroup":31002004, "Description":"砲雷科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":10, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002005, "CollabNo":0, "Group":31002, "ProductGroup":31002005, "Description":"限界突破素材 ヴィルヘルミーナ☆5\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1500, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002005, "CollabNo":0, "Group":31002, "ProductGroup":31002005, "Description":"限界突破素材 ヴィルヘルミーナ☆5\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1500, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002006, "CollabNo":0, "Group":31002, "ProductGroup":31002006, "Description":"限界突破素材 納沙 幸子☆5\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1500, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002006, "CollabNo":0, "Group":31002, "ProductGroup":31002006, "Description":"限界突破素材 納沙 幸子☆5\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1500, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002007, "CollabNo":0, "Group":31002, "ProductGroup":31002007, "Description":"限界突破素材 宗谷 ましろ☆4\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002007, "CollabNo":0, "Group":31002, "ProductGroup":31002007, "Description":"限界突破素材 宗谷 ましろ☆4\n（全て交換で限界突破3回分）", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":29, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002008, "CollabNo":0, "Group":31002, "ProductGroup":31002008, "Description":"その他の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":5, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002008, "CollabNo":0, "Group":31002, "ProductGroup":31002008, "Description":"その他の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":5, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002009, "CollabNo":0, "Group":31002, "ProductGroup":31002009, "Description":"主計科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":5, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002009, "CollabNo":0, "Group":31002, "ProductGroup":31002009, "Description":"主計科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1000, "PurchaseLimit":5, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002011, "CollabNo":0, "Group":31002, "ProductGroup":31002011, "Description":"11連ガチャが引けるチケット", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":11002001, "PaymentCount":20000, "PurchaseLimit":1, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":31002011, "CollabNo":0, "Group":31002, "ProductGroup":31002011, "Description":"11連ガチャが引けるチケット", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":11002001, "PaymentCount":20000, "PurchaseLimit":1, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":31002012, "CollabNo":0, "Group":31002, "ProductGroup":31002012, "Description":"コイン　5000", "DailyType":0, "DailyProbability":0, "Order":16, "Type":3, "PaymentItemNo":11002001, "PaymentCount":300, "PurchaseLimit":100, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002012, "CollabNo":0, "Group":31002, "ProductGroup":31002012, "Description":"コイン　5000", "DailyType":0, "DailyProbability":0, "Order":16, "Type":3, "PaymentItemNo":11002001, "PaymentCount":300, "PurchaseLimit":100, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002013, "CollabNo":0, "Group":31002, "ProductGroup":31002013, "Description":"LV強化でキャラクターのLVを上げるための素材", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":11002001, "PaymentCount":300, "PurchaseLimit":10, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002013, "CollabNo":0, "Group":31002, "ProductGroup":31002013, "Description":"LV強化でキャラクターのLVを上げるための素材", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":11002001, "PaymentCount":300, "PurchaseLimit":10, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002014, "CollabNo":0, "Group":31002, "ProductGroup":31002014, "Description":"外洋訓練で報酬の抽選回数を増やすアイテム", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":11002001, "PaymentCount":500, "PurchaseLimit":10, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002014, "CollabNo":0, "Group":31002, "ProductGroup":31002014, "Description":"外洋訓練で報酬の抽選回数を増やすアイテム", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":11002001, "PaymentCount":500, "PurchaseLimit":10, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002015, "CollabNo":0, "Group":31002, "ProductGroup":31002015, "Description":"お風呂チケット", "DailyType":0, "DailyProbability":0, "Order":15, "Type":3, "PaymentItemNo":11002001, "PaymentCount":500, "PurchaseLimit":20, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002015, "CollabNo":0, "Group":31002, "ProductGroup":31002015, "Description":"お風呂チケット", "DailyType":0, "DailyProbability":0, "Order":15, "Type":3, "PaymentItemNo":11002001, "PaymentCount":500, "PurchaseLimit":20, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002016, "CollabNo":0, "Group":31002, "ProductGroup":31002016, "Description":"コイン　1", "DailyType":0, "DailyProbability":0, "Order":18, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1, "PurchaseLimit":0, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002016, "CollabNo":0, "Group":31002, "ProductGroup":31002016, "Description":"コイン　1", "DailyType":0, "DailyProbability":0, "Order":18, "Type":3, "PaymentItemNo":11002001, "PaymentCount":1, "PurchaseLimit":0, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31002017, "CollabNo":0, "Group":31002, "ProductGroup":31002017, "Description":"コイン　100", "DailyType":0, "DailyProbability":0, "Order":17, "Type":3, "PaymentItemNo":11002001, "PaymentCount":100, "PurchaseLimit":0, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-18T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31002017, "CollabNo":0, "Group":31002, "ProductGroup":31002017, "Description":"コイン　100", "DailyType":0, "DailyProbability":0, "Order":17, "Type":3, "PaymentItemNo":11002001, "PaymentCount":100, "PurchaseLimit":0, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUp":false
     }
   ]
 }
