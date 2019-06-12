@@ -1,5 +1,5 @@
 {
-  "Version":851, "Signatures":[
+  "Version":858, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"0890a10a50ab77015d0e40fe0ec791506099450d35573536b", "Iv":"ac42f9f4c58306d663302c26657cd315", "Salt":"96d218ec3d7b725c66afc0c09ddcfd24be17acd4609fb5ff5af25e26a18f2ffa", "Size":128, "Sha1":"17f35ae413c178a7b1fc14f62fd05870024a72f3"
     },
@@ -184,10 +184,10 @@
       "MasterName":"ShopBody", "Signature":"000e4677963730ef660cb08909e0ba2c0a00b50ff0ca0dd192b", "Iv":"b248984b4454f4289d25d451a60b42a3", "Salt":"c7a231203e98648e2d3fc4f76b21bdc3525bd76dbb49891f9453da3b3edc5712", "Size":2672, "Sha1":"1b00b6152c2253d490071d799d935989d7af46ca"
     },
     {
-      "MasterName":"ShopInside", "Signature":"6b0d80f25f0990014083d0a50f40a5390cc1809008b08708c72", "Iv":"4b381980932aad7bb2f66cafb473d1b2", "Salt":"b048196b488e010eb670f109613deba5422232eccb112aa94f1583469078e18f", "Size":128128, "Sha1":"15b8fa9fece8eebfb43659b39fef9247f805a1ae"
+      "MasterName":"ShopInside", "Signature":"280c20f308c0c36f0910fd0e408c280e90be0dd540c9220c3010e0", "Iv":"32a3ad53c1c8b67ca65b254742b1d4ed", "Salt":"af166f4ace0f1ec82d83c0afc91b58eba770a7d1a15a957ccd03a4923f22e7c1", "Size":131584, "Sha1":"a9c3bae3d3a97af6ba6615186d3230386231b2d2"
     },
     {
-      "MasterName":"ShopProduct", "Signature":"6708f473308e0d50ae340f41814260a408d787537000c7091", "Iv":"ba4ded085a808befc8761823a2120153", "Salt":"b169699dccf878d4aebb07a8a2faf0189af0320a4ae58596c50ff272d4467d68", "Size":13632, "Sha1":"f94f75e8bb643f5dcf7767dd15f6bb1cf1f4856f"
+      "MasterName":"ShopProduct", "Signature":"7c740be099270c40fe09d4a3f780bb50330d90d4790fd0c309f", "Iv":"b53ad40c399e2bb8a1dfd3d65e9b363e", "Salt":"8f3bf8c7a1a374d29b92785e5d1cd3094cd56018c34f81162cbf18ef3e060277", "Size":13760, "Sha1":"679be5c0f0f8c13196136dc26d67419ab84f68d5"
     },
     {
       "MasterName":"SkillStatusUp", "Signature":"3d3d7f09744763e6a4d0df0a1089580a20c7760b6392342", "Iv":"92ccc2629f42b93f54d56ed4c5165c5b", "Salt":"b4856519c6d92dcf5808fc30392cf2c4d1f7e881c3df68fe5b7c683992117877", "Size":176400, "Sha1":"a89c340e66486336444f16d56c2e780764bca0ed"
