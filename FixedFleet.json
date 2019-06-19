@@ -193,6 +193,36 @@
       "No":2205021, "PlayerName":"相手チーム", "UnitNo1":22050121, "UnitNo2":22050122, "UnitNo3":22050123, "UnitNo4":22050124, "UnitNo5":22050125, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
     },
     {
+      "No":2205031, "PlayerName":"相手チーム", "UnitNo1":22050311, "UnitNo2":22050315, "UnitNo3":22050313, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205041, "PlayerName":"相手チーム", "UnitNo1":22050411, "UnitNo2":22050415, "UnitNo3":22050413, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205051, "PlayerName":"相手チーム", "UnitNo1":22050511, "UnitNo2":22050515, "UnitNo3":22050513, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205061, "PlayerName":"相手チーム", "UnitNo1":22050611, "UnitNo2":22050615, "UnitNo3":22050613, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205071, "PlayerName":"相手チーム", "UnitNo1":22050711, "UnitNo2":22050715, "UnitNo3":22050713, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205081, "PlayerName":"相手チーム", "UnitNo1":22050811, "UnitNo2":22050815, "UnitNo3":22050813, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205091, "PlayerName":"相手チーム", "UnitNo1":22050911, "UnitNo2":22050915, "UnitNo3":22050913, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205101, "PlayerName":"相手チーム", "UnitNo1":22051011, "UnitNo2":22051015, "UnitNo3":22051013, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205111, "PlayerName":"相手チーム", "UnitNo1":22051111, "UnitNo2":22051115, "UnitNo3":22051113, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
+      "No":2205121, "PlayerName":"相手チーム", "UnitNo1":22051211, "UnitNo2":22051215, "UnitNo3":22051213, "UnitNo4":0, "UnitNo5":0, "Power":23650, "Shelling":5500, "Torpedo":7100, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
+    },
+    {
       "No":2207011, "PlayerName":"相手チーム", "UnitNo1":22070111, "UnitNo2":22070112, "UnitNo3":22070113, "UnitNo4":22070114, "UnitNo5":22070115, "Power":23650, "Shelling":7100, "Torpedo":5500, "Speed":5100, "Durability":8181, "Visibility":7100, "Occupy":5795
     },
     {
@@ -254,6 +284,12 @@
     },
     {
       "No":2209031, "PlayerName":"相手チーム", "UnitNo1":22090311, "UnitNo2":22090312, "UnitNo3":22090313, "UnitNo4":22090314, "UnitNo5":22090315, "Power":32200, "Shelling":7000, "Torpedo":4000, "Speed":9354.52, "Durability":9192.15, "Visibility":7787.5, "Occupy":7455.75
+    },
+    {
+      "No":1209041, "PlayerName":"味方チーム", "UnitNo1":12090414, "UnitNo2":12090412, "UnitNo3":12090411, "UnitNo4":12090415, "UnitNo5":12090413, "Power":32200, "Shelling":7000, "Torpedo":4000, "Speed":9354.52, "Durability":9192.15, "Visibility":7787.5, "Occupy":7455.75
+    },
+    {
+      "No":2209041, "PlayerName":"相手チーム", "UnitNo1":22090411, "UnitNo2":22090412, "UnitNo3":22090413, "UnitNo4":22090414, "UnitNo5":22090415, "Power":32200, "Shelling":7000, "Torpedo":4000, "Speed":9354.52, "Durability":9192.15, "Visibility":7787.5, "Occupy":7455.75
     },
     {
       "No":1102091, "PlayerName":"味方チーム", "UnitNo1":-1, "UnitNo2":-1, "UnitNo3":-1, "UnitNo4":-1, "UnitNo5":11020915, "Power":27000, "Shelling":7500, "Torpedo":8100, "Speed":8100, "Durability":8100, "Visibility":7000, "Occupy":6100

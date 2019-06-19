@@ -772,7 +772,7 @@
       "No":11002001, "Name":"シネマチケット", "Description":"期間限定イベント「仁義のない映画祭」専用\n期間限定の仁義のないショップで\nアイテムと交換ができる", "Type":11, "Category":2, "MaxCount":999999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":251, "SalePrice":100
     },
     {
-      "No":11003001, "Name":"イベントアイテムC", "Description":"イベントアイテムCアイテム説明文", "Type":11, "Category":3, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":239, "SalePrice":100
+      "No":11003001, "Name":"南の島の食材", "Description":"期間限定イベント「南の島でサバイバル!?」\n専用　期間限定の南の島ショップで\nアイテムと交換ができる", "Type":11, "Category":3, "MaxCount":999999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":254, "SalePrice":100
     },
     {
       "No":13001030, "Name":"30日パスポート", "Description":"30日間様々な特典が受けられるアイテム", "Type":13, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":243, "SalePrice":100
@@ -811,7 +811,10 @@
       "No":29001001, "Name":"イベントディスク【19年5月】", "Description":"期間限定イベント「仁義のない映画祭」専用\n集めるとイベントのストーリーが解放される\n（4話以降は6/4解放予定）", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":252, "SalePrice":100
     },
     {
-      "No":30001001, "Name":"AI戦チケット", "Description":"AI戦をプレイすることができるチケット", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":253, "SalePrice":100
+      "No":29002001, "Name":"イベントディスク【19年6月】", "Description":"期間限定イベント「南の島でサバイバル!?」\n専用　集めるとイベントのストーリーが\n解放される（5話以降は6/26解放予定）", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":255, "SalePrice":100
+    },
+    {
+      "No":30001001, "Name":"AI戦チケット", "Description":"AI戦をプレイすることができるチケット\n（1戦に1枚消費）", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":253, "SalePrice":100
     }
   ]
 }

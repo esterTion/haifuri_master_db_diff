@@ -10,7 +10,7 @@
       "Type":3, "Description":"敵艦船に対して強力な魚雷攻撃\n（特に大型艦に対して有効）", "CombatType":2, "MissionType":2
     },
     {
-      "Type":4, "Description":"広範囲の敵艦船に対して魚雷攻撃\n（特に大型艦に対して有効）", "CombatType":2, "MissionType":2
+      "Type":4, "Description":"広範囲の敵艦船に対して魚雷攻撃\nさらに最大速度を少し減少させる", "CombatType":2, "MissionType":2
     },
     {
       "Type":5, "Description":"敵艦船を炎上させる砲撃攻撃\n炎上中は移動停止、艦長スキル不可", "CombatType":1, "MissionType":1
@@ -160,10 +160,16 @@
       "Type":53, "Description":"巡洋艦に対してのみ威力が5.4倍の\n強力な砲撃攻撃", "CombatType":1, "MissionType":0
     },
     {
-      "Type":54, "Description":"広範囲の敵艦船に対して煙幕弾砲撃攻撃\n（相手の砲撃攻撃力がダウン）", "CombatType":1, "MissionType":0
+      "Type":54, "Description":"広範囲の敵艦船に煙幕弾砲撃攻撃\n（相手の砲撃攻撃力がダウン）", "CombatType":1, "MissionType":0
     },
     {
       "Type":55, "Description":"自艦を除く範囲内にいる複数の\n艦船の耐久力を固定値で回復する", "CombatType":0, "MissionType":0
+    },
+    {
+      "Type":56, "Description":"自艦を除く範囲内にいる複数の\n艦船のダメージを一定まで軽減する", "CombatType":0, "MissionType":0
+    },
+    {
+      "Type":57, "Description":"範囲内にいる艦船１隻の状態異常を\n回復し少量の耐久力も固定回復する", "CombatType":0, "MissionType":0
     }
   ]
 }

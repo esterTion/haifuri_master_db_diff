@@ -316,6 +316,18 @@
       "No":105, "Group":40105, "DataType":5, "DataNo":9019004, "Count":1
     },
     {
+      "No":106, "Group":40106, "DataType":5, "DataNo":9040004, "Count":1
+    },
+    {
+      "No":107, "Group":40107, "DataType":5, "DataNo":9028004, "Count":1
+    },
+    {
+      "No":108, "Group":40108, "DataType":5, "DataNo":9042004, "Count":1
+    },
+    {
+      "No":109, "Group":40109, "DataType":5, "DataNo":9025004, "Count":1
+    },
+    {
       "No":50001, "Group":50001, "DataType":2, "DataNo":150000, "Count":1
     },
     {
@@ -614,6 +626,57 @@
     },
     {
       "No":31002017, "Group":31002017, "DataType":5, "DataNo":2001001, "Count":100
+    },
+    {
+      "No":31003001, "Group":31003001, "DataType":2, "DataNo":4250010, "Count":1
+    },
+    {
+      "No":31003002, "Group":31003002, "DataType":5, "DataNo":29002001, "Count":1
+    },
+    {
+      "No":31003003, "Group":31003003, "DataType":5, "DataNo":9042004, "Count":5
+    },
+    {
+      "No":31003004, "Group":31003004, "DataType":5, "DataNo":8003002, "Count":20
+    },
+    {
+      "No":31003005, "Group":31003005, "DataType":5, "DataNo":9040004, "Count":5
+    },
+    {
+      "No":31003006, "Group":31003006, "DataType":5, "DataNo":9028004, "Count":5
+    },
+    {
+      "No":31003007, "Group":31003007, "DataType":5, "DataNo":9025004, "Count":5
+    },
+    {
+      "No":31003008, "Group":31003008, "DataType":5, "DataNo":8002003, "Count":10
+    },
+    {
+      "No":31003009, "Group":31003009, "DataType":5, "DataNo":8004003, "Count":10
+    },
+    {
+      "No":31003010, "Group":31003010, "DataType":5, "DataNo":3002001, "Count":1
+    },
+    {
+      "No":31003011, "Group":31003011, "DataType":5, "DataNo":2001001, "Count":5000
+    },
+    {
+      "No":31003012, "Group":31003012, "DataType":5, "DataNo":5001001, "Count":5
+    },
+    {
+      "No":31003013, "Group":31003013, "DataType":5, "DataNo":24001001, "Count":5
+    },
+    {
+      "No":31003014, "Group":31003014, "DataType":5, "DataNo":4001001, "Count":1
+    },
+    {
+      "No":31003015, "Group":31003015, "DataType":5, "DataNo":2001001, "Count":1
+    },
+    {
+      "No":31003016, "Group":31003016, "DataType":5, "DataNo":2001001, "Count":100
+    },
+    {
+      "No":31003017, "Group":31003017, "DataType":5, "DataNo":30001001, "Count":1
     }
   ]
 }
