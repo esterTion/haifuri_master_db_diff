@@ -67,7 +67,7 @@
       "Type":22, "Description":"敵艦に狙われやすくなる", "CombatType":0, "MissionType":0
     },
     {
-      "Type":23, "Description":"敵艦船の上昇効果を打ち消す", "CombatType":0, "MissionType":0
+      "Type":23, "Description":"敵艦船の回復や上昇効果を打ち消し\n一定時間新しい効果を受けられない", "CombatType":0, "MissionType":0
     },
     {
       "Type":24, "Description":"味方艦船全ての再出撃時間を減少\n（未出撃時のみ使用可）", "CombatType":0, "MissionType":0
@@ -170,6 +170,12 @@
     },
     {
       "Type":57, "Description":"範囲内にいる艦船１隻の状態異常を\n回復し少量の耐久力も固定回復する", "CombatType":0, "MissionType":0
+    },
+    {
+      "Type":58, "Description":"前方の効果範囲内に砲撃攻撃\n拠点攻撃不可、艦数により威力減少", "CombatType":1, "MissionType":0
+    },
+    {
+      "Type":59, "Description":"自艦の周囲にいる敵艦船に乗り込む\n一定時間お互い攻撃と移動不可", "CombatType":0, "MissionType":0
     }
   ]
 }

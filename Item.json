@@ -226,7 +226,7 @@
       "No":7006002, "Name":"消費コスト強化の指南書・中", "Description":"艦長・乗組員スキル強化素材\r\n消費コスト強化の上達法が書かれた指南書", "Type":7, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":70, "SalePrice":50
     },
     {
-      "No":7006003, "Name":"消費コスト強化の指南書・大", "Description":"艦長・乗組員スキル強化素材\n再使用時間強化の極意が書かれた指南書", "Type":7, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":71, "SalePrice":100
+      "No":7006003, "Name":"消費コスト強化の指南書・大", "Description":"艦長・乗組員スキル強化素材\n消費コスト強化の極意が書かれた指南書", "Type":7, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":71, "SalePrice":100
     },
     {
       "No":7007001, "Name":"効果強化の指南書・小", "Description":"艦長・乗組員スキル強化素材\n効果強化の方法が書かれた指南書", "Type":7, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":72, "SalePrice":10
