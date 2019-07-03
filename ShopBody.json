@@ -25,7 +25,7 @@
       "No":3100201, "Type":0, "Order":10, "Title":"仁義のないショップ", "InsideGroup":31002, "ValidTime":"2019-05-28T14:15:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "UserHour":0, "PickUpType":2
     },
     {
-      "No":3100301, "Type":0, "Order":10, "Title":"南の島ショップ", "InsideGroup":31003, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-07-09T14:00:00+09:00", "UserHour":0, "PickUpType":2
+      "No":3100301, "Type":0, "Order":10, "Title":"南の島ショップ", "InsideGroup":31003, "ValidTime":"2019-05-24T14:30:00+09:00", "InvalidTime":"2019-07-10T14:00:00+09:00", "UserHour":0, "PickUpType":2
     },
     {
       "No":4000101, "Type":1, "Order":100, "Title":"デイリーショップ", "InsideGroup":40002, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUpType":1

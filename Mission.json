@@ -1571,6 +1571,78 @@
     },
     {
       "No":50189002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで10回対戦", "Type":102, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-06-18T05:00:00+09:00", "InvalidTime":"2019-06-19T14:00:00+09:00", "PrizeGroup":11066
+    },
+    {
+      "No":50190001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで3回対戦", "Type":102, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-03T14:15:00+09:00", "InvalidTime":"2019-07-05T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50190002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-03T14:15:00+09:00", "InvalidTime":"2019-07-05T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50190003, "Order":3, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を3回完了する", "Type":801, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-03T14:15:00+09:00", "InvalidTime":"2019-07-05T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50190004, "Order":4, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を5回完了する", "Type":801, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-03T14:15:00+09:00", "InvalidTime":"2019-07-05T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50191001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで3回対戦", "Type":102, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-05T05:00:00+09:00", "InvalidTime":"2019-07-06T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50191002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-05T05:00:00+09:00", "InvalidTime":"2019-07-06T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50191003, "Order":3, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を3回完了する", "Type":801, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-05T05:00:00+09:00", "InvalidTime":"2019-07-06T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50191004, "Order":4, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を5回完了する", "Type":801, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-05T05:00:00+09:00", "InvalidTime":"2019-07-06T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50192001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで3回対戦", "Type":102, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-06T05:00:00+09:00", "InvalidTime":"2019-07-07T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50192002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-06T05:00:00+09:00", "InvalidTime":"2019-07-07T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50192003, "Order":3, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を3回完了する", "Type":801, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-06T05:00:00+09:00", "InvalidTime":"2019-07-07T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50192004, "Order":4, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を5回完了する", "Type":801, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-06T05:00:00+09:00", "InvalidTime":"2019-07-07T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50193001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで3回対戦", "Type":102, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-07T05:00:00+09:00", "InvalidTime":"2019-07-08T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50193002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-07T05:00:00+09:00", "InvalidTime":"2019-07-08T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50193003, "Order":3, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を3回完了する", "Type":801, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-07T05:00:00+09:00", "InvalidTime":"2019-07-08T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50193004, "Order":4, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を5回完了する", "Type":801, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-07T05:00:00+09:00", "InvalidTime":"2019-07-08T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50194001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで3回対戦", "Type":102, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-08T05:00:00+09:00", "InvalidTime":"2019-07-09T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50194002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-08T05:00:00+09:00", "InvalidTime":"2019-07-09T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50194003, "Order":3, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を3回完了する", "Type":801, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-08T05:00:00+09:00", "InvalidTime":"2019-07-09T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50194004, "Order":4, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を5回完了する", "Type":801, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-08T05:00:00+09:00", "InvalidTime":"2019-07-09T04:59:59+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50195001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで3回対戦", "Type":102, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-09T05:00:00+09:00", "InvalidTime":"2019-07-10T14:00:00+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50195002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:ランクマッチで5回対戦", "Type":102, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-09T05:00:00+09:00", "InvalidTime":"2019-07-10T14:00:00+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50195003, "Order":3, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を3回完了する", "Type":801, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-09T05:00:00+09:00", "InvalidTime":"2019-07-10T14:00:00+09:00", "PrizeGroup":11067
+    },
+    {
+      "No":50195004, "Order":4, "Category":5, "Link":8, "Description":"毎日更新 限定:外洋訓練を5回完了する", "Type":801, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-09T05:00:00+09:00", "InvalidTime":"2019-07-10T14:00:00+09:00", "PrizeGroup":11067
     }
   ]
 }

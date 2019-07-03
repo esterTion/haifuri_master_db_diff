@@ -2206,6 +2206,204 @@
       "No":17066, "Group":17, "Order":66, "Rate":3750, "LastRate":3750, "CardNo":4130000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
     },
     {
+      "No":18001, "Group":18, "Order":1, "Rate":286, "LastRate":286, "CardNo":150000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18002, "Group":18, "Order":2, "Rate":286, "LastRate":286, "CardNo":650000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18003, "Group":18, "Order":3, "Rate":286, "LastRate":286, "CardNo":1450000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18004, "Group":18, "Order":4, "Rate":286, "LastRate":286, "CardNo":1550000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18005, "Group":18, "Order":5, "Rate":286, "LastRate":286, "CardNo":1850000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18006, "Group":18, "Order":6, "Rate":285, "LastRate":285, "CardNo":3350000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18007, "Group":18, "Order":7, "Rate":285, "LastRate":285, "CardNo":3650000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18008, "Group":18, "Order":8, "Rate":4600, "LastRate":19600, "CardNo":640000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18009, "Group":18, "Order":9, "Rate":4600, "LastRate":19600, "CardNo":1340000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18010, "Group":18, "Order":10, "Rate":4600, "LastRate":19600, "CardNo":1640000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18011, "Group":18, "Order":11, "Rate":4600, "LastRate":19600, "CardNo":1740000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18012, "Group":18, "Order":12, "Rate":4600, "LastRate":19600, "CardNo":4140000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18013, "Group":18, "Order":13, "Rate":12500, "LastRate":0, "CardNo":630000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18014, "Group":18, "Order":14, "Rate":12500, "LastRate":0, "CardNo":1530000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18015, "Group":18, "Order":15, "Rate":12500, "LastRate":0, "CardNo":1630000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18016, "Group":18, "Order":16, "Rate":12500, "LastRate":0, "CardNo":3330000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18017, "Group":18, "Order":17, "Rate":12500, "LastRate":0, "CardNo":3630000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":18018, "Group":18, "Order":18, "Rate":12500, "LastRate":0, "CardNo":4130000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19001, "Group":19, "Order":1, "Rate":286, "LastRate":286, "CardNo":250000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19002, "Group":19, "Order":2, "Rate":286, "LastRate":286, "CardNo":350000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19003, "Group":19, "Order":3, "Rate":286, "LastRate":286, "CardNo":450000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19004, "Group":19, "Order":4, "Rate":286, "LastRate":286, "CardNo":750000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19005, "Group":19, "Order":5, "Rate":286, "LastRate":286, "CardNo":850000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19006, "Group":19, "Order":6, "Rate":285, "LastRate":285, "CardNo":1250000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19007, "Group":19, "Order":7, "Rate":285, "LastRate":285, "CardNo":4050000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19008, "Group":19, "Order":8, "Rate":2875, "LastRate":12250, "CardNo":240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19009, "Group":19, "Order":9, "Rate":2875, "LastRate":12250, "CardNo":740000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19010, "Group":19, "Order":10, "Rate":2875, "LastRate":12250, "CardNo":940000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19011, "Group":19, "Order":11, "Rate":2875, "LastRate":12250, "CardNo":1040000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19012, "Group":19, "Order":12, "Rate":2875, "LastRate":12250, "CardNo":1240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19013, "Group":19, "Order":13, "Rate":2875, "LastRate":12250, "CardNo":3740000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19014, "Group":19, "Order":14, "Rate":2875, "LastRate":12250, "CardNo":3840000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19015, "Group":19, "Order":15, "Rate":2875, "LastRate":12250, "CardNo":4240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19016, "Group":19, "Order":16, "Rate":10715, "LastRate":0, "CardNo":230000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19017, "Group":19, "Order":17, "Rate":10715, "LastRate":0, "CardNo":330000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19018, "Group":19, "Order":18, "Rate":10714, "LastRate":0, "CardNo":430000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19019, "Group":19, "Order":19, "Rate":10714, "LastRate":0, "CardNo":730000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19020, "Group":19, "Order":20, "Rate":10714, "LastRate":0, "CardNo":1230000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19021, "Group":19, "Order":21, "Rate":10714, "LastRate":0, "CardNo":3730000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":19022, "Group":19, "Order":22, "Rate":10714, "LastRate":0, "CardNo":4030000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20001, "Group":20, "Order":1, "Rate":400, "LastRate":400, "CardNo":1950000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20002, "Group":20, "Order":2, "Rate":400, "LastRate":400, "CardNo":2050000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20003, "Group":20, "Order":3, "Rate":400, "LastRate":400, "CardNo":4350000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20004, "Group":20, "Order":4, "Rate":400, "LastRate":400, "CardNo":3450000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20005, "Group":20, "Order":5, "Rate":400, "LastRate":400, "CardNo":3550000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20006, "Group":20, "Order":6, "Rate":3286, "LastRate":14000, "CardNo":2040000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20007, "Group":20, "Order":7, "Rate":3286, "LastRate":14000, "CardNo":2140000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20008, "Group":20, "Order":8, "Rate":3286, "LastRate":14000, "CardNo":2240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20009, "Group":20, "Order":9, "Rate":3286, "LastRate":14000, "CardNo":2340000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20010, "Group":20, "Order":10, "Rate":3286, "LastRate":14000, "CardNo":2440000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20011, "Group":20, "Order":11, "Rate":3285, "LastRate":14000, "CardNo":2540000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20012, "Group":20, "Order":12, "Rate":3285, "LastRate":14000, "CardNo":2640000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20013, "Group":20, "Order":13, "Rate":18750, "LastRate":0, "CardNo":1930000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20014, "Group":20, "Order":14, "Rate":18750, "LastRate":0, "CardNo":2030000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20015, "Group":20, "Order":15, "Rate":18750, "LastRate":0, "CardNo":3430000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":20016, "Group":20, "Order":16, "Rate":18750, "LastRate":0, "CardNo":3530000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21001, "Group":21, "Order":1, "Rate":400, "LastRate":400, "CardNo":550000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21002, "Group":21, "Order":2, "Rate":400, "LastRate":400, "CardNo":2750000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21003, "Group":21, "Order":3, "Rate":400, "LastRate":400, "CardNo":2950000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21004, "Group":21, "Order":4, "Rate":400, "LastRate":400, "CardNo":3050000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21005, "Group":21, "Order":5, "Rate":400, "LastRate":400, "CardNo":3150000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21006, "Group":21, "Order":6, "Rate":11500, "LastRate":49000, "CardNo":540000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21007, "Group":21, "Order":7, "Rate":11500, "LastRate":49000, "CardNo":2840000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21008, "Group":21, "Order":8, "Rate":25000, "LastRate":0, "CardNo":530000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21009, "Group":21, "Order":9, "Rate":25000, "LastRate":0, "CardNo":2830000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":21010, "Group":21, "Order":10, "Rate":25000, "LastRate":0, "CardNo":3130000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
       "No":303001, "Group":303, "Order":1, "Rate":125, "LastRate":200, "CardNo":1550000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
     },
     {
@@ -2567,6 +2765,204 @@
     },
     {
       "No":51046, "Group":502, "Order":46, "Rate":4454, "LastRate":4454, "CardNo":4240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504001, "Group":504, "Order":1, "Rate":286, "LastRate":286, "CardNo":150000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504002, "Group":504, "Order":2, "Rate":286, "LastRate":286, "CardNo":650000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504003, "Group":504, "Order":3, "Rate":286, "LastRate":286, "CardNo":1450000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504004, "Group":504, "Order":4, "Rate":286, "LastRate":286, "CardNo":1550000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504005, "Group":504, "Order":5, "Rate":286, "LastRate":286, "CardNo":1850000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504006, "Group":504, "Order":6, "Rate":285, "LastRate":285, "CardNo":3350000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504007, "Group":504, "Order":7, "Rate":285, "LastRate":285, "CardNo":3650000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504008, "Group":504, "Order":8, "Rate":4600, "LastRate":19600, "CardNo":640000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504009, "Group":504, "Order":9, "Rate":4600, "LastRate":19600, "CardNo":1340000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504010, "Group":504, "Order":10, "Rate":4600, "LastRate":19600, "CardNo":1640000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504011, "Group":504, "Order":11, "Rate":4600, "LastRate":19600, "CardNo":1740000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504012, "Group":504, "Order":12, "Rate":4600, "LastRate":19600, "CardNo":4140000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504013, "Group":504, "Order":13, "Rate":12500, "LastRate":0, "CardNo":630000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504014, "Group":504, "Order":14, "Rate":12500, "LastRate":0, "CardNo":1530000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504015, "Group":504, "Order":15, "Rate":12500, "LastRate":0, "CardNo":1630000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504016, "Group":504, "Order":16, "Rate":12500, "LastRate":0, "CardNo":3330000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504017, "Group":504, "Order":17, "Rate":12500, "LastRate":0, "CardNo":3630000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":504018, "Group":504, "Order":18, "Rate":12500, "LastRate":0, "CardNo":4130000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505001, "Group":505, "Order":1, "Rate":286, "LastRate":286, "CardNo":250000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505002, "Group":505, "Order":2, "Rate":286, "LastRate":286, "CardNo":350000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505003, "Group":505, "Order":3, "Rate":286, "LastRate":286, "CardNo":450000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505004, "Group":505, "Order":4, "Rate":286, "LastRate":286, "CardNo":750000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505005, "Group":505, "Order":5, "Rate":286, "LastRate":286, "CardNo":850000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505006, "Group":505, "Order":6, "Rate":285, "LastRate":285, "CardNo":1250000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505007, "Group":505, "Order":7, "Rate":285, "LastRate":285, "CardNo":4050000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505008, "Group":505, "Order":8, "Rate":2875, "LastRate":12250, "CardNo":240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505009, "Group":505, "Order":9, "Rate":2875, "LastRate":12250, "CardNo":740000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505010, "Group":505, "Order":10, "Rate":2875, "LastRate":12250, "CardNo":940000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505011, "Group":505, "Order":11, "Rate":2875, "LastRate":12250, "CardNo":1040000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505012, "Group":505, "Order":12, "Rate":2875, "LastRate":12250, "CardNo":1240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505013, "Group":505, "Order":13, "Rate":2875, "LastRate":12250, "CardNo":3740000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505014, "Group":505, "Order":14, "Rate":2875, "LastRate":12250, "CardNo":3840000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505015, "Group":505, "Order":15, "Rate":2875, "LastRate":12250, "CardNo":4240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505016, "Group":505, "Order":16, "Rate":10715, "LastRate":0, "CardNo":230000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505017, "Group":505, "Order":17, "Rate":10715, "LastRate":0, "CardNo":330000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505018, "Group":505, "Order":18, "Rate":10714, "LastRate":0, "CardNo":430000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505019, "Group":505, "Order":19, "Rate":10714, "LastRate":0, "CardNo":730000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505020, "Group":505, "Order":20, "Rate":10714, "LastRate":0, "CardNo":1230000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505021, "Group":505, "Order":21, "Rate":10714, "LastRate":0, "CardNo":3730000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":505022, "Group":505, "Order":22, "Rate":10714, "LastRate":0, "CardNo":4030000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506001, "Group":506, "Order":1, "Rate":400, "LastRate":400, "CardNo":1950000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506002, "Group":506, "Order":2, "Rate":400, "LastRate":400, "CardNo":2050000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506003, "Group":506, "Order":3, "Rate":400, "LastRate":400, "CardNo":4350000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506004, "Group":506, "Order":4, "Rate":400, "LastRate":400, "CardNo":3450000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506005, "Group":506, "Order":5, "Rate":400, "LastRate":400, "CardNo":3550000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506006, "Group":506, "Order":6, "Rate":3286, "LastRate":14000, "CardNo":2040000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506007, "Group":506, "Order":7, "Rate":3286, "LastRate":14000, "CardNo":2140000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506008, "Group":506, "Order":8, "Rate":3286, "LastRate":14000, "CardNo":2240000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506009, "Group":506, "Order":9, "Rate":3286, "LastRate":14000, "CardNo":2340000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506010, "Group":506, "Order":10, "Rate":3286, "LastRate":14000, "CardNo":2440000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506011, "Group":506, "Order":11, "Rate":3285, "LastRate":14000, "CardNo":2540000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506012, "Group":506, "Order":12, "Rate":3285, "LastRate":14000, "CardNo":2640000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506013, "Group":506, "Order":13, "Rate":18750, "LastRate":0, "CardNo":1930000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506014, "Group":506, "Order":14, "Rate":18750, "LastRate":0, "CardNo":2030000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506015, "Group":506, "Order":15, "Rate":18750, "LastRate":0, "CardNo":3430000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":506016, "Group":506, "Order":16, "Rate":18750, "LastRate":0, "CardNo":3530000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507001, "Group":507, "Order":1, "Rate":400, "LastRate":400, "CardNo":550000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507002, "Group":507, "Order":2, "Rate":400, "LastRate":400, "CardNo":2750000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507003, "Group":507, "Order":3, "Rate":400, "LastRate":400, "CardNo":2950000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507004, "Group":507, "Order":4, "Rate":400, "LastRate":400, "CardNo":3050000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507005, "Group":507, "Order":5, "Rate":400, "LastRate":400, "CardNo":3150000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507006, "Group":507, "Order":6, "Rate":11500, "LastRate":49000, "CardNo":540000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507007, "Group":507, "Order":7, "Rate":11500, "LastRate":49000, "CardNo":2840000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507008, "Group":507, "Order":8, "Rate":25000, "LastRate":0, "CardNo":530000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507009, "Group":507, "Order":9, "Rate":25000, "LastRate":0, "CardNo":2830000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
+    },
+    {
+      "No":507010, "Group":507, "Order":10, "Rate":25000, "LastRate":0, "CardNo":3130000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
     },
     {
       "No":900001, "Group":900, "Order":1, "Rate":200, "LastRate":200, "CardNo":150000, "Level":1, "BreakCount":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "ShipNo":0, "PickUp":false
