@@ -176,6 +176,15 @@
     },
     {
       "Type":59, "Description":"自艦の周囲にいる敵艦船に乗り込む\n一定時間お互い攻撃と移動不可", "CombatType":0, "MissionType":0
+    },
+    {
+      "Type":60, "Description":"耐久値を３０００回復し\n航行速度が上昇する", "CombatType":5, "MissionType":0
+    },
+    {
+      "Type":61, "Description":"短い時間だがすべての範囲の艦船位置を\n発見する", "CombatType":4, "MissionType":0
+    },
+    {
+      "Type":62, "Description":"一定時間、自艦の索敵範囲を大きく広げる", "CombatType":4, "MissionType":0
     }
   ]
 }

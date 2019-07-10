@@ -31,7 +31,7 @@
       "No":3005001, "Name":"11連学科ガチャチケット", "Description":"各学科の11連ガチャを\n1回引けるチケット", "Type":3, "Category":5, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":7, "SalePrice":100
     },
     {
-      "No":3006001, "Name":"選択ガチャチケット", "Description":"選択ガチャを1回引けるチケット", "Type":3, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":8, "SalePrice":100
+      "No":3006001, "Name":"セレクトガチャチケット", "Description":"セレクトチケットガチャを\n1回引けるチケット", "Type":3, "Category":6, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":8, "SalePrice":100
     },
     {
       "No":4001001, "Name":"お風呂チケット", "Description":"報酬ボーナスを回復することができる\nランクマッチTOPで使用できます\n（報酬ボーナス残り0回の時のみ使用可能）", "Type":4, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":7, "SalePrice":100
@@ -442,6 +442,9 @@
       "No":9016003, "Name":"【ダウジング】のカケラ", "Description":"限界突破素材 八木鶫の才能のカケラ\n【ダウジング】\nのカードを限界突破できる", "Type":9, "Category":16, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":137, "SalePrice":100
     },
     {
+      "No":9016004, "Name":"【諏訪の巫女】のカケラ", "Description":"限界突破素材 八木鶫の才能のカケラ\n【諏訪の巫女】\nのカードを限界突破できる", "Type":9, "Category":16, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":140, "SalePrice":100
+    },
+    {
       "No":9017001, "Name":"【宇田慧】のカケラ", "Description":"限界突破素材 宇田慧の才能のカケラ\n☆1～3までのカードを限界突破できる", "Type":9, "Category":17, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":138, "SalePrice":100
     },
     {
@@ -451,6 +454,9 @@
       "No":9017003, "Name":"【リアリスト】のカケラ", "Description":"限界突破素材 宇田慧の才能のカケラ\n【リアリスト】\nのカードを限界突破できる", "Type":9, "Category":17, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":140, "SalePrice":100
     },
     {
+      "No":9017004, "Name":"【心霊写真なんてないよ！】のカケラ", "Description":"限界突破素材 宇田慧の才能のカケラ\n【心霊写真なんてないよ！】\nのカードを限界突破できる", "Type":9, "Category":17, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":142, "SalePrice":100
+    },
+    {
       "No":9018001, "Name":"【野間マチコ】のカケラ", "Description":"限界突破素材 野間マチコの才能のカケラ\n☆1～3までのカードを限界突破できる", "Type":9, "Category":18, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":141, "SalePrice":100
     },
     {
@@ -458,6 +464,9 @@
     },
     {
       "No":9018003, "Name":"【身体能力の秘密】のカケラ", "Description":"限界突破素材 野間マチコの才能のカケラ\n【身体能力の秘密】\nのカードを限界突破できる", "Type":9, "Category":18, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":143, "SalePrice":100
+    },
+    {
+      "No":9018004, "Name":"【幽霊なんかに負けない】のカケラ", "Description":"限界突破素材 野間マチコの才能のカケラ\n【幽霊なんかに負けない】\nのカードを限界突破できる", "Type":9, "Category":18, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":145, "SalePrice":100
     },
     {
       "No":9019001, "Name":"【柳原麻侖】のカケラ", "Description":"限界突破素材 柳原麻侖の才能のカケラ\n☆1～3までのカードを限界突破できる", "Type":9, "Category":19, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":144, "SalePrice":100
@@ -506,6 +515,9 @@
     },
     {
       "No":9023003, "Name":"【わたしの熱力学】のカケラ", "Description":"限界突破素材 駿河留奈の才能のカケラ\n【わたしの熱力学】\nのカードを限界突破できる", "Type":9, "Category":23, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":158, "SalePrice":100
+    },
+    {
+      "No":9023004, "Name":"【おばけなんてウソさ】のカケラ", "Description":"限界突破素材 駿河留奈の才能のカケラ\n【おばけなんてウソさ】\nのカードを限界突破できる", "Type":9, "Category":23, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":161, "SalePrice":100
     },
     {
       "No":9024001, "Name":"【広田空】のカケラ", "Description":"限界突破素材 広田空の才能のカケラ\n☆1～3までのカードを限界突破できる", "Type":9, "Category":24, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":159, "SalePrice":100

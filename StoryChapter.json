@@ -169,6 +169,9 @@
       "No":400401, "Type":4, "RankmatchSeasonNo":0, "Order":100, "CharNo":0, "Title":"南の島でサバイバル！？", "Group":4004, "PrizeGroup":0, "Resource":0, "StartTime":"2019-06-13T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
+      "No":400501, "Type":4, "RankmatchSeasonNo":2110003, "Order":85, "CharNo":0, "Title":"第3回チーム対抗戦", "Group":4005, "PrizeGroup":0, "Resource":0, "StartTime":"2019-07-10T14:15:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
       "No":500101, "Type":5, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"今週のハイフリ 第1週～第10週", "Group":5001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {

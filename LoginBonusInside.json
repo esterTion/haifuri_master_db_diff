@@ -164,6 +164,9 @@
     },
     {
       "No":2000603, "Group":20006, "Count":3, "PrizeGroup":130022, "PickUp":false
+    },
+    {
+      "No":2000701, "Group":20007, "Count":1, "PrizeGroup":13032, "PickUp":true
     }
   ]
 }
