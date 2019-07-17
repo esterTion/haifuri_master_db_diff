@@ -107,6 +107,48 @@
     },
     {
       "No":2024, "SpecialEfficacyGroup":2, "CardNo":1141000, "PossessionRate":10, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":3001, "SpecialEfficacyGroup":3, "CardNo":2350010, "PossessionRate":75, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":3002, "SpecialEfficacyGroup":3, "CardNo":2351010, "PossessionRate":75, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":3003, "SpecialEfficacyGroup":3, "CardNo":1650010, "PossessionRate":75, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":3004, "SpecialEfficacyGroup":3, "CardNo":1651010, "PossessionRate":75, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":3005, "SpecialEfficacyGroup":3, "CardNo":1740010, "PossessionRate":20, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":3006, "SpecialEfficacyGroup":3, "CardNo":1741010, "PossessionRate":20, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":3007, "SpecialEfficacyGroup":3, "CardNo":1840010, "PossessionRate":20, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":3008, "SpecialEfficacyGroup":3, "CardNo":1841010, "PossessionRate":20, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":3009, "SpecialEfficacyGroup":3, "CardNo":1940000, "PossessionRate":10, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":3010, "SpecialEfficacyGroup":3, "CardNo":1941000, "PossessionRate":10, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":3011, "SpecialEfficacyGroup":3, "CardNo":4250010, "PossessionRate":10, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":3012, "SpecialEfficacyGroup":3, "CardNo":4251010, "PossessionRate":10, "FleetRate":0, "DisplayFlag":false
+    },
+    {
+      "No":3013, "SpecialEfficacyGroup":3, "CardNo":440010, "PossessionRate":10, "FleetRate":0, "DisplayFlag":true
+    },
+    {
+      "No":3014, "SpecialEfficacyGroup":3, "CardNo":441010, "PossessionRate":10, "FleetRate":0, "DisplayFlag":false
     }
   ]
 }

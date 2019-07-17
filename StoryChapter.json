@@ -151,7 +151,7 @@
       "No":300701, "Type":3, "RankmatchSeasonNo":0, "Order":200, "CharNo":0, "Title":"巡洋艦「五十鈴」獲得チャレンジ", "Group":3007, "PrizeGroup":14036, "Resource":0, "StartTime":"2019-04-18T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":300801, "Type":3, "RankmatchSeasonNo":0, "Order":300, "CharNo":0, "Title":"マーメイドジュエル獲得チャレンジ", "Group":3008, "PrizeGroup":14008, "Resource":0, "StartTime":"2019-04-18T14:30:00+09:00", "EndTime":"2019-05-07T13:59:59+09:00"
+      "No":300801, "Type":3, "RankmatchSeasonNo":0, "Order":300, "CharNo":0, "Title":"マーメイドジュエル獲得チャレンジ", "Group":3008, "PrizeGroup":14008, "Resource":0, "StartTime":"2019-04-18T14:30:01+09:00", "EndTime":"2019-05-07T13:59:59+09:00"
     },
     {
       "No":300901, "Type":3, "RankmatchSeasonNo":0, "Order":400, "CharNo":0, "Title":"艦隊戦スキル演習", "Group":3009, "PrizeGroup":14035, "Resource":0, "StartTime":"2019-04-18T14:30:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
@@ -170,6 +170,9 @@
     },
     {
       "No":400501, "Type":4, "RankmatchSeasonNo":2110003, "Order":85, "CharNo":0, "Title":"第3回チーム対抗戦", "Group":4005, "PrizeGroup":0, "Resource":0, "StartTime":"2019-07-10T14:15:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
+      "No":400601, "Type":4, "RankmatchSeasonNo":0, "Order":80, "CharNo":0, "Title":"怪奇！霧の中の幽霊船！？", "Group":4006, "PrizeGroup":0, "Resource":0, "StartTime":"2019-07-08T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
       "No":500101, "Type":5, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"今週のハイフリ 第1週～第10週", "Group":5001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"

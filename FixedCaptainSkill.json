@@ -155,6 +155,15 @@
     },
     {
       "No":30004101, "BattleSkillNo":4101, "Type":8, "Resource":4101, "ShotEffect":71, "BuffStartEffect":1, "BuffLoopEffect":1, "SkillText1":24, "SkillText2":49, "SkillText3":49, "Overlay":1, "OverlayText":56, "Behavior":0, "Operate":3, "Cost":6, "UsedCount":0, "Duration":999, "RecastSeconds":15, "EffectRange":350, "PointRange":2150, "Power":1400, "SiteDecay":0, "NormalCount":0, "HitCount":1, "AvoidCount":0, "BulletSpeed":0, "Accuracy":100, "DiffusionRange":0, "Reserve1":0, "Reserve2":0, "Reserve3":0, "Reserve4":0, "Reserve5":0, "Reserve6":0
+    },
+    {
+      "No":30030102, "BattleSkillNo":30102, "Type":60, "Resource":30102, "ShotEffect":1, "BuffStartEffect":47, "BuffLoopEffect":48, "SkillText1":1, "SkillText2":13, "SkillText3":49, "Overlay":2, "OverlayText":67, "Behavior":0, "Operate":1, "Cost":6, "UsedCount":0, "Duration":15, "RecastSeconds":15, "EffectRange":100, "PointRange":100, "Power":0, "SiteDecay":0, "NormalCount":0, "HitCount":1, "AvoidCount":0, "BulletSpeed":0, "Accuracy":100, "DiffusionRange":0, "Reserve1":150, "Reserve2":3000, "Reserve3":0, "Reserve4":0, "Reserve5":0, "Reserve6":0
+    },
+    {
+      "No":30036002, "BattleSkillNo":36002, "Type":61, "Resource":36002, "ShotEffect":1, "BuffStartEffect":134, "BuffLoopEffect":135, "SkillText1":53, "SkillText2":49, "SkillText3":49, "Overlay":2, "OverlayText":68, "Behavior":0, "Operate":1, "Cost":2, "UsedCount":0, "Duration":5, "RecastSeconds":30, "EffectRange":0, "PointRange":0, "Power":0, "SiteDecay":0, "NormalCount":0, "HitCount":0, "AvoidCount":0, "BulletSpeed":0, "Accuracy":100, "DiffusionRange":0, "Reserve1":0, "Reserve2":0, "Reserve3":0, "Reserve4":0, "Reserve5":0, "Reserve6":0
+    },
+    {
+      "No":30036003, "BattleSkillNo":36003, "Type":62, "Resource":36003, "ShotEffect":1, "BuffStartEffect":61, "BuffLoopEffect":62, "SkillText1":4, "SkillText2":49, "SkillText3":49, "Overlay":2, "OverlayText":69, "Behavior":0, "Operate":1, "Cost":2, "UsedCount":0, "Duration":15, "RecastSeconds":18, "EffectRange":0, "PointRange":0, "Power":0, "SiteDecay":0, "NormalCount":0, "HitCount":0, "AvoidCount":0, "BulletSpeed":0, "Accuracy":100, "DiffusionRange":0, "Reserve1":250, "Reserve2":0, "Reserve3":0, "Reserve4":0, "Reserve5":0, "Reserve6":0
     }
   ]
 }
