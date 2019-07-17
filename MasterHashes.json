@@ -1,5 +1,5 @@
 {
-  "Version":1045, "Signatures":[
+  "Version":1047, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"0a3491f08b6200757c720fa007a09b1e3909c0df0c1040e6", "Iv":"6d3e83dbab62028c336e37cfb827c52f", "Salt":"a23a6b02d120a1c9371656c8b74445b32d19fe86aed172ea3ef405319dc26649", "Size":128, "Sha1":"373c7e6039f53c9d1528c6d2a0720f2559bbc801"
     },
@@ -163,7 +163,7 @@
       "MasterName":"RandomFleet", "Signature":"0b80940375300a705560db530f70887e0ef6a6b750de5772", "Iv":"aef9528db38e1fb5a198e024a5c91854", "Salt":"69411e605d9f34e0405e217e6efdfea74f1dbc88d1abd178a2df7dc9558d0bd5", "Size":6928, "Sha1":"9e62e9718e1133c02a9c2cefa760e8c7e9dbee40"
     },
     {
-      "MasterName":"Rankmatch", "Signature":"0af0810bf5c0e0b20e0f87c0c40b40dc6d59734e6509d5244", "Iv":"a0afbfe2460c6b2dc75646213978de21", "Salt":"d27fefaf96dbcda9d06c8f2757c8192268c4fd2cc83941ebce40d931699a87c5", "Size":25056, "Sha1":"f7895506fb820e87a4fe5dddc1db3cb1e6a42c4a"
+      "MasterName":"Rankmatch", "Signature":"0810d8083476e186a7c0da0d064311d4c1c0ba520c252080", "Iv":"b197b210bd38a2d2b832ff7c5073b97b", "Salt":"2f295d99ac8444b731eacea7b545d441cbd6690f46373704d1c401eaaa3f5b08", "Size":25056, "Sha1":"e7516cdca4f9cbb04985a3cbbdfb599537d11241"
     },
     {
       "MasterName":"RankmatchClass", "Signature":"0db0b87776490df0830f91a0cf3d31666b0b10db0b57a0f667", "Iv":"5cbe1e2f4f10ba069913e26ea2ce602a", "Salt":"33fc6e13ca25c032620c89524b6138dbbb054249637b33afb878d72f425b598e", "Size":13248, "Sha1":"f4e2d2cc0c43372fde2e177fb3d4bf096a4b952d"
