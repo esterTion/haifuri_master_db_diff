@@ -1489,10 +1489,10 @@
       "No":31004019, "CollabNo":0, "Group":31004, "ProductGroup":31004019, "Description":"AI戦がプレイできるチケット\n（1戦に1枚消費）", "DailyType":0, "DailyProbability":0, "Order":130, "Type":3, "PaymentItemNo":11004001, "PaymentCount":1000, "PurchaseLimit":20, "ValidTime":"2019-07-08T14:30:00+09:00", "InvalidTime":"2019-08-07T14:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":31004020, "CollabNo":0, "Group":31004, "ProductGroup":31004020, "Description":"学科別11連ガチャが引けるチケット", "DailyType":0, "DailyProbability":0, "Order":25, "Type":3, "PaymentItemNo":11004001, "PaymentCount":20000, "PurchaseLimit":1, "ValidTime":"2019-07-24T14:30:00+09:00", "InvalidTime":"2019-08-07T14:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":31004020, "CollabNo":0, "Group":31004, "ProductGroup":31004020, "Description":"学科別11連ガチャが引けるチケット", "DailyType":0, "DailyProbability":0, "Order":25, "Type":3, "PaymentItemNo":11004001, "PaymentCount":20000, "PurchaseLimit":1, "ValidTime":"2019-07-19T14:30:00+09:00", "InvalidTime":"2019-08-07T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":31004021, "CollabNo":0, "Group":31004, "ProductGroup":31004019, "Description":"AI戦がプレイできるチケット\n（1戦に1枚消費）", "DailyType":0, "DailyProbability":0, "Order":24, "Type":3, "PaymentItemNo":11004001, "PaymentCount":1000, "PurchaseLimit":20, "ValidTime":"2019-07-24T14:30:00+09:00", "InvalidTime":"2019-08-07T14:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":31004021, "CollabNo":0, "Group":31004, "ProductGroup":31004019, "Description":"AI戦がプレイできるチケット\n（1戦に1枚消費）", "DailyType":0, "DailyProbability":0, "Order":31, "Type":3, "PaymentItemNo":11004001, "PaymentCount":1000, "PurchaseLimit":20, "ValidTime":"2019-07-19T14:30:00+09:00", "InvalidTime":"2019-08-07T14:00:00+09:00", "UserHour":0, "PickUp":false
     }
   ]
 }
