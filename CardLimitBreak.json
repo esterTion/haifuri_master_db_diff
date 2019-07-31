@@ -31,6 +31,21 @@
       "Group":140000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
+      "Group":140010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9001004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":140010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9001004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":140010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9001004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":140010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9001004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":140010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
       "Group":150000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9001003, "ItemCount":30, "Coin":10000
     },
     {
@@ -314,6 +329,21 @@
     },
     {
       "Group":640000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
+      "Group":640010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9006004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":640010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9006004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":640010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9006004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":640010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9006004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":640010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
       "Group":650000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9006003, "ItemCount":30, "Coin":10000
@@ -991,6 +1021,21 @@
       "Group":1950010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
+      "Group":1950020, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9019005, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":1950020, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9019005, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":1950020, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9019005, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":1950020, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9019005, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":1950020, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
       "Group":2030000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9020001, "ItemCount":30, "Coin":10000
     },
     {
@@ -1019,6 +1064,21 @@
     },
     {
       "Group":2040000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
+      "Group":2040010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9020004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":2040010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9020004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":2040010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9020004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":2040010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9020004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":2040010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
       "Group":2050000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9020003, "ItemCount":30, "Coin":10000
@@ -1561,6 +1621,21 @@
       "Group":3140000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
+      "Group":3140010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9031004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":3140010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9031004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":3140010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9031004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":3140010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9031004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":3140010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
       "Group":3150000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9031003, "ItemCount":30, "Coin":10000
     },
     {
@@ -1666,6 +1741,21 @@
       "Group":3440000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
+      "Group":3440010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9034005, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":3440010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9034005, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":3440010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9034005, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":3440010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9034005, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":3440010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
       "Group":3450000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9034003, "ItemCount":30, "Coin":10000
     },
     {
@@ -1769,6 +1859,21 @@
     },
     {
       "Group":3640000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
+      "Group":3640010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9036004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":3640010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9036004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":3640010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9036004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":3640010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9036004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":3640010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
       "Group":3650000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9036003, "ItemCount":30, "Coin":10000
@@ -1951,6 +2056,21 @@
       "Group":3950000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
+      "Group":3950010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9039004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":3950010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9039004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":3950010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9039004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":3950010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9039004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":3950010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
       "Group":4030000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9040001, "ItemCount":30, "Coin":10000
     },
     {
@@ -2056,6 +2176,21 @@
       "Group":4150000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     },
     {
+      "Group":4150010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9041004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":4150010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9041004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":4150010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9041004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":4150010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9041004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":4150010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
       "Group":4220000, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9042001, "ItemCount":30, "Coin":10000
     },
     {
@@ -2159,6 +2294,21 @@
     },
     {
       "Group":4350000, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
+    },
+    {
+      "Group":4350010, "Count":0, "MaxBreak":4, "MaxLevel":10, "SkillUpCount":0, "ItemNo":9043004, "ItemCount":30, "Coin":10000
+    },
+    {
+      "Group":4350010, "Count":1, "MaxBreak":4, "MaxLevel":20, "SkillUpCount":2, "ItemNo":9043004, "ItemCount":45, "Coin":20000
+    },
+    {
+      "Group":4350010, "Count":2, "MaxBreak":4, "MaxLevel":30, "SkillUpCount":4, "ItemNo":9043004, "ItemCount":70, "Coin":30000
+    },
+    {
+      "Group":4350010, "Count":3, "MaxBreak":4, "MaxLevel":40, "SkillUpCount":7, "ItemNo":9043004, "ItemCount":120, "Coin":40000
+    },
+    {
+      "Group":4350010, "Count":4, "MaxBreak":4, "MaxLevel":50, "SkillUpCount":11, "ItemNo":0, "ItemCount":0, "Coin":0
     }
   ]
 }

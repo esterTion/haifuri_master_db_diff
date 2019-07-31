@@ -1,34 +1,34 @@
 {
   "Name":"LoginBonusInside", "Rows":[
     {
-      "No":1000101, "Group":10001, "Count":1, "PrizeGroup":130020, "PickUp":false
+      "No":1000101, "Group":10001, "Count":1, "PrizeGroup":13034, "PickUp":false
     },
     {
-      "No":1000102, "Group":10001, "Count":2, "PrizeGroup":130025, "PickUp":false
+      "No":1000102, "Group":10001, "Count":2, "PrizeGroup":13039, "PickUp":false
     },
     {
-      "No":1000103, "Group":10001, "Count":3, "PrizeGroup":130026, "PickUp":false
+      "No":1000103, "Group":10001, "Count":3, "PrizeGroup":13028, "PickUp":true
     },
     {
-      "No":1000104, "Group":10001, "Count":4, "PrizeGroup":130021, "PickUp":false
+      "No":1000104, "Group":10001, "Count":4, "PrizeGroup":13037, "PickUp":false
     },
     {
-      "No":1000105, "Group":10001, "Count":5, "PrizeGroup":13028, "PickUp":true
+      "No":1000105, "Group":10001, "Count":5, "PrizeGroup":13039, "PickUp":false
     },
     {
-      "No":1000106, "Group":10001, "Count":6, "PrizeGroup":130020, "PickUp":false
+      "No":1000106, "Group":10001, "Count":6, "PrizeGroup":13028, "PickUp":true
     },
     {
-      "No":1000107, "Group":10001, "Count":7, "PrizeGroup":130025, "PickUp":false
+      "No":1000107, "Group":10001, "Count":7, "PrizeGroup":13038, "PickUp":false
     },
     {
-      "No":1000108, "Group":10001, "Count":8, "PrizeGroup":130026, "PickUp":false
+      "No":1000108, "Group":10001, "Count":8, "PrizeGroup":13039, "PickUp":false
     },
     {
-      "No":1000109, "Group":10001, "Count":9, "PrizeGroup":130021, "PickUp":false
+      "No":1000109, "Group":10001, "Count":9, "PrizeGroup":13035, "PickUp":false
     },
     {
-      "No":1000110, "Group":10001, "Count":10, "PrizeGroup":13029, "PickUp":true
+      "No":1000110, "Group":10001, "Count":10, "PrizeGroup":13036, "PickUp":true
     },
     {
       "No":2000101, "Group":20001, "Count":1, "PrizeGroup":130001, "PickUp":false

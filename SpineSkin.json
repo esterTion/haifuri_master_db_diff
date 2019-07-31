@@ -13,6 +13,12 @@
       "No":141000, "Name":"岬 明乃 ☆4-01 進化後", "CharNo":10001, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":49, "SpeechPositionY":137, "SpeechText1":"わぁっ！　これが武蔵の艦長服なんだね！\n武蔵の艦長さんだなんて、\nもかちゃんはすごいなぁ\nわたしも負けないようにがんばらないと！", "SpeechText2":"武蔵の艦長服は\nとっても素敵でかっこいいけど\nわたしはやっぱり晴風の艦長がいいかな\nだって、晴風のみんなはわたしの家族だから", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":140010, "Name":"岬 明乃 ☆4-02 進化前", "CharNo":10001, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-44, "SpeechPositionY":33, "SpeechText1":"艦長の仕事は、艦のみんなを\n「がんばれー」って応援することと、\nみんなが何をするべきか決めること…かな\nそうだよね？　もかちゃん？", "SpeechText2":"艦長はなにをするかは決めるけど、\n実際に動いてくれるのは\n艦のみんななんだよね\nだから、わたしはいつもどうすれば\nみんなの力になれるかって考えてるよ！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":141010, "Name":"岬 明乃 ☆4-02 進化後", "CharNo":10001, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":49, "SpeechPositionY":137, "SpeechText1":"わぁっ！　これが武蔵の艦長服なんだね！\n武蔵の艦長さんだなんて、\nもかちゃんはすごいなぁ\nわたしも負けないようにがんばらないと！", "SpeechText2":"武蔵の艦長服は\nとっても素敵でかっこいいけど\nわたしはやっぱり晴風の艦長がいいかな\nだって、晴風のみんなはわたしの家族だから", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":150000, "Name":"岬 明乃 ☆5-01 進化前", "CharNo":10001, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-32, "SpeechPositionY":120, "SpeechText1":"買い出しは大変だね～\nあっ、シロちゃんミミちゃん、\nあそこでスピードくじやってるよ\nうん、シロちゃんと一緒に引いてみよう！", "SpeechText2":"商店街のスピードくじ、わたしは\n２等のボックスティッシュだったけど\nシロちゃんなら、もっとすごい賞品が\n当たると思うよ！\nがんばってね、シロちゃん！", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -85,6 +91,9 @@
       "No":451000, "Name":"西崎 芽依 ☆5-01 進化後", "CharNo":10004, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":76, "SpeechPositionY":3, "SpeechText1":"本気で将棋を指すときは\n本気の服じゃないとね！\nタマ、この一番は\n手加減無しの本気で行くよ！\n喰らえ！　西崎芽依、魂の一手！", "SpeechText2":"タマの将棋、すごい成長スピードだよ\n速攻も様になってきてる！\nこれはうかうかできないね～\nだがしかーし！　６九角！　これでどうだ！", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":490000, "Name":"西崎 芽依 クール", "CharNo":10004, "ShopNo":0, "Rarity":90, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":530000, "Name":"納沙 幸子 ☆3-01 進化前", "CharNo":10005, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"わたしにとってノンフィクションより\nフィクションが真実です！　だけど、\nノってくれる人が少ないのが不満です…\nあ、でも最近シロちゃんが優しいかも！", "SpeechText2":"あ、情報の更新をしておかないと\nデータはより多く！　より新しく！\nがモットーですから！\nこの辺でエエとこ見せとかんとなぁ！！", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -119,6 +128,12 @@
     },
     {
       "No":641000, "Name":"知床 鈴 ☆4-01 進化後", "CharNo":10006, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"晴風とみんなの安全が、\nわたしの操舵にかかっているなんて、\n正直、すごく責任感じるよ…\nでもね、うまく操舵できたときは\nちょっと気持ちいいんだ", "SpeechText2":"わたしがこんな大きな艦の航海長だなんて、\n今でも自信がないよぅ…\nでも舵を取っていると、ちょっとだけ\nやりがいを感じるの", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":640010, "Name":"知床 鈴 ☆4-02 進化前", "CharNo":10006, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-125, "SpeechPositionY":198, "SpeechText1":"最大戦速とか前進一杯とか…\n逃げたい一心で、いつも機関のみんなに\n無理させちゃって…。うう…\nほんとに、ほんとにごめんなさいぃぃ～～！", "SpeechText2":"あのね、実は…逃げるときに、\nわたしの判断でほんのちょっぴり\n速力大きめに指示しちゃったこともあるの…\nだって…やっぱり…こわいんだも～～ん\nごめんなさいぃぃぃ～～！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":641010, "Name":"知床 鈴 ☆4-02 進化後", "CharNo":10006, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"晴風とみんなの安全が、\nわたしの操舵にかかっているなんて、\n正直、すごく責任感じるよ…\nでもね、うまく操舵できたときは\nちょっと気持ちいいんだ", "SpeechText2":"わたしがこんな大きな艦の航海長だなんて、\n今でも自信がないよぅ…\nでも舵を取っていると、ちょっとだけ\nやりがいを感じるの", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":650000, "Name":"知床 鈴 ☆5-01 進化前", "CharNo":10006, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"晴風短距離走王者決定戦って…\nうぅぅぅ…なんでわたしがこんなところに…\nみんな本気になってるし…\nき、緊張するよぉぉぉ…", "SpeechText2":"黒木さん、野間さん、万里小路さん…\nみんな、あんなに真剣になって…\n岬さん、なんでわたしなんかを選んだの…？\nもぉ…逃げ出したいよぉ～～", "SpeechText3":"", "SpeechText4":""
@@ -337,6 +352,12 @@
       "No":1951010, "Name":"柳原 麻侖 ☆5-02 進化後", "CharNo":10019, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":144, "SpeechText1":"今日の機関室は信じらんねぇ暑さだったけど、\r\nこんな休憩時間が待ってるなら\r\nたまにはアリかもしれねぇな！\r\nまたよろしく頼むぜ！", "SpeechText2":"いや～極楽極楽！　生き返った気分だぜぃ！\r\n全部乗せかき氷も虹色に輝いてキレイで、\r\nたまんねえなこりゃ！", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":1950020, "Name":"柳原 麻侖 ☆5-03 進化前", "CharNo":10019, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"マロンは仕事中、水着になんて\r\nならねえからな！\r\nこれくらいの暑さに、\r\n江戸っ子は負けたりしねーんでぃ！", "SpeechText2":"うぁ～、汗があとからあとから噴き出して、\r\n制服がまとわりついて気持ちわりぃなあ\r\n暑さでへばっちまわねえように、\r\n水分補給はしておかねえとな……", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":1951020, "Name":"柳原 麻侖 ☆5-03 進化後", "CharNo":10019, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":144, "SpeechText1":"今日の機関室は信じらんねぇ暑さだったけど、\r\nこんな休憩時間が待ってるなら\r\nたまにはアリかもしれねぇな！\r\nまたよろしく頼むぜ！", "SpeechText2":"いや～極楽極楽！　生き返った気分だぜぃ！\r\n全部乗せかき氷も虹色に輝いてキレイで、\r\nたまんねえなこりゃ！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":2030000, "Name":"黒木 洋美 ☆3-01 進化前", "CharNo":10020, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"やっぱり機関をいじるのは楽しいわね\n宗谷さんと同じ艦になれたし！\n私が出来ること、頑張らなきゃ", "SpeechText2":"外は空気がいいし涼しいわね\n機関室はいつも蒸し暑くて…\nたまにはのんびり海を眺めるのもいいわね、\n落ち着くわ…", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -347,6 +368,12 @@
     },
     {
       "No":2041000, "Name":"黒木 洋美 ☆4-01 進化後", "CharNo":10020, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"宗谷さんの黒髪に憧れて\n私も伸ばしたことがあったけど\n全然宗谷さんみたいにならなかったなぁ\n宗谷さんは全てが完璧なんだなって\n改めて気づいたわ", "SpeechText2":"宗谷さんの黒髪に憧れたけど、\n私のくせっ毛じゃとてもとても…\nそもそも宗谷さんに近づこうって\n思うこと自体が間違いなのよ。うん、\nわたしは宗谷さんをとことん応援する！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":2040010, "Name":"黒木 洋美 ☆4-02 進化前", "CharNo":10020, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"みんなもっと宗谷さんの魅力に\n気付くべきなのよ\n晴風のみんなが宗谷さんの親衛隊になれば\n艦の運営だってもっともっと\nはかどるはずだわ", "SpeechText2":"宗谷ましろ親衛隊、会員番号１番、黒木洋美\n宗谷さんにどこまでもどこまでも\nついていくわ！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":2041010, "Name":"黒木 洋美 ☆4-02 進化後", "CharNo":10020, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"宗谷さんの黒髪に憧れて\n私も伸ばしたことがあったけど\n全然宗谷さんみたいにならなかったなぁ\n宗谷さんは全てが完璧なんだなって\n改めて気づいたわ", "SpeechText2":"宗谷さんの黒髪に憧れたけど、\n私のくせっ毛じゃとてもとても…\nそもそも宗谷さんに近づこうって\n思うこと自体が間違いなのよ。うん、\nわたしは宗谷さんをとことん応援する！", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":2050000, "Name":"黒木 洋美 ☆5-01 進化前", "CharNo":10020, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":80, "SpeechText1":"この前なんて、寝ちゃったマロンを\n横須賀からおぶって帰ってきたの\n小さい頃からずっと\nマロンと一緒だったせいか、\nほうっておけないのよね", "SpeechText2":"マロンには子供の頃からよく振り回されてて\nいまでもいろいろ振り回されて大変だけど\nいやな感じはしないわね", "SpeechText3":"", "SpeechText4":""
@@ -457,6 +484,9 @@
       "No":2751000, "Name":"等松 美海 ☆5-01 進化後", "CharNo":10027, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":8, "SpeechText1":"株の売買のタイミングは、毎日の値動きを\n観察してるとわかるようになってくるの\n中学の夏休みには\n億の儲けを出したこともあるわ\n帳簿の上で…だけどね", "SpeechText2":"趣味でやってるデイトレードだけど、\n主計科の仕事にも役立ってるかも\n経済感覚が必要な仕事だし、帳簿でしっかり\n管理するところも通じるものがあるの", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":2790000, "Name":"等松 美海 青春", "CharNo":10027, "ShopNo":0, "Rarity":90, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":2830000, "Name":"伊良子 美甘 ☆3-01 進化前", "CharNo":10028, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"みなさーん！\nおかわりはまだまだありますよー！\n特製晴風カレー、たんと召し上がれー！\nみんなおいしそうに食べてくれてる！\n嬉しいな♪", "SpeechText2":"うーん、この最新型炊飯器便利そうね\nあ、こっちの冷蔵庫もいいなあ！\nでも今あるやつがまだまだ使えるもんね\n大切に使い続けよう！", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -511,6 +541,12 @@
       "No":3131000, "Name":"鏑木 美波 ☆3-01 進化後", "CharNo":10031, "ShopNo":0, "Rarity":31, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"晴風のみんなは\n気兼ねなくわたしに接してくれる\nいつもは感じていた\n年上との壁が、ここにはない\nそれが本当にうれしい…", "SpeechText2":"猫の毛のサンプルが足りないな…\n艦長に五十六の居場所を聞いてみるか\nフフフ…", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":3140010, "Name":"鏑木 美波 ☆4-02 進化前", "CharNo":10031, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":7, "SpeechText1":"炊金饌玉\n字で書くとこうだ\n金を炊ぎ、玉を饌う…黄金を炊いて、\n玉をお膳に並べたようなすごいごちそう、\nという意味だ", "SpeechText2":"今日のような食卓は、\n炊金饌玉という言葉がふさわしい\n給養員の皆に感謝の気持ちを込めて\n論語を贈ろうと思うが\n喜んでもらえるだろうか", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":3141010, "Name":"鏑木 美波 ☆4-02 進化後", "CharNo":10031, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":7, "SpeechText1":"うっ、麻婆豆腐…\n辛い食べ物はちょっと苦手だ…\n古い教えも時には役に立たないこともある\nつまり、辛いものは辛い…", "SpeechText2":"艱難辛苦、辛苦辛労…\n「からい」は「つらい」と同じ文字\nなぜ人はつらい思いをして\n辛い料理を食べるのか…\n一度研究してみる必要がありそうだ", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":3150000, "Name":"鏑木 美波 ☆5-01 進化前", "CharNo":10031, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":2, "SpeechPositionY":104, "SpeechText1":"ふっふっふ…\nこの液体Ａと、この液体Ｂを調合する…\nこの実験が成功すれば、晴風のみんなは\nどんな激務にも耐えられるようになる", "SpeechText2":"わたし自身がこの薬の被検体となるとしよう\n実験開始。んっ…んっ…\nビタミンとアミノ酸…\nこれでわたしが疲れにくくなれば実験成功だ", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -553,6 +589,12 @@
       "No":3441000, "Name":"ヴィルヘルミーナ ☆4-01 進化後", "CharNo":10034, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-6, "SpeechText1":"「仁義のない争い」シリーズは\n下っ端の登場人物も魅力的だな\nわしがもし出演するなら、鉄砲玉の役がいい\n自分の命を捨てて、敵の親分のタマを取る\nしびれるシーンじゃ…", "SpeechText2":"「どこで道間違えたんかのう…」\nときに自分の生き方に疑問を感じながら、\n破滅の道を突き進む…これじゃ！\nこういうところに美学を感じるんじゃ！", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":3440010, "Name":"ヴィルヘルミーナ ☆4-02 進化前", "CharNo":10034, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-36, "SpeechPositionY":-14, "SpeechText1":"「仁義のない争い」、わしは\nこのシリーズで日本語を覚えたけぇのぅ\nちぃとばかり普通の日本語とは\n違うように覚えてしもうたようじゃ\nまあ、直す気は毛頭ないがのぅ", "SpeechText2":"「広島激闘編」…\nシリーズ二作目のこの作品が衝撃でのう\nすっかりこのシリーズの\nとりこになってしまったんじゃ\nココ、早う上映会を始めるぞ", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":3441010, "Name":"ヴィルヘルミーナ ☆4-02 進化後", "CharNo":10034, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-6, "SpeechText1":"「仁義のない争い」シリーズは\n下っ端の登場人物も魅力的だな\nわしがもし出演するなら、鉄砲玉の役がいい\n自分の命を捨てて、敵の親分のタマを取る\nしびれるシーンじゃ…", "SpeechText2":"「どこで道間違えたんかのう…」\nときに自分の生き方に疑問を感じながら、\n破滅の道を突き進む…これじゃ！\nこういうところに美学を感じるんじゃ！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":3450000, "Name":"ヴィルヘルミーナ ☆5-01 進化前", "CharNo":10034, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"日本のチェス…将棋か…\nフォークやピンのような\nチェスの戦略を使える局面もあるが\n取った駒を自分の戦力として使えるという\nルールは、なかなか面白いな", "SpeechText2":"６４マスのチェス、８１マスの将棋…\n小さな盤面じゃが、\nそこには無限の戦局が待ち受けている\nどちらも海戦に通じる奥深さがあるな\nだからこそ、負ける訳にはいかん", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -587,6 +629,12 @@
     },
     {
       "No":3631000, "Name":"榊原 つむぎ ☆3-01 進化後", "CharNo":10036, "ShopNo":0, "Rarity":31, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"きみちゃんは\n人生おもしろおかしく生きていきたい\nと言っていたけど、\nわたしは平凡な人でいたいわ\n騒がしい生活は無理…\n何事も平凡が一番だわ。ふぅ", "SpeechText2":"…ふぅ\nあら、いつの間にか\n部屋中が編み物だらけに…\nどうしましょう\nこのままでは部屋から出られない…", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":3640010, "Name":"榊原 つむぎ ☆4-02 進化前", "CharNo":10036, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-14, "SpeechPositionY":90, "SpeechText1":"父が俳優、母が元アイドルのタレントで…\nわたしも芸能界に入れられそうに\nなったんだけど、それがイヤで\n海洋学校に来たの…ふぅ", "SpeechText2":"もし、あのままアイドルグループにでも\n入れられてたらと思うと…\nきっと毎日刺激がいっぱいで、\nいろんな人に注目されて…\nふぅ、平穏無事が一番だよ…", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":3641010, "Name":"榊原 つむぎ ☆4-02 進化後", "CharNo":10036, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"海賊や密輸の取り締まりなんて…\nそんな任務、とても無理だわ…\n毎日、平穏無事で海にいられたら\n一番なんだけど…\n無理なのかなぁ…ふぅ", "SpeechText2":"刺激にはうんざりで、海洋学校に来たけど\nブルマーの世界も\n似たり寄ったりなのかしら…\n海は好きだけど、\n波風の無い凪いだ海がいいな…ふぅ", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":3650000, "Name":"榊原 つむぎ ☆5-01 進化前", "CharNo":10036, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"平穏な気持ちになりたくて、\n趣味で刺繍をやるんだけど\n作品を見られるとなぜか騒がれてしまうの…\nわたしは平穏でいたいだけなのに…ふぅ", "SpeechText2":"刺繍や編み物をしてると、\nザワついた気持ちが穏やかになるの\nでも集中すると\nあっという間に完成しちゃうから\nずっと平穏でいるためには\n次々に作らないと…ふぅ", "SpeechText3":"", "SpeechText4":""
@@ -643,6 +691,12 @@
       "No":3941000, "Name":"賀茂 つつじ ☆4-01 進化後", "CharNo":10039, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-10, "SpeechText1":"よっしゃー！　晴風の岬艦長にも圧勝！\nスキッパーでもわたしは断トツに速い！\n常に先頭を走り続ける、それがわたし！", "SpeechText2":"え？　スタートが早すぎる？\nあれはスタートの合図が遅いんだよ\nあんなゆっくりなの待ってられないよ\nだいたいいつも\n合図より早くスタートしちゃうんだ", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":3950010, "Name":"賀茂 つつじ ☆5-02 進化前", "CharNo":10039, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":47, "SpeechText1":"万里小路さんは楽器が得意と聞いて、\nギター勝負しにきたよ！\nエレキとかクラシックとか関係なく\nとにかくすごかったほうが勝ちだよ？\nオッケー？", "SpeechText2":"ギターと言えばエレキでしょ！\nそれも速弾き！　速弾きこそロック！\nさあ、万里小路さん、どっちがすごいか\nいざ！　ギター勝負！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":3951010, "Name":"賀茂 つつじ ☆5-02 進化後", "CharNo":10039, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":97, "SpeechPositionY":82, "SpeechText1":"わたしの本気の速弾きには誰もかなわない！\nぶっちゃけた話、万里小路さんのほうが\n演奏は上手だと思うけど、速さでは\nわたしのほうが圧倒的に上だからね！", "SpeechText2":"速すぎてどういう曲かわからない？\nつまり、それほどまでの\nスピードだったってことだよね？\nさすがわたし！　とにかく速い！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":4030000, "Name":"高橋 千華 ☆3-01 進化前", "CharNo":10040, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"わたしが艦長の高橋千華よ！！\nこの天津風で一番、\nつまり！　トップってこと！\nさあみんな！　わたしについて来なさい！", "SpeechText2":"ふっふっふー、光り輝く太陽が\nわたしを称えているようだわ\nやっぱりわたしは一番だから、\n太陽もわたしを称えるのね\nえ？　なんの一番だって？\nそれはその…アレよアレ！", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -679,6 +733,12 @@
       "No":4141000, "Name":"山辺 あゆみ ☆4-01 進化後", "CharNo":10041, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-25, "SpeechPositionY":74, "SpeechText1":"実家に帰るとお母さんのお手伝いで\n台所に立ったりもするんです\n子供の頃から、\n誰かのお手伝いをするのが好きで…\n副長のお仕事も\n自分に向いてるなって思うんです", "SpeechText2":"わたし、お料理で言うと「みりん」みたいに\nなれたらなって思ってるんです\nちーちゃんがあの性格だから、\nうまく艦の中をまろやかにできたらなって", "SpeechText3":"", "SpeechText4":""
     },
     {
+      "No":4150010, "Name":"山辺 あゆみ ☆5-02 進化前", "CharNo":10041, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"日記を見られるのは\nちょっと抵抗があります…\n見られて困るようなことは\n書いてないですけど\n自分の心の中を見られるみたいで…", "SpeechText2":"わたし、子供の頃から日記を書いてるんです\n毎日、気づいたことを\n書き留める程度なんですけど…\nでも、だからってやっぱり見られちゃうのは\n恥ずかしいです…", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":4151010, "Name":"山辺 あゆみ ☆5-02 進化後", "CharNo":10041, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":27, "SpeechPositionY":117, "SpeechText1":"ちーちゃんの成長を綴る育児日記…ですか\n言われてみるとそうなのかも知れませんね\nちーちゃんは向上心が強くて、\n常に前を向いていて…\nだから応援したくなっちゃうんです", "SpeechText2":"ちーちゃんの育児日記かぁ\nなんだか明日から書くのが\nまた楽しみになってきました", "SpeechText3":"", "SpeechText4":""
+    },
+    {
       "No":4220000, "Name":"大指 紀子 ☆2-01 進化前", "CharNo":10042, "ShopNo":0, "Rarity":20, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"自分の信念を曲げず、本能のまま生きる\nそれがハードボイルドだ\nそのほかのことはアタシにとって、\n些細なことなんだぜ\nわかるかな？", "SpeechText2":"フッ…\nハードボイルドの世界では\n常に自分との戦いだ。シビれるだろう？\nそんなアタシについて来られるかい\nベイビー？", "SpeechText3":"", "SpeechText4":""
     },
     {
@@ -707,6 +767,12 @@
     },
     {
       "No":4351000, "Name":"加藤 小百合 ☆5-01 進化後", "CharNo":10043, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"ワーオ！　グレイト！\nこの排気量でこのスピード！\nマロンちゃんとジェニーにかかれば\nただの漁船もスーパーマシンネ！", "SpeechText2":"この前のエンジンオーバーホール、\n結局漁船の持ち主さんも大喜びだったし、\nエキサイティングだったヨ\nまたマロンちゃんのところに\n遊びに行きたいネ！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":4350010, "Name":"加藤 小百合 ☆5-02 進化前", "CharNo":10043, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":19, "SpeechText1":"ツールはエンジニアの体の一部ネ\nジェニーの手足だし、ソウルでもあるヨ\nさー、マロンちゃん、張り切って\nレッツメンテナンス！", "SpeechText2":"晴風と天津風のチーフエンジニアで\nオーバーホールすれば\nどんなエンジンだって新品以上の\nコンディションに生まれ変わるヨ！\nマロンちゃん、ぴっかぴかにしちゃおう！", "SpeechText3":"", "SpeechText4":""
+    },
+    {
+      "No":4351010, "Name":"加藤 小百合 ☆5-02 進化後", "CharNo":10043, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"ワーオ！　グレイト！\nこの排気量でこのスピード！\nマロンちゃんとジェニーにかかれば\nただの漁船もスーパーマシンネ！", "SpeechText2":"この前のエンジンオーバーホール、\n結局漁船の持ち主さんも大喜びだったし、\nエキサイティングだったヨ\nまたマロンちゃんのところに\n遊びに行きたいネ！", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":4430000, "Name":"古庄 薫 ☆3-01 進化前", "CharNo":10044, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"吹き出しテキスト2\nテスト", "SpeechText3":"", "SpeechText4":""
