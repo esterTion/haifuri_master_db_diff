@@ -1,5 +1,5 @@
 {
-  "Version":1089, "Signatures":[
+  "Version":1125, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"0d4454c70081089415b0e809f0fb0e5490ad0990db0920fa3638", "Iv":"3c8ef96d3e742ca53443617349cb73c0", "Salt":"4d8ee0379e9d2e09a16a3974600f98cf9060327fb0daf36647a84eee4c795f0e", "Size":128, "Sha1":"2afff8c9745f15bab34773f176722e8e3262771b"
     },
@@ -148,7 +148,7 @@
       "MasterName":"OceanTrainingList", "Signature":"684948335c105a030cc0e30b3780df0990917232420c42d", "Iv":"4126b17cc5bb5fe254b8ef15bee066a1", "Salt":"a170f7b5c40c9ce46482b5f0cd056bf470e5df59b9856d1ea62829856b970ab1", "Size":52336, "Sha1":"29272eea973af93a9777a60dfa2fe8691a4cc493"
     },
     {
-      "MasterName":"Prize", "Signature":"790a360300e21a0a9140820df4d0ab0be6c0e67a62143f0db", "Iv":"6c93e8ee69448a762e6f92d5bc44d5e7", "Salt":"cb9496b1c469e3669ea5bacab8fceab5cfe9d71245bef1f8c819717ba603e7b8", "Size":199856, "Sha1":"baf47196dab9df246aa88b66531f38e766a8c2f3"
+      "MasterName":"Prize", "Signature":"766e0dc4858050c26708e0ea620e30980da4508e0ca0b12f7f", "Iv":"b7b5726a96c5607a9cefa6a0422d000b", "Salt":"31b2be3139e1dbe8c1d92c04695357ecc238c7e8528c1269b76e0e66421d9bcc", "Size":200720, "Sha1":"a7ae06c906dd662976b0b47d2f37bd8f477b0b2b"
     },
     {
       "MasterName":"PrizeGroup", "Signature":"0800f90aa3b750e0410b4d0bd6d610a00cb330df0e40c40b96e", "Iv":"36496bb2a79fb13f36c8f6b44172ae14", "Salt":"c8bd9cedaafd258448d3e1d2adf8fac73ef1afcf3416a6f344b9fa1c98b6950e", "Size":955552, "Sha1":"cc5ee0201647afe2539948a8573b7b9df0d0036d"
