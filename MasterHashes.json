@@ -1,5 +1,5 @@
 {
-  "Version":1150, "Signatures":[
+  "Version":1152, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"086309a0b00da540ba0840e0170fd3a7f78770bd0b90cf0b909e", "Iv":"5064e7d72ceb25d9440decf55388784e", "Salt":"b1b4a70f3cafba88a55bc9e03c3b76a63b59c35ab5a266dc42e332c6bc7258e7", "Size":128, "Sha1":"2c2261b4636ffbfb6c5417abc61248ab224ea65c"
     },
@@ -16,7 +16,7 @@
       "MasterName":"BattleAi", "Signature":"4d65095150e8560e30fc0e60ba405808e0e90f80cf180b80b062", "Iv":"2c8d773c94419e0160f97d655589f55e", "Salt":"3faac06899bd1849978b1c899d8cf28a5dbd7ae8c8c1449dd42684de5d6952fe", "Size":5680, "Sha1":"fc2758a3a67331f87c70c7f1e4f3e7dbecd022fa"
     },
     {
-      "MasterName":"BattleSpecialPrize", "Signature":"0c40ed6c5a08c0b9437d0ce0ec0e6440e70840f0760b10f0570b9", "Iv":"b33d39de96b3dac38f16a86845f590ae", "Salt":"6cae9a5691abd09a6e2019b4a2ec81f1c4221a0566985e936ce3c6b7663a67bc", "Size":49280, "Sha1":"7176d5fdd3ea835397751000e3cea830fa419612"
+      "MasterName":"BattleSpecialPrize", "Signature":"740fa0e20910e23b62263608d08b1f09209c5b1d390b0ea2b", "Iv":"2b38110bd1f00e8ed12f0699c243bbe4", "Salt":"45f8cdd6403ba664603b123c9c085afc35810be64cf882e0b129332f92a902d7", "Size":49280, "Sha1":"60e96be00ef3623e5db57e177f241edcd8d4472d"
     },
     {
       "MasterName":"Campaign", "Signature":"470da0be36570ef0af11670e0095064f490d10b30ef0ef0ac092", "Iv":"46964a4ac9bbf6e632f0ba6968eba0b7", "Salt":"be16f312350222074e1ccb76cd3c99e65ad567342f74b54396c8a18498a168f3", "Size":1952, "Sha1":"077d9fa2073884467e7380e3a457d9e3a4a1f219"
