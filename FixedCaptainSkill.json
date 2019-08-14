@@ -167,6 +167,12 @@
     },
     {
       "No":30033005, "BattleSkillNo":33005, "Type":63, "Resource":33005, "ShotEffect":1, "BuffStartEffect":22, "BuffLoopEffect":1, "SkillText1":54, "SkillText2":49, "SkillText3":49, "Overlay":2, "OverlayText":70, "Behavior":0, "Operate":1, "Cost":4, "UsedCount":1, "Duration":0, "RecastSeconds":99, "EffectRange":350, "PointRange":2050, "Power":0, "SiteDecay":0, "NormalCount":0, "HitCount":0, "AvoidCount":0, "BulletSpeed":0, "Accuracy":100, "DiffusionRange":0, "Reserve1":100, "Reserve2":0, "Reserve3":0, "Reserve4":0, "Reserve5":0, "Reserve6":0
+    },
+    {
+      "No":30000008, "BattleSkillNo":8, "Type":64, "Resource":8, "ShotEffect":26, "BuffStartEffect":1, "BuffLoopEffect":1, "SkillText1":55, "SkillText2":49, "SkillText3":49, "Overlay":1, "OverlayText":71, "Behavior":0, "Operate":11, "Cost":7, "UsedCount":0, "Duration":0, "RecastSeconds":15, "EffectRange":935, "PointRange":1827, "Power":2250, "SiteDecay":15, "NormalCount":0, "HitCount":1, "AvoidCount":0, "BulletSpeed":1600, "Accuracy":100, "DiffusionRange":0, "Reserve1":0, "Reserve2":0, "Reserve3":0, "Reserve4":0, "Reserve5":0, "Reserve6":0
+    },
+    {
+      "No":30033103, "BattleSkillNo":33103, "Type":65, "Resource":33103, "ShotEffect":1, "BuffStartEffect":136, "BuffLoopEffect":1, "SkillText1":13, "SkillText2":49, "SkillText3":49, "Overlay":2, "OverlayText":72, "Behavior":0, "Operate":18, "Cost":6, "UsedCount":0, "Duration":15, "RecastSeconds":28, "EffectRange":350, "PointRange":2050, "Power":0, "SiteDecay":0, "NormalCount":0, "HitCount":0, "AvoidCount":0, "BulletSpeed":0, "Accuracy":100, "DiffusionRange":0, "Reserve1":2, "Reserve2":0, "Reserve3":0, "Reserve4":0, "Reserve5":0, "Reserve6":0
     }
   ]
 }

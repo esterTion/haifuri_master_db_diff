@@ -193,7 +193,7 @@
       "Type":64, "Description":"小範囲にいる敵艦船の防御態勢や\n防御陣形を打ち消して砲撃攻撃", "CombatType":1, "MissionType":1
     },
     {
-      "Type":65, "Description":"範囲内にいる艦船1隻の耐久力を\n一定時間継続回復し不利な状態を防ぐ", "CombatType":0, "MissionType":0
+      "Type":65, "Description":"一定時間、範囲内の艦船１隻の耐久\r\n力を少量回復しつつ状態異常を防ぐ", "CombatType":0, "MissionType":0
     },
     {
       "Type":66, "Description":"先行で指揮コストを払い耐久力が\n0になると耐久力大幅に回復", "CombatType":0, "MissionType":0

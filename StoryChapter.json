@@ -4,7 +4,7 @@
       "No":100101, "Type":1, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"第１章", "Group":1001, "PrizeGroup":14008, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
-      "No":100201, "Type":1, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"第２章", "Group":1002, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+      "No":100201, "Type":1, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"第２章", "Group":1002, "PrizeGroup":14008, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
       "No":200101, "Type":2, "RankmatchSeasonNo":0, "Order":1, "CharNo":10001, "Title":"岬 明乃", "Group":2001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
@@ -175,10 +175,19 @@
       "No":400601, "Type":4, "RankmatchSeasonNo":0, "Order":80, "CharNo":0, "Title":"怪奇！霧の中の幽霊船！？", "Group":4006, "PrizeGroup":0, "Resource":0, "StartTime":"2019-07-08T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
+      "No":400701, "Type":4, "RankmatchSeasonNo":2110004, "Order":75, "CharNo":0, "Title":"第4回チーム対抗戦", "Group":4007, "PrizeGroup":0, "Resource":0, "StartTime":"2019-08-14T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
       "No":500101, "Type":5, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"今週のハイフリ 第1週～第10週", "Group":5001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
       "No":500201, "Type":5, "RankmatchSeasonNo":0, "Order":2, "CharNo":0, "Title":"今週のハイフリ 第11週～第12週", "Group":5002, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2018-01-01T00:00:00+09:00"
+    },
+    {
+      "No":492301, "Type":4, "RankmatchSeasonNo":2119023, "Order":74, "CharNo":0, "Title":"チーム対抗戦　ポスター テスト1", "Group":4923, "PrizeGroup":0, "Resource":0, "StartTime":"2019-08-06T14:15:01+09:00", "EndTime":"2019-08-08T23:59:59+09:00"
+    },
+    {
+      "No":492401, "Type":4, "RankmatchSeasonNo":2119024, "Order":73, "CharNo":0, "Title":"チーム対抗戦　ポスター テスト2", "Group":4924, "PrizeGroup":0, "Resource":0, "StartTime":"2019-08-06T14:15:01+09:00", "EndTime":"2019-08-08T23:59:59+09:00"
     }
   ]
 }
