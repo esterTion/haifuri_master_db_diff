@@ -178,6 +178,9 @@
       "No":400701, "Type":4, "RankmatchSeasonNo":2110004, "Order":75, "CharNo":0, "Title":"第4回チーム対抗戦", "Group":4007, "PrizeGroup":0, "Resource":0, "StartTime":"2019-08-14T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
+      "No":400801, "Type":4, "RankmatchSeasonNo":0, "Order":70, "CharNo":0, "Title":"浴衣で行こう！花火大会！", "Group":4008, "PrizeGroup":0, "Resource":0, "StartTime":"2019-08-13T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
       "No":500101, "Type":5, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"今週のハイフリ 第1週～第10週", "Group":5001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {

@@ -1721,6 +1721,84 @@
     },
     {
       "No":50208002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を20回撃破", "Type":104, "CollabNo":0, "ClearCount":20, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-07-30T05:00:00+09:00", "InvalidTime":"2019-07-31T14:00:00+09:00", "PrizeGroup":11044
+    },
+    {
+      "No":50209001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を10回撃破", "Type":104, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-21T14:30:00+09:00", "InvalidTime":"2019-08-23T04:59:59+09:00", "PrizeGroup":11044
+    },
+    {
+      "No":50209002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を20回撃破", "Type":104, "CollabNo":0, "ClearCount":20, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-21T14:30:00+09:00", "InvalidTime":"2019-08-23T04:59:59+09:00", "PrizeGroup":11044
+    },
+    {
+      "No":50210001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を5回撃破", "Type":105, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-23T05:00:00+09:00", "InvalidTime":"2019-08-24T04:59:59+09:00", "PrizeGroup":11047
+    },
+    {
+      "No":50210002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を10回撃破", "Type":105, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-23T05:00:00+09:00", "InvalidTime":"2019-08-24T04:59:59+09:00", "PrizeGroup":11047
+    },
+    {
+      "No":50211001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を3回撃破", "Type":106, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-24T05:00:00+09:00", "InvalidTime":"2019-08-25T04:59:59+09:00", "PrizeGroup":11063
+    },
+    {
+      "No":50211002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を6回撃破", "Type":106, "CollabNo":0, "ClearCount":6, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-24T05:00:00+09:00", "InvalidTime":"2019-08-25T04:59:59+09:00", "PrizeGroup":11063
+    },
+    {
+      "No":50212001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を10回撃破", "Type":104, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-25T05:00:00+09:00", "InvalidTime":"2019-08-26T04:59:59+09:00", "PrizeGroup":11061
+    },
+    {
+      "No":50212002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を20回撃破", "Type":104, "CollabNo":0, "ClearCount":20, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-25T05:00:00+09:00", "InvalidTime":"2019-08-26T04:59:59+09:00", "PrizeGroup":11061
+    },
+    {
+      "No":50213001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を5回撃破", "Type":105, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-26T05:00:00+09:00", "InvalidTime":"2019-08-27T04:59:59+09:00", "PrizeGroup":11042
+    },
+    {
+      "No":50213002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を10回撃破", "Type":105, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-26T05:00:00+09:00", "InvalidTime":"2019-08-27T04:59:59+09:00", "PrizeGroup":11042
+    },
+    {
+      "No":50214001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を3回撃破", "Type":106, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-27T05:00:00+09:00", "InvalidTime":"2019-08-28T04:59:59+09:00", "PrizeGroup":11045
+    },
+    {
+      "No":50214002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を6回撃破", "Type":106, "CollabNo":0, "ClearCount":6, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-27T05:00:00+09:00", "InvalidTime":"2019-08-28T04:59:59+09:00", "PrizeGroup":11045
+    },
+    {
+      "No":50215001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を10回撃破", "Type":104, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-28T05:00:00+09:00", "InvalidTime":"2019-08-29T04:59:59+09:00", "PrizeGroup":11062
+    },
+    {
+      "No":50215002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を20回撃破", "Type":104, "CollabNo":0, "ClearCount":20, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-28T05:00:00+09:00", "InvalidTime":"2019-08-29T04:59:59+09:00", "PrizeGroup":11062
+    },
+    {
+      "No":50216001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を5回撃破", "Type":105, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-29T05:00:00+09:00", "InvalidTime":"2019-08-30T04:59:59+09:00", "PrizeGroup":11043
+    },
+    {
+      "No":50216002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を10回撃破", "Type":105, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-29T05:00:00+09:00", "InvalidTime":"2019-08-30T04:59:59+09:00", "PrizeGroup":11043
+    },
+    {
+      "No":50217001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を3回撃破", "Type":106, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-30T05:00:00+09:00", "InvalidTime":"2019-08-31T04:59:59+09:00", "PrizeGroup":11064
+    },
+    {
+      "No":50217002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を6回撃破", "Type":106, "CollabNo":0, "ClearCount":6, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-30T05:00:00+09:00", "InvalidTime":"2019-08-31T04:59:59+09:00", "PrizeGroup":11064
+    },
+    {
+      "No":50218001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を10回撃破", "Type":104, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-31T05:00:00+09:00", "InvalidTime":"2019-09-01T04:59:59+09:00", "PrizeGroup":11048
+    },
+    {
+      "No":50218002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を20回撃破", "Type":104, "CollabNo":0, "ClearCount":20, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-08-31T05:00:00+09:00", "InvalidTime":"2019-09-01T04:59:59+09:00", "PrizeGroup":11048
+    },
+    {
+      "No":50219001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を5回撃破", "Type":105, "CollabNo":0, "ClearCount":5, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-09-01T05:00:00+09:00", "InvalidTime":"2019-09-02T04:59:59+09:00", "PrizeGroup":11046
+    },
+    {
+      "No":50219002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:巡洋艦を10回撃破", "Type":105, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-09-01T05:00:00+09:00", "InvalidTime":"2019-09-02T04:59:59+09:00", "PrizeGroup":11046
+    },
+    {
+      "No":50220001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を3回撃破", "Type":106, "CollabNo":0, "ClearCount":3, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-09-02T05:00:00+09:00", "InvalidTime":"2019-09-03T04:59:59+09:00", "PrizeGroup":11065
+    },
+    {
+      "No":50220002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:大型艦を6回撃破", "Type":106, "CollabNo":0, "ClearCount":6, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-09-02T05:00:00+09:00", "InvalidTime":"2019-09-03T04:59:59+09:00", "PrizeGroup":11065
+    },
+    {
+      "No":50221001, "Order":1, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を10回撃破", "Type":104, "CollabNo":0, "ClearCount":10, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-09-03T05:00:00+09:00", "InvalidTime":"2019-09-04T14:00:00+09:00", "PrizeGroup":11060
+    },
+    {
+      "No":50221002, "Order":2, "Category":5, "Link":1, "Description":"毎日更新 限定:航洋艦を20回撃破", "Type":104, "CollabNo":0, "ClearCount":20, "CharacterNo":0, "StorySceneNo":0, "ShipLineage":0, "ItemNo":0, "RankmatchClassNo":0, "ValidITime":"2019-09-03T05:00:00+09:00", "InvalidTime":"2019-09-04T14:00:00+09:00", "PrizeGroup":11060
     }
   ]
 }

@@ -253,19 +253,19 @@
       "No":40011102, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"訓練大成功！\n経験値を手に入れた！"
     },
     {
-      "No":40011201, "EventResource":400111, "BgResource":101, "Weather":2, "Facial":2, "Message":"嵐を切り抜けた！"
+      "No":40011201, "EventResource":100511, "BgResource":101, "Weather":2, "Facial":2, "Message":"嵐を切り抜けた！"
     },
     {
-      "No":40011202, "EventResource":400111, "BgResource":101, "Weather":2, "Facial":2, "Message":"霧が晴れた！"
+      "No":40011202, "EventResource":100511, "BgResource":101, "Weather":2, "Facial":2, "Message":"霧が晴れた！"
     },
     {
-      "No":40011103, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"嵐を切り抜けた！"
+      "No":40011103, "EventResource":100511, "BgResource":101, "Weather":1, "Facial":2, "Message":"嵐を切り抜けた！"
     },
     {
-      "No":40011104, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"霧が晴れた！"
+      "No":40011104, "EventResource":100511, "BgResource":101, "Weather":1, "Facial":2, "Message":"霧が晴れた！"
     },
     {
-      "No":40011105, "EventResource":400111, "BgResource":101, "Weather":1, "Facial":2, "Message":"雪が降り止んだ！"
+      "No":40011105, "EventResource":100511, "BgResource":101, "Weather":1, "Facial":2, "Message":"雪が降り止んだ！"
     },
     {
       "No":40021101, "EventResource":400211, "BgResource":101, "Weather":1, "Facial":2, "Message":"新メニューは好評！\n経験値を手に入れた！"

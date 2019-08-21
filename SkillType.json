@@ -196,13 +196,13 @@
       "Type":65, "Description":"一定時間、範囲内の艦船１隻の耐久\r\n力を少量回復しつつ状態異常を防ぐ", "CombatType":0, "MissionType":0
     },
     {
-      "Type":66, "Description":"先行で指揮コストを払い耐久力が\n0になると耐久力大幅に回復", "CombatType":0, "MissionType":0
+      "Type":66, "Description":"先行で指揮コストを払い耐久力が\n0になると耐久力が大幅に回復", "CombatType":0, "MissionType":0
     },
     {
-      "Type":67, "Description":"1演習に1回のみ使用可能\n出撃している全ての艦船位置が変化", "CombatType":0, "MissionType":0
+      "Type":67, "Description":"1演習に1回のみ使用可能　全ての\n艦船位置が変化（変化なしもあり）", "CombatType":0, "MissionType":0
     },
     {
-      "Type":68, "Description":"突撃状態となり航行速度が上昇し\n暗礁ダメージで耐久力が０にならない", "CombatType":0, "MissionType":0
+      "Type":68, "Description":"突撃状態となり航行速度が上昇し\n暗礁ダメージで耐久力が1だけ残る", "CombatType":0, "MissionType":0
     }
   ]
 }
