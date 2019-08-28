@@ -61,10 +61,10 @@
       "No":331000, "Name":"立石 志摩 ☆3-01 進化後", "CharNo":10003, "ShopNo":0, "Rarity":31, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"メイちゃんは…\nたまに危なっかしいけど…\nわたしのこと…気にしてくれるから…", "SpeechText2":"五十六…かわいい…\nもふもふで…たぷたぷで…\nかわいい…", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":340000, "Name":"立石 志摩 ☆4-01 進化前", "CharNo":10003, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-117, "SpeechPositionY":198, "SpeechText1":"砲撃の…コツ\nしゃべるのは…にがてだから…\n図に…描く", "SpeechText2":"なんでも…黒板に…描く\nたぶん、そのほうが、伝わる…", "SpeechText3":"", "SpeechText4":""
+      "No":340000, "Name":"立石 志摩 ☆4-01 進化前", "CharNo":10003, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-117, "SpeechPositionY":198, "SpeechText1":"砲撃の…コツ\r\nしゃべるのは…にがてだから…\r\n図に…描く", "SpeechText2":"なんでも…黒板に…描く\r\nたぶん、そのほうが、伝わる…", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":341000, "Name":"立石 志摩 ☆4-01 進化後", "CharNo":10003, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-26, "SpeechPositionY":198, "SpeechText1":"砲撃のコツ…\n最後は、カン…", "SpeechText2":"テストは、あんまりいい点…取れない…\nでも実技だと…あたる", "SpeechText3":"", "SpeechText4":""
+      "No":341000, "Name":"立石 志摩 ☆4-01 進化後", "CharNo":10003, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-26, "SpeechPositionY":198, "SpeechText1":"砲撃のコツ…\r\n最後は、カン…", "SpeechText2":"テストは、あんまりいい点…取れない…\r\nでも実技だと…あたる", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":350000, "Name":"立石 志摩 ☆5-01 進化前", "CharNo":10003, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-44, "SpeechPositionY":156, "SpeechText1":"ソフトボールは…得意\n砲撃と…似てる", "SpeechText2":"わたし、速い球、投げられる…\nソフトボール、もっとやりたい…", "SpeechText3":"", "SpeechText4":""
@@ -79,10 +79,10 @@
       "No":351010, "Name":"立石 志摩 ☆5-02 進化後", "CharNo":10003, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":2, "SpeechPositionY":128, "SpeechText1":"お気に入り……見つけた……\r\nこれで、プール……行く……", "SpeechText2":"メイちゃん……いいって……\n言ってくれた……\nうぃ～", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":350020, "Name":"立石 志摩 ☆5-03 進化前", "CharNo":10003, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-108, "SpeechPositionY":198, "SpeechText1":"みんな……もう、選び終わってる……\r\n早く……決めなくちゃ……", "SpeechText2":"どれも、かわいい……\r\nけど……どれも違う……気がする……", "SpeechText3":"", "SpeechText4":""
+      "No":350020, "Name":"立石 志摩 ☆5-03 進化前", "CharNo":10003, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-18, "SpeechPositionY":54, "SpeechText1":"遊園地……楽しい……\r\nうぃっ！？\r\nあの人、包帯……してる\r\nコス……プレ……？", "SpeechText2":"うぃー……\r\nハロウィン……\r\n……ミイラに、なりたい\r\nうぃ、うぃ！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":351020, "Name":"立石 志摩 ☆5-03 進化後", "CharNo":10003, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":2, "SpeechPositionY":128, "SpeechText1":"お気に入り……見つけた……\r\nこれで、プール……行く……", "SpeechText2":"メイちゃん……いいって……\n言ってくれた……\nうぃ～", "SpeechText3":"", "SpeechText4":""
+      "No":351020, "Name":"立石 志摩 ☆5-03 進化後", "CharNo":10003, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-2, "SpeechPositionY":76, "SpeechText1":"うぃぃぃ～……！\r\n五十六と……多門丸が……\r\n襲って……くる……", "SpeechText2":"逃げても……逃げても……\r\n追っかけて、くる……\r\nうぃ～～～……！！", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":430000, "Name":"西崎 芽依 ☆3-01 進化前", "CharNo":10004, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"心に撃て撃て魂がある\n西崎芽依とは、わたしのこと！\nがっつり撃ちまくるからよろしくぅ！", "SpeechText2":"ああ～この水雷方位盤、\nいつ見ても最高だなあ！\n毎日見ていても飽きないよ～\nあっここに汚れが！\n待ってて、すぐに綺麗にしたげるから！", "SpeechText3":"", "SpeechText4":""
@@ -91,10 +91,10 @@
       "No":431000, "Name":"西崎 芽依 ☆3-01 進化後", "CharNo":10004, "ShopNo":0, "Rarity":31, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"あれー、タマどこ行ったんだろ？\n今日はタマの好きなカレーだってのに\nあ、もしかして先に食堂行ってるのかも", "SpeechText2":"この前のタマとの対局、楽しかったなあ！\n他のみんなは将棋しないのかなあ！？\nうう～やりたいやりたい！\n誰かわたしと将棋しよ～！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":440000, "Name":"西崎 芽依 ☆4-01 進化前", "CharNo":10004, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"タマ、今日は魚雷の撃ち方を教えるよ！\n砲術長も主砲弾が無くなったときのために\n魚雷のひとつも撃てないとね！\n魚雷撃て撃て講座、始めるよ！", "SpeechText2":"主砲弾が無くなったら、魚雷を撃つよ！\nタマとわたしがタッグを組めば、\n向かうところ敵なし！\n撃って撃って撃ちまくるぞーー！！", "SpeechText3":"", "SpeechText4":""
+      "No":440000, "Name":"西崎 芽依 ☆4-01 進化前", "CharNo":10004, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"タマ、今日は魚雷の撃ち方を教えるよ！\r\n砲術長も主砲弾が無くなったときのために\r\n魚雷のひとつも撃てないとね！\r\n魚雷撃て撃て講座、始めるよ！", "SpeechText2":"主砲弾が無くなったら、魚雷を撃つよ！\r\nタマとわたしがタッグを組めば、\r\n向かうところ敵なし！\r\n撃って撃って撃ちまくるぞーー！！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":441000, "Name":"西崎 芽依 ☆4-01 進化後", "CharNo":10004, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":52, "SpeechPositionY":104, "SpeechText1":"ほらほらー、メイ先生の\n魚雷撃て撃て講座始めるよ！\n着席、着席！\nタマ、今日の講義はテストに出るから、\nよーく聞くんだよ！", "SpeechText2":"魚雷の基本は測的と調定\n目標の速度・方位角・距離を測定して、\n魚雷の深さと速さを調整するんだよ\nあとは…当たるまで\n撃って撃って撃ちまくれー！", "SpeechText3":"", "SpeechText4":""
+      "No":441000, "Name":"西崎 芽依 ☆4-01 進化後", "CharNo":10004, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":52, "SpeechPositionY":104, "SpeechText1":"ほらほらー、メイ先生の\r\n魚雷撃て撃て講座始めるよ！\r\n着席、着席！\r\nタマ、今日の講義はテストに出るから、\r\nよーく聞くんだよ！", "SpeechText2":"魚雷の基本は測的と調定\r\n目標の速度・方位角・距離を測定して、\r\n魚雷の深さと速さを調整するんだよ\r\nあとは…当たるまで\r\n撃って撃って撃ちまくれー！", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":440010, "Name":"西崎 芽依 ☆4-02 進化前", "CharNo":10004, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-22, "SpeechPositionY":34, "SpeechText1":"よっしゃあ～！　やったるで～！\r\nわしの撃て撃て魂……\r\nた～んとみせつけちゃるけんのぅ！", "SpeechText2":"カチコミじゃ～！\r\n撃って撃って撃ちまくって\r\n演習を終わらせよう！", "SpeechText3":"", "SpeechText4":""
@@ -109,10 +109,10 @@
       "No":451000, "Name":"西崎 芽依 ☆5-01 進化後", "CharNo":10004, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":76, "SpeechPositionY":3, "SpeechText1":"本気で将棋を指すときは\n本気の服じゃないとね！\nタマ、この一番は\n手加減無しの本気で行くよ！\n喰らえ！　西崎芽依、魂の一手！", "SpeechText2":"タマの将棋、すごい成長スピードだよ\n速攻も様になってきてる！\nこれはうかうかできないね～\nだがしかーし！　６九角！　これでどうだ！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":450010, "Name":"西崎 芽依 ☆5-02 進化前", "CharNo":10004, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"タマ、将棋やるよ！\n将棋はちゃんと覚えれば、\n一生楽しめる最高の趣味だからね～\nあ、タマ、そこはこう指した方が\nいい形になるよ", "SpeechText2":"タマも将棋覚えてくれて嬉しいな～\n晴風のみんなも将棋覚えればいいのにね～\nよし、今度将棋指し指し講座でも開こうかな\nみんな来てくれるかな～", "SpeechText3":"", "SpeechText4":""
+      "No":450010, "Name":"西崎 芽依 ☆5-02 進化前", "CharNo":10004, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"艦長、福引券もらったんだ\r\n福引なら艦長が引けばラクショーだね！\r\nって、あれ？\r\nなんか福引じゃないみたいだよ\r\nえ？　射的！？\r\nわたしが撃っていいの！？　やったー！", "SpeechText2":"よーし、撃っちゃうよ～\r\nこいつぁ腕がなるねぇ～\r\n絶対に景品をゲットしてみせるから、\r\n期待して待ってて！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":451010, "Name":"西崎 芽依 ☆5-02 進化後", "CharNo":10004, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":76, "SpeechPositionY":3, "SpeechText1":"本気で将棋を指すときは\n本気の服じゃないとね！\nタマ、この一番は\n手加減無しの本気で行くよ！\n喰らえ！　西崎芽依、魂の一手！", "SpeechText2":"タマの将棋、すごい成長スピードだよ\n速攻も様になってきてる！\nこれはうかうかできないね～\nだがしかーし！　６九角！　これでどうだ！", "SpeechText3":"", "SpeechText4":""
+      "No":451010, "Name":"西崎 芽依 ☆5-02 進化後", "CharNo":10004, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"おー、のりちゃんだ\r\nのりちゃんも射的かー。ふふ……\r\nこれはどっちがたくさん景品を取れるか、\r\n勝負だね。負けないよー？", "SpeechText2":"よっしゃー、景品ゲット！\r\nいやー、楽しかったー\r\nけっこうたくさん撃ち落とせたと\r\n思うんだけど、のりちゃんの方は？\r\nどんなかんじー？", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":490000, "Name":"西崎 芽依 クール", "CharNo":10004, "ShopNo":2000101, "Rarity":90, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"やっぱりわたしはクールなポスターが\r\nいいと思うんだよ\r\nびしっといい感じのポーズを決めて、\r\nかっこいい標語を入れてさ\r\nタマもそう思わない？", "SpeechText2":"腰を捻って角度をつけて……？\r\nミカンちゃん、これってクールなのかな？\r\nわたしの知ってるクールとは違うんだけど\r\nまあ、ポスターをつくるモモちゃんが\r\n満足ならこれでいっか\r\nモモちゃん、イケてるポスターを頼んだよ！", "SpeechText3":"", "SpeechText4":""
@@ -190,10 +190,10 @@
       "No":811000, "Name":"武田 美千留 ☆1-01 進化後", "CharNo":10008, "ShopNo":0, "Rarity":11, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"ヒカリ、今日はビリヤードで勝負でしょー？\nまったく、いつもさらーっと逃げるんだから\n流石に三日連続でダーツは勘弁してよね", "SpeechText2":"普通のお店で\nビリヤードやるのもいいんだけど、\nどうにかして晴風に台を持ち込めないかな…\nああ、でも揺れで\n球が転がっちゃうんだよね…。残念", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":840000, "Name":"武田 美千留 ☆4-01 進化前", "CharNo":10008, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"わたしの仕事は主砲旋回の担当だよ\n砲術長の指示に合わせて\n砲塔をぐるぐる回して、目標に向けるんだー\nほら、こんな感じね", "SpeechText2":"主砲担当は３人だから、\nわたしとヒカリとじゅんちゃんとの\nチームワークが物を言う仕事なの\n息が合ってないと当たらないよ\nでも心配ご無用、わたしたち３人の\nチームワークはバッチリだから", "SpeechText3":"", "SpeechText4":""
+      "No":840000, "Name":"武田 美千留 ☆4-01 進化前", "CharNo":10008, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"わたしの仕事は主砲旋回の担当だよ\r\n砲術長の指示に合わせて\r\n砲塔をぐるぐる回して、目標に向けるんだー\r\nほら、こんな感じね", "SpeechText2":"主砲担当は３人だから、\r\nわたしとヒカリとじゅんちゃんとの\r\nチームワークが物を言う仕事なの\r\n息が合ってないと当たらないよ\r\nでも心配ご無用、わたしたち３人の\r\nチームワークはバッチリだから", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":841000, "Name":"武田 美千留 ☆4-01 進化後", "CharNo":10008, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"一人で時間をつぶすときは\n横須賀の地図を書いてるよ\nわたし方向音痴だから、\n横須賀で道に迷ったことがあって…\n横須賀を完全にものにするのが今の目標かな", "SpeechText2":"こんな方向音痴が主砲の旋回担当で\n不安になった？\n大丈夫、ぐるぐる回すのは大得意だから\n砲術長の指示に合わせて\n素早く確実にぐるぐる回すよー", "SpeechText3":"", "SpeechText4":""
+      "No":841000, "Name":"武田 美千留 ☆4-01 進化後", "CharNo":10008, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"一人で時間をつぶすときは\r\n横須賀の地図を書いてるよ\r\nわたし方向音痴だから、\r\n横須賀で道に迷ったことがあって…\r\n横須賀を完全にものにするのが今の目標かな", "SpeechText2":"こんな方向音痴が主砲の旋回担当で\r\n不安になった？\r\n大丈夫、ぐるぐる回すのは大得意だから\r\n砲術長の指示に合わせて\r\n素早く確実にぐるぐる回すよー", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":850000, "Name":"武田 美千留 ☆5-01 進化前", "CharNo":10008, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-24, "SpeechPositionY":102, "SpeechText1":"ビリヤードはね、\n正しく撞くのはもちろんだけど\n「次の的」を狙いやすいように\n考えて撞くのがポイントだよ\nそこが醍醐味だし、面白いとこなんだよね", "SpeechText2":"ビリヤードはね、\n球を撞く前にテーブルをよく見て、\n球の動きをイメージすることが大切だよ\nそのイメージ通りに球が動いてくれると\nホントに気持ちいいんだー", "SpeechText3":"", "SpeechText4":""
@@ -214,10 +214,10 @@
       "No":941000, "Name":"日置 順子 ☆4-01 進化後", "CharNo":10009, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"一人でヒマをつぶすときは\n輪投げの輪を作るかなー\n新聞紙やチラシをネジって、輪っかにして、\nビニールテープでぐるぐる巻きにしたら\nズキュンと完成だよ！", "SpeechText2":"それぞれに時間を過ごしてても、\nヒカリちゃんとみっちんとは\nズキュンと仲良しだよ！\n２人の気配を感じながらだと\n輪投げの輪もマルっときれいに作れるのです", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":950000, "Name":"日置 順子 ☆5-01 進化前", "CharNo":10009, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-6, "SpeechPositionY":10, "SpeechText1":"今日はね、競技輪投げを\nビキュンと準備したよー\n的の配置や、ルールもしっかり決まってて\n燃えるんだなーこれが\nさ、やろうやろう！", "SpeechText2":"競技輪投げはね、棒の下の数字が得点で、\n９つの輪を投げて合計点を競うよ\n一列ズバッと揃ったり、全部の棒に\nバキュンと入るとボーナスが入るんだー\nまあ見てて！", "SpeechText3":"", "SpeechText4":""
+      "No":950000, "Name":"日置 順子 ☆5-01 進化前", "CharNo":10009, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-6, "SpeechPositionY":10, "SpeechText1":"今日はね、競技輪投げを\r\nビキュンと準備したよー\r\n的の配置や、ルールもしっかり決まってて\r\n燃えるんだなーこれが\r\nさ、やろうやろう！", "SpeechText2":"競技輪投げはね、棒の下の数字が得点で、\r\n９つの輪を投げて合計点を競うよ\r\n一列ズバッと揃ったり、全部の棒に\r\nバキュンと入るとボーナスが入るんだー\r\nまあ見てて！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":951000, "Name":"日置 順子 ☆5-01 進化後", "CharNo":10009, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-54, "SpeechPositionY":172, "SpeechText1":"気分はズキュンと西部劇だよ！\nテンション上がれば輪投げも絶好調！\n今のわたしには輪投げの弾道が見える！\nほらほらー、全部命中させちゃうよ！", "SpeechText2":"はじめて操舵輪を見た時から\nずっと思ってたんだけど、\nこの取っ手のとこなんて、\n輪投げの的そのものだよね\nこりゃ輪投げしないとバチが当たるよ\nみっちんとヒカリちゃんもやってみて！", "SpeechText3":"", "SpeechText4":""
+      "No":951000, "Name":"日置 順子 ☆5-01 進化後", "CharNo":10009, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-54, "SpeechPositionY":172, "SpeechText1":"気分はズキュンと西部劇だよ！\r\nテンション上がれば輪投げも絶好調！\r\n今のわたしには輪投げの弾道が見える！\r\nほらほらー、全部命中させちゃうよ！", "SpeechText2":"はじめて操舵輪を見た時から\r\nずっと思ってたんだけど、\r\nこの取っ手のとこなんて、\r\n輪投げの的そのものだよね\r\nこりゃ輪投げしないとバチが当たるよ\r\nみっちんとヒカリちゃんもやってみて！", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":1010000, "Name":"松永 理都子 ☆1-01 進化前", "CharNo":10010, "ShopNo":0, "Rarity":10, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"「人生は一度だけ」だからね～\nわたし、海に憧れてたから\nみんなと晴風に乗れてうれしいんだ～", "SpeechText2":"ありぃ？　これマーガリンじゃない？\nわたしバターが好きなんだよね～…\n似てるって言われるけど全然違うよ～？", "SpeechText3":"", "SpeechText4":""
@@ -232,16 +232,16 @@
       "No":1041000, "Name":"松永 理都子 ☆4-01 進化後", "CharNo":10010, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"わたしは水雷員だから、\n水雷長のメイちゃんの指示に従って\n第一発射管の向きを合わせるのが仕事だよ\n魚雷が的に当たると、気持ちいいんだよねー", "SpeechText2":"ボウリングのために鍛えた握力と手首だけど\n発射管の向きを変えるハンドルの操作にも\n役に立ってるみたい\n発射管の操作はスピード勝負だからね", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1040010, "Name":"松永 理都子 ☆4-02 進化前", "CharNo":10010, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-4, "SpeechText1":"魚雷発射管、ここがわたしの仕事場だよ\n暗くて、狭いけど、誰にも邪魔されないから\n待機中は雑誌読んだりしてるんだ\n懐中電灯が必須だけどね", "SpeechText2":"うーん、新しいマイボール\n買っちゃおうかなぁ…\nあ、この新商品のシューズ、\nかわいいんだよなぁ…\nふぅ、ボウリング雑誌は\n物欲を刺激するんだよね～", "SpeechText3":"", "SpeechText4":""
+      "No":1040010, "Name":"松永 理都子 ☆4-02 進化前", "CharNo":10010, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":82, "SpeechText1":"バター団子か～\r\n美味しいお団子に、美味しいバターを\r\n合わせちゃうなんてあっちゃん天才だよ～\r\nちゃんとバターの風味がして\r\n美味しいお団子になってるよ～", "SpeechText2":"お団子に、お供えに、ススキの書き割りまで\r\n本格的なお月見になったね～\r\nオカでやるお月見より楽しいかも～\r\nあっ。お団子、すごく美味しいねぇ\r\n甘さも固さも、ちょうどいいかも", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1041010, "Name":"松永 理都子 ☆4-02 進化後", "CharNo":10010, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"わたしは水雷員だから、\n水雷長のメイちゃんの指示に従って\n第一発射管の向きを合わせるのが仕事だよ\n魚雷が的に当たると、気持ちいいんだよねー", "SpeechText2":"ボウリングのために鍛えた握力と手首だけど\n発射管の向きを変えるハンドルの操作にも\n役に立ってるみたい\n発射管の操作はスピード勝負だからね", "SpeechText3":"", "SpeechText4":""
+      "No":1041010, "Name":"松永 理都子 ☆4-02 進化後", "CharNo":10010, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-18, "SpeechPositionY":198, "SpeechText1":"モモちゃん、すごいよね～\r\nこんな衣装を作れるなんて\r\nこれ、今日一日で全部作ったのかな？\r\nこういう服ってどう作られるのか\r\n想像もできないよ～", "SpeechText2":"わー、不思議な感じ～\r\nたまには髪型を変えるのもいいね\r\nいつもと違う髪型にするのも\r\n新鮮でいいと思うんだけど、\r\nかよちゃんとお揃いっていうのが楽しいな～", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1050000, "Name":"松永 理都子 ☆5-01 進化前", "CharNo":10010, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-38, "SpeechPositionY":50, "SpeechText1":"さぁて、今日はわたしとかよちゃんで、\nみんなにボウリングを教えまーす\nボウリング仲間を増やして、\n晴風ボウリング大会を\n定期的に開催するのが目標でーす", "SpeechText2":"ウェアもグローブも、もちろんボールも\nシューズも自分用にそろえてるよ\n自分用に調整してるから投げやすいし\n気分も高まるんだよね～～", "SpeechText3":"", "SpeechText4":""
+      "No":1050000, "Name":"松永 理都子 ☆5-01 進化前", "CharNo":10010, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-38, "SpeechPositionY":50, "SpeechText1":"さぁて、今日はわたしとかよちゃんで、\r\nみんなにボウリングを教えまーす\r\nボウリング仲間を増やして、\r\n晴風ボウリング大会を\r\n定期的に開催するのが目標でーす", "SpeechText2":"ウェアもグローブも、もちろんボールも\r\nシューズも自分用にそろえてるよ\r\n自分用に調整してるから投げやすいし\r\n気分も高まるんだよね～～", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1051000, "Name":"松永 理都子 ☆5-01 進化後", "CharNo":10010, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"ボウリングの基本は正しいフォームからだよ\n右胸のあたりにボールを構えて…\n助走は４歩…\n手首で回転をかけないで素直にリリース…\nほら！　ストライク！　簡単でしょ～", "SpeechText2":"よしっ！　ターキー！\nあっ、ターキーっていうのは\nストライクを３回連続で出すことだよ\nよーし、今日は調子いいみたい\nパーフェクト狙っちゃうよー", "SpeechText3":"", "SpeechText4":""
+      "No":1051000, "Name":"松永 理都子 ☆5-01 進化後", "CharNo":10010, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"ボウリングの基本は正しいフォームからだよ\r\n右胸のあたりにボールを構えて…\r\n助走は４歩…\r\n手首で回転をかけないで素直にリリース…\r\nほら！　ストライク！　簡単でしょ～", "SpeechText2":"よしっ！　ターキー！\r\nあっ、ターキーっていうのは\r\nストライクを３回連続で出すことだよ\r\nよーし、今日は調子いいみたい\r\nパーフェクト狙っちゃうよー", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":1120000, "Name":"姫路 果代子 ☆2-01 進化前", "CharNo":10011, "ShopNo":0, "Rarity":20, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"お母さん、遠洋定期船の乗組員なんだよ～\n海で働く女性ってかっこいいなって思って\n海洋学校に入学したんだ～", "SpeechText2":"麻婆茄子、焼きナス、水ナスの漬物…\n頼んだら作ってくれるかなあ\n毎日ナス料理でも全然困らないよ～", "SpeechText3":"", "SpeechText4":""
@@ -256,10 +256,10 @@
       "No":1141000, "Name":"姫路 果代子 ☆4-01 進化後", "CharNo":10011, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":60, "SpeechText1":"イメージトレーニングに飽きてきたら、\nボウリングのウェアに着替えて\n気分を出してるよ\n魚雷発射の指示がきたら、\nこのまま撃っちゃう…かな？", "SpeechText2":"このウェア、この前買ったんだけど\nお気に入りなんだよねー\nやっぱりウェアを着ると、\n断然気分が盛り上がるよ\nあー、早くりっちゃんと投げにいきたいなぁ", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1140010, "Name":"姫路 果代子 ☆4-02 進化前", "CharNo":10011, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-40, "SpeechPositionY":198, "SpeechText1":"水雷員は魚雷発射管で\n待機することもあるんだけど、\nヒマなときはボウリングの\nイメージトレーニングをして過ごしてるよ\nサボってると、\nりっちゃんに負けちゃうからねー", "SpeechText2":"お父さんがプロボウラーだから、\n子供の頃からボウリングはやってたよ\n小学生の頃からマイボール持ってたしね\nいつかお父さんに勝ちたいんだけど、\nまだまだなんだよねー", "SpeechText3":"", "SpeechText4":""
+      "No":1140010, "Name":"姫路 果代子 ☆4-02 進化前", "CharNo":10011, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-40, "SpeechPositionY":198, "SpeechText1":"うーん……\nキックターゲット、なかなか難しいね～\nボーリングと似ているところもあるんだけど\n手を使うのと足で蹴るのとでは\nやっぱり違うよね～", "SpeechText2":"りっちゃんはやらなくていいの？\nちょっと難しいけど、せっかくだし\n試しに１回やってみたら？\n新たな才能が開花しちゃうかもしれないよ～", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1141010, "Name":"姫路 果代子 ☆4-02 進化後", "CharNo":10011, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":60, "SpeechText1":"イメージトレーニングに飽きてきたら、\nボウリングのウェアに着替えて\n気分を出してるよ\n魚雷発射の指示がきたら、\nこのまま撃っちゃう…かな？", "SpeechText2":"このウェア、この前買ったんだけど\nお気に入りなんだよねー\nやっぱりウェアを着ると、\n断然気分が盛り上がるよ\nあー、早くりっちゃんと投げにいきたいなぁ", "SpeechText3":"", "SpeechText4":""
+      "No":1141010, "Name":"姫路 果代子 ☆4-02 進化後", "CharNo":10011, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":84, "SpeechText1":"どうかな～？\n少し変わった赤ずきんちゃんセットだって～\nこれ、衣装にパペット人形もついてるよ\n「おまえをたべてやるためさ～ぐわお～」", "SpeechText2":"あれ？　赤ずきんの狼って、\n赤ずきんちゃんを食べたあと\n赤ずきんに変装するんだっけ？\nおばあさんのフリをしただけだったような？\nうーん……でもまあ、\nかわいいからどっちでもいっか～", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":1150000, "Name":"姫路 果代子 ☆5-01 進化前", "CharNo":10011, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"ナスは煮てよし、焼いてよし、揚げてよし！\nオールマイティな万能野菜だよ\nああー、いつかナスづくしの\nナスのフルコース、食べてみたいなー", "SpeechText2":"ナスは英語でeggplantって言うんだよ\n直訳すると「卵の実」\nアメリカのナスって大きくて丸っこくて、\n卵みたいなんだよね\nでもやっぱりナスの味がして美味しいんだー", "SpeechText3":"", "SpeechText4":""
@@ -280,10 +280,10 @@
       "No":1241000, "Name":"万里小路 楓 ☆4-01 進化後", "CharNo":10012, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":13, "SpeechPositionY":130, "SpeechText1":"水測室はとても静かなものですから、\nともすると…ついつい…眠気が…\nあ…大変失礼をいたしました…", "SpeechText2":"聴音という繊細なお仕事をいたしますので、\n水測室はとても静かなんです。だから\n眠くなってしまうこともあるのですが…\nいえ、言い訳はよろしくありませんね\nお恥ずかしいです", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1240010, "Name":"万里小路 楓 ☆4-02 進化前", "CharNo":10012, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"水測室ではいつも一人なので\nみなさんが訪ねてくださるのは、\nとてもうれしいです\n実際に水測するところをご覧になりますか？", "SpeechText2":"水測員の仕事は、ソナーを用いて\n水中や海底のものを調べることです\nそれでは聴音を始めます\n少しだけお静かにお願いしますね", "SpeechText3":"", "SpeechText4":""
+      "No":1240010, "Name":"万里小路 楓 ☆4-02 進化前", "CharNo":10012, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":114, "SpeechText1":"わたくしの休日がどのようなものか、\nお話ししていらっしゃったのですか？\n窓辺で読書をしながら、\nおいしい紅茶とお菓子、ですか……", "SpeechText2":"そうですか……\n皆さんのご想像とは違いますが\nでも、わたくしの休日は特別に\nたいそうなものではありませんよ", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1241010, "Name":"万里小路 楓 ☆4-02 進化後", "CharNo":10012, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":13, "SpeechPositionY":130, "SpeechText1":"水測室はとても静かなものですから、\nともすると…ついつい…眠気が…\nあ…大変失礼をいたしました…", "SpeechText2":"聴音という繊細なお仕事をいたしますので、\n水測室はとても静かなんです。だから\n眠くなってしまうこともあるのですが…\nいえ、言い訳はよろしくありませんね\nお恥ずかしいです", "SpeechText3":"", "SpeechText4":""
+      "No":1241010, "Name":"万里小路 楓 ☆4-02 進化後", "CharNo":10012, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"皆さんのご期待に添えず申し訳ないのですが\n先日のお休みは、お稽古三昧でした\n習い事が疎かになってはいけませんので\nあまりゆっくりは出来ませんでしたわね", "SpeechText2":"お休みの日もそれなりに\n忙しくしていますけれど\n好きでやっていることですので\n苦にはなりません\nまだまだ鍛錬が必要ですから\n精進したいと思っています", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":1250000, "Name":"万里小路 楓 ☆5-01 進化前", "CharNo":10012, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"ラッパをお褒めいただき、\nありがとうございます\nまだまだギターやハープのようには\nまいりませんが、少しでも\n良い演奏ができるように精進いたします", "SpeechText2":"自分で言うのもお恥ずかしいんですけど、\n子供の頃から触れてきましたので、\nだいたいの楽器は得意なんです\n楽器を演奏していると、心が安らぎますね", "SpeechText3":"", "SpeechText4":""
@@ -310,10 +310,10 @@
       "No":1341000, "Name":"勝田 聡子 ☆4-01 進化後", "CharNo":10013, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-12, "SpeechText1":"航海員の仕事は海図を読むことと、\n目的に応じた航路を作成することぞな\nパソコンでも作れるけど、やっぱり定規と\nコンパスを使って海図台で作るのが基本ぞな", "SpeechText2":"待機中は夢の航路を作って遊んでるぞな\nこの前は横須賀からウラジオストクまでの\n航路を作ってみたぞな\nああ、本場のピロシキとボルシチを\n食べたいぞな～～", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1340010, "Name":"勝田 聡子 ☆4-02 進化前", "CharNo":10013, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":88, "SpeechPositionY":54, "SpeechText1":"こらー！　五十六！　仕事のじゃまぞな\nなんでいっつも海図の上に乗って\nジャマするぞな\n大艦長でもジャマはジャマぞな\nほらほら、あっち行くぞな！", "SpeechText2":"五十六～、また海図に乗ってるぞな？\nホントにお前は重…たい…ぞなっ\nごはんがおいしいからって太り過ぎぞな～", "SpeechText3":"", "SpeechText4":""
+      "No":1340010, "Name":"勝田 聡子 ☆4-02 進化前", "CharNo":10013, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"かぼちゃを使ってハロウィンパーティの\n飾りつけをするぞな\n重かったけど、立派なかぼちゃを貰えたぞな\n作業開始、腕が鳴るぞな～", "SpeechText2":"下描きはバッチリうまく描けたぞな\n後はひたすら彫るだけ\n多少ずれたり歪んだりしても\n愛嬌があっていい感じになるぞな", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1341010, "Name":"勝田 聡子 ☆4-02 進化後", "CharNo":10013, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-12, "SpeechText1":"航海員の仕事は海図を読むことと、\n目的に応じた航路を作成することぞな\nパソコンでも作れるけど、やっぱり定規と\nコンパスを使って海図台で作るのが基本ぞな", "SpeechText2":"待機中は夢の航路を作って遊んでるぞな\nこの前は横須賀からウラジオストクまでの\n航路を作ってみたぞな\nああ、本場のピロシキとボルシチを\n食べたいぞな～～", "SpeechText3":"", "SpeechText4":""
+      "No":1341010, "Name":"勝田 聡子 ☆4-02 進化後", "CharNo":10013, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-6, "SpeechText1":"ハッピーハロウィーン！\nじゃじゃーん！　カボチャ人間ぞなー！\nふぉっふぉっふぉ。\nおおー、ちょっと被ってみただけで\n大反響ぞな～", "SpeechText2":"リンちゃんは怖がりすぎぞな\n今外すぞ…な…？\nぬけん！　ぬけんぞなー！？\n見事にはまり込んでるぞな！\n助けて！　誰か外して～～", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":1350000, "Name":"勝田 聡子 ☆5-01 進化前", "CharNo":10013, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":75, "SpeechPositionY":62, "SpeechText1":"松山の実家の蔵には\nロシアのものがたくさんあったぞな\nロシアのドレスは、おじいちゃんが\nおばあちゃんへのお土産に\n買ったのかもしれないぞな", "SpeechText2":"ロシアのドレスはウチにサイズが\nピッタリだったぞな。ちょっとだけ気分は\n悲劇のアナスタシアだったぞな\nああ、思い出すとピロシキが\n食べたくなってきたぞな～～", "SpeechText3":"", "SpeechText4":""
@@ -412,13 +412,13 @@
       "No":1821000, "Name":"野間 マチコ ☆2-01 進化後", "CharNo":10018, "ShopNo":0, "Rarity":21, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"今日も晴風は賑やかだ\n…ん？　視線を感じる\n…いや、誰もいない\n気のせいか？", "SpeechText2":"見張り台から眺める夜空はいつも綺麗だ\n一日の疲れを癒してくれる\nああ、流れ星だ", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1840000, "Name":"野間 マチコ ☆4-01 進化前", "CharNo":10018, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":79, "SpeechPositionY":132, "SpeechText1":"見張員は、\n主に艦の進行方向を監視するのが仕事\n目視での監視は現代の艦艇でも極めて重要だ", "SpeechText2":"見張台から見る、海、空、雲\nそして夜の星…\n監視の仕事の合間に、\n空を見上げると心が癒される\n", "SpeechText3":"", "SpeechText4":""
+      "No":1840000, "Name":"野間 マチコ ☆4-01 進化前", "CharNo":10018, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":79, "SpeechPositionY":132, "SpeechText1":"見張員は、\n主に艦の進行方向を監視するのが仕事\n目視での監視は現代の艦艇でも極めて重要だ", "SpeechText2":"見張台から見る、海、空、雲\nそして夜の星…\n監視の仕事の合間に、\n空を見上げると心が癒される", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":1841000, "Name":"野間 マチコ ☆4-01 進化後", "CharNo":10018, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":12, "SpeechText1":"航行中に艦を見つけたら、\n速やかに艦橋に報告する\n進行方向の早期の状況把握は、\n安全な航行に欠かせない", "SpeechText2":"わたしは遠視だから、\nメガネを外したほうが遠くがよく見えるんだ\n必要に迫られてやっていることだから、\nカッコいいといわれても困る…", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1840010, "Name":"野間 マチコ ☆4-02 進化前", "CharNo":10018, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":64, "SpeechText1":"くっ、視界が悪い…\r\nだが、見落とすわけにはいかない\r\nさっきの音は聞こえてこないが\r\nまだ近くにいるのか？", "SpeechText2":"そこかっ！？\r\n……いや、違う\r\nいったいなんだ？\r\n鳥…ではなさそうだが…\n", "SpeechText3":"", "SpeechText4":""
+      "No":1840010, "Name":"野間 マチコ ☆4-02 進化前", "CharNo":10018, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":64, "SpeechText1":"くっ、視界が悪い…\r\nだが、見落とすわけにはいかない\r\nさっきの音は聞こえてこないが\r\nまだ近くにいるのか？", "SpeechText2":"そこかっ！？\n……いや、違う\nいったいなんだ？\n鳥…ではなさそうだが…", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":1841010, "Name":"野間 マチコ ☆4-02 進化後", "CharNo":10018, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":38, "SpeechPositionY":50, "SpeechText1":"濃い霧、相手はブルマー\r\nこちらに不利な状況ではあったが\r\n何かやりようはあったはずだ…", "SpeechText2":"あれが本物のブルマーの動き…\r\n今の私ではまだ及ばない\r\n鍛錬を積まなければ", "SpeechText3":"", "SpeechText4":""
@@ -460,10 +460,10 @@
       "No":1951020, "Name":"柳原 麻侖 ☆5-03 進化後", "CharNo":10019, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":4, "SpeechText1":"た～まや～！\r\nやっぱり花火はいいなぁ\r\nみんなが協力してくれたおかげで\r\n最高の夏祭りになったってんでい！", "SpeechText2":"クロちゃんとの作戦もバッチリだったし\r\nまた来年もやっちまうってのはどうかな？\r\nよーし、そうと決まれば…\r\nおーい、クロちゃーん！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1950030, "Name":"柳原 麻侖 ☆5-04 進化前", "CharNo":10019, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":14, "SpeechText1":"実はいい話があるんだけどよ\r\n…待ちねぇ待ちねぇ\r\n絶対に損はさせねえから\r\n出だしだけでも聞いてくれ", "SpeechText2":"祭り、屋台、花火とくりゃあ\r\n江戸っ子としては見逃せねぇな！\r\nまぁ～ひとつ協力してくんねぇ！", "SpeechText3":"", "SpeechText4":""
+      "No":1950030, "Name":"柳原 麻侖 ☆5-04 進化前", "CharNo":10019, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"さて、みんな帰ったことだし\nいっちょ始めっか！\nすぐにどうにかなっちまうってぇ感じの\n音じゃあなかったけど\n調子よくねぇのをそのまま置いとくのは\n気持ちが悪いってもんよ！", "SpeechText2":"こんくらいマロンにかかれば楽勝だぜぃ\nって、思ったけど……\nうーん、さすがにこのでっかい部品は\nひとりじゃキツイか……\nどうしたもんかなあ", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":1951030, "Name":"柳原 麻侖 ☆5-04 進化後", "CharNo":10019, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":4, "SpeechText1":"た～まや～！\r\nやっぱり花火はいいなぁ\r\nみんなが協力してくれたおかげで\r\n最高の夏祭りになったってんでい！", "SpeechText2":"クロちゃんとの作戦もバッチリだったし\r\nまた来年もやっちまうってのはどうかな？\r\nよーし、そうと決まれば…\r\nおーい、クロちゃーん！", "SpeechText3":"", "SpeechText4":""
+      "No":1951030, "Name":"柳原 麻侖 ☆5-04 進化後", "CharNo":10019, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"さっすがクロちゃん！\nマロンが困ってる時はいつも\n助けに駆けつけてくれるもんな\nクロちゃんと一緒なら\nボイラーの整備もあっという間だし\nマロンは世界一の果報者でぃ", "SpeechText2":"はぁー、いい風呂だったー\nクロちゃん、髪の毛乾かすのうまいよなあ\nプロの美容師みたいじゃねえか\nあー、気持ちよくて眠くなってきたぜぃ……", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":2030000, "Name":"黒木 洋美 ☆3-01 進化前", "CharNo":10020, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"やっぱり機関をいじるのは楽しいわね\n宗谷さんと同じ艦になれたし！\n私が出来ること、頑張らなきゃ", "SpeechText2":"外は空気がいいし涼しいわね\n機関室はいつも蒸し暑くて…\nたまにはのんびり海を眺めるのもいいわね、\n落ち着くわ…", "SpeechText3":"", "SpeechText4":""
@@ -508,10 +508,10 @@
       "No":2151000, "Name":"若狭 麗緒 ☆5-01 進化後", "CharNo":10021, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-78, "SpeechPositionY":198, "SpeechText1":"ここがお好み焼きの肝心なところだからね\n表面がふつふつしてきたら、\nヘラをお好み焼きの下に滑り込ませて、\n一気に…えいっ！　ふふっ、完璧！\nさ、焼けたよー", "SpeechText2":"お好み焼きはやっぱりエビ玉、イカ玉が\n鉄板でしょ！　モチとかチーズを入れるのは\nあたしに言わせると邪道だね\nそれでも美味しいのがお好み焼きの懐の深い\nとこなんだけどさ", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2150010, "Name":"若狭 麗緒 ☆5-02 進化前", "CharNo":10021, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-34, "SpeechPositionY":104, "SpeechText1":"お好み焼きなら任せといて！\n一体これまでに\n何枚のお好み焼きを焼いてきたことか！\nこうやって生地に空気を含ませると\nふんわり仕上がるよ", "SpeechText2":"中学の頃から、この４人でいっつも\nお好み焼きパーティーしてたんだ\n麻雀かお好み焼きパーティーしながら\n４人でしゃべってるのが、\nやっぱ一番楽しいね", "SpeechText3":"", "SpeechText4":""
+      "No":2150010, "Name":"若狭 麗緒 ☆5-02 進化前", "CharNo":10021, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-42, "SpeechPositionY":198, "SpeechText1":"テーマパークっぽさがあって、\nさらにマロンちゃんが喜びそうなお土産……\nって、こんなにたくさん\nグッズが並んでるのに\n意外と見つからないもんだねー", "SpeechText2":"ハロウィンの時期だし、\nお土産もハロウィンにしたいよねー\nキーホルダーなんていいんじゃない？\nほら、ジャックオランタン！\nかわいいっしょ！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2151010, "Name":"若狭 麗緒 ☆5-02 進化後", "CharNo":10021, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-78, "SpeechPositionY":198, "SpeechText1":"ここがお好み焼きの肝心なところだからね\n表面がふつふつしてきたら、\nヘラをお好み焼きの下に滑り込ませて、\n一気に…えいっ！　ふふっ、完璧！\nさ、焼けたよー", "SpeechText2":"お好み焼きはやっぱりエビ玉、イカ玉が\n鉄板でしょ！　モチとかチーズを入れるのは\nあたしに言わせると邪道だね\nそれでも美味しいのがお好み焼きの懐の深い\nとこなんだけどさ", "SpeechText3":"", "SpeechText4":""
+      "No":2151010, "Name":"若狭 麗緒 ☆5-02 進化後", "CharNo":10021, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-30, "SpeechPositionY":126, "SpeechText1":"どう、似合ってる？　って言っても\nほんとはマロンちゃんへのお土産だったのに\nあたしに似合ってもねー\n次はちゃんとマロンちゃんにぴったりの\nお土産を探してくるよ", "SpeechText2":"あー、失敗したー\nサイズのことはすっかり忘れてた\nもうちょっと慎重に選べばよかったかー\nごめんねマロンちゃん\nこの衣装はあたしが責任をもって\n着ることにするよー", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":2210000, "Name":"伊勢 桜良 ☆1-01 進化前", "CharNo":10022, "ShopNo":0, "Rarity":10, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"海水浴って\nなんとなく行きにくかったんだけど、\nブルマーに興味持って\n実際艦に乗ってみたら、\n海って本当にきれいなんだなーって\n改めて思えたのは収穫だったかな", "SpeechText2":"あ！\nまたヘアコンディショナー無くなってる！！\nもうなんでみんな自分の使わないのー？\nわたしの分がないなんておかしいじゃない！", "SpeechText3":"", "SpeechText4":""
@@ -610,10 +610,10 @@
       "No":2641000, "Name":"青木 百々 ☆4-01 進化後", "CharNo":10026, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"実家が「テーラー青木」っていう\n仕立屋なんす\n家にいた頃は、いっつも手伝ってましたよ\n洋服作るのは、漫画を描くことの\n次に好きっすね", "SpeechText2":"自分で描いてる漫画のキャラクターの衣装を\n実際に作ってみたりもするっす\n生地選びにもこだわって、\nちゃんと型紙から作るっすよ", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2640010, "Name":"青木 百々 ☆4-02 進化前", "CharNo":10026, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"実家が洋服屋なんで、裁縫は大得意っす\nボタンつけ、ホツレの直し、サイズの修正…\nちょっとした服の修繕なら、\n手縫いでちゃちゃっと直せるっす", "SpeechText2":"簡単な裁縫セットは常に持ち歩いてるっす\n人の服でもちょっと傷んだりしていると\n気になるんで、ついつい声をかけて\n直させてもらうんすよねー\n職業病ですかね", "SpeechText3":"", "SpeechText4":""
+      "No":2640010, "Name":"青木 百々 ☆4-02 進化前", "CharNo":10026, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"ふふ、ふふふふ……\n燃えるっす。時間との戦いっす\nなんだか楽しくなってきたっす\nお月見までに間に合わせてみせるっすよー", "SpeechText2":"ペンキが乾く時間を考えると、\n厚塗りには出来ないっすね\n失敗の許されない一発勝負っす\n集中して一気に描き上げるっす！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2641010, "Name":"青木 百々 ☆4-02 進化後", "CharNo":10026, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"実家が「テーラー青木」っていう\n仕立屋なんす\n家にいた頃は、いっつも手伝ってましたよ\n洋服作るのは、漫画を描くことの\n次に好きっすね", "SpeechText2":"自分で描いてる漫画のキャラクターの衣装を\n実際に作ってみたりもするっす\n生地選びにもこだわって、\nちゃんと型紙から作るっすよ", "SpeechText3":"", "SpeechText4":""
+      "No":2641010, "Name":"青木 百々 ☆4-02 進化後", "CharNo":10026, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":92, "SpeechText1":"ススキの書き割りが好評で良かったっす\n時間ギリギリだったけど、\n間に合って良かったっす\nヒメちゃんがしっかりしたパネルを\n作ってくれたおかげっすね", "SpeechText2":"この衣装は自分の欲望のために作ったっす\nみんなが着ているところを見たい！　と\n思えばこそ、時間内に仕上げられたっす\nお月見の雰囲気にもぴったりで\n我ながらいい出来だと思うっすよー", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":2650000, "Name":"青木 百々 ☆5-01 進化前", "CharNo":10026, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-97, "SpeechPositionY":198, "SpeechText1":"即売会のイベントは、\n読者さんと直接触れ合えるのが熱いっす！\nでも、それ以上に激熱なのは、\n自分が好きな作家さんに\n直接頒布してもらえることっす！", "SpeechText2":"今回の即売会のイベントも、直接会って\nお話したい作家さんがたくさんいるっす！\nヒメちゃん、今回も売り子のお手伝い\nお願いします！", "SpeechText3":"", "SpeechText4":""
@@ -634,10 +634,10 @@
       "No":2741000, "Name":"等松 美海 ☆4-01 進化後", "CharNo":10027, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-43, "SpeechPositionY":60, "SpeechText1":"酒保は艦の中のコンビニみたいなものね\n日用品や嗜好品を、\n利益を乗せないで販売してるの\nみんなに艦の中で\n快適に過ごしてもらうために、\n品揃えも考えてるわ", "SpeechText2":"酒保で取り扱ってほしいものがあったら\n聞かせて。え？　ピロシキ？\n湯豆腐？　マグロのお寿司？\n…日持ちしないものはダメよ\n…でも、マッチの生写真となら\n取引してもいいわ！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2740010, "Name":"等松 美海 ☆4-02 進化前", "CharNo":10027, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":78, "SpeechText1":"主計科の仕事もいろいろあるんだけど、\n倉庫の在庫管理は大事な仕事のひとつね\n食材、日用品から弾薬まで…\nあらゆる在庫を把握するのは\n主計科の仕事の基本よ", "SpeechText2":"主計科は経理と衣類・食糧を担当しているわ\n長い航海において、\n在庫の管理が重要なのは分かるわよね\n艦のみんなを支える大事な仕事なの", "SpeechText3":"", "SpeechText4":""
+      "No":2740010, "Name":"等松 美海 ☆4-02 進化前", "CharNo":10027, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-41, "SpeechPositionY":139, "SpeechText1":"きれいな夜……\nいつもマッチはステキだけれど、\n月明かりに照らされたマッチもまた違って\n輝いて見えるわ……\nマッチへの想いを叫びたい。でも、\nこの静かな夜を壊したくないの……", "SpeechText2":"もう……ダメ……こらえきれない！\nキャーー、マッチー！　ステキよーー！\n月明かりに照らされるマッチ！\nカッコいいーーー！！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2741010, "Name":"等松 美海 ☆4-02 進化後", "CharNo":10027, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-43, "SpeechPositionY":60, "SpeechText1":"酒保は艦の中のコンビニみたいなものね\n日用品や嗜好品を、\n利益を乗せないで販売してるの\nみんなに艦の中で\n快適に過ごしてもらうために、\n品揃えも考えてるわ", "SpeechText2":"酒保で取り扱ってほしいものがあったら\n聞かせて。え？　ピロシキ？\n湯豆腐？　マグロのお寿司？\n…日持ちしないものはダメよ\n…でも、マッチの生写真となら\n取引してもいいわ！", "SpeechText3":"", "SpeechText4":""
+      "No":2741010, "Name":"等松 美海 ☆4-02 進化後", "CharNo":10027, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-39, "SpeechPositionY":198, "SpeechText1":"あぁマッチ……\nその優雅で気品のあるたたずまい\n月明かりに照らされたあなたはまるで\n高貴な平安貴族のよう……\nただカッコいいだけじゃないマッチ……\nわたしを優しく抱きしめて……！", "SpeechText2":"きゃっ……あれ？\nま、ままままま、マッチ！？\nい、いつの間にそんな姿に？\nマッチが私を抱きとめてくれた……\nああ待って、マッチ！\nマッチカムバーーック！", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":2750000, "Name":"等松 美海 ☆5-01 進化前", "CharNo":10027, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":144, "SpeechText1":"株は安く買って、高く売ると儲けが出る…\nとってもシンプルなの\nチャートを見ると、経験とカンで、\n買い時、売り時が分かるわよ\nこのチャートだと…ここが買い時ね！", "SpeechText2":"株は「マネーゲーム」っていうだけあって、\nやってみると結構のめりこむわよ\n自分の予想が当たって、大きな利益が\n出たりすると、ホント気分がいいんだから", "SpeechText3":"", "SpeechText4":""
@@ -691,10 +691,10 @@
       "No":2951000, "Name":"杵崎 ほまれ ☆5-01 進化後", "CharNo":10029, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"ミニ大根とプチトマト、たくさん獲れたよ！\nやっぱり収穫の時が一番うれしいな\nよーし、プチトマトは朝ごはんの\n付け合わせに、ミニ大根は煮物に使おう", "SpeechText2":"ミニ大根とプチトマトは大成功！\n次は、ニンジンとタマネギと\nじゃがいもに挑戦しようかな？\n「甲板菜園」のレパートリーを増やして、\n献立をもっと充実させたいな", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2950010, "Name":"杵崎 ほまれ ☆5-02 進化前", "CharNo":10029, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":42, "SpeechText1":"甲板にプランターを並べて\n「甲板菜園」をしてるの。ネギとか\nシソとか、みんなのごはんにも使ってるよ\n今回は新しくミニ大根とプチトマトに\n挑戦してるんだ", "SpeechText2":"長い航海に出たら\n新鮮な野菜が恋しくなると思うの\n「甲板菜園」でいろんな野菜を作ってたら、\n献立も充実するでしょ\n結構実用的な趣味なんだよ", "SpeechText3":"", "SpeechText4":""
+      "No":2950010, "Name":"杵崎 ほまれ ☆5-02 進化前", "CharNo":10029, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-48, "SpeechPositionY":198, "SpeechText1":"うーん……\nサツマイモ、見つからないね\nこの箱の中もトイレットペーパーだよ\nこんなにたくさん備蓄しているのは\n前にトイレットペーパーを枯渇させた時の\nトラウマだったりするのかな？", "SpeechText2":"あっ、危ない！\nいたた……あっちゃんは大丈夫だった？\n無理しないでちゃんと脚立を移動させれば\nよかったね\nそれじゃケガもなかったみたいだし、\nサツマイモ探しを再開しよう", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":2951010, "Name":"杵崎 ほまれ ☆5-02 進化後", "CharNo":10029, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"ミニ大根とプチトマト、たくさん獲れたよ！\nやっぱり収穫の時が一番うれしいな\nよーし、プチトマトは朝ごはんの\n付け合わせに、ミニ大根は煮物に使おう", "SpeechText2":"ミニ大根とプチトマトは大成功！\n次は、ニンジンとタマネギと\nじゃがいもに挑戦しようかな？\n「甲板菜園」のレパートリーを増やして、\n献立をもっと充実させたいな", "SpeechText3":"", "SpeechText4":""
+      "No":2951010, "Name":"杵崎 ほまれ ☆5-02 進化後", "CharNo":10029, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"お団子、たくさん作ったつもりだったけど\n思っていたより人気あるみたい\nイベントだからかな？\nみんな、いつもより食がすすむのかも", "SpeechText2":"さあ、どんどん作っちゃおう\nあんこの残りはまだあるみたいだけど\nあんなし団子もあったほうがいいよね\n時間はないけど、\nひとつひとつ心を込めて作らなきゃ", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":3020000, "Name":"杵崎 あかね ☆2-01 進化前", "CharNo":10030, "ShopNo":0, "Rarity":20, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"シュークリームに\nグミキャンディーを入れてみたんだけど、\n誰か試食してくれないかな\nきっとおいしいはずなんだけど！", "SpeechText2":"今度の新作、どんな洋菓子にしようかな\nみんながあっと驚くものにしたいよね\nこうやって考えるの、楽しいな", "SpeechText3":"", "SpeechText4":""
@@ -715,10 +715,10 @@
       "No":3051000, "Name":"杵崎 あかね ☆5-01 進化後", "CharNo":10030, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"コスプレしてゲームする\nっていうのも斬新だね！\nゲームの世界に思いっきり浸れるよ\nやっぱり何でも新しいことに\n挑戦してみるべきだね", "SpeechText2":"このロープレは新作ごとに\n革新的なシステムを実装して\n新鮮な気持ちでプレイできるんだ\n実家の和菓子屋も、これぐらい攻めないとね", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":3050010, "Name":"杵崎 あかね ☆5-02 進化前", "CharNo":10030, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-23, "SpeechPositionY":101, "SpeechText1":"これ、昨日発売になったばかりの\n対戦パズルゲーの新作だよ\nやっぱりゲームも新しいのが面白いよね\nネタバレとか攻略とか見ないで、\nまっさらな状態で遊べるし", "SpeechText2":"新作ゲームはいつもチェックしてるよ\nでもあんまり詳しい情報までは\n見ないようにしてるの\nだって、何にも知らない状態で遊んだほうが\n断然面白いからね", "SpeechText3":"", "SpeechText4":""
+      "No":3050010, "Name":"杵崎 あかね ☆5-02 進化前", "CharNo":10030, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"どんなお団子作ろうかな\n生クリーム団子とか……フルーツ団子とか？\nうーん、ちょっとインパクトに欠けるかな\nどうせ作るなら、革命的なお団子を\n作りたいよね", "SpeechText2":"卵に、果物に、野菜に……\nとりあえず冷蔵庫から出して並べてみたけど\nこれをどうしようかな\nいろいろ試してみたらって\nミカンちゃんも言ってたし、\n斬新なお団子目指して挑戦だよ！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":3051010, "Name":"杵崎 あかね ☆5-02 進化後", "CharNo":10030, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-2, "SpeechPositionY":198, "SpeechText1":"コスプレしてゲームする\nっていうのも斬新だね！\nゲームの世界に思いっきり浸れるよ\nやっぱり何でも新しいことに\n挑戦してみるべきだね", "SpeechText2":"このロープレは新作ごとに\n革新的なシステムを実装して\n新鮮な気持ちでプレイできるんだ\n実家の和菓子屋も、これぐらい攻めないとね", "SpeechText3":"", "SpeechText4":""
+      "No":3051010, "Name":"杵崎 あかね ☆5-02 進化後", "CharNo":10030, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-30, "SpeechPositionY":131, "SpeechText1":"ウサギの衣装が似合ってるねー五十六ー\nわたしたちとお揃いだよー\n嫌がられるかと思ったけど、\n被り物は平気なんだね\n次は洋服にも挑戦かな？", "SpeechText2":"かわいいでしょ、五十六団子\n中にはごぼうとニンジンとりんごが\n入っているんだよ\nあ！　この中身を五十六が好きなものにして\n猫にも美味しいお団子にしたら……\nこれって革命的じゃない？", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":3130000, "Name":"鏑木 美波 ☆3-01 進化前", "CharNo":10031, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"年齢が12歳と言うと、みんな驚く\nまさに我が目を疑うといった強い反応で\nだがわたしが12歳だというのは\n厳然たる事実…", "SpeechText2":"健康診断を行うと言ったら、\n必ずご飯を抜いてくる者がいる\n身体測定と勘違いしているんだろうか…？", "SpeechText3":"", "SpeechText4":""
@@ -745,10 +745,10 @@
       "No":3151000, "Name":"鏑木 美波 ☆5-01 進化後", "CharNo":10031, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-26, "SpeechPositionY":198, "SpeechText1":"実験によって多くの問題は解決の糸口を得る\n晴風のみんなの疲労解消…\nこれが目下の実験テーマだ\n決して実験をしたいが為に\n問題を探しているわけではないので、\n勘違いしないように", "SpeechText2":"今日は、疲労を取る装置の実験をおこなう\nまたわたしが被検体となるとしよう\nむ…むむむ…\nこれはなかなか気持ちがいい\n実験成功だ", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":3150010, "Name":"鏑木 美波 ☆5-02 進化前", "CharNo":10031, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":2, "SpeechPositionY":104, "SpeechText1":"ふっふっふ…\nこの液体Ａと、この液体Ｂを調合する…\nこの実験が成功すれば、晴風のみんなは\nどんな激務にも耐えられるようになる", "SpeechText2":"わたし自身がこの薬の被検体となるとしよう\n実験開始。んっ…んっ…\nビタミンとアミノ酸…\nこれでわたしが疲れにくくなれば実験成功だ", "SpeechText3":"", "SpeechText4":""
+      "No":3150010, "Name":"鏑木 美波 ☆5-02 進化前", "CharNo":10031, "ShopNo":0, "Rarity":50, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":37, "SpeechPositionY":132, "SpeechText1":"む……招待状？\n晴風でハロウィンパーティをするのか\n仮装は必須なのだな。なるほど、興味深い\n衣装の貸し出しもしているのか？\n用意周到……ラインナップも充実している", "SpeechText2":"仮装は、前々からやってみたいと\n思っていたものがある\n工夫すれば、今ここにあるもので可能だろう\n何の仮装になるかは、\n当日まで秘密にしておくとしよう", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":3151010, "Name":"鏑木 美波 ☆5-02 進化後", "CharNo":10031, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-26, "SpeechPositionY":198, "SpeechText1":"実験によって多くの問題は解決の糸口を得る\n晴風のみんなの疲労解消…\nこれが目下の実験テーマだ\n決して実験をしたいが為に\n問題を探しているわけではないので、\n勘違いしないように", "SpeechText2":"今日は、疲労を取る装置の実験をおこなう\nまたわたしが被検体となるとしよう\nむ…むむむ…\nこれはなかなか気持ちがいい\n実験成功だ", "SpeechText3":"", "SpeechText4":""
+      "No":3151010, "Name":"鏑木 美波 ☆5-02 進化後", "CharNo":10031, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":64, "SpeechText1":"むぅ……おかしくないだろうか？\n慣れない格好で、どうにも落ち着かない\nキョンシーを模してみたのだが\n実際に着てみると恥ずかしくなってきてな\nもっとほかの仮装にした方が\n良かっただろうか", "SpeechText2":"キョンシーは、中国版のゾンビだと\n世間では思われているようだな\n映画などでゾンビのように脚色されることも\n多いから、それも至極当然ではある\n有名な話だと……ん？\nその話はまた今度？　そうか、了解した", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":3330000, "Name":"知名 もえか ☆3-01 進化前", "CharNo":10033, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"しっかりとみんなをまとめていけるように\nなりたいな。そしていつか\nわたしが憧れたブルーマーメイドに\nミケちゃんと一緒になるんだ", "SpeechText2":"ふふ、たまには艦内を\nのんびり散歩するのもいいな\n潮風も、波の音も気持ちいい\nお母さんはいつもこんな気持ちで\n艦に乗っていたんだね", "SpeechText3":"", "SpeechText4":""
@@ -991,7 +991,7 @@
       "No":4251010, "Name":"大指 紀子 ☆5-02 進化後", "CharNo":10042, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":2, "SpeechPositionX":-30, "SpeechPositionY":198, "SpeechText1":"ハードボイルドな銃の扱いは完璧だ\r\n射撃も、イメージトレーニングでは\r\n百発百中だった\r\n……なのになぜ当たらないんだ？\r\n世の中ってヤツは、理不尽だぜ", "SpeechText2":"おかしい…アタシはびしょ濡れで\r\nベイビーは全く濡れていないだと？\r\nまったく、不思議なことがあるもんだ……\r\nこれもハードボイルドってことだな", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":4290000, "Name":"大指 紀子 報酬スキン", "CharNo":10042, "ShopNo":0, "Rarity":90, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"", "SpeechText3":"", "SpeechText4":""
+      "No":4290000, "Name":"大指 紀子 報酬スキン", "CharNo":10042, "ShopNo":0, "Rarity":90, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":52, "SpeechPositionY":66, "SpeechText1":"ありがとう？　いいや\r\n礼には及ばないぜ、アユ\r\nアタシは自分自身のためにやったまで\r\nハードボイルドといえば夕日だからな", "SpeechText2":"とてもいい眺めだ\r\n充実した１日を締めくくるにふさわしい\r\n夕日がまぶしいな……\r\nこれぞハードボイルドだぜ", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":4310000, "Name":"加藤 小百合 ☆1-01 進化前", "CharNo":10043, "ShopNo":0, "Rarity":10, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"ハーイ！　アイアムジェニー！\nアメリカ育ちの日本人ヨ！\n一緒にベリーハッピーでエキサイティングな\nエンジョイライフを送ろうネ！", "SpeechText2":"フンフンフ～ン。機械いじりは楽しいネ！\nこうしていると、アメリカでフレンドと\n一緒にメカをカスタマイズしていたコト、\n思い出しマース！　オゥ！　アユちゃん！\n預かってたアクセサリーなおったヨ！", "SpeechText3":"", "SpeechText4":""
@@ -1000,7 +1000,7 @@
       "No":4311000, "Name":"加藤 小百合 ☆1-01 進化後", "CharNo":10043, "ShopNo":0, "Rarity":11, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"これはノリちゃんに頼まれたもの～、\nコッチはチーちゃんが艦のパーツ壊して、\nアユちゃんから頼まれたもの～\n…よし！　修理完了ネ！\nさっそくミンナにお届けするヨ！", "SpeechText2":"ニホンのフードは\nアメリカと違ってボリュームはナイけど、\nとてもデリケートな味ネ！　中でも、\n天津風のみんながジェニーのために\n作ってくれたシーフードピッツァが\nとても気に入ったヨ！　次が楽しみネ～！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":4340000, "Name":"加藤 小百合 ☆4-01 進化前", "CharNo":10043, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":80, "SpeechText1":"機械式の自動巻き腕時計みたいな\n緻密なスモールマシンも\n天津風のエンジンやボイラーみたいな\nビッグマシンも\nジェニーはどっちも大好きヨ！", "SpeechText2":"腕時計みたいなスモールマシンを\nメンテナンスしてるとネ\n小さな宇宙にダイブしたような\n気持ちなることがあるヨ\n日本でいう、そう…ＺEＮの境地ネ", "SpeechText3":"", "SpeechText4":""
+      "No":4340000, "Name":"加藤 小百合 ☆4-01 進化前", "CharNo":10043, "ShopNo":0, "Rarity":40, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":80, "SpeechText1":"機械式の自動巻き腕時計みたいな\n緻密なスモールマシンも\n天津風のエンジンやボイラーみたいな\nビッグマシンも\nジェニーはどっちも大好きヨ！", "SpeechText2":"腕時計みたいなスモールマシンを\nメンテナンスしてるとネ\n小さな宇宙にダイブしたような\n気持ちになることがあるヨ\n日本でいう、そう…ＺEＮの境地ネ", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":4341000, "Name":"加藤 小百合 ☆4-01 進化後", "CharNo":10043, "ShopNo":0, "Rarity":41, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":32, "SpeechText1":"半田づけはネ\n半田だけを熱するんじゃなくて、\n半田づけするパーツやリード線も\n熱しておくのがコツネ\nほら、半田がスムースに溶け込むでショ？", "SpeechText2":"艦に搭載してるメカは、\n全部ジェニーが直しちゃうネ\nこの前は鍋のフタの取っ手を修理したヨ\n小さなものから大きなものまで\n何でもウェルカムヨ", "SpeechText3":"", "SpeechText4":""
@@ -1018,7 +1018,7 @@
       "No":4351010, "Name":"加藤 小百合 ☆5-02 進化後", "CharNo":10043, "ShopNo":0, "Rarity":51, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":6, "SpeechPositionY":134, "SpeechText1":"スリー、ツー、ワン、ゴー！\r\nジェニーのカスタマイズ、どう？\r\nグレイトな走りデショ？", "SpeechText2":"イェ～イ！　ゴーゴー！\r\nこれならどこに出しても負けなしの\r\nチャンピオンマシンだヨ～！", "SpeechText3":"", "SpeechText4":""
     },
     {
-      "No":4390000, "Name":"加藤 小百合 報酬スキン", "CharNo":10043, "ShopNo":0, "Rarity":90, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"", "SpeechText3":"", "SpeechText4":""
+      "No":4390000, "Name":"加藤 小百合 報酬スキン", "CharNo":10043, "ShopNo":0, "Rarity":90, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":200, "SpeechPositionY":-2, "SpeechText1":"けっこう並んだけど、\r\nいよいよジェニーたちの番ネー\r\nワクワクするヨ！\r\nほら、チーちゃん見て。頂点だヨ\r\nここからドーンとダイブするヨ！\r\nフゥー！！", "SpeechText2":"アハハ、チーちゃんスゴイ顔！\r\nいっぱい叫んで、気持ちよかったネ\r\nジェニーもハイスピードマシーンに乗れて\r\n楽しかったヨ\r\n今日はもうオシマイだけど、\r\nまた一緒に来ようネー", "SpeechText3":"", "SpeechText4":""
     },
     {
       "No":4430000, "Name":"古庄 薫 ☆3-01 進化前", "CharNo":10044, "ShopNo":0, "Rarity":30, "DisplayIndex":1, "HomePosition":0, "SpeechType":1, "SpeechPositionX":-50, "SpeechPositionY":-36, "SpeechText1":"吹き出しテキスト1\nテスト", "SpeechText2":"吹き出しテキスト2\nテスト", "SpeechText3":"", "SpeechText4":""
