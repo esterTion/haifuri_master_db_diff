@@ -205,13 +205,13 @@
       "Type":68, "Description":"突撃状態となり航行速度が上昇し\n暗礁ダメージで耐久力が1だけ残る", "CombatType":0, "MissionType":0
     },
     {
-      "Type":69, "Description":"砲撃攻撃を行い離脱する。離脱時の\n耐久力により再出撃時間が変化", "CombatType":1, "MissionType":1
+      "Type":69, "Description":"砲撃攻撃を行い離脱する。離脱時の\n耐久力により再出撃時間が変化+5秒", "CombatType":1, "MissionType":1
     },
     {
-      "Type":70, "Description":"一定時間砲撃の火力がUPしあかね\n艦長が出撃していると攻撃速度UP", "CombatType":0, "MissionType":0
+      "Type":70, "Description":"一定時間砲撃の火力がUPしほまれ\n艦長が出撃していると攻撃速度UP", "CombatType":0, "MissionType":0
     },
     {
-      "Type":71, "Description":"一定時間魚雷の火力がUPしほまれ\n艦長が出撃していると攻撃速度UP", "CombatType":0, "MissionType":0
+      "Type":71, "Description":"一定時間魚雷の火力がUPしあかね\n艦長が出撃していると攻撃速度UP", "CombatType":0, "MissionType":0
     },
     {
       "Type":72, "Description":"敵艦船に対して強力な魚雷攻撃\n命中すると速度を減少させる", "CombatType":2, "MissionType":2

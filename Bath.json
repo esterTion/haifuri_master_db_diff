@@ -17,6 +17,15 @@
     },
     {
       "No":6, "Order":6, "Resource":1801, "SteamGroup":6, "ValidTime":"2019-05-28T14:15:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":7, "Order":7, "Resource":1701, "SteamGroup":7, "ValidTime":"2019-08-27T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":8, "Order":8, "Resource":2301, "SteamGroup":8, "ValidTime":"2019-08-27T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":9, "Order":9, "Resource":1601, "SteamGroup":9, "ValidTime":"2019-08-27T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
     }
   ]
 }

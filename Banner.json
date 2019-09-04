@@ -151,7 +151,7 @@
       "No":50022, "URL":"eventdetail/campaign50022.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":50023, "URL":"eventdetail/campaign50023_3.html", "ExternalLink":false, "Order":100, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":50023, "URL":"eventdetail/campaign50023_3.html", "ExternalLink":false, "Order":100, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
       "No":30009, "URL":"eventdetail/01110105.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
@@ -193,16 +193,22 @@
       "No":30013, "URL":"eventdetail/02110004.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":30014, "URL":"eventdetail/01120004.html", "ExternalLink":false, "Order":250, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":30014, "URL":"eventdetail/01120004.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":20022, "URL":"gachadetail/06007001.html", "ExternalLink":false, "Order":50, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-08-28T14:30:00+09:00"
+      "No":20022, "URL":"gachadetail/06007001.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":20023, "URL":"gachadetail/06008001.html", "ExternalLink":false, "Order":51, "PlayProgress":710900, "ValidTime":"2019-08-28T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+      "No":20023, "URL":"gachadetail/06008001.html", "ExternalLink":false, "Order":999, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2018-12-01T00:00:00+09:00"
     },
     {
-      "No":50028, "URL":"eventdetail/campaign50028.html", "ExternalLink":false, "Order":60, "PlayProgress":710900, "ValidTime":"2019-08-31T05:00:00+09:00", "InvalidTime":"2019-09-07T04:59:59+09:00"
+      "No":50028, "URL":"eventdetail/campaign50028.html", "ExternalLink":false, "Order":60, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-09-07T04:59:59+09:00"
+    },
+    {
+      "No":30015, "URL":"eventdetail/01110106.html", "ExternalLink":false, "Order":800, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
+    },
+    {
+      "No":20024, "URL":"gachadetail/01002021.html", "ExternalLink":false, "Order":50, "PlayProgress":710900, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00"
     }
   ]
 }

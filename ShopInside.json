@@ -1327,6 +1327,36 @@
       "No":4001420, "CollabNo":0, "Group":40001, "ProductGroup":40134, "Description":"限界突破素材 榊原 つむぎ☆4", "DailyType":0, "DailyProbability":0, "Order":140, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-08-22T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":4001421, "CollabNo":4001422, "Group":40001, "ProductGroup":40135, "Description":"限界突破素材 和住 媛萌☆5", "DailyType":0, "DailyProbability":0, "Order":45, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001422, "CollabNo":4001423, "Group":40001, "ProductGroup":40135, "Description":"限界突破素材 和住 媛萌☆5", "DailyType":0, "DailyProbability":0, "Order":45, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001423, "CollabNo":4001424, "Group":40001, "ProductGroup":40135, "Description":"限界突破素材 和住 媛萌☆5", "DailyType":0, "DailyProbability":0, "Order":45, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001424, "CollabNo":4001425, "Group":40001, "ProductGroup":40135, "Description":"限界突破素材 和住 媛萌☆5", "DailyType":0, "DailyProbability":0, "Order":45, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001425, "CollabNo":0, "Group":40001, "ProductGroup":40135, "Description":"限界突破素材 和住 媛萌☆5", "DailyType":0, "DailyProbability":0, "Order":45, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001426, "CollabNo":4001427, "Group":40001, "ProductGroup":40136, "Description":"限界突破素材 知名 もえか☆4", "DailyType":0, "DailyProbability":0, "Order":141, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001427, "CollabNo":4001428, "Group":40001, "ProductGroup":40136, "Description":"限界突破素材 知名 もえか☆4", "DailyType":0, "DailyProbability":0, "Order":141, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001428, "CollabNo":4001429, "Group":40001, "ProductGroup":40136, "Description":"限界突破素材 知名 もえか☆4", "DailyType":0, "DailyProbability":0, "Order":141, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001429, "CollabNo":4001430, "Group":40001, "ProductGroup":40136, "Description":"限界突破素材 知名 もえか☆4", "DailyType":0, "DailyProbability":0, "Order":141, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001430, "CollabNo":0, "Group":40001, "ProductGroup":40136, "Description":"限界突破素材 知名 もえか☆4", "DailyType":0, "DailyProbability":0, "Order":141, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-08-27T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":4002001, "CollabNo":0, "Group":40002, "ProductGroup":50001, "Description":"【くじ引き最強伝説】岬 明乃", "DailyType":1, "DailyProbability":1, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {

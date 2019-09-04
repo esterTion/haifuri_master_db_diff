@@ -107,6 +107,18 @@
     },
     {
       "Name":"BaseDamageShipWreckType", "Value":"1", "Type":"INTEGER"
+    },
+    {
+      "Name":"TotalSwitchToAIBattleDaily", "Value":"30", "Type":"INTEGER"
+    },
+    {
+      "Name":"TotalSwitchToAIBattleWeekly", "Value":"100", "Type":"INTEGER"
+    },
+    {
+      "Name":"TotalSwitchToAIBattleDecreaseBP", "Value":"7", "Type":"INTEGER"
+    },
+    {
+      "Name":"SuspendPenaltySeconds", "Value":"20", "Type":"INTEGER"
     }
   ]
 }
