@@ -148,7 +148,7 @@
       "Type":49, "Description":"攻撃を受けた際、相手の艦船を発見\nさらに魚雷ダメージ減少", "CombatType":4, "MissionType":0
     },
     {
-      "Type":50, "Description":"対象の艦船を緊急撤退させる\n再出撃時間は耐久力により変化", "CombatType":0, "MissionType":0
+      "Type":50, "Description":"対象の艦船を緊急撤退させる\n再出撃時間は耐久力により変化＋5秒", "CombatType":0, "MissionType":0
     },
     {
       "Type":51, "Description":"魚雷に対してデコイを使い\n５発まで完全回避する", "CombatType":0, "MissionType":0
