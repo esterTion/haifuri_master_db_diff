@@ -415,6 +415,21 @@
       "No":138, "Group":40138, "DataType":5, "DataNo":9018002, "Count":1
     },
     {
+      "No":139, "Group":40139, "DataType":5, "DataNo":9029004, "Count":1
+    },
+    {
+      "No":140, "Group":40140, "DataType":5, "DataNo":9030004, "Count":1
+    },
+    {
+      "No":141, "Group":40141, "DataType":5, "DataNo":9010004, "Count":1
+    },
+    {
+      "No":142, "Group":40142, "DataType":5, "DataNo":9026004, "Count":1
+    },
+    {
+      "No":143, "Group":40143, "DataType":5, "DataNo":9027004, "Count":1
+    },
+    {
       "No":50001, "Group":50001, "DataType":2, "DataNo":150000, "Count":1
     },
     {
@@ -571,6 +586,12 @@
       "No":50052, "Group":50052, "DataType":2, "DataNo":3340000, "Count":1
     },
     {
+      "No":50054, "Group":50054, "DataType":2, "DataNo":2350000, "Count":1
+    },
+    {
+      "No":50055, "Group":50055, "DataType":2, "DataNo":1840000, "Count":1
+    },
+    {
       "No":6000101, "Group":6000101, "DataType":3, "DataNo":190000, "Count":1
     },
     {
@@ -581,6 +602,12 @@
     },
     {
       "No":6000401, "Group":6000401, "DataType":3, "DataNo":490000, "Count":1
+    },
+    {
+      "No":6000501, "Group":6000501, "DataType":3, "DataNo":4290000, "Count":1
+    },
+    {
+      "No":6000601, "Group":6000601, "DataType":3, "DataNo":4390000, "Count":1
     },
     {
       "No":4000101, "Group":4000101, "DataType":5, "DataNo":8001001, "Count":20
@@ -935,6 +962,66 @@
     },
     {
       "No":31005023, "Group":31005023, "DataType":5, "DataNo":8005002, "Count":20
+    },
+    {
+      "No":31006001, "Group":31006001, "DataType":2, "DataNo":2740010, "Count":1
+    },
+    {
+      "No":31006002, "Group":31006002, "DataType":5, "DataNo":29005001, "Count":1
+    },
+    {
+      "No":31006003, "Group":31006003, "DataType":5, "DataNo":9027004, "Count":5
+    },
+    {
+      "No":31006004, "Group":31006004, "DataType":5, "DataNo":8004002, "Count":20
+    },
+    {
+      "No":31006005, "Group":31006005, "DataType":5, "DataNo":9029004, "Count":5
+    },
+    {
+      "No":31006006, "Group":31006006, "DataType":5, "DataNo":9030004, "Count":5
+    },
+    {
+      "No":31006007, "Group":31006007, "DataType":5, "DataNo":9010004, "Count":5
+    },
+    {
+      "No":31006008, "Group":31006008, "DataType":5, "DataNo":9026004, "Count":5
+    },
+    {
+      "No":31006009, "Group":31006009, "DataType":5, "DataNo":8004003, "Count":10
+    },
+    {
+      "No":31006010, "Group":31006010, "DataType":5, "DataNo":8002002, "Count":20
+    },
+    {
+      "No":31006011, "Group":31006011, "DataType":5, "DataNo":8003002, "Count":20
+    },
+    {
+      "No":31006012, "Group":31006012, "DataType":5, "DataNo":3002001, "Count":1
+    },
+    {
+      "No":31006013, "Group":31006013, "DataType":5, "DataNo":2001001, "Count":5000
+    },
+    {
+      "No":31006014, "Group":31006014, "DataType":5, "DataNo":5001001, "Count":5
+    },
+    {
+      "No":31006015, "Group":31006015, "DataType":5, "DataNo":24001001, "Count":5
+    },
+    {
+      "No":31006016, "Group":31006016, "DataType":5, "DataNo":4001001, "Count":1
+    },
+    {
+      "No":31006017, "Group":31006017, "DataType":5, "DataNo":2001001, "Count":1
+    },
+    {
+      "No":31006018, "Group":31006018, "DataType":5, "DataNo":2001001, "Count":100
+    },
+    {
+      "No":31006019, "Group":31006019, "DataType":5, "DataNo":30001001, "Count":1
+    },
+    {
+      "No":31006020, "Group":31006020, "DataType":5, "DataNo":3005001, "Count":1
     }
   ]
 }
