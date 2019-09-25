@@ -898,7 +898,7 @@
       "No":27001001, "Name":"虹のオーブ", "Description":"ショップで様々なアイテムと\n交換ができる通貨", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":249, "SalePrice":100
     },
     {
-      "No":28001001, "Name":"収録ディスク", "Description":"今週のハイフリを解放することができる\n（公開されていない話を見ることはできません）", "Type":27, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":250, "SalePrice":100
+      "No":28001001, "Name":"収録ディスク", "Description":"今週のハイフリを解放することができる\n公開されていない話を見ることはできません", "Type":27, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":250, "SalePrice":100
     },
     {
       "No":29001001, "Name":"イベントディスク【19年5月】", "Description":"期間限定イベント「仁義のない映画祭」専用\n集めるとイベントのストーリーが解放される\n（4話以降は6/4解放予定）", "Type":11, "Category":1, "MaxCount":9999, "Effect1":0, "Effect2":0, "Effect3":0, "ExpireTime":"2099-12-01T00:00:00+09:00", "ValidITime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "OnList":true, "Order":252, "SalePrice":100
