@@ -1,5 +1,5 @@
 {
-  "Version":1287, "Signatures":[
+  "Version":1288, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"09b100eb0820cc0fd490b4051d0e77d0a9160d9440ba4d320b7", "Iv":"64808fd9c62f3bad5c47a75670ce86c9", "Salt":"458672d15a521c746e663e728fd38132d38d9aef5f3f5b4cae0d44d6999b743e", "Size":128, "Sha1":"eda4cfa157dad2f465813a940e7df7d38c05f914"
     },
@@ -184,7 +184,7 @@
       "MasterName":"ShopBody", "Signature":"0894467098780fd0df0e25b0f104610b0183b094790a90af1d", "Iv":"3afee331a2a1686aaa2ce961aa1ace86", "Salt":"3047c7c7935efb9ec39aea896f860086970a77a4cc5edd9a51d332af39e35735", "Size":6304, "Sha1":"56281ca9910e77e32f8567e6a0e061edb2f9259b"
     },
     {
-      "MasterName":"ShopInside", "Signature":"0d00ca4f4b0e930420a0a00c50bf0a40d0b8530980d8540c20b4", "Iv":"a8ef1ed74b7de74b99cd231dcef371e5", "Salt":"b0a9384abc5c7ba5a1b6e932a176d0d745356ffdbce1c7ba9e3a1422950ca3b6", "Size":257440, "Sha1":"8064721b20104906436861a7c9c002d35f4aacf7"
+      "MasterName":"ShopInside", "Signature":"0910c10b909a0b430920cc08d2f0709e1e45240970850ee256c", "Iv":"2bef7a3f36125171950635b0c75e8109", "Salt":"5aa323f1916aa80f9be6b22239b3783cb218c8255bdf17262ae9da3935dcf783", "Size":255392, "Sha1":"1c51f19a67b3819e1e84278ac902693a8331bba6"
     },
     {
       "MasterName":"ShopProduct", "Signature":"0c1731f0c70b0e9476a670810d10ae0e3400e564730bf650b9", "Iv":"9b1e85f13a11edb13b611558a90283cb", "Salt":"cd87bf9c2f8663a1adb9bbf3b7ec3dc6bf26b1f66791558f9504b716c341dc42", "Size":26608, "Sha1":"b536d23f32b6e73ca401aa8d9bdfb2e3619d2954"

@@ -46,18 +46,6 @@
       "No":10001015, "CollabNo":0, "Group":10001, "ProductGroup":4001501, "Description":"その他の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":15, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001016, "CollabNo":0, "Group":10001, "ProductGroup":31002002, "Description":"集めると「仁義のない映画祭」のイベントストーリーが解放される\n※所持しているイベントディスクによって全解放に必要な個数は変わります", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
-    },
-    {
-      "No":10001017, "CollabNo":0, "Group":10001, "ProductGroup":31003002, "Description":"集めると「南の島でサバイバル!?」のイベントストーリーが解放される\n※所持しているイベントディスクによって全解放に必要な個数は変わります", "DailyType":0, "DailyProbability":0, "Order":102, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
-    },
-    {
-      "No":10001018, "CollabNo":0, "Group":10001, "ProductGroup":31004002, "Description":"集めると「怪奇！霧の中の幽霊船!?」のイベントストーリーが解放される\n※所持しているイベントディスクによって全解放に必要な個数は変わります", "DailyType":0, "DailyProbability":0, "Order":103, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":7, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
-    },
-    {
-      "No":10001019, "CollabNo":0, "Group":10001, "ProductGroup":31005002, "Description":"集めると「浴衣で行こう!花火大会!」のイベントストーリーが解放される\n※所持しているイベントディスクによって全解放に必要な個数は変わります", "DailyType":0, "DailyProbability":0, "Order":104, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
-    },
-    {
       "No":20001001, "CollabNo":0, "Group":20001, "ProductGroup":4001601, "Description":"お風呂チケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":1, "PaymentItemNo":0, "PaymentCount":50, "PurchaseLimit":15, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
