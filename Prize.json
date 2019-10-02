@@ -3601,6 +3601,30 @@
       "No":41075, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9027004, "ItemCount":2, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
     },
     {
+      "No":41076, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9037003, "ItemCount":5, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":41077, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9037003, "ItemCount":15, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":41078, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9037003, "ItemCount":30, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":41079, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9037003, "ItemCount":45, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":41080, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9027002, "ItemCount":5, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":41081, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9027002, "ItemCount":15, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":41082, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9027002, "ItemCount":30, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":41083, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":9027002, "ItemCount":45, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
       "No":50002, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "CardNo":140000, "CardLevel":1, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
     },
     {
@@ -3674,6 +3698,48 @@
     },
     {
       "No":80001, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90010, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":10, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90050, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":50, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90100, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":100, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90200, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":200, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90300, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":300, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90350, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":350, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90400, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":400, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90450, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":450, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90500, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":500, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90600, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":600, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90650, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":650, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90700, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":700, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":90800, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":800, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
+    },
+    {
+      "No":91000, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":11901001, "ItemCount":1000, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":0, "SdSkinNo":0, "SpineSkinNo":0
     },
     {
       "No":990001, "Grade":3, "Experience":0, "Coin":0, "Jewel":0, "ItemNo":0, "ItemCount":0, "CardNo":0, "CardLevel":0, "CardLimitBreak":0, "ShipNo":30701, "SdSkinNo":0, "SpineSkinNo":0

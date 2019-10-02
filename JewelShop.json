@@ -34,37 +34,37 @@
       "No":125001, "Name":"リリース４ヶ月記念!セット!", "Description":"1回限定 お得セット\nマーメイドジュエル3750個のセット\n(有償1875+無償1875)", "Type":2, "PaidJewel":1875, "BonusJewel":1875, "Order":4, "Store":"google", "ProductId":"com.aniplex.highschoolfleet.shopitemj10", "Price":3000, "PurchaseLimit":1, "ValidTime":"2019-07-31T15:00:00+09:00", "InvalidTime":"2019-09-04T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":210001, "Name":"30日パスポート", "Description":"１ヶ月で合計3150個のセット\n（初回有償600＋無償85×30日）\nさらに外洋訓練の訓練出撃枠＋２", "Type":1, "PaidJewel":0, "BonusJewel":0, "Order":1, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemp01", "Price":960, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":210001, "Name":"30日パスポート", "Description":"１ヶ月で合計3150個のセット\n（初回有償600＋無償85×30日）\nさらに外洋訓練の訓練出撃枠＋２", "Type":1, "PaidJewel":0, "BonusJewel":0, "Order":1, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemp01", "Price":980, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":220001, "Name":"マーメイドジュエル8900個", "Description":"マーメイドジュエル8900個のセット\n(有償6125+無償2775)", "Type":2, "PaidJewel":6125, "BonusJewel":2775, "Order":5, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj01", "Price":9800, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":220001, "Name":"マーメイドジュエル8900個", "Description":"マーメイドジュエル8900個のセット\n(有償6125+無償2775)", "Type":2, "PaidJewel":6125, "BonusJewel":2775, "Order":5, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj01", "Price":10000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":220002, "Name":"マーメイドジュエル4200個", "Description":"マーメイドジュエル4200個のセット\n(有償3000+無償1200)", "Type":2, "PaidJewel":3000, "BonusJewel":1200, "Order":6, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj02", "Price":4800, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":220002, "Name":"マーメイドジュエル4200個", "Description":"マーメイドジュエル4200個のセット\n(有償3000+無償1200)", "Type":2, "PaidJewel":3000, "BonusJewel":1200, "Order":6, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj02", "Price":4900, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":220003, "Name":"マーメイドジュエル2500個", "Description":"マーメイドジュエル2500個のセット\n(有償1875+無償625)", "Type":2, "PaidJewel":1875, "BonusJewel":625, "Order":7, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj03", "Price":3000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":220003, "Name":"マーメイドジュエル2500個", "Description":"マーメイドジュエル2500個のセット\n(有償1875+無償625)", "Type":2, "PaidJewel":1875, "BonusJewel":625, "Order":7, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj03", "Price":3060, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":220004, "Name":"マーメイドジュエル1500個", "Description":"マーメイドジュエル1500個のセット\n(有償1125+無償375)", "Type":2, "PaidJewel":1125, "BonusJewel":375, "Order":8, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj04", "Price":1800, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":220004, "Name":"マーメイドジュエル1500個", "Description":"マーメイドジュエル1500個のセット\n(有償1125+無償375)", "Type":2, "PaidJewel":1125, "BonusJewel":375, "Order":8, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj04", "Price":1840, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":220005, "Name":"マーメイドジュエル800個", "Description":"マーメイドジュエル800個のセット\n(有償600+無償200)", "Type":2, "PaidJewel":600, "BonusJewel":200, "Order":9, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj05", "Price":960, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":220005, "Name":"マーメイドジュエル800個", "Description":"マーメイドジュエル800個のセット\n(有償600+無償200)", "Type":2, "PaidJewel":600, "BonusJewel":200, "Order":9, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj05", "Price":980, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
       "No":220006, "Name":"マーメイドジュエル75個", "Description":"マーメイドジュエル75個のセット\n(有償75)", "Type":2, "PaidJewel":75, "BonusJewel":0, "Order":10, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj06", "Price":120, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":221001, "Name":"マーメイドジュエル17800個", "Description":"3回限定いつもより2倍お得!\nマーメイドジュエル17800個のセット\n(有償6125+無償11675)", "Type":2, "PaidJewel":6125, "BonusJewel":11675, "Order":3, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj07", "Price":9800, "PurchaseLimit":3, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-07-03T14:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":221001, "Name":"マーメイドジュエル17800個", "Description":"3回限定いつもより2倍お得!\nマーメイドジュエル17800個のセット\n(有償6125+無償11675)", "Type":2, "PaidJewel":6125, "BonusJewel":11675, "Order":3, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj07", "Price":10000, "PurchaseLimit":3, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-07-03T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":223001, "Name":"新入生応援!セット!", "Description":"48時間限定1回限定 超お得セット\nマーメイドジュエル8400個のセット\n(有償3000+無償5400)", "Type":2, "PaidJewel":3000, "BonusJewel":5400, "Order":2, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj08", "Price":4800, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":48, "PickUp":true
+      "No":223001, "Name":"新入生応援!セット!", "Description":"48時間限定1回限定 超お得セット\nマーメイドジュエル8400個のセット\n(有償3000+無償5400)", "Type":2, "PaidJewel":3000, "BonusJewel":5400, "Order":2, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj08", "Price":4900, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":48, "PickUp":true
     },
     {
-      "No":224001, "Name":"初心者応援!セット!", "Description":"1回限定 お得セット\nマーメイドジュエル3750個のセット\n(有償1875+無償1875)", "Type":2, "PaidJewel":1875, "BonusJewel":1875, "Order":4, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj09", "Price":3000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-07-03T14:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":224001, "Name":"初心者応援!セット!", "Description":"1回限定 お得セット\nマーメイドジュエル3750個のセット\n(有償1875+無償1875)", "Type":2, "PaidJewel":1875, "BonusJewel":1875, "Order":4, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj09", "Price":3060, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-07-03T14:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":225001, "Name":"リリース４ヶ月記念!セット!", "Description":"1回限定 お得セット\nマーメイドジュエル3750個のセット\n(有償1875+無償1875)", "Type":2, "PaidJewel":1875, "BonusJewel":1875, "Order":4, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj10", "Price":3000, "PurchaseLimit":1, "ValidTime":"2019-07-31T15:00:00+09:00", "InvalidTime":"2019-09-04T14:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":225001, "Name":"リリース４ヶ月記念!セット!", "Description":"1回限定 お得セット\nマーメイドジュエル3750個のセット\n(有償1875+無償1875)", "Type":2, "PaidJewel":1875, "BonusJewel":1875, "Order":4, "Store":"apple", "ProductId":"com.aniplex.highschoolfleet.shopitemj10", "Price":3060, "PurchaseLimit":1, "ValidTime":"2019-07-31T15:00:00+09:00", "InvalidTime":"2019-09-04T14:00:00+09:00", "UserHour":0, "PickUp":true
     }
   ]
 }

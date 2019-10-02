@@ -1,370 +1,370 @@
 {
   "Name":"Battle", "Rows":[
     {
-      "No":1101001, "MapNo":100101, "Group":1001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101001, "MapNo":100101, "Group":1001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102001, "MapNo":100102, "Group":2001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102001, "MapNo":100102, "Group":2001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103001, "MapNo":100103, "Group":3001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103001, "MapNo":100103, "Group":3001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104001, "MapNo":100104, "Group":4001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104001, "MapNo":100104, "Group":4001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105001, "MapNo":100105, "Group":5001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105001, "MapNo":100105, "Group":5001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106001, "MapNo":100106, "Group":6001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106001, "MapNo":100106, "Group":6001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107001, "MapNo":100107, "Group":7001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107001, "MapNo":100107, "Group":7001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1101002, "MapNo":100101, "Group":1001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101002, "MapNo":100101, "Group":1001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102002, "MapNo":100102, "Group":2001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102002, "MapNo":100102, "Group":2001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103002, "MapNo":100103, "Group":3001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103002, "MapNo":100103, "Group":3001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104002, "MapNo":100104, "Group":4001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104002, "MapNo":100104, "Group":4001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105002, "MapNo":100105, "Group":5001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105002, "MapNo":100105, "Group":5001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106002, "MapNo":100106, "Group":6001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106002, "MapNo":100106, "Group":6001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107002, "MapNo":100107, "Group":7001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107002, "MapNo":100107, "Group":7001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111001, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111001, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111002, "MapNo":100109, "Group":12001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111002, "MapNo":100109, "Group":12001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111003, "MapNo":100109, "Group":12003, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111003, "MapNo":100109, "Group":12003, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111004, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111004, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111005, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":90, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111005, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":90, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111201, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111201, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111202, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111202, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111203, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111203, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111204, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20030, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111204, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20030, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111205, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20040, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111205, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20040, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111206, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20050, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111206, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20050, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111207, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20060, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111207, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20060, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111208, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20070, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111208, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20070, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111209, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20080, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111209, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20080, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111210, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20090, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111210, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20090, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111211, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111211, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111212, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111212, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111221, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111221, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111222, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20001, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111222, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20001, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111223, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111223, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111224, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20030, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111224, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20030, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111225, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20040, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111225, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20040, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111226, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20050, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111226, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20050, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111227, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20060, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111227, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20060, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111228, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20070, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111228, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20070, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111229, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20080, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111229, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20080, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111230, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20090, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111230, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20090, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111231, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111231, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111232, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111232, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111241, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20001, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111241, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20001, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111242, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20010, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111242, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20010, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111243, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20001, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111243, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20001, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111244, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20030, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111244, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20030, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111245, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20040, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111245, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20040, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111246, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20050, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111246, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20050, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111247, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20060, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111247, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20060, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111248, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20070, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111248, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20070, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111249, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20080, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111249, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20080, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111250, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20090, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111250, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20090, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111251, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111251, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111252, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111252, "MapNo":100108, "Group":11001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20100, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1121901, "MapNo":100109, "Group":12001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
+      "No":1121901, "MapNo":100109, "Group":12001, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.80000000000000004, "BoostTimeStartSeconds":120
     },
     {
-      "No":1101003, "MapNo":200101, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101003, "MapNo":200101, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102003, "MapNo":200102, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102003, "MapNo":200102, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103003, "MapNo":200103, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103003, "MapNo":200103, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104003, "MapNo":200104, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104003, "MapNo":200104, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105003, "MapNo":200105, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105003, "MapNo":200105, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106003, "MapNo":200106, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106003, "MapNo":200106, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107003, "MapNo":200107, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107003, "MapNo":200107, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111011, "MapNo":200108, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111011, "MapNo":200108, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111012, "MapNo":200109, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111012, "MapNo":200109, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111013, "MapNo":200109, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111013, "MapNo":200109, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1121911, "MapNo":200109, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
+      "No":1121911, "MapNo":200109, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.80000000000000004, "BoostTimeStartSeconds":120
     },
     {
-      "No":1101004, "MapNo":200201, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101004, "MapNo":200201, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102004, "MapNo":200202, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102004, "MapNo":200202, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103004, "MapNo":200203, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103004, "MapNo":200203, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104004, "MapNo":200204, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104004, "MapNo":200204, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105004, "MapNo":200205, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105004, "MapNo":200205, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106004, "MapNo":200206, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106004, "MapNo":200206, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107004, "MapNo":200207, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107004, "MapNo":200207, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111021, "MapNo":200208, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111021, "MapNo":200208, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111022, "MapNo":200209, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111022, "MapNo":200209, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111023, "MapNo":200209, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111023, "MapNo":200209, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1121921, "MapNo":200209, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
+      "No":1121921, "MapNo":200209, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.80000000000000004, "BoostTimeStartSeconds":120
     },
     {
-      "No":1101005, "MapNo":200301, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101005, "MapNo":200301, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102005, "MapNo":200302, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102005, "MapNo":200302, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103005, "MapNo":200303, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103005, "MapNo":200303, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104005, "MapNo":200304, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104005, "MapNo":200304, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105005, "MapNo":200305, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105005, "MapNo":200305, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106005, "MapNo":200306, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106005, "MapNo":200306, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107005, "MapNo":200307, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107005, "MapNo":200307, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111031, "MapNo":200308, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111031, "MapNo":200308, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111032, "MapNo":200309, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111032, "MapNo":200309, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111033, "MapNo":200309, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111033, "MapNo":200309, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1121931, "MapNo":200309, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
+      "No":1121931, "MapNo":200309, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.80000000000000004, "BoostTimeStartSeconds":120
     },
     {
-      "No":1101006, "MapNo":200401, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101006, "MapNo":200401, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102006, "MapNo":200402, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102006, "MapNo":200402, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103006, "MapNo":200403, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103006, "MapNo":200403, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104006, "MapNo":200404, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104006, "MapNo":200404, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105006, "MapNo":200405, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105006, "MapNo":200405, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106006, "MapNo":200406, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106006, "MapNo":200406, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107006, "MapNo":200407, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107006, "MapNo":200407, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111041, "MapNo":200408, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111041, "MapNo":200408, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111042, "MapNo":200409, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111042, "MapNo":200409, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111043, "MapNo":200409, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111043, "MapNo":200409, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1121941, "MapNo":200409, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
+      "No":1121941, "MapNo":200409, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.80000000000000004, "BoostTimeStartSeconds":120
     },
     {
-      "No":1101007, "MapNo":200501, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101007, "MapNo":200501, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102007, "MapNo":200502, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102007, "MapNo":200502, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103007, "MapNo":200503, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103007, "MapNo":200503, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104007, "MapNo":200504, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104007, "MapNo":200504, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105007, "MapNo":200505, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105007, "MapNo":200505, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106007, "MapNo":200506, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106007, "MapNo":200506, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107007, "MapNo":200507, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107007, "MapNo":200507, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111051, "MapNo":200508, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111051, "MapNo":200508, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111052, "MapNo":200509, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111052, "MapNo":200509, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111053, "MapNo":200509, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111053, "MapNo":200509, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1121951, "MapNo":200509, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
+      "No":1121951, "MapNo":200509, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.80000000000000004, "BoostTimeStartSeconds":120
     },
     {
-      "No":1101008, "MapNo":200601, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1101008, "MapNo":200601, "Group":1021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":1, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1102008, "MapNo":200602, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1102008, "MapNo":200602, "Group":2021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1103008, "MapNo":200603, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1103008, "MapNo":200603, "Group":3021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":40, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1104008, "MapNo":200604, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1104008, "MapNo":200604, "Group":4021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1105008, "MapNo":200605, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1105008, "MapNo":200605, "Group":5021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":70, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1106008, "MapNo":200606, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1106008, "MapNo":200606, "Group":6021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":80, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1107008, "MapNo":200607, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1107008, "MapNo":200607, "Group":7021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9999, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111061, "MapNo":200608, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111061, "MapNo":200608, "Group":11021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":20, "Rule":1, "Seconds":180, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111062, "MapNo":200609, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111062, "MapNo":200609, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1111063, "MapNo":200609, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.9, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
+      "No":1111063, "MapNo":200609, "Group":12023, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":10, "Rule":1, "Seconds":0, "CostUpTime":1.8999999999999999, "BoostTimeType":1, "BoostTimeValue":1, "BoostTimeStartSeconds":120
     },
     {
-      "No":1121961, "MapNo":200609, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.8, "BoostTimeStartSeconds":120
+      "No":1121961, "MapNo":200609, "Group":12021, "PlayerBattleAiNo":9999, "OpponentBattleAiNo":9000, "Rule":1, "Seconds":60, "CostUpTime":1.2, "BoostTimeType":1, "BoostTimeValue":0.80000000000000004, "BoostTimeStartSeconds":120
     }
   ]
 }

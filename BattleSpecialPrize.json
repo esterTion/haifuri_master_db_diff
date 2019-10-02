@@ -55,6 +55,60 @@
       "No":1002014, "Group":1002, "Type":1, "Ranking":100000, "Evaluation":4, "RankCluster":0, "FestivalVod":0, "PrizeGroup":12014
     },
     {
+      "No":1003001, "Group":1003, "Type":1, "Ranking":10, "Evaluation":1, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13001
+    },
+    {
+      "No":1003002, "Group":1003, "Type":1, "Ranking":50, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13002
+    },
+    {
+      "No":1003003, "Group":1003, "Type":1, "Ranking":100, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13003
+    },
+    {
+      "No":1003004, "Group":1003, "Type":1, "Ranking":199, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13004
+    },
+    {
+      "No":1003005, "Group":1003, "Type":1, "Ranking":200, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13005
+    },
+    {
+      "No":1003006, "Group":1003, "Type":1, "Ranking":499, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13006
+    },
+    {
+      "No":1003007, "Group":1003, "Type":1, "Ranking":500, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13007
+    },
+    {
+      "No":1003008, "Group":1003, "Type":1, "Ranking":999, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13008
+    },
+    {
+      "No":1003009, "Group":1003, "Type":1, "Ranking":1000, "Evaluation":2, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13009
+    },
+    {
+      "No":1003010, "Group":1003, "Type":1, "Ranking":1999, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13010
+    },
+    {
+      "No":1003011, "Group":1003, "Type":1, "Ranking":2000, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13011
+    },
+    {
+      "No":1003012, "Group":1003, "Type":1, "Ranking":2999, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13012
+    },
+    {
+      "No":1003013, "Group":1003, "Type":1, "Ranking":3000, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13013
+    },
+    {
+      "No":1003014, "Group":1003, "Type":1, "Ranking":3999, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13014
+    },
+    {
+      "No":1003015, "Group":1003, "Type":1, "Ranking":4000, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13015
+    },
+    {
+      "No":1003016, "Group":1003, "Type":1, "Ranking":4999, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13016
+    },
+    {
+      "No":1003017, "Group":1003, "Type":1, "Ranking":5000, "Evaluation":3, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13017
+    },
+    {
+      "No":1003018, "Group":1003, "Type":1, "Ranking":-1, "Evaluation":4, "RankCluster":0, "FestivalVod":0, "PrizeGroup":13018
+    },
+    {
       "No":2001001, "Group":2001, "Type":2, "Ranking":0, "Evaluation":0, "RankCluster":25, "FestivalVod":0, "PrizeGroup":20001
     },
     {
@@ -1433,6 +1487,81 @@
     },
     {
       "No":4017025, "Group":4017, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":1, "FestivalVod":0, "PrizeGroup":40232
+    },
+    {
+      "No":4018001, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":25, "FestivalVod":0, "PrizeGroup":40275
+    },
+    {
+      "No":4018002, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":24, "FestivalVod":0, "PrizeGroup":40274
+    },
+    {
+      "No":4018003, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":23, "FestivalVod":0, "PrizeGroup":40273
+    },
+    {
+      "No":4018004, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":22, "FestivalVod":0, "PrizeGroup":40272
+    },
+    {
+      "No":4018005, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":21, "FestivalVod":0, "PrizeGroup":40271
+    },
+    {
+      "No":4018006, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":20, "FestivalVod":0, "PrizeGroup":40270
+    },
+    {
+      "No":4018007, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":19, "FestivalVod":0, "PrizeGroup":40269
+    },
+    {
+      "No":4018008, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":18, "FestivalVod":0, "PrizeGroup":40268
+    },
+    {
+      "No":4018009, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":17, "FestivalVod":0, "PrizeGroup":40267
+    },
+    {
+      "No":4018010, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":16, "FestivalVod":0, "PrizeGroup":40266
+    },
+    {
+      "No":4018011, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":15, "FestivalVod":0, "PrizeGroup":40265
+    },
+    {
+      "No":4018012, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":14, "FestivalVod":0, "PrizeGroup":40264
+    },
+    {
+      "No":4018013, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":13, "FestivalVod":0, "PrizeGroup":40263
+    },
+    {
+      "No":4018014, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":12, "FestivalVod":0, "PrizeGroup":40262
+    },
+    {
+      "No":4018015, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":11, "FestivalVod":0, "PrizeGroup":40261
+    },
+    {
+      "No":4018016, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":10, "FestivalVod":0, "PrizeGroup":40260
+    },
+    {
+      "No":4018017, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":9, "FestivalVod":0, "PrizeGroup":40259
+    },
+    {
+      "No":4018018, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":8, "FestivalVod":0, "PrizeGroup":40258
+    },
+    {
+      "No":4018019, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":7, "FestivalVod":0, "PrizeGroup":40257
+    },
+    {
+      "No":4018020, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":6, "FestivalVod":0, "PrizeGroup":40256
+    },
+    {
+      "No":4018021, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":5, "FestivalVod":0, "PrizeGroup":40255
+    },
+    {
+      "No":4018022, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":4, "FestivalVod":0, "PrizeGroup":40254
+    },
+    {
+      "No":4018023, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":3, "FestivalVod":0, "PrizeGroup":40254
+    },
+    {
+      "No":4018024, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":2, "FestivalVod":0, "PrizeGroup":40254
+    },
+    {
+      "No":4018025, "Group":4018, "Type":4, "Ranking":0, "Evaluation":0, "RankCluster":1, "FestivalVod":0, "PrizeGroup":40254
     },
     {
       "No":5001001, "Group":5001, "Type":5, "Ranking":0, "Evaluation":0, "RankCluster":25, "FestivalVod":0, "PrizeGroup":5001

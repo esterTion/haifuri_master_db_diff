@@ -4,37 +4,37 @@
       "No":101000, "Group":101, "Count":0, "Value":0, "Power":0, "ItemNo":6001001, "ItemCount":30, "Coin":500
     },
     {
-      "No":101001, "Group":101, "Count":1, "Value":0.1, "Power":5, "ItemNo":6001001, "ItemCount":45, "Coin":1000
+      "No":101001, "Group":101, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6001001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":101002, "Group":101, "Count":2, "Value":0.2, "Power":10, "ItemNo":6001001, "ItemCount":60, "Coin":1500
+      "No":101002, "Group":101, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6001001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":101003, "Group":101, "Count":3, "Value":0.3, "Power":15, "ItemNo":6001001, "ItemCount":75, "Coin":2000
+      "No":101003, "Group":101, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6001001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":101004, "Group":101, "Count":4, "Value":0.4, "Power":20, "ItemNo":6001001, "ItemCount":90, "Coin":2500
+      "No":101004, "Group":101, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6001001, "ItemCount":90, "Coin":2500
     },
     {
       "No":101005, "Group":101, "Count":5, "Value":0.5, "Power":25, "ItemNo":6001001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":101006, "Group":101, "Count":6, "Value":0.6, "Power":30, "ItemNo":6001001, "ItemCount":120, "Coin":3500
+      "No":101006, "Group":101, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6001001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":101007, "Group":101, "Count":7, "Value":0.7, "Power":35, "ItemNo":6001001, "ItemCount":135, "Coin":4000
+      "No":101007, "Group":101, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6001001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":101008, "Group":101, "Count":8, "Value":0.8, "Power":40, "ItemNo":6001001, "ItemCount":150, "Coin":4500
+      "No":101008, "Group":101, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6001001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":101009, "Group":101, "Count":9, "Value":0.9, "Power":45, "ItemNo":6001001, "ItemCount":165, "Coin":5000
+      "No":101009, "Group":101, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6001001, "ItemCount":165, "Coin":5000
     },
     {
       "No":101010, "Group":101, "Count":10, "Value":1, "Power":50, "ItemNo":6001001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":101011, "Group":101, "Count":11, "Value":1.1, "Power":55, "ItemNo":6001001, "ItemCount":195, "Coin":6000
+      "No":101011, "Group":101, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6001001, "ItemCount":195, "Coin":6000
     },
     {
       "No":101012, "Group":101, "Count":12, "Value":1.2, "Power":60, "ItemNo":6001001, "ItemCount":210, "Coin":6500
@@ -43,13 +43,13 @@
       "No":101013, "Group":101, "Count":13, "Value":1.3, "Power":65, "ItemNo":6001001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":101014, "Group":101, "Count":14, "Value":1.4, "Power":70, "ItemNo":6001001, "ItemCount":240, "Coin":7500
+      "No":101014, "Group":101, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6001001, "ItemCount":240, "Coin":7500
     },
     {
       "No":101015, "Group":101, "Count":15, "Value":1.5, "Power":75, "ItemNo":6001001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":101016, "Group":101, "Count":16, "Value":1.6, "Power":80, "ItemNo":6001001, "ItemCount":270, "Coin":8500
+      "No":101016, "Group":101, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6001001, "ItemCount":270, "Coin":8500
     },
     {
       "No":101017, "Group":101, "Count":17, "Value":1.7, "Power":85, "ItemNo":6001001, "ItemCount":285, "Coin":9000
@@ -58,97 +58,97 @@
       "No":101018, "Group":101, "Count":18, "Value":1.8, "Power":90, "ItemNo":6001001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":101019, "Group":101, "Count":19, "Value":1.9, "Power":95, "ItemNo":6001001, "ItemCount":315, "Coin":10000
+      "No":101019, "Group":101, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6001001, "ItemCount":315, "Coin":10000
     },
     {
       "No":101020, "Group":101, "Count":20, "Value":2, "Power":100, "ItemNo":6001002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":101021, "Group":101, "Count":21, "Value":2.1, "Power":105, "ItemNo":6001002, "ItemCount":45, "Coin":11000
+      "No":101021, "Group":101, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6001002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":101022, "Group":101, "Count":22, "Value":2.2, "Power":110, "ItemNo":6001002, "ItemCount":60, "Coin":11500
+      "No":101022, "Group":101, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6001002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":101023, "Group":101, "Count":23, "Value":2.3, "Power":115, "ItemNo":6001002, "ItemCount":75, "Coin":12000
+      "No":101023, "Group":101, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6001002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":101024, "Group":101, "Count":24, "Value":2.4, "Power":120, "ItemNo":6001002, "ItemCount":90, "Coin":12500
+      "No":101024, "Group":101, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6001002, "ItemCount":90, "Coin":12500
     },
     {
       "No":101025, "Group":101, "Count":25, "Value":2.5, "Power":125, "ItemNo":6001002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":101026, "Group":101, "Count":26, "Value":2.6, "Power":130, "ItemNo":6001002, "ItemCount":120, "Coin":13500
+      "No":101026, "Group":101, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6001002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":101027, "Group":101, "Count":27, "Value":2.7, "Power":135, "ItemNo":6001002, "ItemCount":135, "Coin":14000
+      "No":101027, "Group":101, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6001002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":101028, "Group":101, "Count":28, "Value":2.8, "Power":140, "ItemNo":6001002, "ItemCount":150, "Coin":14500
+      "No":101028, "Group":101, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6001002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":101029, "Group":101, "Count":29, "Value":2.9, "Power":145, "ItemNo":6001002, "ItemCount":165, "Coin":15000
+      "No":101029, "Group":101, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6001002, "ItemCount":165, "Coin":15000
     },
     {
       "No":101030, "Group":101, "Count":30, "Value":3, "Power":150, "ItemNo":6001002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":101031, "Group":101, "Count":31, "Value":3.1, "Power":155, "ItemNo":6001002, "ItemCount":195, "Coin":16000
+      "No":101031, "Group":101, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6001002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":101032, "Group":101, "Count":32, "Value":3.2, "Power":160, "ItemNo":6001002, "ItemCount":210, "Coin":16500
+      "No":101032, "Group":101, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6001002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":101033, "Group":101, "Count":33, "Value":3.3, "Power":165, "ItemNo":6001002, "ItemCount":225, "Coin":17000
+      "No":101033, "Group":101, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6001002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":101034, "Group":101, "Count":34, "Value":3.4, "Power":170, "ItemNo":6001002, "ItemCount":240, "Coin":17500
+      "No":101034, "Group":101, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6001002, "ItemCount":240, "Coin":17500
     },
     {
       "No":101035, "Group":101, "Count":35, "Value":3.5, "Power":175, "ItemNo":6001002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":101036, "Group":101, "Count":36, "Value":3.6, "Power":180, "ItemNo":6001002, "ItemCount":270, "Coin":18500
+      "No":101036, "Group":101, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6001002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":101037, "Group":101, "Count":37, "Value":3.7, "Power":185, "ItemNo":6001002, "ItemCount":285, "Coin":19000
+      "No":101037, "Group":101, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6001002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":101038, "Group":101, "Count":38, "Value":3.8, "Power":190, "ItemNo":6001002, "ItemCount":300, "Coin":19500
+      "No":101038, "Group":101, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6001002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":101039, "Group":101, "Count":39, "Value":3.9, "Power":195, "ItemNo":6001002, "ItemCount":315, "Coin":20000
+      "No":101039, "Group":101, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6001002, "ItemCount":315, "Coin":20000
     },
     {
       "No":101040, "Group":101, "Count":40, "Value":4, "Power":200, "ItemNo":6001003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":101041, "Group":101, "Count":41, "Value":4.1, "Power":205, "ItemNo":6001003, "ItemCount":80, "Coin":21000
+      "No":101041, "Group":101, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6001003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":101042, "Group":101, "Count":42, "Value":4.2, "Power":210, "ItemNo":6001003, "ItemCount":120, "Coin":21500
+      "No":101042, "Group":101, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6001003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":101043, "Group":101, "Count":43, "Value":4.3, "Power":215, "ItemNo":6001003, "ItemCount":160, "Coin":22000
+      "No":101043, "Group":101, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6001003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":101044, "Group":101, "Count":44, "Value":4.4, "Power":220, "ItemNo":6001003, "ItemCount":200, "Coin":22500
+      "No":101044, "Group":101, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6001003, "ItemCount":200, "Coin":22500
     },
     {
       "No":101045, "Group":101, "Count":45, "Value":4.5, "Power":225, "ItemNo":6001003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":101046, "Group":101, "Count":46, "Value":4.6, "Power":230, "ItemNo":6001003, "ItemCount":280, "Coin":23500
+      "No":101046, "Group":101, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6001003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":101047, "Group":101, "Count":47, "Value":4.7, "Power":235, "ItemNo":6001003, "ItemCount":320, "Coin":24000
+      "No":101047, "Group":101, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6001003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":101048, "Group":101, "Count":48, "Value":4.8, "Power":240, "ItemNo":6001003, "ItemCount":360, "Coin":24500
+      "No":101048, "Group":101, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6001003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":101049, "Group":101, "Count":49, "Value":4.9, "Power":245, "ItemNo":6001003, "ItemCount":400, "Coin":25000
+      "No":101049, "Group":101, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6001003, "ItemCount":400, "Coin":25000
     },
     {
       "No":101050, "Group":101, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -157,37 +157,37 @@
       "No":201000, "Group":201, "Count":0, "Value":0, "Power":0, "ItemNo":6002001, "ItemCount":30, "Coin":500
     },
     {
-      "No":201001, "Group":201, "Count":1, "Value":0.1, "Power":5, "ItemNo":6002001, "ItemCount":45, "Coin":1000
+      "No":201001, "Group":201, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6002001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":201002, "Group":201, "Count":2, "Value":0.2, "Power":10, "ItemNo":6002001, "ItemCount":60, "Coin":1500
+      "No":201002, "Group":201, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6002001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":201003, "Group":201, "Count":3, "Value":0.3, "Power":15, "ItemNo":6002001, "ItemCount":75, "Coin":2000
+      "No":201003, "Group":201, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6002001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":201004, "Group":201, "Count":4, "Value":0.4, "Power":20, "ItemNo":6002001, "ItemCount":90, "Coin":2500
+      "No":201004, "Group":201, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6002001, "ItemCount":90, "Coin":2500
     },
     {
       "No":201005, "Group":201, "Count":5, "Value":0.5, "Power":25, "ItemNo":6002001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":201006, "Group":201, "Count":6, "Value":0.6, "Power":30, "ItemNo":6002001, "ItemCount":120, "Coin":3500
+      "No":201006, "Group":201, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6002001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":201007, "Group":201, "Count":7, "Value":0.7, "Power":35, "ItemNo":6002001, "ItemCount":135, "Coin":4000
+      "No":201007, "Group":201, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6002001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":201008, "Group":201, "Count":8, "Value":0.8, "Power":40, "ItemNo":6002001, "ItemCount":150, "Coin":4500
+      "No":201008, "Group":201, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6002001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":201009, "Group":201, "Count":9, "Value":0.9, "Power":45, "ItemNo":6002001, "ItemCount":165, "Coin":5000
+      "No":201009, "Group":201, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6002001, "ItemCount":165, "Coin":5000
     },
     {
       "No":201010, "Group":201, "Count":10, "Value":1, "Power":50, "ItemNo":6002001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":201011, "Group":201, "Count":11, "Value":1.1, "Power":55, "ItemNo":6002001, "ItemCount":195, "Coin":6000
+      "No":201011, "Group":201, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6002001, "ItemCount":195, "Coin":6000
     },
     {
       "No":201012, "Group":201, "Count":12, "Value":1.2, "Power":60, "ItemNo":6002001, "ItemCount":210, "Coin":6500
@@ -196,13 +196,13 @@
       "No":201013, "Group":201, "Count":13, "Value":1.3, "Power":65, "ItemNo":6002001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":201014, "Group":201, "Count":14, "Value":1.4, "Power":70, "ItemNo":6002001, "ItemCount":240, "Coin":7500
+      "No":201014, "Group":201, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6002001, "ItemCount":240, "Coin":7500
     },
     {
       "No":201015, "Group":201, "Count":15, "Value":1.5, "Power":75, "ItemNo":6002001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":201016, "Group":201, "Count":16, "Value":1.6, "Power":80, "ItemNo":6002001, "ItemCount":270, "Coin":8500
+      "No":201016, "Group":201, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6002001, "ItemCount":270, "Coin":8500
     },
     {
       "No":201017, "Group":201, "Count":17, "Value":1.7, "Power":85, "ItemNo":6002001, "ItemCount":285, "Coin":9000
@@ -211,97 +211,97 @@
       "No":201018, "Group":201, "Count":18, "Value":1.8, "Power":90, "ItemNo":6002001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":201019, "Group":201, "Count":19, "Value":1.9, "Power":95, "ItemNo":6002001, "ItemCount":315, "Coin":10000
+      "No":201019, "Group":201, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6002001, "ItemCount":315, "Coin":10000
     },
     {
       "No":201020, "Group":201, "Count":20, "Value":2, "Power":100, "ItemNo":6002002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":201021, "Group":201, "Count":21, "Value":2.1, "Power":105, "ItemNo":6002002, "ItemCount":45, "Coin":11000
+      "No":201021, "Group":201, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6002002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":201022, "Group":201, "Count":22, "Value":2.2, "Power":110, "ItemNo":6002002, "ItemCount":60, "Coin":11500
+      "No":201022, "Group":201, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6002002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":201023, "Group":201, "Count":23, "Value":2.3, "Power":115, "ItemNo":6002002, "ItemCount":75, "Coin":12000
+      "No":201023, "Group":201, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6002002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":201024, "Group":201, "Count":24, "Value":2.4, "Power":120, "ItemNo":6002002, "ItemCount":90, "Coin":12500
+      "No":201024, "Group":201, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6002002, "ItemCount":90, "Coin":12500
     },
     {
       "No":201025, "Group":201, "Count":25, "Value":2.5, "Power":125, "ItemNo":6002002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":201026, "Group":201, "Count":26, "Value":2.6, "Power":130, "ItemNo":6002002, "ItemCount":120, "Coin":13500
+      "No":201026, "Group":201, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6002002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":201027, "Group":201, "Count":27, "Value":2.7, "Power":135, "ItemNo":6002002, "ItemCount":135, "Coin":14000
+      "No":201027, "Group":201, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6002002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":201028, "Group":201, "Count":28, "Value":2.8, "Power":140, "ItemNo":6002002, "ItemCount":150, "Coin":14500
+      "No":201028, "Group":201, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6002002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":201029, "Group":201, "Count":29, "Value":2.9, "Power":145, "ItemNo":6002002, "ItemCount":165, "Coin":15000
+      "No":201029, "Group":201, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6002002, "ItemCount":165, "Coin":15000
     },
     {
       "No":201030, "Group":201, "Count":30, "Value":3, "Power":150, "ItemNo":6002002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":201031, "Group":201, "Count":31, "Value":3.1, "Power":155, "ItemNo":6002002, "ItemCount":195, "Coin":16000
+      "No":201031, "Group":201, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6002002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":201032, "Group":201, "Count":32, "Value":3.2, "Power":160, "ItemNo":6002002, "ItemCount":210, "Coin":16500
+      "No":201032, "Group":201, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6002002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":201033, "Group":201, "Count":33, "Value":3.3, "Power":165, "ItemNo":6002002, "ItemCount":225, "Coin":17000
+      "No":201033, "Group":201, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6002002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":201034, "Group":201, "Count":34, "Value":3.4, "Power":170, "ItemNo":6002002, "ItemCount":240, "Coin":17500
+      "No":201034, "Group":201, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6002002, "ItemCount":240, "Coin":17500
     },
     {
       "No":201035, "Group":201, "Count":35, "Value":3.5, "Power":175, "ItemNo":6002002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":201036, "Group":201, "Count":36, "Value":3.6, "Power":180, "ItemNo":6002002, "ItemCount":270, "Coin":18500
+      "No":201036, "Group":201, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6002002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":201037, "Group":201, "Count":37, "Value":3.7, "Power":185, "ItemNo":6002002, "ItemCount":285, "Coin":19000
+      "No":201037, "Group":201, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6002002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":201038, "Group":201, "Count":38, "Value":3.8, "Power":190, "ItemNo":6002002, "ItemCount":300, "Coin":19500
+      "No":201038, "Group":201, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6002002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":201039, "Group":201, "Count":39, "Value":3.9, "Power":195, "ItemNo":6002002, "ItemCount":315, "Coin":20000
+      "No":201039, "Group":201, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6002002, "ItemCount":315, "Coin":20000
     },
     {
       "No":201040, "Group":201, "Count":40, "Value":4, "Power":200, "ItemNo":6002003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":201041, "Group":201, "Count":41, "Value":4.1, "Power":205, "ItemNo":6002003, "ItemCount":80, "Coin":21000
+      "No":201041, "Group":201, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6002003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":201042, "Group":201, "Count":42, "Value":4.2, "Power":210, "ItemNo":6002003, "ItemCount":120, "Coin":21500
+      "No":201042, "Group":201, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6002003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":201043, "Group":201, "Count":43, "Value":4.3, "Power":215, "ItemNo":6002003, "ItemCount":160, "Coin":22000
+      "No":201043, "Group":201, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6002003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":201044, "Group":201, "Count":44, "Value":4.4, "Power":220, "ItemNo":6002003, "ItemCount":200, "Coin":22500
+      "No":201044, "Group":201, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6002003, "ItemCount":200, "Coin":22500
     },
     {
       "No":201045, "Group":201, "Count":45, "Value":4.5, "Power":225, "ItemNo":6002003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":201046, "Group":201, "Count":46, "Value":4.6, "Power":230, "ItemNo":6002003, "ItemCount":280, "Coin":23500
+      "No":201046, "Group":201, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6002003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":201047, "Group":201, "Count":47, "Value":4.7, "Power":235, "ItemNo":6002003, "ItemCount":320, "Coin":24000
+      "No":201047, "Group":201, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6002003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":201048, "Group":201, "Count":48, "Value":4.8, "Power":240, "ItemNo":6002003, "ItemCount":360, "Coin":24500
+      "No":201048, "Group":201, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6002003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":201049, "Group":201, "Count":49, "Value":4.9, "Power":245, "ItemNo":6002003, "ItemCount":400, "Coin":25000
+      "No":201049, "Group":201, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6002003, "ItemCount":400, "Coin":25000
     },
     {
       "No":201050, "Group":201, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -310,37 +310,37 @@
       "No":301000, "Group":301, "Count":0, "Value":0, "Power":0, "ItemNo":6003001, "ItemCount":30, "Coin":500
     },
     {
-      "No":301001, "Group":301, "Count":1, "Value":0.1, "Power":5, "ItemNo":6003001, "ItemCount":45, "Coin":1000
+      "No":301001, "Group":301, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6003001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":301002, "Group":301, "Count":2, "Value":0.2, "Power":10, "ItemNo":6003001, "ItemCount":60, "Coin":1500
+      "No":301002, "Group":301, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6003001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":301003, "Group":301, "Count":3, "Value":0.3, "Power":15, "ItemNo":6003001, "ItemCount":75, "Coin":2000
+      "No":301003, "Group":301, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6003001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":301004, "Group":301, "Count":4, "Value":0.4, "Power":20, "ItemNo":6003001, "ItemCount":90, "Coin":2500
+      "No":301004, "Group":301, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6003001, "ItemCount":90, "Coin":2500
     },
     {
       "No":301005, "Group":301, "Count":5, "Value":0.5, "Power":25, "ItemNo":6003001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":301006, "Group":301, "Count":6, "Value":0.6, "Power":30, "ItemNo":6003001, "ItemCount":120, "Coin":3500
+      "No":301006, "Group":301, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6003001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":301007, "Group":301, "Count":7, "Value":0.7, "Power":35, "ItemNo":6003001, "ItemCount":135, "Coin":4000
+      "No":301007, "Group":301, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6003001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":301008, "Group":301, "Count":8, "Value":0.8, "Power":40, "ItemNo":6003001, "ItemCount":150, "Coin":4500
+      "No":301008, "Group":301, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6003001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":301009, "Group":301, "Count":9, "Value":0.9, "Power":45, "ItemNo":6003001, "ItemCount":165, "Coin":5000
+      "No":301009, "Group":301, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6003001, "ItemCount":165, "Coin":5000
     },
     {
       "No":301010, "Group":301, "Count":10, "Value":1, "Power":50, "ItemNo":6003001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":301011, "Group":301, "Count":11, "Value":1.1, "Power":55, "ItemNo":6003001, "ItemCount":195, "Coin":6000
+      "No":301011, "Group":301, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6003001, "ItemCount":195, "Coin":6000
     },
     {
       "No":301012, "Group":301, "Count":12, "Value":1.2, "Power":60, "ItemNo":6003001, "ItemCount":210, "Coin":6500
@@ -349,13 +349,13 @@
       "No":301013, "Group":301, "Count":13, "Value":1.3, "Power":65, "ItemNo":6003001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":301014, "Group":301, "Count":14, "Value":1.4, "Power":70, "ItemNo":6003001, "ItemCount":240, "Coin":7500
+      "No":301014, "Group":301, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6003001, "ItemCount":240, "Coin":7500
     },
     {
       "No":301015, "Group":301, "Count":15, "Value":1.5, "Power":75, "ItemNo":6003001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":301016, "Group":301, "Count":16, "Value":1.6, "Power":80, "ItemNo":6003001, "ItemCount":270, "Coin":8500
+      "No":301016, "Group":301, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6003001, "ItemCount":270, "Coin":8500
     },
     {
       "No":301017, "Group":301, "Count":17, "Value":1.7, "Power":85, "ItemNo":6003001, "ItemCount":285, "Coin":9000
@@ -364,97 +364,97 @@
       "No":301018, "Group":301, "Count":18, "Value":1.8, "Power":90, "ItemNo":6003001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":301019, "Group":301, "Count":19, "Value":1.9, "Power":95, "ItemNo":6003001, "ItemCount":315, "Coin":10000
+      "No":301019, "Group":301, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6003001, "ItemCount":315, "Coin":10000
     },
     {
       "No":301020, "Group":301, "Count":20, "Value":2, "Power":100, "ItemNo":6003002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":301021, "Group":301, "Count":21, "Value":2.1, "Power":105, "ItemNo":6003002, "ItemCount":45, "Coin":11000
+      "No":301021, "Group":301, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6003002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":301022, "Group":301, "Count":22, "Value":2.2, "Power":110, "ItemNo":6003002, "ItemCount":60, "Coin":11500
+      "No":301022, "Group":301, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6003002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":301023, "Group":301, "Count":23, "Value":2.3, "Power":115, "ItemNo":6003002, "ItemCount":75, "Coin":12000
+      "No":301023, "Group":301, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6003002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":301024, "Group":301, "Count":24, "Value":2.4, "Power":120, "ItemNo":6003002, "ItemCount":90, "Coin":12500
+      "No":301024, "Group":301, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6003002, "ItemCount":90, "Coin":12500
     },
     {
       "No":301025, "Group":301, "Count":25, "Value":2.5, "Power":125, "ItemNo":6003002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":301026, "Group":301, "Count":26, "Value":2.6, "Power":130, "ItemNo":6003002, "ItemCount":120, "Coin":13500
+      "No":301026, "Group":301, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6003002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":301027, "Group":301, "Count":27, "Value":2.7, "Power":135, "ItemNo":6003002, "ItemCount":135, "Coin":14000
+      "No":301027, "Group":301, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6003002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":301028, "Group":301, "Count":28, "Value":2.8, "Power":140, "ItemNo":6003002, "ItemCount":150, "Coin":14500
+      "No":301028, "Group":301, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6003002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":301029, "Group":301, "Count":29, "Value":2.9, "Power":145, "ItemNo":6003002, "ItemCount":165, "Coin":15000
+      "No":301029, "Group":301, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6003002, "ItemCount":165, "Coin":15000
     },
     {
       "No":301030, "Group":301, "Count":30, "Value":3, "Power":150, "ItemNo":6003002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":301031, "Group":301, "Count":31, "Value":3.1, "Power":155, "ItemNo":6003002, "ItemCount":195, "Coin":16000
+      "No":301031, "Group":301, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6003002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":301032, "Group":301, "Count":32, "Value":3.2, "Power":160, "ItemNo":6003002, "ItemCount":210, "Coin":16500
+      "No":301032, "Group":301, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6003002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":301033, "Group":301, "Count":33, "Value":3.3, "Power":165, "ItemNo":6003002, "ItemCount":225, "Coin":17000
+      "No":301033, "Group":301, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6003002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":301034, "Group":301, "Count":34, "Value":3.4, "Power":170, "ItemNo":6003002, "ItemCount":240, "Coin":17500
+      "No":301034, "Group":301, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6003002, "ItemCount":240, "Coin":17500
     },
     {
       "No":301035, "Group":301, "Count":35, "Value":3.5, "Power":175, "ItemNo":6003002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":301036, "Group":301, "Count":36, "Value":3.6, "Power":180, "ItemNo":6003002, "ItemCount":270, "Coin":18500
+      "No":301036, "Group":301, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6003002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":301037, "Group":301, "Count":37, "Value":3.7, "Power":185, "ItemNo":6003002, "ItemCount":285, "Coin":19000
+      "No":301037, "Group":301, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6003002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":301038, "Group":301, "Count":38, "Value":3.8, "Power":190, "ItemNo":6003002, "ItemCount":300, "Coin":19500
+      "No":301038, "Group":301, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6003002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":301039, "Group":301, "Count":39, "Value":3.9, "Power":195, "ItemNo":6003002, "ItemCount":315, "Coin":20000
+      "No":301039, "Group":301, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6003002, "ItemCount":315, "Coin":20000
     },
     {
       "No":301040, "Group":301, "Count":40, "Value":4, "Power":200, "ItemNo":6003003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":301041, "Group":301, "Count":41, "Value":4.1, "Power":205, "ItemNo":6003003, "ItemCount":80, "Coin":21000
+      "No":301041, "Group":301, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6003003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":301042, "Group":301, "Count":42, "Value":4.2, "Power":210, "ItemNo":6003003, "ItemCount":120, "Coin":21500
+      "No":301042, "Group":301, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6003003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":301043, "Group":301, "Count":43, "Value":4.3, "Power":215, "ItemNo":6003003, "ItemCount":160, "Coin":22000
+      "No":301043, "Group":301, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6003003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":301044, "Group":301, "Count":44, "Value":4.4, "Power":220, "ItemNo":6003003, "ItemCount":200, "Coin":22500
+      "No":301044, "Group":301, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6003003, "ItemCount":200, "Coin":22500
     },
     {
       "No":301045, "Group":301, "Count":45, "Value":4.5, "Power":225, "ItemNo":6003003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":301046, "Group":301, "Count":46, "Value":4.6, "Power":230, "ItemNo":6003003, "ItemCount":280, "Coin":23500
+      "No":301046, "Group":301, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6003003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":301047, "Group":301, "Count":47, "Value":4.7, "Power":235, "ItemNo":6003003, "ItemCount":320, "Coin":24000
+      "No":301047, "Group":301, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6003003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":301048, "Group":301, "Count":48, "Value":4.8, "Power":240, "ItemNo":6003003, "ItemCount":360, "Coin":24500
+      "No":301048, "Group":301, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6003003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":301049, "Group":301, "Count":49, "Value":4.9, "Power":245, "ItemNo":6003003, "ItemCount":400, "Coin":25000
+      "No":301049, "Group":301, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6003003, "ItemCount":400, "Coin":25000
     },
     {
       "No":301050, "Group":301, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -463,37 +463,37 @@
       "No":401000, "Group":401, "Count":0, "Value":0, "Power":0, "ItemNo":6004001, "ItemCount":30, "Coin":500
     },
     {
-      "No":401001, "Group":401, "Count":1, "Value":0.1, "Power":5, "ItemNo":6004001, "ItemCount":45, "Coin":1000
+      "No":401001, "Group":401, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6004001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":401002, "Group":401, "Count":2, "Value":0.2, "Power":10, "ItemNo":6004001, "ItemCount":60, "Coin":1500
+      "No":401002, "Group":401, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6004001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":401003, "Group":401, "Count":3, "Value":0.3, "Power":15, "ItemNo":6004001, "ItemCount":75, "Coin":2000
+      "No":401003, "Group":401, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6004001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":401004, "Group":401, "Count":4, "Value":0.4, "Power":20, "ItemNo":6004001, "ItemCount":90, "Coin":2500
+      "No":401004, "Group":401, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6004001, "ItemCount":90, "Coin":2500
     },
     {
       "No":401005, "Group":401, "Count":5, "Value":0.5, "Power":25, "ItemNo":6004001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":401006, "Group":401, "Count":6, "Value":0.6, "Power":30, "ItemNo":6004001, "ItemCount":120, "Coin":3500
+      "No":401006, "Group":401, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6004001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":401007, "Group":401, "Count":7, "Value":0.7, "Power":35, "ItemNo":6004001, "ItemCount":135, "Coin":4000
+      "No":401007, "Group":401, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6004001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":401008, "Group":401, "Count":8, "Value":0.8, "Power":40, "ItemNo":6004001, "ItemCount":150, "Coin":4500
+      "No":401008, "Group":401, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6004001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":401009, "Group":401, "Count":9, "Value":0.9, "Power":45, "ItemNo":6004001, "ItemCount":165, "Coin":5000
+      "No":401009, "Group":401, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6004001, "ItemCount":165, "Coin":5000
     },
     {
       "No":401010, "Group":401, "Count":10, "Value":1, "Power":50, "ItemNo":6004001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":401011, "Group":401, "Count":11, "Value":1.1, "Power":55, "ItemNo":6004001, "ItemCount":195, "Coin":6000
+      "No":401011, "Group":401, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6004001, "ItemCount":195, "Coin":6000
     },
     {
       "No":401012, "Group":401, "Count":12, "Value":1.2, "Power":60, "ItemNo":6004001, "ItemCount":210, "Coin":6500
@@ -502,13 +502,13 @@
       "No":401013, "Group":401, "Count":13, "Value":1.3, "Power":65, "ItemNo":6004001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":401014, "Group":401, "Count":14, "Value":1.4, "Power":70, "ItemNo":6004001, "ItemCount":240, "Coin":7500
+      "No":401014, "Group":401, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6004001, "ItemCount":240, "Coin":7500
     },
     {
       "No":401015, "Group":401, "Count":15, "Value":1.5, "Power":75, "ItemNo":6004001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":401016, "Group":401, "Count":16, "Value":1.6, "Power":80, "ItemNo":6004001, "ItemCount":270, "Coin":8500
+      "No":401016, "Group":401, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6004001, "ItemCount":270, "Coin":8500
     },
     {
       "No":401017, "Group":401, "Count":17, "Value":1.7, "Power":85, "ItemNo":6004001, "ItemCount":285, "Coin":9000
@@ -517,97 +517,97 @@
       "No":401018, "Group":401, "Count":18, "Value":1.8, "Power":90, "ItemNo":6004001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":401019, "Group":401, "Count":19, "Value":1.9, "Power":95, "ItemNo":6004001, "ItemCount":315, "Coin":10000
+      "No":401019, "Group":401, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6004001, "ItemCount":315, "Coin":10000
     },
     {
       "No":401020, "Group":401, "Count":20, "Value":2, "Power":100, "ItemNo":6004002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":401021, "Group":401, "Count":21, "Value":2.1, "Power":105, "ItemNo":6004002, "ItemCount":45, "Coin":11000
+      "No":401021, "Group":401, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6004002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":401022, "Group":401, "Count":22, "Value":2.2, "Power":110, "ItemNo":6004002, "ItemCount":60, "Coin":11500
+      "No":401022, "Group":401, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6004002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":401023, "Group":401, "Count":23, "Value":2.3, "Power":115, "ItemNo":6004002, "ItemCount":75, "Coin":12000
+      "No":401023, "Group":401, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6004002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":401024, "Group":401, "Count":24, "Value":2.4, "Power":120, "ItemNo":6004002, "ItemCount":90, "Coin":12500
+      "No":401024, "Group":401, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6004002, "ItemCount":90, "Coin":12500
     },
     {
       "No":401025, "Group":401, "Count":25, "Value":2.5, "Power":125, "ItemNo":6004002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":401026, "Group":401, "Count":26, "Value":2.6, "Power":130, "ItemNo":6004002, "ItemCount":120, "Coin":13500
+      "No":401026, "Group":401, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6004002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":401027, "Group":401, "Count":27, "Value":2.7, "Power":135, "ItemNo":6004002, "ItemCount":135, "Coin":14000
+      "No":401027, "Group":401, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6004002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":401028, "Group":401, "Count":28, "Value":2.8, "Power":140, "ItemNo":6004002, "ItemCount":150, "Coin":14500
+      "No":401028, "Group":401, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6004002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":401029, "Group":401, "Count":29, "Value":2.9, "Power":145, "ItemNo":6004002, "ItemCount":165, "Coin":15000
+      "No":401029, "Group":401, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6004002, "ItemCount":165, "Coin":15000
     },
     {
       "No":401030, "Group":401, "Count":30, "Value":3, "Power":150, "ItemNo":6004002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":401031, "Group":401, "Count":31, "Value":3.1, "Power":155, "ItemNo":6004002, "ItemCount":195, "Coin":16000
+      "No":401031, "Group":401, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6004002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":401032, "Group":401, "Count":32, "Value":3.2, "Power":160, "ItemNo":6004002, "ItemCount":210, "Coin":16500
+      "No":401032, "Group":401, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6004002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":401033, "Group":401, "Count":33, "Value":3.3, "Power":165, "ItemNo":6004002, "ItemCount":225, "Coin":17000
+      "No":401033, "Group":401, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6004002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":401034, "Group":401, "Count":34, "Value":3.4, "Power":170, "ItemNo":6004002, "ItemCount":240, "Coin":17500
+      "No":401034, "Group":401, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6004002, "ItemCount":240, "Coin":17500
     },
     {
       "No":401035, "Group":401, "Count":35, "Value":3.5, "Power":175, "ItemNo":6004002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":401036, "Group":401, "Count":36, "Value":3.6, "Power":180, "ItemNo":6004002, "ItemCount":270, "Coin":18500
+      "No":401036, "Group":401, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6004002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":401037, "Group":401, "Count":37, "Value":3.7, "Power":185, "ItemNo":6004002, "ItemCount":285, "Coin":19000
+      "No":401037, "Group":401, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6004002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":401038, "Group":401, "Count":38, "Value":3.8, "Power":190, "ItemNo":6004002, "ItemCount":300, "Coin":19500
+      "No":401038, "Group":401, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6004002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":401039, "Group":401, "Count":39, "Value":3.9, "Power":195, "ItemNo":6004002, "ItemCount":315, "Coin":20000
+      "No":401039, "Group":401, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6004002, "ItemCount":315, "Coin":20000
     },
     {
       "No":401040, "Group":401, "Count":40, "Value":4, "Power":200, "ItemNo":6004003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":401041, "Group":401, "Count":41, "Value":4.1, "Power":205, "ItemNo":6004003, "ItemCount":80, "Coin":21000
+      "No":401041, "Group":401, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6004003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":401042, "Group":401, "Count":42, "Value":4.2, "Power":210, "ItemNo":6004003, "ItemCount":120, "Coin":21500
+      "No":401042, "Group":401, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6004003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":401043, "Group":401, "Count":43, "Value":4.3, "Power":215, "ItemNo":6004003, "ItemCount":160, "Coin":22000
+      "No":401043, "Group":401, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6004003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":401044, "Group":401, "Count":44, "Value":4.4, "Power":220, "ItemNo":6004003, "ItemCount":200, "Coin":22500
+      "No":401044, "Group":401, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6004003, "ItemCount":200, "Coin":22500
     },
     {
       "No":401045, "Group":401, "Count":45, "Value":4.5, "Power":225, "ItemNo":6004003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":401046, "Group":401, "Count":46, "Value":4.6, "Power":230, "ItemNo":6004003, "ItemCount":280, "Coin":23500
+      "No":401046, "Group":401, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6004003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":401047, "Group":401, "Count":47, "Value":4.7, "Power":235, "ItemNo":6004003, "ItemCount":320, "Coin":24000
+      "No":401047, "Group":401, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6004003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":401048, "Group":401, "Count":48, "Value":4.8, "Power":240, "ItemNo":6004003, "ItemCount":360, "Coin":24500
+      "No":401048, "Group":401, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6004003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":401049, "Group":401, "Count":49, "Value":4.9, "Power":245, "ItemNo":6004003, "ItemCount":400, "Coin":25000
+      "No":401049, "Group":401, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6004003, "ItemCount":400, "Coin":25000
     },
     {
       "No":401050, "Group":401, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -616,37 +616,37 @@
       "No":501000, "Group":501, "Count":0, "Value":0, "Power":0, "ItemNo":6005001, "ItemCount":30, "Coin":500
     },
     {
-      "No":501001, "Group":501, "Count":1, "Value":0.1, "Power":5, "ItemNo":6005001, "ItemCount":45, "Coin":1000
+      "No":501001, "Group":501, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6005001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":501002, "Group":501, "Count":2, "Value":0.2, "Power":10, "ItemNo":6005001, "ItemCount":60, "Coin":1500
+      "No":501002, "Group":501, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6005001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":501003, "Group":501, "Count":3, "Value":0.3, "Power":15, "ItemNo":6005001, "ItemCount":75, "Coin":2000
+      "No":501003, "Group":501, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6005001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":501004, "Group":501, "Count":4, "Value":0.4, "Power":20, "ItemNo":6005001, "ItemCount":90, "Coin":2500
+      "No":501004, "Group":501, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6005001, "ItemCount":90, "Coin":2500
     },
     {
       "No":501005, "Group":501, "Count":5, "Value":0.5, "Power":25, "ItemNo":6005001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":501006, "Group":501, "Count":6, "Value":0.6, "Power":30, "ItemNo":6005001, "ItemCount":120, "Coin":3500
+      "No":501006, "Group":501, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6005001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":501007, "Group":501, "Count":7, "Value":0.7, "Power":35, "ItemNo":6005001, "ItemCount":135, "Coin":4000
+      "No":501007, "Group":501, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6005001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":501008, "Group":501, "Count":8, "Value":0.8, "Power":40, "ItemNo":6005001, "ItemCount":150, "Coin":4500
+      "No":501008, "Group":501, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6005001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":501009, "Group":501, "Count":9, "Value":0.9, "Power":45, "ItemNo":6005001, "ItemCount":165, "Coin":5000
+      "No":501009, "Group":501, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6005001, "ItemCount":165, "Coin":5000
     },
     {
       "No":501010, "Group":501, "Count":10, "Value":1, "Power":50, "ItemNo":6005001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":501011, "Group":501, "Count":11, "Value":1.1, "Power":55, "ItemNo":6005001, "ItemCount":195, "Coin":6000
+      "No":501011, "Group":501, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6005001, "ItemCount":195, "Coin":6000
     },
     {
       "No":501012, "Group":501, "Count":12, "Value":1.2, "Power":60, "ItemNo":6005001, "ItemCount":210, "Coin":6500
@@ -655,13 +655,13 @@
       "No":501013, "Group":501, "Count":13, "Value":1.3, "Power":65, "ItemNo":6005001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":501014, "Group":501, "Count":14, "Value":1.4, "Power":70, "ItemNo":6005001, "ItemCount":240, "Coin":7500
+      "No":501014, "Group":501, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6005001, "ItemCount":240, "Coin":7500
     },
     {
       "No":501015, "Group":501, "Count":15, "Value":1.5, "Power":75, "ItemNo":6005001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":501016, "Group":501, "Count":16, "Value":1.6, "Power":80, "ItemNo":6005001, "ItemCount":270, "Coin":8500
+      "No":501016, "Group":501, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6005001, "ItemCount":270, "Coin":8500
     },
     {
       "No":501017, "Group":501, "Count":17, "Value":1.7, "Power":85, "ItemNo":6005001, "ItemCount":285, "Coin":9000
@@ -670,97 +670,97 @@
       "No":501018, "Group":501, "Count":18, "Value":1.8, "Power":90, "ItemNo":6005001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":501019, "Group":501, "Count":19, "Value":1.9, "Power":95, "ItemNo":6005001, "ItemCount":315, "Coin":10000
+      "No":501019, "Group":501, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6005001, "ItemCount":315, "Coin":10000
     },
     {
       "No":501020, "Group":501, "Count":20, "Value":2, "Power":100, "ItemNo":6005002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":501021, "Group":501, "Count":21, "Value":2.1, "Power":105, "ItemNo":6005002, "ItemCount":45, "Coin":11000
+      "No":501021, "Group":501, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6005002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":501022, "Group":501, "Count":22, "Value":2.2, "Power":110, "ItemNo":6005002, "ItemCount":60, "Coin":11500
+      "No":501022, "Group":501, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6005002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":501023, "Group":501, "Count":23, "Value":2.3, "Power":115, "ItemNo":6005002, "ItemCount":75, "Coin":12000
+      "No":501023, "Group":501, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6005002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":501024, "Group":501, "Count":24, "Value":2.4, "Power":120, "ItemNo":6005002, "ItemCount":90, "Coin":12500
+      "No":501024, "Group":501, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6005002, "ItemCount":90, "Coin":12500
     },
     {
       "No":501025, "Group":501, "Count":25, "Value":2.5, "Power":125, "ItemNo":6005002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":501026, "Group":501, "Count":26, "Value":2.6, "Power":130, "ItemNo":6005002, "ItemCount":120, "Coin":13500
+      "No":501026, "Group":501, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6005002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":501027, "Group":501, "Count":27, "Value":2.7, "Power":135, "ItemNo":6005002, "ItemCount":135, "Coin":14000
+      "No":501027, "Group":501, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6005002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":501028, "Group":501, "Count":28, "Value":2.8, "Power":140, "ItemNo":6005002, "ItemCount":150, "Coin":14500
+      "No":501028, "Group":501, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6005002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":501029, "Group":501, "Count":29, "Value":2.9, "Power":145, "ItemNo":6005002, "ItemCount":165, "Coin":15000
+      "No":501029, "Group":501, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6005002, "ItemCount":165, "Coin":15000
     },
     {
       "No":501030, "Group":501, "Count":30, "Value":3, "Power":150, "ItemNo":6005002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":501031, "Group":501, "Count":31, "Value":3.1, "Power":155, "ItemNo":6005002, "ItemCount":195, "Coin":16000
+      "No":501031, "Group":501, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6005002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":501032, "Group":501, "Count":32, "Value":3.2, "Power":160, "ItemNo":6005002, "ItemCount":210, "Coin":16500
+      "No":501032, "Group":501, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6005002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":501033, "Group":501, "Count":33, "Value":3.3, "Power":165, "ItemNo":6005002, "ItemCount":225, "Coin":17000
+      "No":501033, "Group":501, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6005002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":501034, "Group":501, "Count":34, "Value":3.4, "Power":170, "ItemNo":6005002, "ItemCount":240, "Coin":17500
+      "No":501034, "Group":501, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6005002, "ItemCount":240, "Coin":17500
     },
     {
       "No":501035, "Group":501, "Count":35, "Value":3.5, "Power":175, "ItemNo":6005002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":501036, "Group":501, "Count":36, "Value":3.6, "Power":180, "ItemNo":6005002, "ItemCount":270, "Coin":18500
+      "No":501036, "Group":501, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6005002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":501037, "Group":501, "Count":37, "Value":3.7, "Power":185, "ItemNo":6005002, "ItemCount":285, "Coin":19000
+      "No":501037, "Group":501, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6005002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":501038, "Group":501, "Count":38, "Value":3.8, "Power":190, "ItemNo":6005002, "ItemCount":300, "Coin":19500
+      "No":501038, "Group":501, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6005002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":501039, "Group":501, "Count":39, "Value":3.9, "Power":195, "ItemNo":6005002, "ItemCount":315, "Coin":20000
+      "No":501039, "Group":501, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6005002, "ItemCount":315, "Coin":20000
     },
     {
       "No":501040, "Group":501, "Count":40, "Value":4, "Power":200, "ItemNo":6005003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":501041, "Group":501, "Count":41, "Value":4.1, "Power":205, "ItemNo":6005003, "ItemCount":80, "Coin":21000
+      "No":501041, "Group":501, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6005003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":501042, "Group":501, "Count":42, "Value":4.2, "Power":210, "ItemNo":6005003, "ItemCount":120, "Coin":21500
+      "No":501042, "Group":501, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6005003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":501043, "Group":501, "Count":43, "Value":4.3, "Power":215, "ItemNo":6005003, "ItemCount":160, "Coin":22000
+      "No":501043, "Group":501, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6005003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":501044, "Group":501, "Count":44, "Value":4.4, "Power":220, "ItemNo":6005003, "ItemCount":200, "Coin":22500
+      "No":501044, "Group":501, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6005003, "ItemCount":200, "Coin":22500
     },
     {
       "No":501045, "Group":501, "Count":45, "Value":4.5, "Power":225, "ItemNo":6005003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":501046, "Group":501, "Count":46, "Value":4.6, "Power":230, "ItemNo":6005003, "ItemCount":280, "Coin":23500
+      "No":501046, "Group":501, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6005003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":501047, "Group":501, "Count":47, "Value":4.7, "Power":235, "ItemNo":6005003, "ItemCount":320, "Coin":24000
+      "No":501047, "Group":501, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6005003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":501048, "Group":501, "Count":48, "Value":4.8, "Power":240, "ItemNo":6005003, "ItemCount":360, "Coin":24500
+      "No":501048, "Group":501, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6005003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":501049, "Group":501, "Count":49, "Value":4.9, "Power":245, "ItemNo":6005003, "ItemCount":400, "Coin":25000
+      "No":501049, "Group":501, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6005003, "ItemCount":400, "Coin":25000
     },
     {
       "No":501050, "Group":501, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -769,37 +769,37 @@
       "No":601000, "Group":601, "Count":0, "Value":0, "Power":0, "ItemNo":6006001, "ItemCount":30, "Coin":500
     },
     {
-      "No":601001, "Group":601, "Count":1, "Value":0.1, "Power":5, "ItemNo":6006001, "ItemCount":45, "Coin":1000
+      "No":601001, "Group":601, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6006001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":601002, "Group":601, "Count":2, "Value":0.2, "Power":10, "ItemNo":6006001, "ItemCount":60, "Coin":1500
+      "No":601002, "Group":601, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6006001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":601003, "Group":601, "Count":3, "Value":0.3, "Power":15, "ItemNo":6006001, "ItemCount":75, "Coin":2000
+      "No":601003, "Group":601, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6006001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":601004, "Group":601, "Count":4, "Value":0.4, "Power":20, "ItemNo":6006001, "ItemCount":90, "Coin":2500
+      "No":601004, "Group":601, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6006001, "ItemCount":90, "Coin":2500
     },
     {
       "No":601005, "Group":601, "Count":5, "Value":0.5, "Power":25, "ItemNo":6006001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":601006, "Group":601, "Count":6, "Value":0.6, "Power":30, "ItemNo":6006001, "ItemCount":120, "Coin":3500
+      "No":601006, "Group":601, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6006001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":601007, "Group":601, "Count":7, "Value":0.7, "Power":35, "ItemNo":6006001, "ItemCount":135, "Coin":4000
+      "No":601007, "Group":601, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6006001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":601008, "Group":601, "Count":8, "Value":0.8, "Power":40, "ItemNo":6006001, "ItemCount":150, "Coin":4500
+      "No":601008, "Group":601, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6006001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":601009, "Group":601, "Count":9, "Value":0.9, "Power":45, "ItemNo":6006001, "ItemCount":165, "Coin":5000
+      "No":601009, "Group":601, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6006001, "ItemCount":165, "Coin":5000
     },
     {
       "No":601010, "Group":601, "Count":10, "Value":1, "Power":50, "ItemNo":6006001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":601011, "Group":601, "Count":11, "Value":1.1, "Power":55, "ItemNo":6006001, "ItemCount":195, "Coin":6000
+      "No":601011, "Group":601, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6006001, "ItemCount":195, "Coin":6000
     },
     {
       "No":601012, "Group":601, "Count":12, "Value":1.2, "Power":60, "ItemNo":6006001, "ItemCount":210, "Coin":6500
@@ -808,13 +808,13 @@
       "No":601013, "Group":601, "Count":13, "Value":1.3, "Power":65, "ItemNo":6006001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":601014, "Group":601, "Count":14, "Value":1.4, "Power":70, "ItemNo":6006001, "ItemCount":240, "Coin":7500
+      "No":601014, "Group":601, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6006001, "ItemCount":240, "Coin":7500
     },
     {
       "No":601015, "Group":601, "Count":15, "Value":1.5, "Power":75, "ItemNo":6006001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":601016, "Group":601, "Count":16, "Value":1.6, "Power":80, "ItemNo":6006001, "ItemCount":270, "Coin":8500
+      "No":601016, "Group":601, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6006001, "ItemCount":270, "Coin":8500
     },
     {
       "No":601017, "Group":601, "Count":17, "Value":1.7, "Power":85, "ItemNo":6006001, "ItemCount":285, "Coin":9000
@@ -823,97 +823,97 @@
       "No":601018, "Group":601, "Count":18, "Value":1.8, "Power":90, "ItemNo":6006001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":601019, "Group":601, "Count":19, "Value":1.9, "Power":95, "ItemNo":6006001, "ItemCount":315, "Coin":10000
+      "No":601019, "Group":601, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6006001, "ItemCount":315, "Coin":10000
     },
     {
       "No":601020, "Group":601, "Count":20, "Value":2, "Power":100, "ItemNo":6006002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":601021, "Group":601, "Count":21, "Value":2.1, "Power":105, "ItemNo":6006002, "ItemCount":45, "Coin":11000
+      "No":601021, "Group":601, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6006002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":601022, "Group":601, "Count":22, "Value":2.2, "Power":110, "ItemNo":6006002, "ItemCount":60, "Coin":11500
+      "No":601022, "Group":601, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6006002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":601023, "Group":601, "Count":23, "Value":2.3, "Power":115, "ItemNo":6006002, "ItemCount":75, "Coin":12000
+      "No":601023, "Group":601, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6006002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":601024, "Group":601, "Count":24, "Value":2.4, "Power":120, "ItemNo":6006002, "ItemCount":90, "Coin":12500
+      "No":601024, "Group":601, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6006002, "ItemCount":90, "Coin":12500
     },
     {
       "No":601025, "Group":601, "Count":25, "Value":2.5, "Power":125, "ItemNo":6006002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":601026, "Group":601, "Count":26, "Value":2.6, "Power":130, "ItemNo":6006002, "ItemCount":120, "Coin":13500
+      "No":601026, "Group":601, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6006002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":601027, "Group":601, "Count":27, "Value":2.7, "Power":135, "ItemNo":6006002, "ItemCount":135, "Coin":14000
+      "No":601027, "Group":601, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6006002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":601028, "Group":601, "Count":28, "Value":2.8, "Power":140, "ItemNo":6006002, "ItemCount":150, "Coin":14500
+      "No":601028, "Group":601, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6006002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":601029, "Group":601, "Count":29, "Value":2.9, "Power":145, "ItemNo":6006002, "ItemCount":165, "Coin":15000
+      "No":601029, "Group":601, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6006002, "ItemCount":165, "Coin":15000
     },
     {
       "No":601030, "Group":601, "Count":30, "Value":3, "Power":150, "ItemNo":6006002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":601031, "Group":601, "Count":31, "Value":3.1, "Power":155, "ItemNo":6006002, "ItemCount":195, "Coin":16000
+      "No":601031, "Group":601, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6006002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":601032, "Group":601, "Count":32, "Value":3.2, "Power":160, "ItemNo":6006002, "ItemCount":210, "Coin":16500
+      "No":601032, "Group":601, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6006002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":601033, "Group":601, "Count":33, "Value":3.3, "Power":165, "ItemNo":6006002, "ItemCount":225, "Coin":17000
+      "No":601033, "Group":601, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6006002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":601034, "Group":601, "Count":34, "Value":3.4, "Power":170, "ItemNo":6006002, "ItemCount":240, "Coin":17500
+      "No":601034, "Group":601, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6006002, "ItemCount":240, "Coin":17500
     },
     {
       "No":601035, "Group":601, "Count":35, "Value":3.5, "Power":175, "ItemNo":6006002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":601036, "Group":601, "Count":36, "Value":3.6, "Power":180, "ItemNo":6006002, "ItemCount":270, "Coin":18500
+      "No":601036, "Group":601, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6006002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":601037, "Group":601, "Count":37, "Value":3.7, "Power":185, "ItemNo":6006002, "ItemCount":285, "Coin":19000
+      "No":601037, "Group":601, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6006002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":601038, "Group":601, "Count":38, "Value":3.8, "Power":190, "ItemNo":6006002, "ItemCount":300, "Coin":19500
+      "No":601038, "Group":601, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6006002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":601039, "Group":601, "Count":39, "Value":3.9, "Power":195, "ItemNo":6006002, "ItemCount":315, "Coin":20000
+      "No":601039, "Group":601, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6006002, "ItemCount":315, "Coin":20000
     },
     {
       "No":601040, "Group":601, "Count":40, "Value":4, "Power":200, "ItemNo":6006003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":601041, "Group":601, "Count":41, "Value":4.1, "Power":205, "ItemNo":6006003, "ItemCount":80, "Coin":21000
+      "No":601041, "Group":601, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6006003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":601042, "Group":601, "Count":42, "Value":4.2, "Power":210, "ItemNo":6006003, "ItemCount":120, "Coin":21500
+      "No":601042, "Group":601, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6006003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":601043, "Group":601, "Count":43, "Value":4.3, "Power":215, "ItemNo":6006003, "ItemCount":160, "Coin":22000
+      "No":601043, "Group":601, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6006003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":601044, "Group":601, "Count":44, "Value":4.4, "Power":220, "ItemNo":6006003, "ItemCount":200, "Coin":22500
+      "No":601044, "Group":601, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6006003, "ItemCount":200, "Coin":22500
     },
     {
       "No":601045, "Group":601, "Count":45, "Value":4.5, "Power":225, "ItemNo":6006003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":601046, "Group":601, "Count":46, "Value":4.6, "Power":230, "ItemNo":6006003, "ItemCount":280, "Coin":23500
+      "No":601046, "Group":601, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6006003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":601047, "Group":601, "Count":47, "Value":4.7, "Power":235, "ItemNo":6006003, "ItemCount":320, "Coin":24000
+      "No":601047, "Group":601, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6006003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":601048, "Group":601, "Count":48, "Value":4.8, "Power":240, "ItemNo":6006003, "ItemCount":360, "Coin":24500
+      "No":601048, "Group":601, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6006003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":601049, "Group":601, "Count":49, "Value":4.9, "Power":245, "ItemNo":6006003, "ItemCount":400, "Coin":25000
+      "No":601049, "Group":601, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6006003, "ItemCount":400, "Coin":25000
     },
     {
       "No":601050, "Group":601, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -922,37 +922,37 @@
       "No":701000, "Group":701, "Count":0, "Value":0, "Power":0, "ItemNo":6007001, "ItemCount":30, "Coin":500
     },
     {
-      "No":701001, "Group":701, "Count":1, "Value":0.1, "Power":5, "ItemNo":6007001, "ItemCount":45, "Coin":1000
+      "No":701001, "Group":701, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6007001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":701002, "Group":701, "Count":2, "Value":0.2, "Power":10, "ItemNo":6007001, "ItemCount":60, "Coin":1500
+      "No":701002, "Group":701, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6007001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":701003, "Group":701, "Count":3, "Value":0.3, "Power":15, "ItemNo":6007001, "ItemCount":75, "Coin":2000
+      "No":701003, "Group":701, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6007001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":701004, "Group":701, "Count":4, "Value":0.4, "Power":20, "ItemNo":6007001, "ItemCount":90, "Coin":2500
+      "No":701004, "Group":701, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6007001, "ItemCount":90, "Coin":2500
     },
     {
       "No":701005, "Group":701, "Count":5, "Value":0.5, "Power":25, "ItemNo":6007001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":701006, "Group":701, "Count":6, "Value":0.6, "Power":30, "ItemNo":6007001, "ItemCount":120, "Coin":3500
+      "No":701006, "Group":701, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6007001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":701007, "Group":701, "Count":7, "Value":0.7, "Power":35, "ItemNo":6007001, "ItemCount":135, "Coin":4000
+      "No":701007, "Group":701, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6007001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":701008, "Group":701, "Count":8, "Value":0.8, "Power":40, "ItemNo":6007001, "ItemCount":150, "Coin":4500
+      "No":701008, "Group":701, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6007001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":701009, "Group":701, "Count":9, "Value":0.9, "Power":45, "ItemNo":6007001, "ItemCount":165, "Coin":5000
+      "No":701009, "Group":701, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6007001, "ItemCount":165, "Coin":5000
     },
     {
       "No":701010, "Group":701, "Count":10, "Value":1, "Power":50, "ItemNo":6007001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":701011, "Group":701, "Count":11, "Value":1.1, "Power":55, "ItemNo":6007001, "ItemCount":195, "Coin":6000
+      "No":701011, "Group":701, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6007001, "ItemCount":195, "Coin":6000
     },
     {
       "No":701012, "Group":701, "Count":12, "Value":1.2, "Power":60, "ItemNo":6007001, "ItemCount":210, "Coin":6500
@@ -961,13 +961,13 @@
       "No":701013, "Group":701, "Count":13, "Value":1.3, "Power":65, "ItemNo":6007001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":701014, "Group":701, "Count":14, "Value":1.4, "Power":70, "ItemNo":6007001, "ItemCount":240, "Coin":7500
+      "No":701014, "Group":701, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6007001, "ItemCount":240, "Coin":7500
     },
     {
       "No":701015, "Group":701, "Count":15, "Value":1.5, "Power":75, "ItemNo":6007001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":701016, "Group":701, "Count":16, "Value":1.6, "Power":80, "ItemNo":6007001, "ItemCount":270, "Coin":8500
+      "No":701016, "Group":701, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6007001, "ItemCount":270, "Coin":8500
     },
     {
       "No":701017, "Group":701, "Count":17, "Value":1.7, "Power":85, "ItemNo":6007001, "ItemCount":285, "Coin":9000
@@ -976,97 +976,97 @@
       "No":701018, "Group":701, "Count":18, "Value":1.8, "Power":90, "ItemNo":6007001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":701019, "Group":701, "Count":19, "Value":1.9, "Power":95, "ItemNo":6007001, "ItemCount":315, "Coin":10000
+      "No":701019, "Group":701, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6007001, "ItemCount":315, "Coin":10000
     },
     {
       "No":701020, "Group":701, "Count":20, "Value":2, "Power":100, "ItemNo":6007002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":701021, "Group":701, "Count":21, "Value":2.1, "Power":105, "ItemNo":6007002, "ItemCount":45, "Coin":11000
+      "No":701021, "Group":701, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6007002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":701022, "Group":701, "Count":22, "Value":2.2, "Power":110, "ItemNo":6007002, "ItemCount":60, "Coin":11500
+      "No":701022, "Group":701, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6007002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":701023, "Group":701, "Count":23, "Value":2.3, "Power":115, "ItemNo":6007002, "ItemCount":75, "Coin":12000
+      "No":701023, "Group":701, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6007002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":701024, "Group":701, "Count":24, "Value":2.4, "Power":120, "ItemNo":6007002, "ItemCount":90, "Coin":12500
+      "No":701024, "Group":701, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6007002, "ItemCount":90, "Coin":12500
     },
     {
       "No":701025, "Group":701, "Count":25, "Value":2.5, "Power":125, "ItemNo":6007002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":701026, "Group":701, "Count":26, "Value":2.6, "Power":130, "ItemNo":6007002, "ItemCount":120, "Coin":13500
+      "No":701026, "Group":701, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6007002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":701027, "Group":701, "Count":27, "Value":2.7, "Power":135, "ItemNo":6007002, "ItemCount":135, "Coin":14000
+      "No":701027, "Group":701, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6007002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":701028, "Group":701, "Count":28, "Value":2.8, "Power":140, "ItemNo":6007002, "ItemCount":150, "Coin":14500
+      "No":701028, "Group":701, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6007002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":701029, "Group":701, "Count":29, "Value":2.9, "Power":145, "ItemNo":6007002, "ItemCount":165, "Coin":15000
+      "No":701029, "Group":701, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6007002, "ItemCount":165, "Coin":15000
     },
     {
       "No":701030, "Group":701, "Count":30, "Value":3, "Power":150, "ItemNo":6007002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":701031, "Group":701, "Count":31, "Value":3.1, "Power":155, "ItemNo":6007002, "ItemCount":195, "Coin":16000
+      "No":701031, "Group":701, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6007002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":701032, "Group":701, "Count":32, "Value":3.2, "Power":160, "ItemNo":6007002, "ItemCount":210, "Coin":16500
+      "No":701032, "Group":701, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6007002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":701033, "Group":701, "Count":33, "Value":3.3, "Power":165, "ItemNo":6007002, "ItemCount":225, "Coin":17000
+      "No":701033, "Group":701, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6007002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":701034, "Group":701, "Count":34, "Value":3.4, "Power":170, "ItemNo":6007002, "ItemCount":240, "Coin":17500
+      "No":701034, "Group":701, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6007002, "ItemCount":240, "Coin":17500
     },
     {
       "No":701035, "Group":701, "Count":35, "Value":3.5, "Power":175, "ItemNo":6007002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":701036, "Group":701, "Count":36, "Value":3.6, "Power":180, "ItemNo":6007002, "ItemCount":270, "Coin":18500
+      "No":701036, "Group":701, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6007002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":701037, "Group":701, "Count":37, "Value":3.7, "Power":185, "ItemNo":6007002, "ItemCount":285, "Coin":19000
+      "No":701037, "Group":701, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6007002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":701038, "Group":701, "Count":38, "Value":3.8, "Power":190, "ItemNo":6007002, "ItemCount":300, "Coin":19500
+      "No":701038, "Group":701, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6007002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":701039, "Group":701, "Count":39, "Value":3.9, "Power":195, "ItemNo":6007002, "ItemCount":315, "Coin":20000
+      "No":701039, "Group":701, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6007002, "ItemCount":315, "Coin":20000
     },
     {
       "No":701040, "Group":701, "Count":40, "Value":4, "Power":200, "ItemNo":6007003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":701041, "Group":701, "Count":41, "Value":4.1, "Power":205, "ItemNo":6007003, "ItemCount":80, "Coin":21000
+      "No":701041, "Group":701, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6007003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":701042, "Group":701, "Count":42, "Value":4.2, "Power":210, "ItemNo":6007003, "ItemCount":120, "Coin":21500
+      "No":701042, "Group":701, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6007003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":701043, "Group":701, "Count":43, "Value":4.3, "Power":215, "ItemNo":6007003, "ItemCount":160, "Coin":22000
+      "No":701043, "Group":701, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6007003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":701044, "Group":701, "Count":44, "Value":4.4, "Power":220, "ItemNo":6007003, "ItemCount":200, "Coin":22500
+      "No":701044, "Group":701, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6007003, "ItemCount":200, "Coin":22500
     },
     {
       "No":701045, "Group":701, "Count":45, "Value":4.5, "Power":225, "ItemNo":6007003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":701046, "Group":701, "Count":46, "Value":4.6, "Power":230, "ItemNo":6007003, "ItemCount":280, "Coin":23500
+      "No":701046, "Group":701, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6007003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":701047, "Group":701, "Count":47, "Value":4.7, "Power":235, "ItemNo":6007003, "ItemCount":320, "Coin":24000
+      "No":701047, "Group":701, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6007003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":701048, "Group":701, "Count":48, "Value":4.8, "Power":240, "ItemNo":6007003, "ItemCount":360, "Coin":24500
+      "No":701048, "Group":701, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6007003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":701049, "Group":701, "Count":49, "Value":4.9, "Power":245, "ItemNo":6007003, "ItemCount":400, "Coin":25000
+      "No":701049, "Group":701, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6007003, "ItemCount":400, "Coin":25000
     },
     {
       "No":701050, "Group":701, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -1075,37 +1075,37 @@
       "No":801000, "Group":801, "Count":0, "Value":0, "Power":0, "ItemNo":6008001, "ItemCount":30, "Coin":500
     },
     {
-      "No":801001, "Group":801, "Count":1, "Value":0.1, "Power":5, "ItemNo":6008001, "ItemCount":45, "Coin":1000
+      "No":801001, "Group":801, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6008001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":801002, "Group":801, "Count":2, "Value":0.2, "Power":10, "ItemNo":6008001, "ItemCount":60, "Coin":1500
+      "No":801002, "Group":801, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6008001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":801003, "Group":801, "Count":3, "Value":0.3, "Power":15, "ItemNo":6008001, "ItemCount":75, "Coin":2000
+      "No":801003, "Group":801, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6008001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":801004, "Group":801, "Count":4, "Value":0.4, "Power":20, "ItemNo":6008001, "ItemCount":90, "Coin":2500
+      "No":801004, "Group":801, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6008001, "ItemCount":90, "Coin":2500
     },
     {
       "No":801005, "Group":801, "Count":5, "Value":0.5, "Power":25, "ItemNo":6008001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":801006, "Group":801, "Count":6, "Value":0.6, "Power":30, "ItemNo":6008001, "ItemCount":120, "Coin":3500
+      "No":801006, "Group":801, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6008001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":801007, "Group":801, "Count":7, "Value":0.7, "Power":35, "ItemNo":6008001, "ItemCount":135, "Coin":4000
+      "No":801007, "Group":801, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6008001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":801008, "Group":801, "Count":8, "Value":0.8, "Power":40, "ItemNo":6008001, "ItemCount":150, "Coin":4500
+      "No":801008, "Group":801, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6008001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":801009, "Group":801, "Count":9, "Value":0.9, "Power":45, "ItemNo":6008001, "ItemCount":165, "Coin":5000
+      "No":801009, "Group":801, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6008001, "ItemCount":165, "Coin":5000
     },
     {
       "No":801010, "Group":801, "Count":10, "Value":1, "Power":50, "ItemNo":6008001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":801011, "Group":801, "Count":11, "Value":1.1, "Power":55, "ItemNo":6008001, "ItemCount":195, "Coin":6000
+      "No":801011, "Group":801, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6008001, "ItemCount":195, "Coin":6000
     },
     {
       "No":801012, "Group":801, "Count":12, "Value":1.2, "Power":60, "ItemNo":6008001, "ItemCount":210, "Coin":6500
@@ -1114,13 +1114,13 @@
       "No":801013, "Group":801, "Count":13, "Value":1.3, "Power":65, "ItemNo":6008001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":801014, "Group":801, "Count":14, "Value":1.4, "Power":70, "ItemNo":6008001, "ItemCount":240, "Coin":7500
+      "No":801014, "Group":801, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6008001, "ItemCount":240, "Coin":7500
     },
     {
       "No":801015, "Group":801, "Count":15, "Value":1.5, "Power":75, "ItemNo":6008001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":801016, "Group":801, "Count":16, "Value":1.6, "Power":80, "ItemNo":6008001, "ItemCount":270, "Coin":8500
+      "No":801016, "Group":801, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6008001, "ItemCount":270, "Coin":8500
     },
     {
       "No":801017, "Group":801, "Count":17, "Value":1.7, "Power":85, "ItemNo":6008001, "ItemCount":285, "Coin":9000
@@ -1129,97 +1129,97 @@
       "No":801018, "Group":801, "Count":18, "Value":1.8, "Power":90, "ItemNo":6008001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":801019, "Group":801, "Count":19, "Value":1.9, "Power":95, "ItemNo":6008001, "ItemCount":315, "Coin":10000
+      "No":801019, "Group":801, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6008001, "ItemCount":315, "Coin":10000
     },
     {
       "No":801020, "Group":801, "Count":20, "Value":2, "Power":100, "ItemNo":6008002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":801021, "Group":801, "Count":21, "Value":2.1, "Power":105, "ItemNo":6008002, "ItemCount":45, "Coin":11000
+      "No":801021, "Group":801, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6008002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":801022, "Group":801, "Count":22, "Value":2.2, "Power":110, "ItemNo":6008002, "ItemCount":60, "Coin":11500
+      "No":801022, "Group":801, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6008002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":801023, "Group":801, "Count":23, "Value":2.3, "Power":115, "ItemNo":6008002, "ItemCount":75, "Coin":12000
+      "No":801023, "Group":801, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6008002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":801024, "Group":801, "Count":24, "Value":2.4, "Power":120, "ItemNo":6008002, "ItemCount":90, "Coin":12500
+      "No":801024, "Group":801, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6008002, "ItemCount":90, "Coin":12500
     },
     {
       "No":801025, "Group":801, "Count":25, "Value":2.5, "Power":125, "ItemNo":6008002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":801026, "Group":801, "Count":26, "Value":2.6, "Power":130, "ItemNo":6008002, "ItemCount":120, "Coin":13500
+      "No":801026, "Group":801, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6008002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":801027, "Group":801, "Count":27, "Value":2.7, "Power":135, "ItemNo":6008002, "ItemCount":135, "Coin":14000
+      "No":801027, "Group":801, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6008002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":801028, "Group":801, "Count":28, "Value":2.8, "Power":140, "ItemNo":6008002, "ItemCount":150, "Coin":14500
+      "No":801028, "Group":801, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6008002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":801029, "Group":801, "Count":29, "Value":2.9, "Power":145, "ItemNo":6008002, "ItemCount":165, "Coin":15000
+      "No":801029, "Group":801, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6008002, "ItemCount":165, "Coin":15000
     },
     {
       "No":801030, "Group":801, "Count":30, "Value":3, "Power":150, "ItemNo":6008002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":801031, "Group":801, "Count":31, "Value":3.1, "Power":155, "ItemNo":6008002, "ItemCount":195, "Coin":16000
+      "No":801031, "Group":801, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6008002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":801032, "Group":801, "Count":32, "Value":3.2, "Power":160, "ItemNo":6008002, "ItemCount":210, "Coin":16500
+      "No":801032, "Group":801, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6008002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":801033, "Group":801, "Count":33, "Value":3.3, "Power":165, "ItemNo":6008002, "ItemCount":225, "Coin":17000
+      "No":801033, "Group":801, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6008002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":801034, "Group":801, "Count":34, "Value":3.4, "Power":170, "ItemNo":6008002, "ItemCount":240, "Coin":17500
+      "No":801034, "Group":801, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6008002, "ItemCount":240, "Coin":17500
     },
     {
       "No":801035, "Group":801, "Count":35, "Value":3.5, "Power":175, "ItemNo":6008002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":801036, "Group":801, "Count":36, "Value":3.6, "Power":180, "ItemNo":6008002, "ItemCount":270, "Coin":18500
+      "No":801036, "Group":801, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6008002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":801037, "Group":801, "Count":37, "Value":3.7, "Power":185, "ItemNo":6008002, "ItemCount":285, "Coin":19000
+      "No":801037, "Group":801, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6008002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":801038, "Group":801, "Count":38, "Value":3.8, "Power":190, "ItemNo":6008002, "ItemCount":300, "Coin":19500
+      "No":801038, "Group":801, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6008002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":801039, "Group":801, "Count":39, "Value":3.9, "Power":195, "ItemNo":6008002, "ItemCount":315, "Coin":20000
+      "No":801039, "Group":801, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6008002, "ItemCount":315, "Coin":20000
     },
     {
       "No":801040, "Group":801, "Count":40, "Value":4, "Power":200, "ItemNo":6008003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":801041, "Group":801, "Count":41, "Value":4.1, "Power":205, "ItemNo":6008003, "ItemCount":80, "Coin":21000
+      "No":801041, "Group":801, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6008003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":801042, "Group":801, "Count":42, "Value":4.2, "Power":210, "ItemNo":6008003, "ItemCount":120, "Coin":21500
+      "No":801042, "Group":801, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6008003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":801043, "Group":801, "Count":43, "Value":4.3, "Power":215, "ItemNo":6008003, "ItemCount":160, "Coin":22000
+      "No":801043, "Group":801, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6008003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":801044, "Group":801, "Count":44, "Value":4.4, "Power":220, "ItemNo":6008003, "ItemCount":200, "Coin":22500
+      "No":801044, "Group":801, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6008003, "ItemCount":200, "Coin":22500
     },
     {
       "No":801045, "Group":801, "Count":45, "Value":4.5, "Power":225, "ItemNo":6008003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":801046, "Group":801, "Count":46, "Value":4.6, "Power":230, "ItemNo":6008003, "ItemCount":280, "Coin":23500
+      "No":801046, "Group":801, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6008003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":801047, "Group":801, "Count":47, "Value":4.7, "Power":235, "ItemNo":6008003, "ItemCount":320, "Coin":24000
+      "No":801047, "Group":801, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6008003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":801048, "Group":801, "Count":48, "Value":4.8, "Power":240, "ItemNo":6008003, "ItemCount":360, "Coin":24500
+      "No":801048, "Group":801, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6008003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":801049, "Group":801, "Count":49, "Value":4.9, "Power":245, "ItemNo":6008003, "ItemCount":400, "Coin":25000
+      "No":801049, "Group":801, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6008003, "ItemCount":400, "Coin":25000
     },
     {
       "No":801050, "Group":801, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -1228,37 +1228,37 @@
       "No":901000, "Group":901, "Count":0, "Value":0, "Power":0, "ItemNo":6009001, "ItemCount":30, "Coin":500
     },
     {
-      "No":901001, "Group":901, "Count":1, "Value":0.1, "Power":5, "ItemNo":6009001, "ItemCount":45, "Coin":1000
+      "No":901001, "Group":901, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6009001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":901002, "Group":901, "Count":2, "Value":0.2, "Power":10, "ItemNo":6009001, "ItemCount":60, "Coin":1500
+      "No":901002, "Group":901, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6009001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":901003, "Group":901, "Count":3, "Value":0.3, "Power":15, "ItemNo":6009001, "ItemCount":75, "Coin":2000
+      "No":901003, "Group":901, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6009001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":901004, "Group":901, "Count":4, "Value":0.4, "Power":20, "ItemNo":6009001, "ItemCount":90, "Coin":2500
+      "No":901004, "Group":901, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6009001, "ItemCount":90, "Coin":2500
     },
     {
       "No":901005, "Group":901, "Count":5, "Value":0.5, "Power":25, "ItemNo":6009001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":901006, "Group":901, "Count":6, "Value":0.6, "Power":30, "ItemNo":6009001, "ItemCount":120, "Coin":3500
+      "No":901006, "Group":901, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6009001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":901007, "Group":901, "Count":7, "Value":0.7, "Power":35, "ItemNo":6009001, "ItemCount":135, "Coin":4000
+      "No":901007, "Group":901, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6009001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":901008, "Group":901, "Count":8, "Value":0.8, "Power":40, "ItemNo":6009001, "ItemCount":150, "Coin":4500
+      "No":901008, "Group":901, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6009001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":901009, "Group":901, "Count":9, "Value":0.9, "Power":45, "ItemNo":6009001, "ItemCount":165, "Coin":5000
+      "No":901009, "Group":901, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6009001, "ItemCount":165, "Coin":5000
     },
     {
       "No":901010, "Group":901, "Count":10, "Value":1, "Power":50, "ItemNo":6009001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":901011, "Group":901, "Count":11, "Value":1.1, "Power":55, "ItemNo":6009001, "ItemCount":195, "Coin":6000
+      "No":901011, "Group":901, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6009001, "ItemCount":195, "Coin":6000
     },
     {
       "No":901012, "Group":901, "Count":12, "Value":1.2, "Power":60, "ItemNo":6009001, "ItemCount":210, "Coin":6500
@@ -1267,13 +1267,13 @@
       "No":901013, "Group":901, "Count":13, "Value":1.3, "Power":65, "ItemNo":6009001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":901014, "Group":901, "Count":14, "Value":1.4, "Power":70, "ItemNo":6009001, "ItemCount":240, "Coin":7500
+      "No":901014, "Group":901, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6009001, "ItemCount":240, "Coin":7500
     },
     {
       "No":901015, "Group":901, "Count":15, "Value":1.5, "Power":75, "ItemNo":6009001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":901016, "Group":901, "Count":16, "Value":1.6, "Power":80, "ItemNo":6009001, "ItemCount":270, "Coin":8500
+      "No":901016, "Group":901, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6009001, "ItemCount":270, "Coin":8500
     },
     {
       "No":901017, "Group":901, "Count":17, "Value":1.7, "Power":85, "ItemNo":6009001, "ItemCount":285, "Coin":9000
@@ -1282,97 +1282,97 @@
       "No":901018, "Group":901, "Count":18, "Value":1.8, "Power":90, "ItemNo":6009001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":901019, "Group":901, "Count":19, "Value":1.9, "Power":95, "ItemNo":6009001, "ItemCount":315, "Coin":10000
+      "No":901019, "Group":901, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6009001, "ItemCount":315, "Coin":10000
     },
     {
       "No":901020, "Group":901, "Count":20, "Value":2, "Power":100, "ItemNo":6009002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":901021, "Group":901, "Count":21, "Value":2.1, "Power":105, "ItemNo":6009002, "ItemCount":45, "Coin":11000
+      "No":901021, "Group":901, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6009002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":901022, "Group":901, "Count":22, "Value":2.2, "Power":110, "ItemNo":6009002, "ItemCount":60, "Coin":11500
+      "No":901022, "Group":901, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6009002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":901023, "Group":901, "Count":23, "Value":2.3, "Power":115, "ItemNo":6009002, "ItemCount":75, "Coin":12000
+      "No":901023, "Group":901, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6009002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":901024, "Group":901, "Count":24, "Value":2.4, "Power":120, "ItemNo":6009002, "ItemCount":90, "Coin":12500
+      "No":901024, "Group":901, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6009002, "ItemCount":90, "Coin":12500
     },
     {
       "No":901025, "Group":901, "Count":25, "Value":2.5, "Power":125, "ItemNo":6009002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":901026, "Group":901, "Count":26, "Value":2.6, "Power":130, "ItemNo":6009002, "ItemCount":120, "Coin":13500
+      "No":901026, "Group":901, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6009002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":901027, "Group":901, "Count":27, "Value":2.7, "Power":135, "ItemNo":6009002, "ItemCount":135, "Coin":14000
+      "No":901027, "Group":901, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6009002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":901028, "Group":901, "Count":28, "Value":2.8, "Power":140, "ItemNo":6009002, "ItemCount":150, "Coin":14500
+      "No":901028, "Group":901, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6009002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":901029, "Group":901, "Count":29, "Value":2.9, "Power":145, "ItemNo":6009002, "ItemCount":165, "Coin":15000
+      "No":901029, "Group":901, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6009002, "ItemCount":165, "Coin":15000
     },
     {
       "No":901030, "Group":901, "Count":30, "Value":3, "Power":150, "ItemNo":6009002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":901031, "Group":901, "Count":31, "Value":3.1, "Power":155, "ItemNo":6009002, "ItemCount":195, "Coin":16000
+      "No":901031, "Group":901, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6009002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":901032, "Group":901, "Count":32, "Value":3.2, "Power":160, "ItemNo":6009002, "ItemCount":210, "Coin":16500
+      "No":901032, "Group":901, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6009002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":901033, "Group":901, "Count":33, "Value":3.3, "Power":165, "ItemNo":6009002, "ItemCount":225, "Coin":17000
+      "No":901033, "Group":901, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6009002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":901034, "Group":901, "Count":34, "Value":3.4, "Power":170, "ItemNo":6009002, "ItemCount":240, "Coin":17500
+      "No":901034, "Group":901, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6009002, "ItemCount":240, "Coin":17500
     },
     {
       "No":901035, "Group":901, "Count":35, "Value":3.5, "Power":175, "ItemNo":6009002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":901036, "Group":901, "Count":36, "Value":3.6, "Power":180, "ItemNo":6009002, "ItemCount":270, "Coin":18500
+      "No":901036, "Group":901, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6009002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":901037, "Group":901, "Count":37, "Value":3.7, "Power":185, "ItemNo":6009002, "ItemCount":285, "Coin":19000
+      "No":901037, "Group":901, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6009002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":901038, "Group":901, "Count":38, "Value":3.8, "Power":190, "ItemNo":6009002, "ItemCount":300, "Coin":19500
+      "No":901038, "Group":901, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6009002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":901039, "Group":901, "Count":39, "Value":3.9, "Power":195, "ItemNo":6009002, "ItemCount":315, "Coin":20000
+      "No":901039, "Group":901, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6009002, "ItemCount":315, "Coin":20000
     },
     {
       "No":901040, "Group":901, "Count":40, "Value":4, "Power":200, "ItemNo":6009003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":901041, "Group":901, "Count":41, "Value":4.1, "Power":205, "ItemNo":6009003, "ItemCount":80, "Coin":21000
+      "No":901041, "Group":901, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6009003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":901042, "Group":901, "Count":42, "Value":4.2, "Power":210, "ItemNo":6009003, "ItemCount":120, "Coin":21500
+      "No":901042, "Group":901, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6009003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":901043, "Group":901, "Count":43, "Value":4.3, "Power":215, "ItemNo":6009003, "ItemCount":160, "Coin":22000
+      "No":901043, "Group":901, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6009003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":901044, "Group":901, "Count":44, "Value":4.4, "Power":220, "ItemNo":6009003, "ItemCount":200, "Coin":22500
+      "No":901044, "Group":901, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6009003, "ItemCount":200, "Coin":22500
     },
     {
       "No":901045, "Group":901, "Count":45, "Value":4.5, "Power":225, "ItemNo":6009003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":901046, "Group":901, "Count":46, "Value":4.6, "Power":230, "ItemNo":6009003, "ItemCount":280, "Coin":23500
+      "No":901046, "Group":901, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6009003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":901047, "Group":901, "Count":47, "Value":4.7, "Power":235, "ItemNo":6009003, "ItemCount":320, "Coin":24000
+      "No":901047, "Group":901, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6009003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":901048, "Group":901, "Count":48, "Value":4.8, "Power":240, "ItemNo":6009003, "ItemCount":360, "Coin":24500
+      "No":901048, "Group":901, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6009003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":901049, "Group":901, "Count":49, "Value":4.9, "Power":245, "ItemNo":6009003, "ItemCount":400, "Coin":25000
+      "No":901049, "Group":901, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6009003, "ItemCount":400, "Coin":25000
     },
     {
       "No":901050, "Group":901, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -1381,61 +1381,61 @@
       "No":1001000, "Group":1001, "Count":0, "Value":0, "Power":0, "ItemNo":6010001, "ItemCount":30, "Coin":500
     },
     {
-      "No":1001001, "Group":1001, "Count":1, "Value":-0.05, "Power":5, "ItemNo":6010001, "ItemCount":45, "Coin":1000
+      "No":1001001, "Group":1001, "Count":1, "Value":-0.050000000000000003, "Power":5, "ItemNo":6010001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":1001002, "Group":1001, "Count":2, "Value":-0.1, "Power":10, "ItemNo":6010001, "ItemCount":60, "Coin":1500
+      "No":1001002, "Group":1001, "Count":2, "Value":-0.10000000000000001, "Power":10, "ItemNo":6010001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":1001003, "Group":1001, "Count":3, "Value":-0.15, "Power":15, "ItemNo":6010001, "ItemCount":75, "Coin":2000
+      "No":1001003, "Group":1001, "Count":3, "Value":-0.14999999999999999, "Power":15, "ItemNo":6010001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":1001004, "Group":1001, "Count":4, "Value":-0.2, "Power":20, "ItemNo":6010001, "ItemCount":90, "Coin":2500
+      "No":1001004, "Group":1001, "Count":4, "Value":-0.20000000000000001, "Power":20, "ItemNo":6010001, "ItemCount":90, "Coin":2500
     },
     {
       "No":1001005, "Group":1001, "Count":5, "Value":-0.25, "Power":25, "ItemNo":6010001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":1001006, "Group":1001, "Count":6, "Value":-0.3, "Power":30, "ItemNo":6010001, "ItemCount":120, "Coin":3500
+      "No":1001006, "Group":1001, "Count":6, "Value":-0.29999999999999999, "Power":30, "ItemNo":6010001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":1001007, "Group":1001, "Count":7, "Value":-0.35, "Power":35, "ItemNo":6010001, "ItemCount":135, "Coin":4000
+      "No":1001007, "Group":1001, "Count":7, "Value":-0.34999999999999998, "Power":35, "ItemNo":6010001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":1001008, "Group":1001, "Count":8, "Value":-0.4, "Power":40, "ItemNo":6010001, "ItemCount":150, "Coin":4500
+      "No":1001008, "Group":1001, "Count":8, "Value":-0.40000000000000002, "Power":40, "ItemNo":6010001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":1001009, "Group":1001, "Count":9, "Value":-0.45, "Power":45, "ItemNo":6010001, "ItemCount":165, "Coin":5000
+      "No":1001009, "Group":1001, "Count":9, "Value":-0.45000000000000001, "Power":45, "ItemNo":6010001, "ItemCount":165, "Coin":5000
     },
     {
       "No":1001010, "Group":1001, "Count":10, "Value":-0.5, "Power":50, "ItemNo":6010001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":1001011, "Group":1001, "Count":11, "Value":-0.55, "Power":55, "ItemNo":6010001, "ItemCount":195, "Coin":6000
+      "No":1001011, "Group":1001, "Count":11, "Value":-0.55000000000000004, "Power":55, "ItemNo":6010001, "ItemCount":195, "Coin":6000
     },
     {
-      "No":1001012, "Group":1001, "Count":12, "Value":-0.6, "Power":60, "ItemNo":6010001, "ItemCount":210, "Coin":6500
+      "No":1001012, "Group":1001, "Count":12, "Value":-0.59999999999999998, "Power":60, "ItemNo":6010001, "ItemCount":210, "Coin":6500
     },
     {
-      "No":1001013, "Group":1001, "Count":13, "Value":-0.65, "Power":65, "ItemNo":6010001, "ItemCount":225, "Coin":7000
+      "No":1001013, "Group":1001, "Count":13, "Value":-0.65000000000000002, "Power":65, "ItemNo":6010001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":1001014, "Group":1001, "Count":14, "Value":-0.7, "Power":70, "ItemNo":6010001, "ItemCount":240, "Coin":7500
+      "No":1001014, "Group":1001, "Count":14, "Value":-0.69999999999999996, "Power":70, "ItemNo":6010001, "ItemCount":240, "Coin":7500
     },
     {
       "No":1001015, "Group":1001, "Count":15, "Value":-0.75, "Power":75, "ItemNo":6010001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":1001016, "Group":1001, "Count":16, "Value":-0.8, "Power":80, "ItemNo":6010001, "ItemCount":270, "Coin":8500
+      "No":1001016, "Group":1001, "Count":16, "Value":-0.80000000000000004, "Power":80, "ItemNo":6010001, "ItemCount":270, "Coin":8500
     },
     {
-      "No":1001017, "Group":1001, "Count":17, "Value":-0.85, "Power":85, "ItemNo":6010001, "ItemCount":285, "Coin":9000
+      "No":1001017, "Group":1001, "Count":17, "Value":-0.84999999999999998, "Power":85, "ItemNo":6010001, "ItemCount":285, "Coin":9000
     },
     {
-      "No":1001018, "Group":1001, "Count":18, "Value":-0.9, "Power":90, "ItemNo":6010001, "ItemCount":300, "Coin":9500
+      "No":1001018, "Group":1001, "Count":18, "Value":-0.90000000000000002, "Power":90, "ItemNo":6010001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":1001019, "Group":1001, "Count":19, "Value":-0.95, "Power":95, "ItemNo":6010001, "ItemCount":315, "Coin":10000
+      "No":1001019, "Group":1001, "Count":19, "Value":-0.94999999999999996, "Power":95, "ItemNo":6010001, "ItemCount":315, "Coin":10000
     },
     {
       "No":1001020, "Group":1001, "Count":20, "Value":-1, "Power":100, "ItemNo":6010002, "ItemCount":30, "Coin":10500
@@ -1444,10 +1444,10 @@
       "No":1001021, "Group":1001, "Count":21, "Value":-1.05, "Power":105, "ItemNo":6010002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":1001022, "Group":1001, "Count":22, "Value":-1.1, "Power":110, "ItemNo":6010002, "ItemCount":60, "Coin":11500
+      "No":1001022, "Group":1001, "Count":22, "Value":-1.1000000000000001, "Power":110, "ItemNo":6010002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":1001023, "Group":1001, "Count":23, "Value":-1.15, "Power":115, "ItemNo":6010002, "ItemCount":75, "Coin":12000
+      "No":1001023, "Group":1001, "Count":23, "Value":-1.1499999999999999, "Power":115, "ItemNo":6010002, "ItemCount":75, "Coin":12000
     },
     {
       "No":1001024, "Group":1001, "Count":24, "Value":-1.2, "Power":120, "ItemNo":6010002, "ItemCount":90, "Coin":12500
@@ -1459,10 +1459,10 @@
       "No":1001026, "Group":1001, "Count":26, "Value":-1.3, "Power":130, "ItemNo":6010002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":1001027, "Group":1001, "Count":27, "Value":-1.35, "Power":135, "ItemNo":6010002, "ItemCount":135, "Coin":14000
+      "No":1001027, "Group":1001, "Count":27, "Value":-1.3500000000000001, "Power":135, "ItemNo":6010002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":1001028, "Group":1001, "Count":28, "Value":-1.4, "Power":140, "ItemNo":6010002, "ItemCount":150, "Coin":14500
+      "No":1001028, "Group":1001, "Count":28, "Value":-1.3999999999999999, "Power":140, "ItemNo":6010002, "ItemCount":150, "Coin":14500
     },
     {
       "No":1001029, "Group":1001, "Count":29, "Value":-1.45, "Power":145, "ItemNo":6010002, "ItemCount":165, "Coin":15000
@@ -1474,10 +1474,10 @@
       "No":1001031, "Group":1001, "Count":31, "Value":-1.55, "Power":155, "ItemNo":6010002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":1001032, "Group":1001, "Count":32, "Value":-1.6, "Power":160, "ItemNo":6010002, "ItemCount":210, "Coin":16500
+      "No":1001032, "Group":1001, "Count":32, "Value":-1.6000000000000001, "Power":160, "ItemNo":6010002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":1001033, "Group":1001, "Count":33, "Value":-1.65, "Power":165, "ItemNo":6010002, "ItemCount":225, "Coin":17000
+      "No":1001033, "Group":1001, "Count":33, "Value":-1.6499999999999999, "Power":165, "ItemNo":6010002, "ItemCount":225, "Coin":17000
     },
     {
       "No":1001034, "Group":1001, "Count":34, "Value":-1.7, "Power":170, "ItemNo":6010002, "ItemCount":240, "Coin":17500
@@ -1489,10 +1489,10 @@
       "No":1001036, "Group":1001, "Count":36, "Value":-1.8, "Power":180, "ItemNo":6010002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":1001037, "Group":1001, "Count":37, "Value":-1.85, "Power":185, "ItemNo":6010002, "ItemCount":285, "Coin":19000
+      "No":1001037, "Group":1001, "Count":37, "Value":-1.8500000000000001, "Power":185, "ItemNo":6010002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":1001038, "Group":1001, "Count":38, "Value":-1.9, "Power":190, "ItemNo":6010002, "ItemCount":300, "Coin":19500
+      "No":1001038, "Group":1001, "Count":38, "Value":-1.8999999999999999, "Power":190, "ItemNo":6010002, "ItemCount":300, "Coin":19500
     },
     {
       "No":1001039, "Group":1001, "Count":39, "Value":-1.95, "Power":195, "ItemNo":6010002, "ItemCount":315, "Coin":20000
@@ -1501,31 +1501,31 @@
       "No":1001040, "Group":1001, "Count":40, "Value":-2, "Power":200, "ItemNo":6010003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":1001041, "Group":1001, "Count":41, "Value":-2.05, "Power":205, "ItemNo":6010003, "ItemCount":80, "Coin":21000
+      "No":1001041, "Group":1001, "Count":41, "Value":-2.0499999999999998, "Power":205, "ItemNo":6010003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":1001042, "Group":1001, "Count":42, "Value":-2.1, "Power":210, "ItemNo":6010003, "ItemCount":120, "Coin":21500
+      "No":1001042, "Group":1001, "Count":42, "Value":-2.1000000000000001, "Power":210, "ItemNo":6010003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":1001043, "Group":1001, "Count":43, "Value":-2.15, "Power":215, "ItemNo":6010003, "ItemCount":160, "Coin":22000
+      "No":1001043, "Group":1001, "Count":43, "Value":-2.1499999999999999, "Power":215, "ItemNo":6010003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":1001044, "Group":1001, "Count":44, "Value":-2.2, "Power":220, "ItemNo":6010003, "ItemCount":200, "Coin":22500
+      "No":1001044, "Group":1001, "Count":44, "Value":-2.2000000000000002, "Power":220, "ItemNo":6010003, "ItemCount":200, "Coin":22500
     },
     {
       "No":1001045, "Group":1001, "Count":45, "Value":-2.25, "Power":225, "ItemNo":6010003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":1001046, "Group":1001, "Count":46, "Value":-2.3, "Power":230, "ItemNo":6010003, "ItemCount":280, "Coin":23500
+      "No":1001046, "Group":1001, "Count":46, "Value":-2.2999999999999998, "Power":230, "ItemNo":6010003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":1001047, "Group":1001, "Count":47, "Value":-2.35, "Power":235, "ItemNo":6010003, "ItemCount":320, "Coin":24000
+      "No":1001047, "Group":1001, "Count":47, "Value":-2.3500000000000001, "Power":235, "ItemNo":6010003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":1001048, "Group":1001, "Count":48, "Value":-2.4, "Power":240, "ItemNo":6010003, "ItemCount":360, "Coin":24500
+      "No":1001048, "Group":1001, "Count":48, "Value":-2.3999999999999999, "Power":240, "ItemNo":6010003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":1001049, "Group":1001, "Count":49, "Value":-2.45, "Power":245, "ItemNo":6010003, "ItemCount":400, "Coin":25000
+      "No":1001049, "Group":1001, "Count":49, "Value":-2.4500000000000002, "Power":245, "ItemNo":6010003, "ItemCount":400, "Coin":25000
     },
     {
       "No":1001050, "Group":1001, "Count":50, "Value":-2.5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -1534,61 +1534,61 @@
       "No":1101000, "Group":1101, "Count":0, "Value":0, "Power":0, "ItemNo":6011001, "ItemCount":30, "Coin":500
     },
     {
-      "No":1101001, "Group":1101, "Count":1, "Value":-0.05, "Power":5, "ItemNo":6011001, "ItemCount":45, "Coin":1000
+      "No":1101001, "Group":1101, "Count":1, "Value":-0.050000000000000003, "Power":5, "ItemNo":6011001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":1101002, "Group":1101, "Count":2, "Value":-0.1, "Power":10, "ItemNo":6011001, "ItemCount":60, "Coin":1500
+      "No":1101002, "Group":1101, "Count":2, "Value":-0.10000000000000001, "Power":10, "ItemNo":6011001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":1101003, "Group":1101, "Count":3, "Value":-0.15, "Power":15, "ItemNo":6011001, "ItemCount":75, "Coin":2000
+      "No":1101003, "Group":1101, "Count":3, "Value":-0.14999999999999999, "Power":15, "ItemNo":6011001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":1101004, "Group":1101, "Count":4, "Value":-0.2, "Power":20, "ItemNo":6011001, "ItemCount":90, "Coin":2500
+      "No":1101004, "Group":1101, "Count":4, "Value":-0.20000000000000001, "Power":20, "ItemNo":6011001, "ItemCount":90, "Coin":2500
     },
     {
       "No":1101005, "Group":1101, "Count":5, "Value":-0.25, "Power":25, "ItemNo":6011001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":1101006, "Group":1101, "Count":6, "Value":-0.3, "Power":30, "ItemNo":6011001, "ItemCount":120, "Coin":3500
+      "No":1101006, "Group":1101, "Count":6, "Value":-0.29999999999999999, "Power":30, "ItemNo":6011001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":1101007, "Group":1101, "Count":7, "Value":-0.35, "Power":35, "ItemNo":6011001, "ItemCount":135, "Coin":4000
+      "No":1101007, "Group":1101, "Count":7, "Value":-0.34999999999999998, "Power":35, "ItemNo":6011001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":1101008, "Group":1101, "Count":8, "Value":-0.4, "Power":40, "ItemNo":6011001, "ItemCount":150, "Coin":4500
+      "No":1101008, "Group":1101, "Count":8, "Value":-0.40000000000000002, "Power":40, "ItemNo":6011001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":1101009, "Group":1101, "Count":9, "Value":-0.45, "Power":45, "ItemNo":6011001, "ItemCount":165, "Coin":5000
+      "No":1101009, "Group":1101, "Count":9, "Value":-0.45000000000000001, "Power":45, "ItemNo":6011001, "ItemCount":165, "Coin":5000
     },
     {
       "No":1101010, "Group":1101, "Count":10, "Value":-0.5, "Power":50, "ItemNo":6011001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":1101011, "Group":1101, "Count":11, "Value":-0.55, "Power":55, "ItemNo":6011001, "ItemCount":195, "Coin":6000
+      "No":1101011, "Group":1101, "Count":11, "Value":-0.55000000000000004, "Power":55, "ItemNo":6011001, "ItemCount":195, "Coin":6000
     },
     {
-      "No":1101012, "Group":1101, "Count":12, "Value":-0.6, "Power":60, "ItemNo":6011001, "ItemCount":210, "Coin":6500
+      "No":1101012, "Group":1101, "Count":12, "Value":-0.59999999999999998, "Power":60, "ItemNo":6011001, "ItemCount":210, "Coin":6500
     },
     {
-      "No":1101013, "Group":1101, "Count":13, "Value":-0.65, "Power":65, "ItemNo":6011001, "ItemCount":225, "Coin":7000
+      "No":1101013, "Group":1101, "Count":13, "Value":-0.65000000000000002, "Power":65, "ItemNo":6011001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":1101014, "Group":1101, "Count":14, "Value":-0.7, "Power":70, "ItemNo":6011001, "ItemCount":240, "Coin":7500
+      "No":1101014, "Group":1101, "Count":14, "Value":-0.69999999999999996, "Power":70, "ItemNo":6011001, "ItemCount":240, "Coin":7500
     },
     {
       "No":1101015, "Group":1101, "Count":15, "Value":-0.75, "Power":75, "ItemNo":6011001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":1101016, "Group":1101, "Count":16, "Value":-0.8, "Power":80, "ItemNo":6011001, "ItemCount":270, "Coin":8500
+      "No":1101016, "Group":1101, "Count":16, "Value":-0.80000000000000004, "Power":80, "ItemNo":6011001, "ItemCount":270, "Coin":8500
     },
     {
-      "No":1101017, "Group":1101, "Count":17, "Value":-0.85, "Power":85, "ItemNo":6011001, "ItemCount":285, "Coin":9000
+      "No":1101017, "Group":1101, "Count":17, "Value":-0.84999999999999998, "Power":85, "ItemNo":6011001, "ItemCount":285, "Coin":9000
     },
     {
-      "No":1101018, "Group":1101, "Count":18, "Value":-0.9, "Power":90, "ItemNo":6011001, "ItemCount":300, "Coin":9500
+      "No":1101018, "Group":1101, "Count":18, "Value":-0.90000000000000002, "Power":90, "ItemNo":6011001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":1101019, "Group":1101, "Count":19, "Value":-0.95, "Power":95, "ItemNo":6011001, "ItemCount":315, "Coin":10000
+      "No":1101019, "Group":1101, "Count":19, "Value":-0.94999999999999996, "Power":95, "ItemNo":6011001, "ItemCount":315, "Coin":10000
     },
     {
       "No":1101020, "Group":1101, "Count":20, "Value":-1, "Power":100, "ItemNo":6011002, "ItemCount":30, "Coin":10500
@@ -1597,10 +1597,10 @@
       "No":1101021, "Group":1101, "Count":21, "Value":-1.05, "Power":105, "ItemNo":6011002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":1101022, "Group":1101, "Count":22, "Value":-1.1, "Power":110, "ItemNo":6011002, "ItemCount":60, "Coin":11500
+      "No":1101022, "Group":1101, "Count":22, "Value":-1.1000000000000001, "Power":110, "ItemNo":6011002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":1101023, "Group":1101, "Count":23, "Value":-1.15, "Power":115, "ItemNo":6011002, "ItemCount":75, "Coin":12000
+      "No":1101023, "Group":1101, "Count":23, "Value":-1.1499999999999999, "Power":115, "ItemNo":6011002, "ItemCount":75, "Coin":12000
     },
     {
       "No":1101024, "Group":1101, "Count":24, "Value":-1.2, "Power":120, "ItemNo":6011002, "ItemCount":90, "Coin":12500
@@ -1612,10 +1612,10 @@
       "No":1101026, "Group":1101, "Count":26, "Value":-1.3, "Power":130, "ItemNo":6011002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":1101027, "Group":1101, "Count":27, "Value":-1.35, "Power":135, "ItemNo":6011002, "ItemCount":135, "Coin":14000
+      "No":1101027, "Group":1101, "Count":27, "Value":-1.3500000000000001, "Power":135, "ItemNo":6011002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":1101028, "Group":1101, "Count":28, "Value":-1.4, "Power":140, "ItemNo":6011002, "ItemCount":150, "Coin":14500
+      "No":1101028, "Group":1101, "Count":28, "Value":-1.3999999999999999, "Power":140, "ItemNo":6011002, "ItemCount":150, "Coin":14500
     },
     {
       "No":1101029, "Group":1101, "Count":29, "Value":-1.45, "Power":145, "ItemNo":6011002, "ItemCount":165, "Coin":15000
@@ -1627,10 +1627,10 @@
       "No":1101031, "Group":1101, "Count":31, "Value":-1.55, "Power":155, "ItemNo":6011002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":1101032, "Group":1101, "Count":32, "Value":-1.6, "Power":160, "ItemNo":6011002, "ItemCount":210, "Coin":16500
+      "No":1101032, "Group":1101, "Count":32, "Value":-1.6000000000000001, "Power":160, "ItemNo":6011002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":1101033, "Group":1101, "Count":33, "Value":-1.65, "Power":165, "ItemNo":6011002, "ItemCount":225, "Coin":17000
+      "No":1101033, "Group":1101, "Count":33, "Value":-1.6499999999999999, "Power":165, "ItemNo":6011002, "ItemCount":225, "Coin":17000
     },
     {
       "No":1101034, "Group":1101, "Count":34, "Value":-1.7, "Power":170, "ItemNo":6011002, "ItemCount":240, "Coin":17500
@@ -1642,10 +1642,10 @@
       "No":1101036, "Group":1101, "Count":36, "Value":-1.8, "Power":180, "ItemNo":6011002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":1101037, "Group":1101, "Count":37, "Value":-1.85, "Power":185, "ItemNo":6011002, "ItemCount":285, "Coin":19000
+      "No":1101037, "Group":1101, "Count":37, "Value":-1.8500000000000001, "Power":185, "ItemNo":6011002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":1101038, "Group":1101, "Count":38, "Value":-1.9, "Power":190, "ItemNo":6011002, "ItemCount":300, "Coin":19500
+      "No":1101038, "Group":1101, "Count":38, "Value":-1.8999999999999999, "Power":190, "ItemNo":6011002, "ItemCount":300, "Coin":19500
     },
     {
       "No":1101039, "Group":1101, "Count":39, "Value":-1.95, "Power":195, "ItemNo":6011002, "ItemCount":315, "Coin":20000
@@ -1654,31 +1654,31 @@
       "No":1101040, "Group":1101, "Count":40, "Value":-2, "Power":200, "ItemNo":6011003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":1101041, "Group":1101, "Count":41, "Value":-2.05, "Power":205, "ItemNo":6011003, "ItemCount":80, "Coin":21000
+      "No":1101041, "Group":1101, "Count":41, "Value":-2.0499999999999998, "Power":205, "ItemNo":6011003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":1101042, "Group":1101, "Count":42, "Value":-2.1, "Power":210, "ItemNo":6011003, "ItemCount":120, "Coin":21500
+      "No":1101042, "Group":1101, "Count":42, "Value":-2.1000000000000001, "Power":210, "ItemNo":6011003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":1101043, "Group":1101, "Count":43, "Value":-2.15, "Power":215, "ItemNo":6011003, "ItemCount":160, "Coin":22000
+      "No":1101043, "Group":1101, "Count":43, "Value":-2.1499999999999999, "Power":215, "ItemNo":6011003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":1101044, "Group":1101, "Count":44, "Value":-2.2, "Power":220, "ItemNo":6011003, "ItemCount":200, "Coin":22500
+      "No":1101044, "Group":1101, "Count":44, "Value":-2.2000000000000002, "Power":220, "ItemNo":6011003, "ItemCount":200, "Coin":22500
     },
     {
       "No":1101045, "Group":1101, "Count":45, "Value":-2.25, "Power":225, "ItemNo":6011003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":1101046, "Group":1101, "Count":46, "Value":-2.3, "Power":230, "ItemNo":6011003, "ItemCount":280, "Coin":23500
+      "No":1101046, "Group":1101, "Count":46, "Value":-2.2999999999999998, "Power":230, "ItemNo":6011003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":1101047, "Group":1101, "Count":47, "Value":-2.35, "Power":235, "ItemNo":6011003, "ItemCount":320, "Coin":24000
+      "No":1101047, "Group":1101, "Count":47, "Value":-2.3500000000000001, "Power":235, "ItemNo":6011003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":1101048, "Group":1101, "Count":48, "Value":-2.4, "Power":240, "ItemNo":6011003, "ItemCount":360, "Coin":24500
+      "No":1101048, "Group":1101, "Count":48, "Value":-2.3999999999999999, "Power":240, "ItemNo":6011003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":1101049, "Group":1101, "Count":49, "Value":-2.45, "Power":245, "ItemNo":6011003, "ItemCount":400, "Coin":25000
+      "No":1101049, "Group":1101, "Count":49, "Value":-2.4500000000000002, "Power":245, "ItemNo":6011003, "ItemCount":400, "Coin":25000
     },
     {
       "No":1101050, "Group":1101, "Count":50, "Value":-2.5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -1687,61 +1687,61 @@
       "No":1201000, "Group":1201, "Count":0, "Value":0, "Power":0, "ItemNo":6012001, "ItemCount":30, "Coin":500
     },
     {
-      "No":1201001, "Group":1201, "Count":1, "Value":-0.05, "Power":5, "ItemNo":6012001, "ItemCount":45, "Coin":1000
+      "No":1201001, "Group":1201, "Count":1, "Value":-0.050000000000000003, "Power":5, "ItemNo":6012001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":1201002, "Group":1201, "Count":2, "Value":-0.1, "Power":10, "ItemNo":6012001, "ItemCount":60, "Coin":1500
+      "No":1201002, "Group":1201, "Count":2, "Value":-0.10000000000000001, "Power":10, "ItemNo":6012001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":1201003, "Group":1201, "Count":3, "Value":-0.15, "Power":15, "ItemNo":6012001, "ItemCount":75, "Coin":2000
+      "No":1201003, "Group":1201, "Count":3, "Value":-0.14999999999999999, "Power":15, "ItemNo":6012001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":1201004, "Group":1201, "Count":4, "Value":-0.2, "Power":20, "ItemNo":6012001, "ItemCount":90, "Coin":2500
+      "No":1201004, "Group":1201, "Count":4, "Value":-0.20000000000000001, "Power":20, "ItemNo":6012001, "ItemCount":90, "Coin":2500
     },
     {
       "No":1201005, "Group":1201, "Count":5, "Value":-0.25, "Power":25, "ItemNo":6012001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":1201006, "Group":1201, "Count":6, "Value":-0.3, "Power":30, "ItemNo":6012001, "ItemCount":120, "Coin":3500
+      "No":1201006, "Group":1201, "Count":6, "Value":-0.29999999999999999, "Power":30, "ItemNo":6012001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":1201007, "Group":1201, "Count":7, "Value":-0.35, "Power":35, "ItemNo":6012001, "ItemCount":135, "Coin":4000
+      "No":1201007, "Group":1201, "Count":7, "Value":-0.34999999999999998, "Power":35, "ItemNo":6012001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":1201008, "Group":1201, "Count":8, "Value":-0.4, "Power":40, "ItemNo":6012001, "ItemCount":150, "Coin":4500
+      "No":1201008, "Group":1201, "Count":8, "Value":-0.40000000000000002, "Power":40, "ItemNo":6012001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":1201009, "Group":1201, "Count":9, "Value":-0.45, "Power":45, "ItemNo":6012001, "ItemCount":165, "Coin":5000
+      "No":1201009, "Group":1201, "Count":9, "Value":-0.45000000000000001, "Power":45, "ItemNo":6012001, "ItemCount":165, "Coin":5000
     },
     {
       "No":1201010, "Group":1201, "Count":10, "Value":-0.5, "Power":50, "ItemNo":6012001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":1201011, "Group":1201, "Count":11, "Value":-0.55, "Power":55, "ItemNo":6012001, "ItemCount":195, "Coin":6000
+      "No":1201011, "Group":1201, "Count":11, "Value":-0.55000000000000004, "Power":55, "ItemNo":6012001, "ItemCount":195, "Coin":6000
     },
     {
-      "No":1201012, "Group":1201, "Count":12, "Value":-0.6, "Power":60, "ItemNo":6012001, "ItemCount":210, "Coin":6500
+      "No":1201012, "Group":1201, "Count":12, "Value":-0.59999999999999998, "Power":60, "ItemNo":6012001, "ItemCount":210, "Coin":6500
     },
     {
-      "No":1201013, "Group":1201, "Count":13, "Value":-0.65, "Power":65, "ItemNo":6012001, "ItemCount":225, "Coin":7000
+      "No":1201013, "Group":1201, "Count":13, "Value":-0.65000000000000002, "Power":65, "ItemNo":6012001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":1201014, "Group":1201, "Count":14, "Value":-0.7, "Power":70, "ItemNo":6012001, "ItemCount":240, "Coin":7500
+      "No":1201014, "Group":1201, "Count":14, "Value":-0.69999999999999996, "Power":70, "ItemNo":6012001, "ItemCount":240, "Coin":7500
     },
     {
       "No":1201015, "Group":1201, "Count":15, "Value":-0.75, "Power":75, "ItemNo":6012001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":1201016, "Group":1201, "Count":16, "Value":-0.8, "Power":80, "ItemNo":6012001, "ItemCount":270, "Coin":8500
+      "No":1201016, "Group":1201, "Count":16, "Value":-0.80000000000000004, "Power":80, "ItemNo":6012001, "ItemCount":270, "Coin":8500
     },
     {
-      "No":1201017, "Group":1201, "Count":17, "Value":-0.85, "Power":85, "ItemNo":6012001, "ItemCount":285, "Coin":9000
+      "No":1201017, "Group":1201, "Count":17, "Value":-0.84999999999999998, "Power":85, "ItemNo":6012001, "ItemCount":285, "Coin":9000
     },
     {
-      "No":1201018, "Group":1201, "Count":18, "Value":-0.9, "Power":90, "ItemNo":6012001, "ItemCount":300, "Coin":9500
+      "No":1201018, "Group":1201, "Count":18, "Value":-0.90000000000000002, "Power":90, "ItemNo":6012001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":1201019, "Group":1201, "Count":19, "Value":-0.95, "Power":95, "ItemNo":6012001, "ItemCount":315, "Coin":10000
+      "No":1201019, "Group":1201, "Count":19, "Value":-0.94999999999999996, "Power":95, "ItemNo":6012001, "ItemCount":315, "Coin":10000
     },
     {
       "No":1201020, "Group":1201, "Count":20, "Value":-1, "Power":100, "ItemNo":6012002, "ItemCount":30, "Coin":10500
@@ -1750,10 +1750,10 @@
       "No":1201021, "Group":1201, "Count":21, "Value":-1.05, "Power":105, "ItemNo":6012002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":1201022, "Group":1201, "Count":22, "Value":-1.1, "Power":110, "ItemNo":6012002, "ItemCount":60, "Coin":11500
+      "No":1201022, "Group":1201, "Count":22, "Value":-1.1000000000000001, "Power":110, "ItemNo":6012002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":1201023, "Group":1201, "Count":23, "Value":-1.15, "Power":115, "ItemNo":6012002, "ItemCount":75, "Coin":12000
+      "No":1201023, "Group":1201, "Count":23, "Value":-1.1499999999999999, "Power":115, "ItemNo":6012002, "ItemCount":75, "Coin":12000
     },
     {
       "No":1201024, "Group":1201, "Count":24, "Value":-1.2, "Power":120, "ItemNo":6012002, "ItemCount":90, "Coin":12500
@@ -1765,10 +1765,10 @@
       "No":1201026, "Group":1201, "Count":26, "Value":-1.3, "Power":130, "ItemNo":6012002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":1201027, "Group":1201, "Count":27, "Value":-1.35, "Power":135, "ItemNo":6012002, "ItemCount":135, "Coin":14000
+      "No":1201027, "Group":1201, "Count":27, "Value":-1.3500000000000001, "Power":135, "ItemNo":6012002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":1201028, "Group":1201, "Count":28, "Value":-1.4, "Power":140, "ItemNo":6012002, "ItemCount":150, "Coin":14500
+      "No":1201028, "Group":1201, "Count":28, "Value":-1.3999999999999999, "Power":140, "ItemNo":6012002, "ItemCount":150, "Coin":14500
     },
     {
       "No":1201029, "Group":1201, "Count":29, "Value":-1.45, "Power":145, "ItemNo":6012002, "ItemCount":165, "Coin":15000
@@ -1780,10 +1780,10 @@
       "No":1201031, "Group":1201, "Count":31, "Value":-1.55, "Power":155, "ItemNo":6012002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":1201032, "Group":1201, "Count":32, "Value":-1.6, "Power":160, "ItemNo":6012002, "ItemCount":210, "Coin":16500
+      "No":1201032, "Group":1201, "Count":32, "Value":-1.6000000000000001, "Power":160, "ItemNo":6012002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":1201033, "Group":1201, "Count":33, "Value":-1.65, "Power":165, "ItemNo":6012002, "ItemCount":225, "Coin":17000
+      "No":1201033, "Group":1201, "Count":33, "Value":-1.6499999999999999, "Power":165, "ItemNo":6012002, "ItemCount":225, "Coin":17000
     },
     {
       "No":1201034, "Group":1201, "Count":34, "Value":-1.7, "Power":170, "ItemNo":6012002, "ItemCount":240, "Coin":17500
@@ -1795,10 +1795,10 @@
       "No":1201036, "Group":1201, "Count":36, "Value":-1.8, "Power":180, "ItemNo":6012002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":1201037, "Group":1201, "Count":37, "Value":-1.85, "Power":185, "ItemNo":6012002, "ItemCount":285, "Coin":19000
+      "No":1201037, "Group":1201, "Count":37, "Value":-1.8500000000000001, "Power":185, "ItemNo":6012002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":1201038, "Group":1201, "Count":38, "Value":-1.9, "Power":190, "ItemNo":6012002, "ItemCount":300, "Coin":19500
+      "No":1201038, "Group":1201, "Count":38, "Value":-1.8999999999999999, "Power":190, "ItemNo":6012002, "ItemCount":300, "Coin":19500
     },
     {
       "No":1201039, "Group":1201, "Count":39, "Value":-1.95, "Power":195, "ItemNo":6012002, "ItemCount":315, "Coin":20000
@@ -1807,31 +1807,31 @@
       "No":1201040, "Group":1201, "Count":40, "Value":-2, "Power":200, "ItemNo":6012003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":1201041, "Group":1201, "Count":41, "Value":-2.05, "Power":205, "ItemNo":6012003, "ItemCount":80, "Coin":21000
+      "No":1201041, "Group":1201, "Count":41, "Value":-2.0499999999999998, "Power":205, "ItemNo":6012003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":1201042, "Group":1201, "Count":42, "Value":-2.1, "Power":210, "ItemNo":6012003, "ItemCount":120, "Coin":21500
+      "No":1201042, "Group":1201, "Count":42, "Value":-2.1000000000000001, "Power":210, "ItemNo":6012003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":1201043, "Group":1201, "Count":43, "Value":-2.15, "Power":215, "ItemNo":6012003, "ItemCount":160, "Coin":22000
+      "No":1201043, "Group":1201, "Count":43, "Value":-2.1499999999999999, "Power":215, "ItemNo":6012003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":1201044, "Group":1201, "Count":44, "Value":-2.2, "Power":220, "ItemNo":6012003, "ItemCount":200, "Coin":22500
+      "No":1201044, "Group":1201, "Count":44, "Value":-2.2000000000000002, "Power":220, "ItemNo":6012003, "ItemCount":200, "Coin":22500
     },
     {
       "No":1201045, "Group":1201, "Count":45, "Value":-2.25, "Power":225, "ItemNo":6012003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":1201046, "Group":1201, "Count":46, "Value":-2.3, "Power":230, "ItemNo":6012003, "ItemCount":280, "Coin":23500
+      "No":1201046, "Group":1201, "Count":46, "Value":-2.2999999999999998, "Power":230, "ItemNo":6012003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":1201047, "Group":1201, "Count":47, "Value":-2.35, "Power":235, "ItemNo":6012003, "ItemCount":320, "Coin":24000
+      "No":1201047, "Group":1201, "Count":47, "Value":-2.3500000000000001, "Power":235, "ItemNo":6012003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":1201048, "Group":1201, "Count":48, "Value":-2.4, "Power":240, "ItemNo":6012003, "ItemCount":360, "Coin":24500
+      "No":1201048, "Group":1201, "Count":48, "Value":-2.3999999999999999, "Power":240, "ItemNo":6012003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":1201049, "Group":1201, "Count":49, "Value":-2.45, "Power":245, "ItemNo":6012003, "ItemCount":400, "Coin":25000
+      "No":1201049, "Group":1201, "Count":49, "Value":-2.4500000000000002, "Power":245, "ItemNo":6012003, "ItemCount":400, "Coin":25000
     },
     {
       "No":1201050, "Group":1201, "Count":50, "Value":-2.5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -1840,61 +1840,61 @@
       "No":1301000, "Group":1301, "Count":0, "Value":0, "Power":0, "ItemNo":6013001, "ItemCount":30, "Coin":500
     },
     {
-      "No":1301001, "Group":1301, "Count":1, "Value":-0.05, "Power":5, "ItemNo":6013001, "ItemCount":45, "Coin":1000
+      "No":1301001, "Group":1301, "Count":1, "Value":-0.050000000000000003, "Power":5, "ItemNo":6013001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":1301002, "Group":1301, "Count":2, "Value":-0.1, "Power":10, "ItemNo":6013001, "ItemCount":60, "Coin":1500
+      "No":1301002, "Group":1301, "Count":2, "Value":-0.10000000000000001, "Power":10, "ItemNo":6013001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":1301003, "Group":1301, "Count":3, "Value":-0.15, "Power":15, "ItemNo":6013001, "ItemCount":75, "Coin":2000
+      "No":1301003, "Group":1301, "Count":3, "Value":-0.14999999999999999, "Power":15, "ItemNo":6013001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":1301004, "Group":1301, "Count":4, "Value":-0.2, "Power":20, "ItemNo":6013001, "ItemCount":90, "Coin":2500
+      "No":1301004, "Group":1301, "Count":4, "Value":-0.20000000000000001, "Power":20, "ItemNo":6013001, "ItemCount":90, "Coin":2500
     },
     {
       "No":1301005, "Group":1301, "Count":5, "Value":-0.25, "Power":25, "ItemNo":6013001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":1301006, "Group":1301, "Count":6, "Value":-0.3, "Power":30, "ItemNo":6013001, "ItemCount":120, "Coin":3500
+      "No":1301006, "Group":1301, "Count":6, "Value":-0.29999999999999999, "Power":30, "ItemNo":6013001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":1301007, "Group":1301, "Count":7, "Value":-0.35, "Power":35, "ItemNo":6013001, "ItemCount":135, "Coin":4000
+      "No":1301007, "Group":1301, "Count":7, "Value":-0.34999999999999998, "Power":35, "ItemNo":6013001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":1301008, "Group":1301, "Count":8, "Value":-0.4, "Power":40, "ItemNo":6013001, "ItemCount":150, "Coin":4500
+      "No":1301008, "Group":1301, "Count":8, "Value":-0.40000000000000002, "Power":40, "ItemNo":6013001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":1301009, "Group":1301, "Count":9, "Value":-0.45, "Power":45, "ItemNo":6013001, "ItemCount":165, "Coin":5000
+      "No":1301009, "Group":1301, "Count":9, "Value":-0.45000000000000001, "Power":45, "ItemNo":6013001, "ItemCount":165, "Coin":5000
     },
     {
       "No":1301010, "Group":1301, "Count":10, "Value":-0.5, "Power":50, "ItemNo":6013001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":1301011, "Group":1301, "Count":11, "Value":-0.55, "Power":55, "ItemNo":6013001, "ItemCount":195, "Coin":6000
+      "No":1301011, "Group":1301, "Count":11, "Value":-0.55000000000000004, "Power":55, "ItemNo":6013001, "ItemCount":195, "Coin":6000
     },
     {
-      "No":1301012, "Group":1301, "Count":12, "Value":-0.6, "Power":60, "ItemNo":6013001, "ItemCount":210, "Coin":6500
+      "No":1301012, "Group":1301, "Count":12, "Value":-0.59999999999999998, "Power":60, "ItemNo":6013001, "ItemCount":210, "Coin":6500
     },
     {
-      "No":1301013, "Group":1301, "Count":13, "Value":-0.65, "Power":65, "ItemNo":6013001, "ItemCount":225, "Coin":7000
+      "No":1301013, "Group":1301, "Count":13, "Value":-0.65000000000000002, "Power":65, "ItemNo":6013001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":1301014, "Group":1301, "Count":14, "Value":-0.7, "Power":70, "ItemNo":6013001, "ItemCount":240, "Coin":7500
+      "No":1301014, "Group":1301, "Count":14, "Value":-0.69999999999999996, "Power":70, "ItemNo":6013001, "ItemCount":240, "Coin":7500
     },
     {
       "No":1301015, "Group":1301, "Count":15, "Value":-0.75, "Power":75, "ItemNo":6013001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":1301016, "Group":1301, "Count":16, "Value":-0.8, "Power":80, "ItemNo":6013001, "ItemCount":270, "Coin":8500
+      "No":1301016, "Group":1301, "Count":16, "Value":-0.80000000000000004, "Power":80, "ItemNo":6013001, "ItemCount":270, "Coin":8500
     },
     {
-      "No":1301017, "Group":1301, "Count":17, "Value":-0.85, "Power":85, "ItemNo":6013001, "ItemCount":285, "Coin":9000
+      "No":1301017, "Group":1301, "Count":17, "Value":-0.84999999999999998, "Power":85, "ItemNo":6013001, "ItemCount":285, "Coin":9000
     },
     {
-      "No":1301018, "Group":1301, "Count":18, "Value":-0.9, "Power":90, "ItemNo":6013001, "ItemCount":300, "Coin":9500
+      "No":1301018, "Group":1301, "Count":18, "Value":-0.90000000000000002, "Power":90, "ItemNo":6013001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":1301019, "Group":1301, "Count":19, "Value":-0.95, "Power":95, "ItemNo":6013001, "ItemCount":315, "Coin":10000
+      "No":1301019, "Group":1301, "Count":19, "Value":-0.94999999999999996, "Power":95, "ItemNo":6013001, "ItemCount":315, "Coin":10000
     },
     {
       "No":1301020, "Group":1301, "Count":20, "Value":-1, "Power":100, "ItemNo":6013002, "ItemCount":30, "Coin":10500
@@ -1903,10 +1903,10 @@
       "No":1301021, "Group":1301, "Count":21, "Value":-1.05, "Power":105, "ItemNo":6013002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":1301022, "Group":1301, "Count":22, "Value":-1.1, "Power":110, "ItemNo":6013002, "ItemCount":60, "Coin":11500
+      "No":1301022, "Group":1301, "Count":22, "Value":-1.1000000000000001, "Power":110, "ItemNo":6013002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":1301023, "Group":1301, "Count":23, "Value":-1.15, "Power":115, "ItemNo":6013002, "ItemCount":75, "Coin":12000
+      "No":1301023, "Group":1301, "Count":23, "Value":-1.1499999999999999, "Power":115, "ItemNo":6013002, "ItemCount":75, "Coin":12000
     },
     {
       "No":1301024, "Group":1301, "Count":24, "Value":-1.2, "Power":120, "ItemNo":6013002, "ItemCount":90, "Coin":12500
@@ -1918,10 +1918,10 @@
       "No":1301026, "Group":1301, "Count":26, "Value":-1.3, "Power":130, "ItemNo":6013002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":1301027, "Group":1301, "Count":27, "Value":-1.35, "Power":135, "ItemNo":6013002, "ItemCount":135, "Coin":14000
+      "No":1301027, "Group":1301, "Count":27, "Value":-1.3500000000000001, "Power":135, "ItemNo":6013002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":1301028, "Group":1301, "Count":28, "Value":-1.4, "Power":140, "ItemNo":6013002, "ItemCount":150, "Coin":14500
+      "No":1301028, "Group":1301, "Count":28, "Value":-1.3999999999999999, "Power":140, "ItemNo":6013002, "ItemCount":150, "Coin":14500
     },
     {
       "No":1301029, "Group":1301, "Count":29, "Value":-1.45, "Power":145, "ItemNo":6013002, "ItemCount":165, "Coin":15000
@@ -1933,10 +1933,10 @@
       "No":1301031, "Group":1301, "Count":31, "Value":-1.55, "Power":155, "ItemNo":6013002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":1301032, "Group":1301, "Count":32, "Value":-1.6, "Power":160, "ItemNo":6013002, "ItemCount":210, "Coin":16500
+      "No":1301032, "Group":1301, "Count":32, "Value":-1.6000000000000001, "Power":160, "ItemNo":6013002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":1301033, "Group":1301, "Count":33, "Value":-1.65, "Power":165, "ItemNo":6013002, "ItemCount":225, "Coin":17000
+      "No":1301033, "Group":1301, "Count":33, "Value":-1.6499999999999999, "Power":165, "ItemNo":6013002, "ItemCount":225, "Coin":17000
     },
     {
       "No":1301034, "Group":1301, "Count":34, "Value":-1.7, "Power":170, "ItemNo":6013002, "ItemCount":240, "Coin":17500
@@ -1948,10 +1948,10 @@
       "No":1301036, "Group":1301, "Count":36, "Value":-1.8, "Power":180, "ItemNo":6013002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":1301037, "Group":1301, "Count":37, "Value":-1.85, "Power":185, "ItemNo":6013002, "ItemCount":285, "Coin":19000
+      "No":1301037, "Group":1301, "Count":37, "Value":-1.8500000000000001, "Power":185, "ItemNo":6013002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":1301038, "Group":1301, "Count":38, "Value":-1.9, "Power":190, "ItemNo":6013002, "ItemCount":300, "Coin":19500
+      "No":1301038, "Group":1301, "Count":38, "Value":-1.8999999999999999, "Power":190, "ItemNo":6013002, "ItemCount":300, "Coin":19500
     },
     {
       "No":1301039, "Group":1301, "Count":39, "Value":-1.95, "Power":195, "ItemNo":6013002, "ItemCount":315, "Coin":20000
@@ -1960,31 +1960,31 @@
       "No":1301040, "Group":1301, "Count":40, "Value":-2, "Power":200, "ItemNo":6013003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":1301041, "Group":1301, "Count":41, "Value":-2.05, "Power":205, "ItemNo":6013003, "ItemCount":80, "Coin":21000
+      "No":1301041, "Group":1301, "Count":41, "Value":-2.0499999999999998, "Power":205, "ItemNo":6013003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":1301042, "Group":1301, "Count":42, "Value":-2.1, "Power":210, "ItemNo":6013003, "ItemCount":120, "Coin":21500
+      "No":1301042, "Group":1301, "Count":42, "Value":-2.1000000000000001, "Power":210, "ItemNo":6013003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":1301043, "Group":1301, "Count":43, "Value":-2.15, "Power":215, "ItemNo":6013003, "ItemCount":160, "Coin":22000
+      "No":1301043, "Group":1301, "Count":43, "Value":-2.1499999999999999, "Power":215, "ItemNo":6013003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":1301044, "Group":1301, "Count":44, "Value":-2.2, "Power":220, "ItemNo":6013003, "ItemCount":200, "Coin":22500
+      "No":1301044, "Group":1301, "Count":44, "Value":-2.2000000000000002, "Power":220, "ItemNo":6013003, "ItemCount":200, "Coin":22500
     },
     {
       "No":1301045, "Group":1301, "Count":45, "Value":-2.25, "Power":225, "ItemNo":6013003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":1301046, "Group":1301, "Count":46, "Value":-2.3, "Power":230, "ItemNo":6013003, "ItemCount":280, "Coin":23500
+      "No":1301046, "Group":1301, "Count":46, "Value":-2.2999999999999998, "Power":230, "ItemNo":6013003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":1301047, "Group":1301, "Count":47, "Value":-2.35, "Power":235, "ItemNo":6013003, "ItemCount":320, "Coin":24000
+      "No":1301047, "Group":1301, "Count":47, "Value":-2.3500000000000001, "Power":235, "ItemNo":6013003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":1301048, "Group":1301, "Count":48, "Value":-2.4, "Power":240, "ItemNo":6013003, "ItemCount":360, "Coin":24500
+      "No":1301048, "Group":1301, "Count":48, "Value":-2.3999999999999999, "Power":240, "ItemNo":6013003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":1301049, "Group":1301, "Count":49, "Value":-2.45, "Power":245, "ItemNo":6013003, "ItemCount":400, "Coin":25000
+      "No":1301049, "Group":1301, "Count":49, "Value":-2.4500000000000002, "Power":245, "ItemNo":6013003, "ItemCount":400, "Coin":25000
     },
     {
       "No":1301050, "Group":1301, "Count":50, "Value":-2.5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -1993,37 +1993,37 @@
       "No":1401000, "Group":1401, "Count":0, "Value":0, "Power":0, "ItemNo":6014001, "ItemCount":30, "Coin":500
     },
     {
-      "No":1401001, "Group":1401, "Count":1, "Value":0.1, "Power":5, "ItemNo":6014001, "ItemCount":45, "Coin":1000
+      "No":1401001, "Group":1401, "Count":1, "Value":0.10000000000000001, "Power":5, "ItemNo":6014001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":1401002, "Group":1401, "Count":2, "Value":0.2, "Power":10, "ItemNo":6014001, "ItemCount":60, "Coin":1500
+      "No":1401002, "Group":1401, "Count":2, "Value":0.20000000000000001, "Power":10, "ItemNo":6014001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":1401003, "Group":1401, "Count":3, "Value":0.3, "Power":15, "ItemNo":6014001, "ItemCount":75, "Coin":2000
+      "No":1401003, "Group":1401, "Count":3, "Value":0.29999999999999999, "Power":15, "ItemNo":6014001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":1401004, "Group":1401, "Count":4, "Value":0.4, "Power":20, "ItemNo":6014001, "ItemCount":90, "Coin":2500
+      "No":1401004, "Group":1401, "Count":4, "Value":0.40000000000000002, "Power":20, "ItemNo":6014001, "ItemCount":90, "Coin":2500
     },
     {
       "No":1401005, "Group":1401, "Count":5, "Value":0.5, "Power":25, "ItemNo":6014001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":1401006, "Group":1401, "Count":6, "Value":0.6, "Power":30, "ItemNo":6014001, "ItemCount":120, "Coin":3500
+      "No":1401006, "Group":1401, "Count":6, "Value":0.59999999999999998, "Power":30, "ItemNo":6014001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":1401007, "Group":1401, "Count":7, "Value":0.7, "Power":35, "ItemNo":6014001, "ItemCount":135, "Coin":4000
+      "No":1401007, "Group":1401, "Count":7, "Value":0.69999999999999996, "Power":35, "ItemNo":6014001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":1401008, "Group":1401, "Count":8, "Value":0.8, "Power":40, "ItemNo":6014001, "ItemCount":150, "Coin":4500
+      "No":1401008, "Group":1401, "Count":8, "Value":0.80000000000000004, "Power":40, "ItemNo":6014001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":1401009, "Group":1401, "Count":9, "Value":0.9, "Power":45, "ItemNo":6014001, "ItemCount":165, "Coin":5000
+      "No":1401009, "Group":1401, "Count":9, "Value":0.90000000000000002, "Power":45, "ItemNo":6014001, "ItemCount":165, "Coin":5000
     },
     {
       "No":1401010, "Group":1401, "Count":10, "Value":1, "Power":50, "ItemNo":6014001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":1401011, "Group":1401, "Count":11, "Value":1.1, "Power":55, "ItemNo":6014001, "ItemCount":195, "Coin":6000
+      "No":1401011, "Group":1401, "Count":11, "Value":1.1000000000000001, "Power":55, "ItemNo":6014001, "ItemCount":195, "Coin":6000
     },
     {
       "No":1401012, "Group":1401, "Count":12, "Value":1.2, "Power":60, "ItemNo":6014001, "ItemCount":210, "Coin":6500
@@ -2032,13 +2032,13 @@
       "No":1401013, "Group":1401, "Count":13, "Value":1.3, "Power":65, "ItemNo":6014001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":1401014, "Group":1401, "Count":14, "Value":1.4, "Power":70, "ItemNo":6014001, "ItemCount":240, "Coin":7500
+      "No":1401014, "Group":1401, "Count":14, "Value":1.3999999999999999, "Power":70, "ItemNo":6014001, "ItemCount":240, "Coin":7500
     },
     {
       "No":1401015, "Group":1401, "Count":15, "Value":1.5, "Power":75, "ItemNo":6014001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":1401016, "Group":1401, "Count":16, "Value":1.6, "Power":80, "ItemNo":6014001, "ItemCount":270, "Coin":8500
+      "No":1401016, "Group":1401, "Count":16, "Value":1.6000000000000001, "Power":80, "ItemNo":6014001, "ItemCount":270, "Coin":8500
     },
     {
       "No":1401017, "Group":1401, "Count":17, "Value":1.7, "Power":85, "ItemNo":6014001, "ItemCount":285, "Coin":9000
@@ -2047,97 +2047,97 @@
       "No":1401018, "Group":1401, "Count":18, "Value":1.8, "Power":90, "ItemNo":6014001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":1401019, "Group":1401, "Count":19, "Value":1.9, "Power":95, "ItemNo":6014001, "ItemCount":315, "Coin":10000
+      "No":1401019, "Group":1401, "Count":19, "Value":1.8999999999999999, "Power":95, "ItemNo":6014001, "ItemCount":315, "Coin":10000
     },
     {
       "No":1401020, "Group":1401, "Count":20, "Value":2, "Power":100, "ItemNo":6014002, "ItemCount":30, "Coin":10500
     },
     {
-      "No":1401021, "Group":1401, "Count":21, "Value":2.1, "Power":105, "ItemNo":6014002, "ItemCount":45, "Coin":11000
+      "No":1401021, "Group":1401, "Count":21, "Value":2.1000000000000001, "Power":105, "ItemNo":6014002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":1401022, "Group":1401, "Count":22, "Value":2.2, "Power":110, "ItemNo":6014002, "ItemCount":60, "Coin":11500
+      "No":1401022, "Group":1401, "Count":22, "Value":2.2000000000000002, "Power":110, "ItemNo":6014002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":1401023, "Group":1401, "Count":23, "Value":2.3, "Power":115, "ItemNo":6014002, "ItemCount":75, "Coin":12000
+      "No":1401023, "Group":1401, "Count":23, "Value":2.2999999999999998, "Power":115, "ItemNo":6014002, "ItemCount":75, "Coin":12000
     },
     {
-      "No":1401024, "Group":1401, "Count":24, "Value":2.4, "Power":120, "ItemNo":6014002, "ItemCount":90, "Coin":12500
+      "No":1401024, "Group":1401, "Count":24, "Value":2.3999999999999999, "Power":120, "ItemNo":6014002, "ItemCount":90, "Coin":12500
     },
     {
       "No":1401025, "Group":1401, "Count":25, "Value":2.5, "Power":125, "ItemNo":6014002, "ItemCount":105, "Coin":13000
     },
     {
-      "No":1401026, "Group":1401, "Count":26, "Value":2.6, "Power":130, "ItemNo":6014002, "ItemCount":120, "Coin":13500
+      "No":1401026, "Group":1401, "Count":26, "Value":2.6000000000000001, "Power":130, "ItemNo":6014002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":1401027, "Group":1401, "Count":27, "Value":2.7, "Power":135, "ItemNo":6014002, "ItemCount":135, "Coin":14000
+      "No":1401027, "Group":1401, "Count":27, "Value":2.7000000000000002, "Power":135, "ItemNo":6014002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":1401028, "Group":1401, "Count":28, "Value":2.8, "Power":140, "ItemNo":6014002, "ItemCount":150, "Coin":14500
+      "No":1401028, "Group":1401, "Count":28, "Value":2.7999999999999998, "Power":140, "ItemNo":6014002, "ItemCount":150, "Coin":14500
     },
     {
-      "No":1401029, "Group":1401, "Count":29, "Value":2.9, "Power":145, "ItemNo":6014002, "ItemCount":165, "Coin":15000
+      "No":1401029, "Group":1401, "Count":29, "Value":2.8999999999999999, "Power":145, "ItemNo":6014002, "ItemCount":165, "Coin":15000
     },
     {
       "No":1401030, "Group":1401, "Count":30, "Value":3, "Power":150, "ItemNo":6014002, "ItemCount":180, "Coin":15500
     },
     {
-      "No":1401031, "Group":1401, "Count":31, "Value":3.1, "Power":155, "ItemNo":6014002, "ItemCount":195, "Coin":16000
+      "No":1401031, "Group":1401, "Count":31, "Value":3.1000000000000001, "Power":155, "ItemNo":6014002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":1401032, "Group":1401, "Count":32, "Value":3.2, "Power":160, "ItemNo":6014002, "ItemCount":210, "Coin":16500
+      "No":1401032, "Group":1401, "Count":32, "Value":3.2000000000000002, "Power":160, "ItemNo":6014002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":1401033, "Group":1401, "Count":33, "Value":3.3, "Power":165, "ItemNo":6014002, "ItemCount":225, "Coin":17000
+      "No":1401033, "Group":1401, "Count":33, "Value":3.2999999999999998, "Power":165, "ItemNo":6014002, "ItemCount":225, "Coin":17000
     },
     {
-      "No":1401034, "Group":1401, "Count":34, "Value":3.4, "Power":170, "ItemNo":6014002, "ItemCount":240, "Coin":17500
+      "No":1401034, "Group":1401, "Count":34, "Value":3.3999999999999999, "Power":170, "ItemNo":6014002, "ItemCount":240, "Coin":17500
     },
     {
       "No":1401035, "Group":1401, "Count":35, "Value":3.5, "Power":175, "ItemNo":6014002, "ItemCount":255, "Coin":18000
     },
     {
-      "No":1401036, "Group":1401, "Count":36, "Value":3.6, "Power":180, "ItemNo":6014002, "ItemCount":270, "Coin":18500
+      "No":1401036, "Group":1401, "Count":36, "Value":3.6000000000000001, "Power":180, "ItemNo":6014002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":1401037, "Group":1401, "Count":37, "Value":3.7, "Power":185, "ItemNo":6014002, "ItemCount":285, "Coin":19000
+      "No":1401037, "Group":1401, "Count":37, "Value":3.7000000000000002, "Power":185, "ItemNo":6014002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":1401038, "Group":1401, "Count":38, "Value":3.8, "Power":190, "ItemNo":6014002, "ItemCount":300, "Coin":19500
+      "No":1401038, "Group":1401, "Count":38, "Value":3.7999999999999998, "Power":190, "ItemNo":6014002, "ItemCount":300, "Coin":19500
     },
     {
-      "No":1401039, "Group":1401, "Count":39, "Value":3.9, "Power":195, "ItemNo":6014002, "ItemCount":315, "Coin":20000
+      "No":1401039, "Group":1401, "Count":39, "Value":3.8999999999999999, "Power":195, "ItemNo":6014002, "ItemCount":315, "Coin":20000
     },
     {
       "No":1401040, "Group":1401, "Count":40, "Value":4, "Power":200, "ItemNo":6014003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":1401041, "Group":1401, "Count":41, "Value":4.1, "Power":205, "ItemNo":6014003, "ItemCount":80, "Coin":21000
+      "No":1401041, "Group":1401, "Count":41, "Value":4.0999999999999996, "Power":205, "ItemNo":6014003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":1401042, "Group":1401, "Count":42, "Value":4.2, "Power":210, "ItemNo":6014003, "ItemCount":120, "Coin":21500
+      "No":1401042, "Group":1401, "Count":42, "Value":4.2000000000000002, "Power":210, "ItemNo":6014003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":1401043, "Group":1401, "Count":43, "Value":4.3, "Power":215, "ItemNo":6014003, "ItemCount":160, "Coin":22000
+      "No":1401043, "Group":1401, "Count":43, "Value":4.2999999999999998, "Power":215, "ItemNo":6014003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":1401044, "Group":1401, "Count":44, "Value":4.4, "Power":220, "ItemNo":6014003, "ItemCount":200, "Coin":22500
+      "No":1401044, "Group":1401, "Count":44, "Value":4.4000000000000004, "Power":220, "ItemNo":6014003, "ItemCount":200, "Coin":22500
     },
     {
       "No":1401045, "Group":1401, "Count":45, "Value":4.5, "Power":225, "ItemNo":6014003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":1401046, "Group":1401, "Count":46, "Value":4.6, "Power":230, "ItemNo":6014003, "ItemCount":280, "Coin":23500
+      "No":1401046, "Group":1401, "Count":46, "Value":4.5999999999999996, "Power":230, "ItemNo":6014003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":1401047, "Group":1401, "Count":47, "Value":4.7, "Power":235, "ItemNo":6014003, "ItemCount":320, "Coin":24000
+      "No":1401047, "Group":1401, "Count":47, "Value":4.7000000000000002, "Power":235, "ItemNo":6014003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":1401048, "Group":1401, "Count":48, "Value":4.8, "Power":240, "ItemNo":6014003, "ItemCount":360, "Coin":24500
+      "No":1401048, "Group":1401, "Count":48, "Value":4.7999999999999998, "Power":240, "ItemNo":6014003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":1401049, "Group":1401, "Count":49, "Value":4.9, "Power":245, "ItemNo":6014003, "ItemCount":400, "Coin":25000
+      "No":1401049, "Group":1401, "Count":49, "Value":4.9000000000000004, "Power":245, "ItemNo":6014003, "ItemCount":400, "Coin":25000
     },
     {
       "No":1401050, "Group":1401, "Count":50, "Value":5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
@@ -2146,61 +2146,61 @@
       "No":1501000, "Group":1501, "Count":0, "Value":0, "Power":0, "ItemNo":6015001, "ItemCount":30, "Coin":500
     },
     {
-      "No":1501001, "Group":1501, "Count":1, "Value":-0.05, "Power":5, "ItemNo":6015001, "ItemCount":45, "Coin":1000
+      "No":1501001, "Group":1501, "Count":1, "Value":-0.050000000000000003, "Power":5, "ItemNo":6015001, "ItemCount":45, "Coin":1000
     },
     {
-      "No":1501002, "Group":1501, "Count":2, "Value":-0.1, "Power":10, "ItemNo":6015001, "ItemCount":60, "Coin":1500
+      "No":1501002, "Group":1501, "Count":2, "Value":-0.10000000000000001, "Power":10, "ItemNo":6015001, "ItemCount":60, "Coin":1500
     },
     {
-      "No":1501003, "Group":1501, "Count":3, "Value":-0.15, "Power":15, "ItemNo":6015001, "ItemCount":75, "Coin":2000
+      "No":1501003, "Group":1501, "Count":3, "Value":-0.14999999999999999, "Power":15, "ItemNo":6015001, "ItemCount":75, "Coin":2000
     },
     {
-      "No":1501004, "Group":1501, "Count":4, "Value":-0.2, "Power":20, "ItemNo":6015001, "ItemCount":90, "Coin":2500
+      "No":1501004, "Group":1501, "Count":4, "Value":-0.20000000000000001, "Power":20, "ItemNo":6015001, "ItemCount":90, "Coin":2500
     },
     {
       "No":1501005, "Group":1501, "Count":5, "Value":-0.25, "Power":25, "ItemNo":6015001, "ItemCount":105, "Coin":3000
     },
     {
-      "No":1501006, "Group":1501, "Count":6, "Value":-0.3, "Power":30, "ItemNo":6015001, "ItemCount":120, "Coin":3500
+      "No":1501006, "Group":1501, "Count":6, "Value":-0.29999999999999999, "Power":30, "ItemNo":6015001, "ItemCount":120, "Coin":3500
     },
     {
-      "No":1501007, "Group":1501, "Count":7, "Value":-0.35, "Power":35, "ItemNo":6015001, "ItemCount":135, "Coin":4000
+      "No":1501007, "Group":1501, "Count":7, "Value":-0.34999999999999998, "Power":35, "ItemNo":6015001, "ItemCount":135, "Coin":4000
     },
     {
-      "No":1501008, "Group":1501, "Count":8, "Value":-0.4, "Power":40, "ItemNo":6015001, "ItemCount":150, "Coin":4500
+      "No":1501008, "Group":1501, "Count":8, "Value":-0.40000000000000002, "Power":40, "ItemNo":6015001, "ItemCount":150, "Coin":4500
     },
     {
-      "No":1501009, "Group":1501, "Count":9, "Value":-0.45, "Power":45, "ItemNo":6015001, "ItemCount":165, "Coin":5000
+      "No":1501009, "Group":1501, "Count":9, "Value":-0.45000000000000001, "Power":45, "ItemNo":6015001, "ItemCount":165, "Coin":5000
     },
     {
       "No":1501010, "Group":1501, "Count":10, "Value":-0.5, "Power":50, "ItemNo":6015001, "ItemCount":180, "Coin":5500
     },
     {
-      "No":1501011, "Group":1501, "Count":11, "Value":-0.55, "Power":55, "ItemNo":6015001, "ItemCount":195, "Coin":6000
+      "No":1501011, "Group":1501, "Count":11, "Value":-0.55000000000000004, "Power":55, "ItemNo":6015001, "ItemCount":195, "Coin":6000
     },
     {
-      "No":1501012, "Group":1501, "Count":12, "Value":-0.6, "Power":60, "ItemNo":6015001, "ItemCount":210, "Coin":6500
+      "No":1501012, "Group":1501, "Count":12, "Value":-0.59999999999999998, "Power":60, "ItemNo":6015001, "ItemCount":210, "Coin":6500
     },
     {
-      "No":1501013, "Group":1501, "Count":13, "Value":-0.65, "Power":65, "ItemNo":6015001, "ItemCount":225, "Coin":7000
+      "No":1501013, "Group":1501, "Count":13, "Value":-0.65000000000000002, "Power":65, "ItemNo":6015001, "ItemCount":225, "Coin":7000
     },
     {
-      "No":1501014, "Group":1501, "Count":14, "Value":-0.7, "Power":70, "ItemNo":6015001, "ItemCount":240, "Coin":7500
+      "No":1501014, "Group":1501, "Count":14, "Value":-0.69999999999999996, "Power":70, "ItemNo":6015001, "ItemCount":240, "Coin":7500
     },
     {
       "No":1501015, "Group":1501, "Count":15, "Value":-0.75, "Power":75, "ItemNo":6015001, "ItemCount":255, "Coin":8000
     },
     {
-      "No":1501016, "Group":1501, "Count":16, "Value":-0.8, "Power":80, "ItemNo":6015001, "ItemCount":270, "Coin":8500
+      "No":1501016, "Group":1501, "Count":16, "Value":-0.80000000000000004, "Power":80, "ItemNo":6015001, "ItemCount":270, "Coin":8500
     },
     {
-      "No":1501017, "Group":1501, "Count":17, "Value":-0.85, "Power":85, "ItemNo":6015001, "ItemCount":285, "Coin":9000
+      "No":1501017, "Group":1501, "Count":17, "Value":-0.84999999999999998, "Power":85, "ItemNo":6015001, "ItemCount":285, "Coin":9000
     },
     {
-      "No":1501018, "Group":1501, "Count":18, "Value":-0.9, "Power":90, "ItemNo":6015001, "ItemCount":300, "Coin":9500
+      "No":1501018, "Group":1501, "Count":18, "Value":-0.90000000000000002, "Power":90, "ItemNo":6015001, "ItemCount":300, "Coin":9500
     },
     {
-      "No":1501019, "Group":1501, "Count":19, "Value":-0.95, "Power":95, "ItemNo":6015001, "ItemCount":315, "Coin":10000
+      "No":1501019, "Group":1501, "Count":19, "Value":-0.94999999999999996, "Power":95, "ItemNo":6015001, "ItemCount":315, "Coin":10000
     },
     {
       "No":1501020, "Group":1501, "Count":20, "Value":-1, "Power":100, "ItemNo":6015002, "ItemCount":30, "Coin":10500
@@ -2209,10 +2209,10 @@
       "No":1501021, "Group":1501, "Count":21, "Value":-1.05, "Power":105, "ItemNo":6015002, "ItemCount":45, "Coin":11000
     },
     {
-      "No":1501022, "Group":1501, "Count":22, "Value":-1.1, "Power":110, "ItemNo":6015002, "ItemCount":60, "Coin":11500
+      "No":1501022, "Group":1501, "Count":22, "Value":-1.1000000000000001, "Power":110, "ItemNo":6015002, "ItemCount":60, "Coin":11500
     },
     {
-      "No":1501023, "Group":1501, "Count":23, "Value":-1.15, "Power":115, "ItemNo":6015002, "ItemCount":75, "Coin":12000
+      "No":1501023, "Group":1501, "Count":23, "Value":-1.1499999999999999, "Power":115, "ItemNo":6015002, "ItemCount":75, "Coin":12000
     },
     {
       "No":1501024, "Group":1501, "Count":24, "Value":-1.2, "Power":120, "ItemNo":6015002, "ItemCount":90, "Coin":12500
@@ -2224,10 +2224,10 @@
       "No":1501026, "Group":1501, "Count":26, "Value":-1.3, "Power":130, "ItemNo":6015002, "ItemCount":120, "Coin":13500
     },
     {
-      "No":1501027, "Group":1501, "Count":27, "Value":-1.35, "Power":135, "ItemNo":6015002, "ItemCount":135, "Coin":14000
+      "No":1501027, "Group":1501, "Count":27, "Value":-1.3500000000000001, "Power":135, "ItemNo":6015002, "ItemCount":135, "Coin":14000
     },
     {
-      "No":1501028, "Group":1501, "Count":28, "Value":-1.4, "Power":140, "ItemNo":6015002, "ItemCount":150, "Coin":14500
+      "No":1501028, "Group":1501, "Count":28, "Value":-1.3999999999999999, "Power":140, "ItemNo":6015002, "ItemCount":150, "Coin":14500
     },
     {
       "No":1501029, "Group":1501, "Count":29, "Value":-1.45, "Power":145, "ItemNo":6015002, "ItemCount":165, "Coin":15000
@@ -2239,10 +2239,10 @@
       "No":1501031, "Group":1501, "Count":31, "Value":-1.55, "Power":155, "ItemNo":6015002, "ItemCount":195, "Coin":16000
     },
     {
-      "No":1501032, "Group":1501, "Count":32, "Value":-1.6, "Power":160, "ItemNo":6015002, "ItemCount":210, "Coin":16500
+      "No":1501032, "Group":1501, "Count":32, "Value":-1.6000000000000001, "Power":160, "ItemNo":6015002, "ItemCount":210, "Coin":16500
     },
     {
-      "No":1501033, "Group":1501, "Count":33, "Value":-1.65, "Power":165, "ItemNo":6015002, "ItemCount":225, "Coin":17000
+      "No":1501033, "Group":1501, "Count":33, "Value":-1.6499999999999999, "Power":165, "ItemNo":6015002, "ItemCount":225, "Coin":17000
     },
     {
       "No":1501034, "Group":1501, "Count":34, "Value":-1.7, "Power":170, "ItemNo":6015002, "ItemCount":240, "Coin":17500
@@ -2254,10 +2254,10 @@
       "No":1501036, "Group":1501, "Count":36, "Value":-1.8, "Power":180, "ItemNo":6015002, "ItemCount":270, "Coin":18500
     },
     {
-      "No":1501037, "Group":1501, "Count":37, "Value":-1.85, "Power":185, "ItemNo":6015002, "ItemCount":285, "Coin":19000
+      "No":1501037, "Group":1501, "Count":37, "Value":-1.8500000000000001, "Power":185, "ItemNo":6015002, "ItemCount":285, "Coin":19000
     },
     {
-      "No":1501038, "Group":1501, "Count":38, "Value":-1.9, "Power":190, "ItemNo":6015002, "ItemCount":300, "Coin":19500
+      "No":1501038, "Group":1501, "Count":38, "Value":-1.8999999999999999, "Power":190, "ItemNo":6015002, "ItemCount":300, "Coin":19500
     },
     {
       "No":1501039, "Group":1501, "Count":39, "Value":-1.95, "Power":195, "ItemNo":6015002, "ItemCount":315, "Coin":20000
@@ -2266,31 +2266,31 @@
       "No":1501040, "Group":1501, "Count":40, "Value":-2, "Power":200, "ItemNo":6015003, "ItemCount":40, "Coin":20500
     },
     {
-      "No":1501041, "Group":1501, "Count":41, "Value":-2.05, "Power":205, "ItemNo":6015003, "ItemCount":80, "Coin":21000
+      "No":1501041, "Group":1501, "Count":41, "Value":-2.0499999999999998, "Power":205, "ItemNo":6015003, "ItemCount":80, "Coin":21000
     },
     {
-      "No":1501042, "Group":1501, "Count":42, "Value":-2.1, "Power":210, "ItemNo":6015003, "ItemCount":120, "Coin":21500
+      "No":1501042, "Group":1501, "Count":42, "Value":-2.1000000000000001, "Power":210, "ItemNo":6015003, "ItemCount":120, "Coin":21500
     },
     {
-      "No":1501043, "Group":1501, "Count":43, "Value":-2.15, "Power":215, "ItemNo":6015003, "ItemCount":160, "Coin":22000
+      "No":1501043, "Group":1501, "Count":43, "Value":-2.1499999999999999, "Power":215, "ItemNo":6015003, "ItemCount":160, "Coin":22000
     },
     {
-      "No":1501044, "Group":1501, "Count":44, "Value":-2.2, "Power":220, "ItemNo":6015003, "ItemCount":200, "Coin":22500
+      "No":1501044, "Group":1501, "Count":44, "Value":-2.2000000000000002, "Power":220, "ItemNo":6015003, "ItemCount":200, "Coin":22500
     },
     {
       "No":1501045, "Group":1501, "Count":45, "Value":-2.25, "Power":225, "ItemNo":6015003, "ItemCount":240, "Coin":23000
     },
     {
-      "No":1501046, "Group":1501, "Count":46, "Value":-2.3, "Power":230, "ItemNo":6015003, "ItemCount":280, "Coin":23500
+      "No":1501046, "Group":1501, "Count":46, "Value":-2.2999999999999998, "Power":230, "ItemNo":6015003, "ItemCount":280, "Coin":23500
     },
     {
-      "No":1501047, "Group":1501, "Count":47, "Value":-2.35, "Power":235, "ItemNo":6015003, "ItemCount":320, "Coin":24000
+      "No":1501047, "Group":1501, "Count":47, "Value":-2.3500000000000001, "Power":235, "ItemNo":6015003, "ItemCount":320, "Coin":24000
     },
     {
-      "No":1501048, "Group":1501, "Count":48, "Value":-2.4, "Power":240, "ItemNo":6015003, "ItemCount":360, "Coin":24500
+      "No":1501048, "Group":1501, "Count":48, "Value":-2.3999999999999999, "Power":240, "ItemNo":6015003, "ItemCount":360, "Coin":24500
     },
     {
-      "No":1501049, "Group":1501, "Count":49, "Value":-2.45, "Power":245, "ItemNo":6015003, "ItemCount":400, "Coin":25000
+      "No":1501049, "Group":1501, "Count":49, "Value":-2.4500000000000002, "Power":245, "ItemNo":6015003, "ItemCount":400, "Coin":25000
     },
     {
       "No":1501050, "Group":1501, "Count":50, "Value":-2.5, "Power":250, "ItemNo":0, "ItemCount":0, "Coin":0
