@@ -217,10 +217,10 @@
       "Type":72, "Description":"敵艦船に対して強力な魚雷攻撃\n命中すると速度を減少させる", "CombatType":2, "MissionType":2
     },
     {
-      "Type":73, "Description":"砲撃攻撃を行いその砲撃で撃破し\nた場合敵艦の再出撃時間が＋12秒", "CombatType":1, "MissionType":1
+      "Type":73, "Description":"砲撃攻撃を行いその砲撃で撃破した\n場合、敵艦の再出撃時間が＋12秒", "CombatType":1, "MissionType":1
     },
     {
-      "Type":74, "Description":"範囲内にいる間敵艦を交戦にし撤退\nさせた場合再出撃時間＋10秒", "CombatType":0, "MissionType":0
+      "Type":74, "Description":"範囲内にいる間敵艦を交戦にし\n撤退させた場合再出撃時間＋10秒", "CombatType":0, "MissionType":0
     },
     {
       "Type":75, "Description":"一定範囲を移動する機雷\n命中するとダメージと速度減少", "CombatType":2, "MissionType":3

@@ -112,7 +112,7 @@
       "Name":"SwitchedToCpuBattlePenaltyLimitDaily", "Value":"30", "Type":"INTEGER"
     },
     {
-      "Name":"SwitchedToCpuBattlePenaltyLimitWeekly", "Value":"5000", "Type":"INTEGER"
+      "Name":"SwitchedToCpuBattlePenaltyLimitWeekly", "Value":"100", "Type":"INTEGER"
     },
     {
       "Name":"SwitchedToCpuBattlePenaltyDecreaseBP", "Value":"0", "Type":"INTEGER"

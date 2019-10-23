@@ -187,6 +187,9 @@
       "No":401001, "Type":4, "RankmatchSeasonNo":0, "Order":60, "CharNo":0, "Title":"そうだ！お月見をしよう！", "Group":4010, "PrizeGroup":0, "Resource":0, "StartTime":"2019-09-09T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {
+      "No":401101, "Type":4, "RankmatchSeasonNo":0, "Order":50, "CharNo":0, "Title":"遊園地でドキドキハロウィン！", "Group":4011, "PrizeGroup":0, "Resource":0, "StartTime":"2019-10-16T14:15:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
+    },
+    {
       "No":500101, "Type":5, "RankmatchSeasonNo":0, "Order":1, "CharNo":0, "Title":"今週のハイフリ 第1週～第10週", "Group":5001, "PrizeGroup":0, "Resource":0, "StartTime":"2017-01-01T00:00:00+09:00", "EndTime":"2099-01-01T00:00:00+09:00"
     },
     {

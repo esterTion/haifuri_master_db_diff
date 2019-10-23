@@ -55,6 +55,9 @@
       "No":3100601, "Type":0, "Order":10, "Title":"お月見ショップ", "InsideGroup":31006, "ValidTime":"2019-08-14T14:30:00+09:00", "InvalidTime":"2019-10-09T14:00:00+09:00", "UserHour":0, "PickUpType":2
     },
     {
+      "No":3100701, "Type":0, "Order":10, "Title":"ハロウィンショップ", "InsideGroup":31007, "ValidTime":"2019-10-17T14:30:00+09:00", "InvalidTime":"2019-11-13T14:00:00+09:00", "UserHour":0, "PickUpType":2
+    },
+    {
       "No":4000101, "Type":1, "Order":100, "Title":"デイリーショップ", "InsideGroup":40002, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUpType":1
     },
     {
