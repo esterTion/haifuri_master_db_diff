@@ -4303,6 +4303,270 @@
       "No":4031904, "Group":40319, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41103
     },
     {
+      "No":4032001, "Group":40320, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20002
+    },
+    {
+      "No":4032002, "Group":40320, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":30100
+    },
+    {
+      "No":4032003, "Group":40320, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41109
+    },
+    {
+      "No":4032004, "Group":40320, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41113
+    },
+    {
+      "No":4032101, "Group":40321, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20014
+    },
+    {
+      "No":4032102, "Group":40321, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":30500
+    },
+    {
+      "No":4032103, "Group":40321, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032104, "Group":40321, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41114
+    },
+    {
+      "No":4032201, "Group":40322, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20015
+    },
+    {
+      "No":4032202, "Group":40322, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":30600
+    },
+    {
+      "No":4032203, "Group":40322, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032204, "Group":40322, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41114
+    },
+    {
+      "No":4032301, "Group":40323, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20035
+    },
+    {
+      "No":4032302, "Group":40323, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":30700
+    },
+    {
+      "No":4032303, "Group":40323, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032304, "Group":40323, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41114
+    },
+    {
+      "No":4032401, "Group":40324, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20016
+    },
+    {
+      "No":4032402, "Group":40324, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":30800
+    },
+    {
+      "No":4032403, "Group":40324, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032404, "Group":40324, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41114
+    },
+    {
+      "No":4032501, "Group":40325, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20036
+    },
+    {
+      "No":4032502, "Group":40325, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":30900
+    },
+    {
+      "No":4032503, "Group":40325, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032504, "Group":40325, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4032601, "Group":40326, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20001
+    },
+    {
+      "No":4032602, "Group":40326, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":30950
+    },
+    {
+      "No":4032603, "Group":40326, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032604, "Group":40326, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4032701, "Group":40327, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20033
+    },
+    {
+      "No":4032702, "Group":40327, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31000
+    },
+    {
+      "No":4032703, "Group":40327, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032704, "Group":40327, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4032801, "Group":40328, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20028
+    },
+    {
+      "No":4032802, "Group":40328, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31050
+    },
+    {
+      "No":4032803, "Group":40328, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41110
+    },
+    {
+      "No":4032804, "Group":40328, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4032901, "Group":40329, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20029
+    },
+    {
+      "No":4032902, "Group":40329, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31200
+    },
+    {
+      "No":4032903, "Group":40329, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4032904, "Group":40329, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4033001, "Group":40330, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20030
+    },
+    {
+      "No":4033002, "Group":40330, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31300
+    },
+    {
+      "No":4033003, "Group":40330, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4033004, "Group":40330, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4033101, "Group":40331, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20031
+    },
+    {
+      "No":4033102, "Group":40331, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31350
+    },
+    {
+      "No":4033103, "Group":40331, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4033104, "Group":40331, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4033201, "Group":40332, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20032
+    },
+    {
+      "No":4033202, "Group":40332, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31450
+    },
+    {
+      "No":4033203, "Group":40332, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4033204, "Group":40332, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41115
+    },
+    {
+      "No":4033301, "Group":40333, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20005
+    },
+    {
+      "No":4033302, "Group":40333, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31500
+    },
+    {
+      "No":4033303, "Group":40333, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4033304, "Group":40333, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4033401, "Group":40334, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20037
+    },
+    {
+      "No":4033402, "Group":40334, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31600
+    },
+    {
+      "No":4033403, "Group":40334, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4033404, "Group":40334, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4033501, "Group":40335, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20038
+    },
+    {
+      "No":4033502, "Group":40335, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31650
+    },
+    {
+      "No":4033503, "Group":40335, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4033504, "Group":40335, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4033601, "Group":40336, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20039
+    },
+    {
+      "No":4033602, "Group":40336, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31700
+    },
+    {
+      "No":4033603, "Group":40336, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41111
+    },
+    {
+      "No":4033604, "Group":40336, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4033701, "Group":40337, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20040
+    },
+    {
+      "No":4033702, "Group":40337, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31800
+    },
+    {
+      "No":4033703, "Group":40337, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41112
+    },
+    {
+      "No":4033704, "Group":40337, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4033801, "Group":40338, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20052
+    },
+    {
+      "No":4033802, "Group":40338, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31850
+    },
+    {
+      "No":4033803, "Group":40338, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41112
+    },
+    {
+      "No":4033804, "Group":40338, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4033901, "Group":40339, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20053
+    },
+    {
+      "No":4033902, "Group":40339, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31900
+    },
+    {
+      "No":4033903, "Group":40339, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41112
+    },
+    {
+      "No":4033904, "Group":40339, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4034001, "Group":40340, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20054
+    },
+    {
+      "No":4034002, "Group":40340, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":31950
+    },
+    {
+      "No":4034003, "Group":40340, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41112
+    },
+    {
+      "No":4034004, "Group":40340, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
+      "No":4034101, "Group":40341, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20055
+    },
+    {
+      "No":4034102, "Group":40341, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":32000
+    },
+    {
+      "No":4034103, "Group":40341, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41112
+    },
+    {
+      "No":4034104, "Group":40341, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41116
+    },
+    {
       "No":5001001, "Group":5001, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20018
     },
     {
@@ -9571,12 +9835,6 @@
       "No":5011363, "Group":5011, "Resource":400101, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":2, "LotteryDenominator":0, "LotteryProbability":90, "PrizeNo":50018
     },
     {
-      "No":5011364, "Group":5011, "Resource":0, "ObtainType":2, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41092
-    },
-    {
-      "No":5011365, "Group":5011, "Resource":0, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41093
-    },
-    {
       "No":5012001, "Group":5012, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20003
     },
     {
@@ -10664,12 +10922,6 @@
     },
     {
       "No":5012363, "Group":5012, "Resource":400101, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":2, "LotteryDenominator":0, "LotteryProbability":90, "PrizeNo":50018
-    },
-    {
-      "No":5012364, "Group":5012, "Resource":0, "ObtainType":2, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41092
-    },
-    {
-      "No":5012365, "Group":5012, "Resource":0, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41093
     },
     {
       "No":5013001, "Group":5013, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20003
@@ -11761,12 +12013,6 @@
       "No":5013363, "Group":5013, "Resource":400101, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":2, "LotteryDenominator":0, "LotteryProbability":90, "PrizeNo":50018
     },
     {
-      "No":5013364, "Group":5013, "Resource":0, "ObtainType":2, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41092
-    },
-    {
-      "No":5013365, "Group":5013, "Resource":0, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41093
-    },
-    {
       "No":5014001, "Group":5014, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20003
     },
     {
@@ -12854,12 +13100,6 @@
     },
     {
       "No":5014363, "Group":5014, "Resource":400101, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":2, "LotteryDenominator":0, "LotteryProbability":90, "PrizeNo":50018
-    },
-    {
-      "No":5014364, "Group":5014, "Resource":0, "ObtainType":2, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41092
-    },
-    {
-      "No":5014365, "Group":5014, "Resource":0, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41093
     },
     {
       "No":5015001, "Group":5015, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20003
@@ -13951,12 +14191,6 @@
       "No":5015363, "Group":5015, "Resource":400101, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":2, "LotteryDenominator":0, "LotteryProbability":90, "PrizeNo":50018
     },
     {
-      "No":5015364, "Group":5015, "Resource":0, "ObtainType":2, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41092
-    },
-    {
-      "No":5015365, "Group":5015, "Resource":0, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41093
-    },
-    {
       "No":5016001, "Group":5016, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20018
     },
     {
@@ -14594,12 +14828,6 @@
     },
     {
       "No":5016213, "Group":5016, "Resource":400101, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":2, "LotteryDenominator":0, "LotteryProbability":90, "PrizeNo":50018
-    },
-    {
-      "No":5016214, "Group":5016, "Resource":0, "ObtainType":2, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41092
-    },
-    {
-      "No":5016215, "Group":5016, "Resource":0, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41093
     },
     {
       "No":5017001, "Group":5017, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":20003
@@ -15425,12 +15653,6 @@
     },
     {
       "No":5017275, "Group":5017, "Resource":400101, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":2, "LotteryDenominator":0, "LotteryProbability":90, "PrizeNo":50018
-    },
-    {
-      "No":5017276, "Group":5017, "Resource":0, "ObtainType":2, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41092
-    },
-    {
-      "No":5017277, "Group":5017, "Resource":0, "ObtainType":3, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":41093
     },
     {
       "No":11000101, "Group":110001, "Resource":0, "ObtainType":1, "LotteryWeek":0, "CampaignLinkNo":0, "LotteryType":1, "LotteryDenominator":100, "LotteryProbability":100, "PrizeNo":40001

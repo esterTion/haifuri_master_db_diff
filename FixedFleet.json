@@ -349,6 +349,12 @@
       "No":2209131, "PlayerName":"相手チーム", "UnitNo1":22091311, "UnitNo2":22091312, "UnitNo3":22091313, "UnitNo4":22091314, "UnitNo5":22091315, "Power":32200, "Shelling":7000, "Torpedo":4000, "Speed":9354.5200000000004, "Durability":9192.1499999999996, "Visibility":7787.5, "Occupy":7455.75
     },
     {
+      "No":1209141, "PlayerName":"味方チーム", "UnitNo1":12091415, "UnitNo2":12091412, "UnitNo3":12091411, "UnitNo4":12091414, "UnitNo5":12091413, "Power":32200, "Shelling":7000, "Torpedo":4000, "Speed":9354.5200000000004, "Durability":9192.1499999999996, "Visibility":7787.5, "Occupy":7455.75
+    },
+    {
+      "No":2209141, "PlayerName":"相手チーム", "UnitNo1":22091411, "UnitNo2":22091412, "UnitNo3":22091413, "UnitNo4":22091414, "UnitNo5":22091415, "Power":32200, "Shelling":7000, "Torpedo":4000, "Speed":9354.5200000000004, "Durability":9192.1499999999996, "Visibility":7787.5, "Occupy":7455.75
+    },
+    {
       "No":1102091, "PlayerName":"味方チーム", "UnitNo1":-1, "UnitNo2":-1, "UnitNo3":-1, "UnitNo4":-1, "UnitNo5":11020915, "Power":14100, "Shelling":6500, "Torpedo":5500, "Speed":3500, "Durability":6100, "Visibility":4300, "Occupy":5500
     },
     {
