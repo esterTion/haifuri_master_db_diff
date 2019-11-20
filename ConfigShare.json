@@ -109,7 +109,7 @@
       "Name":"BaseDamageShipWreckType", "Value":"1", "Type":"INTEGER"
     },
     {
-      "Name":"SwitchedToCpuBattlePenaltyLimitDaily", "Value":"30", "Type":"INTEGER"
+      "Name":"SwitchedToCpuBattlePenaltyLimitDaily", "Value":"20", "Type":"INTEGER"
     },
     {
       "Name":"SwitchedToCpuBattlePenaltyLimitWeekly", "Value":"100", "Type":"INTEGER"
