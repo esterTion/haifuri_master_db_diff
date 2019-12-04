@@ -58,6 +58,12 @@
       "No":10001019, "CollabNo":0, "Group":10001, "ProductGroup":31005002, "Description":"集めると「浴衣で行こう!花火大会!」のイベントストーリーが解放される\n※既に解放済のストーリー数によって必要個数は変わります", "DailyType":0, "DailyProbability":0, "Order":104, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":10001020, "CollabNo":0, "Group":10001, "ProductGroup":31006002, "Description":"集めると「そうだ!お月見をしよう!」のイベントストーリーが解放される\n※既に解放済のストーリー数によって必要個数は変わります", "DailyType":0, "DailyProbability":0, "Order":105, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":10001021, "CollabNo":0, "Group":10001, "ProductGroup":31007002, "Description":"集めると「遊園地でドキドキハロウィン!」のイベントストーリーが\n解放される※既に解放済のストーリー数によって必要個数は変わります", "DailyType":0, "DailyProbability":0, "Order":106, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":20001001, "CollabNo":0, "Group":20001, "ProductGroup":4001601, "Description":"お風呂チケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":1, "PaymentItemNo":0, "PaymentCount":50, "PurchaseLimit":15, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
@@ -1726,6 +1732,51 @@
       "No":4001549, "CollabNo":4001550, "Group":40001, "ProductGroup":40160, "Description":"限界突破素材 杵崎 ほまれ☆4", "DailyType":0, "DailyProbability":0, "Order":153, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-11T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":4001551, "CollabNo":4001552, "Group":40001, "ProductGroup":40161, "Description":"限界突破素材 勝田 聡子☆5", "DailyType":0, "DailyProbability":0, "Order":58, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001552, "CollabNo":4001553, "Group":40001, "ProductGroup":40161, "Description":"限界突破素材 勝田 聡子☆5", "DailyType":0, "DailyProbability":0, "Order":58, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001553, "CollabNo":4001554, "Group":40001, "ProductGroup":40161, "Description":"限界突破素材 勝田 聡子☆5", "DailyType":0, "DailyProbability":0, "Order":58, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001554, "CollabNo":4001555, "Group":40001, "ProductGroup":40161, "Description":"限界突破素材 勝田 聡子☆5", "DailyType":0, "DailyProbability":0, "Order":58, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001555, "CollabNo":0, "Group":40001, "ProductGroup":40161, "Description":"限界突破素材 勝田 聡子☆5", "DailyType":0, "DailyProbability":0, "Order":58, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001556, "CollabNo":4001557, "Group":40001, "ProductGroup":40162, "Description":"限界突破素材 姫路 果代子☆5", "DailyType":0, "DailyProbability":0, "Order":59, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001557, "CollabNo":4001558, "Group":40001, "ProductGroup":40162, "Description":"限界突破素材 姫路 果代子☆5", "DailyType":0, "DailyProbability":0, "Order":59, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001558, "CollabNo":4001559, "Group":40001, "ProductGroup":40162, "Description":"限界突破素材 姫路 果代子☆5", "DailyType":0, "DailyProbability":0, "Order":59, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001559, "CollabNo":4001560, "Group":40001, "ProductGroup":40162, "Description":"限界突破素材 姫路 果代子☆5", "DailyType":0, "DailyProbability":0, "Order":59, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001560, "CollabNo":0, "Group":40001, "ProductGroup":40162, "Description":"限界突破素材 姫路 果代子☆5", "DailyType":0, "DailyProbability":0, "Order":59, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001561, "CollabNo":4001562, "Group":40001, "ProductGroup":40163, "Description":"限界突破素材 ヴィルヘルミーナ☆4", "DailyType":0, "DailyProbability":0, "Order":154, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001562, "CollabNo":4001563, "Group":40001, "ProductGroup":40163, "Description":"限界突破素材 ヴィルヘルミーナ☆4", "DailyType":0, "DailyProbability":0, "Order":154, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001563, "CollabNo":4001564, "Group":40001, "ProductGroup":40163, "Description":"限界突破素材 ヴィルヘルミーナ☆4", "DailyType":0, "DailyProbability":0, "Order":154, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001564, "CollabNo":4001565, "Group":40001, "ProductGroup":40163, "Description":"限界突破素材 ヴィルヘルミーナ☆4", "DailyType":0, "DailyProbability":0, "Order":154, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001565, "CollabNo":0, "Group":40001, "ProductGroup":40163, "Description":"限界突破素材 ヴィルヘルミーナ☆4", "DailyType":0, "DailyProbability":0, "Order":154, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":4001550, "CollabNo":0, "Group":40001, "ProductGroup":40160, "Description":"限界突破素材 杵崎 ほまれ☆4", "DailyType":0, "DailyProbability":0, "Order":153, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-11T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
@@ -1903,6 +1954,12 @@
       "No":4002062, "CollabNo":0, "Group":40002, "ProductGroup":50062, "Description":"【メイの雷撃講座】西崎 芽依", "DailyType":2, "DailyProbability":1, "Order":128, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":4002065, "CollabNo":0, "Group":40002, "ProductGroup":50065, "Description":"【観るのが好き】大谷 由美子", "DailyType":1, "DailyProbability":1, "Order":31, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002066, "CollabNo":0, "Group":40002, "ProductGroup":50066, "Description":"【平凡が一番】榊原 つむぎ", "DailyType":2, "DailyProbability":1, "Order":129, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":60001001, "CollabNo":0, "Group":60001, "ProductGroup":6000101, "Description":"チーム対抗戦「どっちの水着がいいかな？」\nAチーム キレイ系水着 岬明乃のスキン", "DailyType":0, "DailyProbability":0, "Order":5, "Type":2, "PaymentItemNo":0, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
@@ -1937,6 +1994,9 @@
     },
     {
       "No":70001104, "CollabNo":0, "Group":70001, "ProductGroup":50063, "Description":"【古いもの好き】杵崎 ほまれ", "DailyType":0, "DailyProbability":0, "Order":3395, "Type":3, "PaymentItemNo":11901001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2019-11-11T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001105, "CollabNo":0, "Group":70001, "ProductGroup":50064, "Description":"【ピロシキ好きぞな】勝田 聡子", "DailyType":0, "DailyProbability":0, "Order":3190, "Type":3, "PaymentItemNo":11901001, "PaymentCount":800, "PurchaseLimit":1, "ValidTime":"2019-11-18T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
       "No":70001201, "CollabNo":0, "Group":70001, "ProductGroup":7000101, "Description":"【水着】岬 明乃のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4019, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
