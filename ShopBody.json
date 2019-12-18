@@ -94,6 +94,18 @@
       "No":5000112, "Type":0, "Order":113, "Title":"12月限定ショップ", "InsideGroup":10001, "ValidTime":"2019-12-01T05:00:00+09:00", "InvalidTime":"2020-01-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
     },
     {
+      "No":5000113, "Type":0, "Order":114, "Title":"1月限定ショップ", "InsideGroup":10001, "ValidTime":"2020-01-01T05:00:00+09:00", "InvalidTime":"2020-02-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
+      "No":5000114, "Type":0, "Order":115, "Title":"2月限定ショップ", "InsideGroup":10001, "ValidTime":"2020-02-01T05:00:00+09:00", "InvalidTime":"2020-03-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
+      "No":5000115, "Type":0, "Order":116, "Title":"3月限定ショップ", "InsideGroup":10001, "ValidTime":"2020-03-01T05:00:00+09:00", "InvalidTime":"2020-04-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
+      "No":5000116, "Type":0, "Order":117, "Title":"4月限定ショップ", "InsideGroup":10001, "ValidTime":"2020-04-01T05:00:00+09:00", "InvalidTime":"2020-05-01T04:59:59+09:00", "UserHour":0, "PickUpType":0
+    },
+    {
       "No":6000101, "Type":0, "Order":25, "Title":"メダルショップ", "InsideGroup":70001, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUpType":0
     }
   ]

@@ -1780,6 +1780,51 @@
       "No":4001550, "CollabNo":0, "Group":40001, "ProductGroup":40160, "Description":"限界突破素材 杵崎 ほまれ☆4", "DailyType":0, "DailyProbability":0, "Order":153, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-11T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":4001566, "CollabNo":4001567, "Group":40001, "ProductGroup":40164, "Description":"限界突破素材 松永 理都子☆5", "DailyType":0, "DailyProbability":0, "Order":60, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001567, "CollabNo":4001568, "Group":40001, "ProductGroup":40164, "Description":"限界突破素材 松永 理都子☆5", "DailyType":0, "DailyProbability":0, "Order":60, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001568, "CollabNo":4001569, "Group":40001, "ProductGroup":40164, "Description":"限界突破素材 松永 理都子☆5", "DailyType":0, "DailyProbability":0, "Order":60, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001569, "CollabNo":4001570, "Group":40001, "ProductGroup":40164, "Description":"限界突破素材 松永 理都子☆5", "DailyType":0, "DailyProbability":0, "Order":60, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001570, "CollabNo":0, "Group":40001, "ProductGroup":40164, "Description":"限界突破素材 松永 理都子☆5", "DailyType":0, "DailyProbability":0, "Order":60, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001571, "CollabNo":4001572, "Group":40001, "ProductGroup":40165, "Description":"限界突破素材 加藤 小百合☆4", "DailyType":0, "DailyProbability":0, "Order":155, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001572, "CollabNo":4001573, "Group":40001, "ProductGroup":40165, "Description":"限界突破素材 加藤 小百合☆4", "DailyType":0, "DailyProbability":0, "Order":155, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001573, "CollabNo":4001574, "Group":40001, "ProductGroup":40165, "Description":"限界突破素材 加藤 小百合☆4", "DailyType":0, "DailyProbability":0, "Order":155, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001574, "CollabNo":4001575, "Group":40001, "ProductGroup":40165, "Description":"限界突破素材 加藤 小百合☆4", "DailyType":0, "DailyProbability":0, "Order":155, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001575, "CollabNo":0, "Group":40001, "ProductGroup":40165, "Description":"限界突破素材 加藤 小百合☆4", "DailyType":0, "DailyProbability":0, "Order":155, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001576, "CollabNo":4001577, "Group":40001, "ProductGroup":40166, "Description":"限界突破素材 杵崎 あかね☆4", "DailyType":0, "DailyProbability":0, "Order":156, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001577, "CollabNo":4001578, "Group":40001, "ProductGroup":40166, "Description":"限界突破素材 杵崎 あかね☆4", "DailyType":0, "DailyProbability":0, "Order":156, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001578, "CollabNo":4001579, "Group":40001, "ProductGroup":40166, "Description":"限界突破素材 杵崎 あかね☆4", "DailyType":0, "DailyProbability":0, "Order":156, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001579, "CollabNo":4001580, "Group":40001, "ProductGroup":40166, "Description":"限界突破素材 杵崎 あかね☆4", "DailyType":0, "DailyProbability":0, "Order":156, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001580, "CollabNo":0, "Group":40001, "ProductGroup":40166, "Description":"限界突破素材 杵崎 あかね☆4", "DailyType":0, "DailyProbability":0, "Order":156, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":4002001, "CollabNo":0, "Group":40002, "ProductGroup":50001, "Description":"【くじ引き最強伝説】岬 明乃", "DailyType":1, "DailyProbability":1, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
@@ -1960,6 +2005,12 @@
       "No":4002066, "CollabNo":0, "Group":40002, "ProductGroup":50066, "Description":"【平凡が一番】榊原 つむぎ", "DailyType":2, "DailyProbability":1, "Order":129, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":4002067, "CollabNo":0, "Group":40002, "ProductGroup":50067, "Description":"【リアリスト】宇田 慧", "DailyType":1, "DailyProbability":1, "Order":32, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002068, "CollabNo":0, "Group":40002, "ProductGroup":50068, "Description":"【負けたくないの】高橋 千華", "DailyType":2, "DailyProbability":1, "Order":130, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":60001001, "CollabNo":0, "Group":60001, "ProductGroup":6000101, "Description":"チーム対抗戦「どっちの水着がいいかな？」\nAチーム キレイ系水着 岬明乃のスキン", "DailyType":0, "DailyProbability":0, "Order":5, "Type":2, "PaymentItemNo":0, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
@@ -1997,6 +2048,9 @@
     },
     {
       "No":70001105, "CollabNo":0, "Group":70001, "ProductGroup":50064, "Description":"【ピロシキ好きぞな】勝田 聡子", "DailyType":0, "DailyProbability":0, "Order":3190, "Type":3, "PaymentItemNo":11901001, "PaymentCount":800, "PurchaseLimit":1, "ValidTime":"2019-11-18T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001106, "CollabNo":0, "Group":70001, "ProductGroup":50069, "Description":"【新しいもの好き】杵崎 あかね", "DailyType":0, "DailyProbability":0, "Order":3390, "Type":3, "PaymentItemNo":11901001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2019-11-29T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
       "No":70001201, "CollabNo":0, "Group":70001, "ProductGroup":7000101, "Description":"【水着】岬 明乃のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4019, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
@@ -2249,6 +2303,132 @@
     },
     {
       "No":70001342, "CollabNo":0, "Group":70001, "ProductGroup":7004302, "Description":"【私服】加藤 小百合のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4428, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001501, "CollabNo":0, "Group":70001, "ProductGroup":7000104, "Description":"【学校指定水着】岬 明乃のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4016, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001502, "CollabNo":0, "Group":70001, "ProductGroup":7000204, "Description":"【学校指定水着】宗谷 ましろのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4026, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001503, "CollabNo":0, "Group":70001, "ProductGroup":7000304, "Description":"【学校指定水着】立石 志摩のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4036, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001504, "CollabNo":0, "Group":70001, "ProductGroup":7000404, "Description":"【学校指定水着】西崎 芽依のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4046, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001505, "CollabNo":0, "Group":70001, "ProductGroup":7000504, "Description":"【学校指定水着】納沙 幸子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4056, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001506, "CollabNo":0, "Group":70001, "ProductGroup":7000604, "Description":"【学校指定水着】知床 鈴のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4066, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001507, "CollabNo":0, "Group":70001, "ProductGroup":7000704, "Description":"【学校指定水着】小笠原 光のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4076, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001508, "CollabNo":0, "Group":70001, "ProductGroup":7000804, "Description":"【学校指定水着】武田 美千留のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4086, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001509, "CollabNo":0, "Group":70001, "ProductGroup":7000904, "Description":"【学校指定水着】日置 順子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4096, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001510, "CollabNo":0, "Group":70001, "ProductGroup":7001004, "Description":"【学校指定水着】松永 理都子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4106, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001511, "CollabNo":0, "Group":70001, "ProductGroup":7001104, "Description":"【学校指定水着】姫路 果代子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4116, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001512, "CollabNo":0, "Group":70001, "ProductGroup":7001204, "Description":"【学校指定水着】万里小路 楓のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4126, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001513, "CollabNo":0, "Group":70001, "ProductGroup":7001304, "Description":"【学校指定水着】勝田 聡子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4136, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001514, "CollabNo":0, "Group":70001, "ProductGroup":7001404, "Description":"【学校指定水着】山下 秀子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4146, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001515, "CollabNo":0, "Group":70001, "ProductGroup":7001504, "Description":"【学校指定水着】内田 まゆみのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4156, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001516, "CollabNo":0, "Group":70001, "ProductGroup":7001604, "Description":"【学校指定水着】八木 鶫のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4166, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001517, "CollabNo":0, "Group":70001, "ProductGroup":7001704, "Description":"【学校指定水着】宇田 慧のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4176, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001518, "CollabNo":0, "Group":70001, "ProductGroup":7001804, "Description":"【学校指定水着】野間 マチコのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4186, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001519, "CollabNo":0, "Group":70001, "ProductGroup":7001904, "Description":"【学校指定水着】柳原 麻侖のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4196, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001520, "CollabNo":0, "Group":70001, "ProductGroup":7002004, "Description":"【学校指定水着】黒木 洋美のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4206, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001521, "CollabNo":0, "Group":70001, "ProductGroup":7002104, "Description":"【学校指定水着】若狭 麗緒のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4216, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001522, "CollabNo":0, "Group":70001, "ProductGroup":7002204, "Description":"【学校指定水着】伊勢 桜良のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4226, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001523, "CollabNo":0, "Group":70001, "ProductGroup":7002304, "Description":"【学校指定水着】駿河 留奈のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4236, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001524, "CollabNo":0, "Group":70001, "ProductGroup":7002404, "Description":"【学校指定水着】広田 空のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4246, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001525, "CollabNo":0, "Group":70001, "ProductGroup":7002504, "Description":"【学校指定水着】和住 媛萌のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4256, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001526, "CollabNo":0, "Group":70001, "ProductGroup":7002604, "Description":"【学校指定水着】青木 百々のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4266, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001527, "CollabNo":0, "Group":70001, "ProductGroup":7002704, "Description":"【学校指定水着】等松 美海のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4276, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001528, "CollabNo":0, "Group":70001, "ProductGroup":7002804, "Description":"【学校指定水着】伊良子 美甘のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4286, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001529, "CollabNo":0, "Group":70001, "ProductGroup":7002904, "Description":"【学校指定水着】杵崎 ほまれのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4296, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001530, "CollabNo":0, "Group":70001, "ProductGroup":7003004, "Description":"【学校指定水着】杵崎 あかねのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4306, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001531, "CollabNo":0, "Group":70001, "ProductGroup":7003104, "Description":"【学校指定水着】鏑木 美波のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4316, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001532, "CollabNo":0, "Group":70001, "ProductGroup":7003304, "Description":"【学校指定水着】知名 もえかのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4326, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001533, "CollabNo":0, "Group":70001, "ProductGroup":7003404, "Description":"【学校指定水着】ヴィルヘルミーナのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4336, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001534, "CollabNo":0, "Group":70001, "ProductGroup":7003504, "Description":"【学校指定水着】テアのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4346, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001535, "CollabNo":0, "Group":70001, "ProductGroup":7003604, "Description":"【学校指定水着】榊原 つむぎのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4356, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001536, "CollabNo":0, "Group":70001, "ProductGroup":7003704, "Description":"【学校指定水着】長澤 君江のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4366, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001537, "CollabNo":0, "Group":70001, "ProductGroup":7003804, "Description":"【学校指定水着】大谷 由美子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4376, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001538, "CollabNo":0, "Group":70001, "ProductGroup":7003904, "Description":"【学校指定水着】賀茂 つつじのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4386, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001539, "CollabNo":0, "Group":70001, "ProductGroup":7004004, "Description":"【学校指定水着】高橋 千華のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4396, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001540, "CollabNo":0, "Group":70001, "ProductGroup":7004104, "Description":"【学校指定水着】山辺 あゆみのSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4406, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001541, "CollabNo":0, "Group":70001, "ProductGroup":7004204, "Description":"【学校指定水着】大指 紀子のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4416, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001542, "CollabNo":0, "Group":70001, "ProductGroup":7004304, "Description":"【学校指定水着】加藤 小百合のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4426, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
       "No":31001001, "CollabNo":0, "Group":31001, "ProductGroup":31001001, "Description":"11連ガチャが引けるチケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":11001001, "PaymentCount":3000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2019-05-14T14:00:00+09:00", "UserHour":0, "PickUp":true
