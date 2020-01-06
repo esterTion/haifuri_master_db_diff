@@ -1,5 +1,5 @@
 {
-  "Version":1350, "Signatures":[
+  "Version":1355, "Signatures":[
     {
       "MasterName":"AssetVersions", "Signature":"00100cf4908a0bd0f0e30b5722070d3110e20ee0b90f57d7a", "Iv":"985e66429ef68c844eaf4e3c8f047634", "Salt":"a0ab0ef67079dffb9cb3390d3e9ac6066440377249358211a3a211ccb3a54761", "Size":128, "Sha1":"7d99d5757903d5265e9dcdd46440044422411de6"
     },
@@ -214,7 +214,7 @@
       "MasterName":"StoryMission", "Signature":"0d30c27819040d17a2e450f3260ca09a0a85f0ac0f30f90820c6", "Iv":"4e052ce7bcc1c0154f3e14ed3f3ea9fc", "Salt":"bd2440b0b74c479c4a939bfc92eba5099c7dc202a93bd030c930f2e2c1a38907", "Size":3280, "Sha1":"c0bb2dd4bf00a570c4a7d149c5a69838c61c2bac"
     },
     {
-      "MasterName":"StoryScene", "Signature":"66510a50af27362c0911e0d20c1300cc6f63247a0d10fd0b8", "Iv":"b25f221ba3eca54aadb4d31da363a32a", "Salt":"502942623f773014b515198da70cd3f8ce861f982afa97fd498c0ae632ee760f", "Size":362336, "Sha1":"dc4c4602a026196d39a84879b1448636afec9b78"
+      "MasterName":"StoryScene", "Signature":"5209708d0ea3f08c0a2313c09f710508d0c80aa41350a808c1a", "Iv":"9534d168525a763761aff7892bfe7ff1", "Salt":"4c9b220db10380853b501708ab0cac5fce34a308ac9b07504d809048aac62c94", "Size":362336, "Sha1":"66b08c48a0902e31116a667b3bd2f9b0ec214c39"
     },
     {
       "MasterName":"StorySceneDifficulty", "Signature":"0b20b408c0f6220a10aa480a00a7150823a1809e0fe08b580a826", "Iv":"ca5255945e69dfcf4c970d33d0271795", "Salt":"cba1177c9206f08f4fd035a6968b9604ce15922a47480c5362a5418b94a60534", "Size":26096, "Sha1":"407c9a7bf619ffa9d0cedb78466af6be77030655"
