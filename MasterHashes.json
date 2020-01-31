@@ -1,232 +1,232 @@
 {
-  "Version":1363, "Signatures":[
+  "Version":1369, "Signatures":[
     {
-      "MasterName":"AssetVersions", "Signature":"4b0a308e2e0b1607b640fb0b60c70da36440fa0a765050cc0d6", "Iv":"45931d3f9f145dd142ab376368d67a60", "Salt":"98b5fc7454c2a8963a39746052cb30d45b94bf1e91548d47419ab4c0c8c837d9", "Size":128, "Sha1":"2da8d96ef6e167d546574a4bb4463c72927d08d9"
+      "MasterName":"AssetVersions", "Signature":"0b3450ad720e90862109c6608d54686b04730b80fc3908e14", "Iv":"c7f8ffa135adb86461b2fd40683ac2c2", "Salt":"a4fe937dbc736e4f9bf730bb3c03b463a44ae2fe5be3e275a536faa1c2c2297a", "Size":128, "Sha1":"912e84541c69b1837c39e32fe240387d8677c1f9"
     },
     {
-      "MasterName":"Banner", "Signature":"0ba79050a395a690a0300a3250c0c80ab0008a0ef556808f", "Iv":"946fcfa53d148201cb2151c75dce911d", "Salt":"a266bede9eb54c142b4657afab0080ec2af1e66fc4d1e5516c44f556ae670b69", "Size":18608, "Sha1":"d4e1429ba7d04f92f16bb23ee789943bf742face"
+      "MasterName":"Banner", "Signature":"162d0872d1d620ec790f9040900830f430322d0930ba1c0cc", "Iv":"69fb2c16711002002cc464a5617ed713", "Salt":"aa2a796a45fb8f79682dc60697055bb8a8366b0498ab9bdaba9d06f849e8d91c", "Size":18976, "Sha1":"e8db55388ae2567a338428a48231c35db6dd974b"
     },
     {
-      "MasterName":"Bath", "Signature":"0915a660d84d0d20e1170aa08d72750dc070df790f12429088", "Iv":"c47008e9b7d51dcbc84f7193d14f8386", "Salt":"4eb158ad328b4e4962a0f91bbea04d736a87b256510c5d1a605b4b514f043ace", "Size":1216, "Sha1":"a58c5c8cda05b9112eda163a4496108201fb6457"
+      "MasterName":"Bath", "Signature":"0a14e0dd6b1c0f30d10cb2a081130546170333780e00b80d0", "Iv":"a987967756613ab6c28aecd69740636a", "Salt":"9bb2436c60661a802c4d3d1b9de269d0a2c91a383237d344a56c91422cbfae59", "Size":1216, "Sha1":"b93f22459703e8460de357766f357036de1c06cc"
     },
     {
-      "MasterName":"Battle", "Signature":"0b355140e40b80c408e022f0ab0c0f6460a60f70d50e6730d0b6", "Iv":"53fb48c5aae623bf9a16a47f5c2e3a9f", "Salt":"ab1c2342ce0be6cfbabaea1f6c9165a36e8e6d7e50e0c158a442d86e5448a069", "Size":24112, "Sha1":"aca7b7a89434a08eef4f13509ba442972b6f5e0f"
+      "MasterName":"Battle", "Signature":"09c000c20f60df0e70840b9310973a0810b20fc0b90c280e808d0df", "Iv":"93fed0e15ffe06bbb0354927c22fc321", "Salt":"4e76e442a9d4faabac54e64830f2e0b69849582eae065cba999ec90ebb7deda5", "Size":24112, "Sha1":"dd7b2d5cf45cc0d16434590108b2e706a8e8a222"
     },
     {
-      "MasterName":"BattleAi", "Signature":"750e90995d600ca21240a60a6480f4080ba0941a0dc220be6e", "Iv":"381cdb70b3cd7c79b1a8f1c6d505e541", "Salt":"48f32d4d303a6469983f4032d11c222541495f3047310e1f986ebb7843d82457", "Size":5680, "Sha1":"0d9e95119d0f0592439e74c376cd4e2cc39528a6"
+      "MasterName":"BattleAi", "Signature":"160b00dc1d092795e5a7e0da089640f87628742c0f10c60c8", "Iv":"38143059ce0db17d48fc622b3566317a", "Salt":"360308c144837b88c70b7b28c20cee14c849b4b45b10fa6c3a67d8984d25422f", "Size":5680, "Sha1":"43df521aca8746b67f6deec38a64c9c7daedfe98"
     },
     {
-      "MasterName":"BattleSpecialPrize", "Signature":"0e9790aa0d216730d90de3709a250e90831d5028687a5513", "Iv":"9d97ce1ad02df2a692a53f5661c01906", "Salt":"a7d618463b662e3fa481f81542b99ecf58d6298c3c1b7d49b9872100ce6ef2fa", "Size":86320, "Sha1":"721130455c7eaa6f4abbcf158d559a566235cb3a"
+      "MasterName":"BattleSpecialPrize", "Signature":"0db0860fe2608d670e7180fe0d90a50a2084220d809a00240aa29", "Iv":"a8219e0b5281af2ca1517584d157fd99", "Salt":"d2c071325e801469acb5c68b447473d84d7a1a915c7a9885b65e544462c71dc1", "Size":89200, "Sha1":"23885552322c181f526344daf059b5ebda669ac6"
     },
     {
-      "MasterName":"Campaign", "Signature":"60520ac0f3330d40d148770e40b10f20aa11260d209a620d087", "Iv":"bdd18bf42c45ba7f5af77b2c97d7fab2", "Salt":"a0ac64f5364801108ff1fa96accdfd94acd1c4a643f691ecb7642c40c2cdebde", "Size":1952, "Sha1":"d474c1b8200e6e16f8b890c2f528377297209009"
+      "MasterName":"Campaign", "Signature":"0c03618685e0fc10630d50d16c2f0d70fd070840fc08935085", "Iv":"ce567366a435b11f57ce7b5a69205cfd", "Salt":"4ddc86973d3f69955d7fa7dd47a612f5365ed092aab7b25859c2fb673482ce6b", "Size":1952, "Sha1":"60aaf9f9a0dffb8488be07ce0538d5199e1718bc"
     },
     {
-      "MasterName":"CaptainSkill", "Signature":"0d0880bf6b36340e809120aa0a90865b0cf0835b0a50f508e0ae", "Iv":"2c73240358306c9f493ac052a3745c89", "Salt":"706f492b3a3d0670a5ff74b6c52326015fe2aaacad47c8c7cbed56c84dd94e16", "Size":70752, "Sha1":"477ef838d1c282936cec53dc2bb0bd705efda4e9"
+      "MasterName":"CaptainSkill", "Signature":"0b9250834c0e90cd256e0e30fb0920b04d09a0ff0a54c756d01", "Iv":"95013470a5301680ce76fe3a437be3db", "Salt":"533dae973b91ab84bfcbc9446f7a414a6fecd14b31db7e7541f7ac29cab50ca5", "Size":70752, "Sha1":"5e19a6ae6b3434aad8610bf2e72386b2f575a459"
     },
     {
-      "MasterName":"Card", "Signature":"4f310bc6c780cb071979480aa6a5405380b1735f530f6", "Iv":"a5d0af495a55995e6819748bd49d8076", "Salt":"54938e1ccf8e6a9f63b149342d5a778f4b332bfa3371a92f2d9eaf6dd31f8514", "Size":167424, "Sha1":"6f2554e15373ac3a2bbd9c2314bb3f01941891cc"
+      "MasterName":"Card", "Signature":"7609d0f30c04e0de75142d130f0d0f5b0bb0b20c00ef3d2f", "Iv":"ca0c9b77936c7b17ce488c69336d35a1", "Salt":"93c564e8cdbfca483ba0e7a9cdf8063791b300d0cf4fc7cd9e6182ec328543d2", "Size":167424, "Sha1":"f06a919776cd8d596d84a1976f8dc6dff1dc4721"
     },
     {
-      "MasterName":"CardEvolution", "Signature":"47512f6d0c50ad14510bc110c6170d05c0e40aa0880ca6054", "Iv":"5cde4dcd53171480cadddab899075fa4", "Salt":"c937402697566042b09f9af54042ac943e2e1d776404e6b13af5a36c51e6cee3", "Size":944, "Sha1":"5f664e84b1586004266c44fecc15f237258780ee"
+      "MasterName":"CardEvolution", "Signature":"3d26350b80ec0aa2c303664205b0b555130aa0c5080e82a", "Iv":"abfade463a5dd0449326c081676c7fb8", "Salt":"ce87c080aef26de8cc8de634ab39f452a9d9fa4d2c889660afc39c0456bfeb38", "Size":944, "Sha1":"b6f9034e07a5f7d5786a0244bdc3a9c1d164d0a2"
     },
     {
-      "MasterName":"CardExpList", "Signature":"0b40c20bf0f50e16a0e66401700e20b5092e0e645540cd1a0b3", "Iv":"a72f1489593bb7deae9e0d233ffc3eea", "Salt":"36f433a3933582fa5ade23beb11c1746ad021628cbebd410c3b64e8fc7e99f24", "Size":16528, "Sha1":"841b29e19296a08f0c043cc697ec1c67e0745af3"
+      "MasterName":"CardExpList", "Signature":"0920ed58177e0f6140bd757408f0c0570d7247e0d3020ae76", "Iv":"b9e611484606d853aa5f061ec7d42c72", "Salt":"4b6c4066a1abbdbbc20673f7554eba963714895ba6bb3ef6cb698414cbcb1306", "Size":16528, "Sha1":"6be6f818a5417d38f2573aa9466a7d71647c7b67"
     },
     {
-      "MasterName":"CardLimitBreak", "Signature":"6f0892b0d41c0e33a0fb360f90f70986f720f7350af051959", "Iv":"aa5635c4cd9c79156b6987b15b32135a", "Salt":"b8a61654ab778b5932e27cdfbd470c07318d4520bd1949b8bd7c90abd50f39af", "Size":96064, "Sha1":"883ba4a1563a51dbf583bc25e985b0d17a615e3b"
+      "MasterName":"CardLimitBreak", "Signature":"5e4b0a330590b5180bb0f162663950089070af407e6e36", "Iv":"2dba34bed208556231566fe55bbd0e94", "Salt":"5b0184f0bdd01d20c1c34498396bb52caee6e08639ea1d8a2dad69efa2924a35", "Size":96064, "Sha1":"8092857c52361ae43861dbdfcadf65831d925230"
     },
     {
-      "MasterName":"CardStatus", "Signature":"200ce09c5109a0b70bd0b72e0ec307a0ae580b93c600905549", "Iv":"5fffb20953a09771700597b3636af698", "Salt":"cb77ca46d2b3a8dd63326edb91c4a504414feae0aac18c414c315495c5222f5d", "Size":9072, "Sha1":"01b0a4796bb3e7f08d33a54f79e21fa03d1a3f2e"
+      "MasterName":"CardStatus", "Signature":"0a00d95a0e21809e1709c516a0d709c64060850a70b30b40354", "Iv":"2f1b4ba13916f06d35ce6d588ef12774", "Salt":"370cd0da4c1c4a42b8782d72acf25a919523a4ef2e7cc826540b7ea96c70583d", "Size":9072, "Sha1":"27189e9cf7c5e76b551cdb3797d93bb38b82336a"
     },
     {
-      "MasterName":"CardStatusLevelUp", "Signature":"08e0e73a0a10db0b70fe0cb0c50c80ec383b0b065641c0de0d4a", "Iv":"3be7b030be634e95ac8ef70e2fedcf95", "Salt":"c42dedbd4e4fd2c1a11d05993248994633a60a0048f1d24b2c9ccd35b5ce180b", "Size":51328, "Sha1":"b150cd3a8da97f650a60dd0bc2516844ecd4f4bc"
+      "MasterName":"CardStatusLevelUp", "Signature":"0b7090bd0940e46d0d50963008b0e3009c0c809a020af084490c5", "Iv":"bf5fe4b7683674d55d9dbc526c99356c", "Salt":"cf855b46d408e8936dd6aeb5b1c5727b488b2adca6da8b049e35c0fc3b545c2c", "Size":51328, "Sha1":"4a308a57c596d32b9abfff169ee789655c558e9a"
     },
     {
-      "MasterName":"CardStatusUp", "Signature":"09f3f197a0e97c0880f22a0c0a05008e0b50c10e03b0f92318", "Iv":"40142733ba125a062de29cdd901c7f91", "Salt":"3620acd0381256805e325acc9d56609930411f9e36fa1bb3ae8ed8f5375964eb", "Size":81600, "Sha1":"2a14dbe1cc4faaa42e3b4ea739da168d06eddbe5"
+      "MasterName":"CardStatusUp", "Signature":"2e760b80a208c410df0d90ce0a81704536c780f66d55110d4", "Iv":"62633727b220a0ff39bf7fb4457a046a", "Salt":"a3bc4003981a39773e79cff9c1af869ca533f690450774d365082eca571c693b", "Size":81600, "Sha1":"b748941a518268501b6b33bb5457203a5923d105"
     },
     {
-      "MasterName":"CharReaction", "Signature":"1b0b6260dc0c221208d0a75709b2e01330e20e86b3e0bd49", "Iv":"cba98ef4a9b28bcad23bed02456b7853", "Salt":"9ab40f6fb23b325b98b341575b66586d6abb4e7fbcabe0a0a14797c24c66ef0e", "Size":329280, "Sha1":"57944abdc368fec092e1eee7e33d25534385b042"
+      "MasterName":"CharReaction", "Signature":"0a9084a0d30d60a732610eb640b709111120d17f0f40d35019", "Iv":"962de7be63d3250193d7d1d2d07ebb50", "Salt":"62f4aedecfc29cbeb197ff0090a330fb2e4b28ee577a5515c81823c594df68ac", "Size":329280, "Sha1":"802af51e910bd4b5943539ac94794d885f7aa516"
     },
     {
-      "MasterName":"Character", "Signature":"420e36908735431960280a70d6b0b6000a85e250a00c80ec", "Iv":"3f0f58bf2b9cc8e534111e439edd0b9d", "Salt":"d4fc5692b0f40557bea2a644c0e0712e9ac545833a0d8da33f52a538b915a434", "Size":23600, "Sha1":"f3b006561a704106989af54b26bae7c9c2dc009f"
+      "MasterName":"Character", "Signature":"370ee17580c870650e5653849280ce0a57c08d413a0516", "Iv":"37399fb0c38d2e5d4e6e83a05eefae5b", "Salt":"8ff6046ed4b9cb33af938f73be6ef5eb58bfb958bd093b2f69f0fcd36f714594", "Size":23600, "Sha1":"3b6efeaa19f2945165117042b903495cd6553984"
     },
     {
-      "MasterName":"ComMatching", "Signature":"271d0a50a33b0ba09120ec0890de0e5360be190ed0a94a3216", "Iv":"c5c03ba1b45f965447f068c9a571577c", "Salt":"68f66aeca602d742acb44ab1599523ce5e4c5ff26bf8245c9b6a76a3d16530b8", "Size":12864, "Sha1":"f6d05f649bd2393a961a811b6521b833e0cc0934"
+      "MasterName":"ComMatching", "Signature":"0b80d072090942f7a0894b381d09c0830d008252580b4060a9", "Iv":"3945d097cdfc81bdc9163667311a4789", "Salt":"d080686ba8f66282bfe8d184bd8e81c73885d10f9066ebc868e7485947b5bae8", "Size":12864, "Sha1":"fc0f5f25330c50274f04f239ff8c4776e8270f0f"
     },
     {
-      "MasterName":"ComName", "Signature":"0c62972093083a200e70e90d0c00b95f7c610d60850de09e68", "Iv":"9bf96e68c3be49bec1c5d2483c452f9a", "Salt":"303e2dc83f589155670f8850ab9dbd2e98f112982e172e9163094415663c0140", "Size":1616, "Sha1":"af42066f62d0dcf50f0a3028b2b7c43004f414ff"
+      "MasterName":"ComName", "Signature":"5c327b17380af0e0b86b0d0df44515b7e0b4100ff0f806", "Iv":"9f9d27394abd430a389d75b45590d706", "Salt":"4bd746edd19ddd8a3c654919938374e6c5d2e08ccfb6d9f162c68cbc6345efbb", "Size":1616, "Sha1":"c4e9cb3bee7b18c746eda5e40348484e98ed70bf"
     },
     {
-      "MasterName":"Config", "Signature":"0ac7451640d2087710ab2a520b7120e23e0ba380ad0e7e0ff", "Iv":"360896325fde69ed438a80fa6c79c144", "Salt":"3beb7f7f41a1ea74a20487e542dcbefb6d576428606ab787a23bc724bf0d5d02", "Size":2064, "Sha1":"6ca1bfe8ae572f09250cfb5bfdf84977bde03d05"
+      "MasterName":"Config", "Signature":"1b6a410b20bc300fe260da0a30880e00c2630c70cd7f4507094", "Iv":"4b92e99a9998586b2afe7177bce5dfd3", "Salt":"b2c15f9e569f1781a9b6be1da834228b4c3da48f2f7b80f32f380725ba4e3a6c", "Size":2064, "Sha1":"10c65ab0a990f863520864ef01f72765b0eb2a6c"
     },
     {
-      "MasterName":"ConfigShare", "Signature":"39100b10be2142755e43230e60aa0870946a5d080a91814", "Iv":"c0584c0831ae085db4c31362a01541b4", "Salt":"b97f5143d1717e39c85fa64a5338d88b6bad89ba5a3a68285b6cde9fbdf17580", "Size":2592, "Sha1":"795100267cb2c66eecf75ac34f690f5acd1da148"
+      "MasterName":"ConfigShare", "Signature":"7c530d742527c0043000c40b25708a620bc0fd0e60ac0c60e0", "Iv":"a94eaa8951c0dd995d37855b57ffb119", "Salt":"c3df1c94a01071096a197a6d2d75ea016bc83aacc5b2f418c65ca79b6f1b09ec", "Size":2592, "Sha1":"d0650b595a0889b2bee6db2b443688d221e1cb0f"
     },
     {
-      "MasterName":"ContestRewardLottery", "Signature":"130832f430b5670a92c0e7380940f90a30a0d00cb630cb0f139", "Iv":"5edf03c7517bc510c1cd095b34c60089", "Salt":"3126f61b9778016c38446a2b5be9e372cdf937e92b915c565e9922c76f9eba92", "Size":2224, "Sha1":"05cf0a1aebe63b939bf24266c2e07988a8ef343f"
+      "MasterName":"ContestRewardLottery", "Signature":"0d77a0d471670ae0eb7b08d0960f6280f70d2251b6c0c4f0b1", "Iv":"aeacc106a0fcb903ba78e0e96906d047", "Salt":"3a35b1892c678e32653264ab6e1da8febda133b25d69d082606742dbc3c36f8e", "Size":2224, "Sha1":"89aba3dbf5d3a30955f4c2e6d3f6613b3ced1797"
     },
     {
-      "MasterName":"CrewSkill", "Signature":"770e9460d244780bc0bf3108159620a46e0a3180dd0ab0c02", "Iv":"966db76ad365b9106b2f1e3344ff7a54", "Salt":"6b94f35ed0740fd6c87d0dd88f459b2d93d6da1453dc923639376403348bfabf", "Size":29264, "Sha1":"e35363b13cfba18dfadd23e29d219424ce1352d1"
+      "MasterName":"CrewSkill", "Signature":"0a80cd0d40aa0a10922d172c1a0ed7008a63320e30cb59790d2", "Iv":"35b15f84b10d23a332dc18bc3d96e696", "Salt":"5fdf4f03b2a2645bc0c1cda1ae285a95c661bc1c2b6570a7d1b6c5bb3ff8f5a3", "Size":29264, "Sha1":"840cf5240c0a1a78c2e7f35518baa3eee881622a"
     },
     {
-      "MasterName":"FixedCaptainSkill", "Signature":"3a31570141740fa0943509c0cc320970967241040bc0a90d8", "Iv":"af2e2fce479ff42b4735aa54be91a6fe", "Salt":"938438a49a684d25600683d34c05b800b845318d65453b41699907cc6315ef3f", "Size":36816, "Sha1":"1ade5160b3e59593172d5b12242a8211e4fd314c"
+      "MasterName":"FixedCaptainSkill", "Signature":"0fb0c21c0b5352e099480e60fe5009811400ee0fa0e2340d164", "Iv":"a80c545b3d4b8f8ac7cc595d91bee86b", "Salt":"a93ba97c6b6110a35c788b5fb4bd2b1dbe1a3b5648ffcd17605d94e3ad2669cf", "Size":36816, "Sha1":"bd648f8fc882f40ce0af6c8ea8c06de0dda80b3d"
     },
     {
-      "MasterName":"FixedCrewSkill", "Signature":"0f248190b0f00a4030c9420f10da0f0b0a90b47760fd0c0090", "Iv":"41428f5b419e2b9f3a84d80fcbc56b4c", "Salt":"6ed259b954ef4d1db4b6015c466061ed2f66e24bba351cf3c514e0c795a58313", "Size":18016, "Sha1":"da9f6b0665e0a3e4e8440957b233a6af0d901485"
+      "MasterName":"FixedCrewSkill", "Signature":"1b0942568475456180930cb09750b90d60a80970c52b064e", "Iv":"949a784db31783b2d46b4d7b392e357d", "Salt":"c295499b5949e5346259c2ce682e33e348094dae4bd82b1c4be21e91afad756c", "Size":18016, "Sha1":"249c8b9748bbbcfaa3657b1aa7c4ae25344d40dc"
     },
     {
-      "MasterName":"FixedFleet", "Signature":"0ee10480c808c19731f0e04d60280ed0970c60e10b00870e40c0", "Iv":"3f2ae3be9e5253f59ec70f52c4f5ebca", "Salt":"bdb28db22fcc50c15286c8e55ae3d55b434f62c2bd6cbb89d2c53081bef433b9", "Size":40112, "Sha1":"a65c2237df2c54414e0623131b49c0e86bcf9da6"
+      "MasterName":"FixedFleet", "Signature":"560c90e1445f6e5c0c208409e48730fa0e10960fd772008051", "Iv":"46492f55478a271d65498bcbce9c8d53", "Salt":"437fb640bfe3b4c53750613dac7ac6d0c4916524b3d13124658acbf4a6e1bf12", "Size":40112, "Sha1":"f8a23bde20d90b4a6ebe9ecd0bf79d27da6ba854"
     },
     {
-      "MasterName":"FixedUnit", "Signature":"0be172609e09411020c39670a90f759170d90b4460e96f62", "Iv":"9fe83377a49743a370510c692fa1567f", "Salt":"a6c431782e6eab05b62a6c94a526bc07ce9c0fce56c60dfe3a05ce9a934e6730", "Size":666816, "Sha1":"6cd2fd4ae497fef17bb66cb0ffe7745fc228961f"
+      "MasterName":"FixedUnit", "Signature":"0d70900a0d1671909768335056094795c0e53c0b20a74e096", "Iv":"5ffea2a98f1cf4ed363bb6949bf2ca7e", "Salt":"c677561e996445325d54a4f49c4a9211b86c3c80503ea0199759116152f45da9", "Size":666816, "Sha1":"7aa39d683a345fb367c66b79b0cf3a356dfa8c09"
     },
     {
-      "MasterName":"GachaBody", "Signature":"0d21d5b3461380ab040930870fa0b40e40d0327e460930c30c1", "Iv":"451f2dfeaa139f232d9ecb7196cf573b", "Salt":"3d2e9f415a96099da572c9b9380553b8c8cd35494d35d6e3bd5098e694e31adf", "Size":174848, "Sha1":"f69861700208e8847d75fb04c813f05571566145"
+      "MasterName":"GachaBody", "Signature":"0fe431a0d50c5a730e90a10ce0a00b30be0f373440b90d90b301", "Iv":"b84fd7795faa40523062e4c2531efd48", "Salt":"301f4d0ecbd7bd5d99ca94e1409edec8c734322a41ffa40c408be905a5880955", "Size":182048, "Sha1":"1bf861e48adb67d6beb16ea42bb716ff73884c58"
     },
     {
-      "MasterName":"GachaInside", "Signature":"495e0a00a50f0a20bd3a0e830310dc0956667130ae0709006", "Iv":"2b0360aec2b8f552337617863be07c75", "Salt":"966633e9d117bd6b46313dffa7d9e50a674020f440d55bd9bc9156ae43822b6e", "Size":2402144, "Sha1":"02aafdc02621e02b9a00d57b2343314c96f0fa43"
+      "MasterName":"GachaInside", "Signature":"4e0b30f00c20da0f60ba620e90ed60780ee09a0944d390c7390a8", "Iv":"658bd35247fedea1a74be301c453b8f6", "Salt":"3def0c66a8eeb92c5c8aef4a621222e64f5749bf9b431ea5a1e08f6d43f7f063", "Size":2533184, "Sha1":"2eec66aab891e3b720167eb5ffbe15c077849bcd"
     },
     {
-      "MasterName":"InitialCard", "Signature":"0a00f70840930f1081440c0ee72360ff0d0b00e14c0c80e80d0ce", "Iv":"a8defcdb53170f48546ab83a9e336d40", "Salt":"c30d741d58a449c9953dc5af611b17b1611918d343b121c561b3507864f963cd", "Size":208, "Sha1":"d7c8bba6f8550de06be635250bbe3d926e6092b0"
+      "MasterName":"InitialCard", "Signature":"0900f4392b40720e40e27d477e0990b40960f50c063b0860af", "Iv":"c62180d9c51f138a5de2685ebf97c430", "Salt":"d0bdaf1141bda7316a97c777c4ad99e7acce7f37606585e99fce1c04cd2946c1", "Size":208, "Sha1":"df817d8d6098cbb4eb4cf93210371d9963b0892d"
     },
     {
-      "MasterName":"InitialFleet", "Signature":"081763b6e490ef710c60be6d547e0fa2b0b00904c0d2083b", "Iv":"5f7d47f5a1f0e25a62df5816b54477fc", "Salt":"b626c86ec0444635ca92a2b5c2b9b1305ee709b6b3fbb4333968f34d44f3b418", "Size":4832, "Sha1":"4e08be230fba84aeb26577da1f2331ed5b227166"
+      "MasterName":"InitialFleet", "Signature":"3f0b1085260fe0d11800550cd40315409f0d6205e0b20f4080", "Iv":"a4f5d06c3a365c894b66af6a4b368133", "Salt":"5118d00a37ebe957b1ec086dcd40c000a6199111a22287e34142e9784bac5125", "Size":4832, "Sha1":"406b09cfa348fc42f806aaf0f07879c260846154"
     },
     {
-      "MasterName":"InitialItem", "Signature":"0ae46540aa0fc234f000de50650b95a0d50c50c8660880e5087", "Iv":"ae2fb52ba95d0b2e9d84faedc6caf9e2", "Salt":"ac6d9689bf74d6b16e9381dd3aeb0da59af9c4d0c75611aca089a645c11cd6ca", "Size":48, "Sha1":"9809111366b3fe88a071f79de51279eff11b8ae3"
+      "MasterName":"InitialItem", "Signature":"187d0ac0cd09978260ff2b321e4c260c908b455a0a84a02", "Iv":"3c34f12aaa60e379a911d5a34fb528f7", "Salt":"4b05693431550a4ac59a2f0fbc67adfa398f1ab25f4a5fc4393ff3c9c94b4ef6", "Size":48, "Sha1":"e10e4225f19954602982281dcd4bc0396724bb04"
     },
     {
-      "MasterName":"InitialOption", "Signature":"0800f00ac4d0e5060f80b23e24081430e0dd0c50ce0f90b1290fa", "Iv":"bd508412a1f23e9ecd3ba2fb37b5d159", "Salt":"d3f065a4ab04d26cc0e5056cb8ae700248a9cc144f71120eced9f88c4c451e60", "Size":656, "Sha1":"b8a387394bedece770bc25f0f198cfc1aa2e5fc6"
+      "MasterName":"InitialOption", "Signature":"46791d0ae6c310c80950ae09b5b0fd0af0de0c4430c00d1220bb", "Iv":"a69a71836ee44af0af788fad4cda4e6c", "Salt":"9eae5552a1a2fd9e499ec4ec5677d044c4c13a3a92e82efd62de7160c5873f57", "Size":656, "Sha1":"34e6d20ab0ea86a444ddb8e0cc79ca7ca728a30e"
     },
     {
-      "MasterName":"InitialShip", "Signature":"0e51a53270820a10ba5b09e0ef5f0fd29673d5f1f610a1a", "Iv":"390f16ec4b831b62ab35eee75f0499a4", "Salt":"c394f982318936eb3ad179cb9b4db9a4b99b8900549bf14536a031f8b575f79e", "Size":112, "Sha1":"5cab59b32d29230dd8266c85a52e87aa4fe13ebe"
+      "MasterName":"InitialShip", "Signature":"0930c40009c0ad260f153f09d0ce0ec72112f0f10bb7b0af0c8", "Iv":"2c4843a1cd2a65c6a249ba865b3b932d", "Salt":"d0f69aa43d0af65e3a3035eb8f0c80c434cf2832a4afee94adbdb28aaa832a87", "Size":112, "Sha1":"c5a557d2784835e6fdc6f8922558060e90ddb785"
     },
     {
-      "MasterName":"Item", "Signature":"0d09f60430f81a0c837560c60c5e040a50df3b180b20c60fb", "Iv":"5b67a10ba6d9447239ebedd93f605509", "Salt":"d1767af5aadde6ec690fc5f39c6e965793ead17850e665c64dfd46479d27f4f6", "Size":127456, "Sha1":"9bca34e7a76fc2613cb52e6c41b14b5c66aac416"
+      "MasterName":"Item", "Signature":"0940a122093400ca0ee0d10ca11000cc0fd0fa0c16e0ba656001", "Iv":"9feeba1b93ff53034e8dd387cff93ffd", "Salt":"b6a29024c0e7e27c2de58e6351c920be4de196b9d1c8517d4a0ef8d06567236a", "Size":127456, "Sha1":"2692c90bc602afceaf4cc3883829d2e59f24886b"
     },
     {
-      "MasterName":"JewelPassport", "Signature":"6d500bd0ef0a9265c0e6553d0ce660bf660ea0e108437750d9", "Iv":"97b95e3a535938a16869f95e56e15b38", "Salt":"c9650a486403b5d2a451aa48ad3bb99ed2b7260e5a0d9fa6ab729481c1c36f2a", "Size":192, "Sha1":"54729c444239ed38b00734bfa61b53b234a1bc32"
+      "MasterName":"JewelPassport", "Signature":"7a22710d70b9273613000c10dc08d1a0fb5214780e80b57", "Iv":"ac248a60b9d54a66c347e4a9704fb29e", "Salt":"53d7e1c29cd7ada9c50297c76d62aea9cc1b231ec435d5cf5ec7fcd45b86440f", "Size":192, "Sha1":"c84fd0e38784e8affa124e9b72bda112e2a4b55e"
     },
     {
-      "MasterName":"JewelShop", "Signature":"2b0d40d16e08d0854b7a0b73b0d90eb0a80f37b4c590cb610fb", "Iv":"b91be60bc048eb7a5ea6dc7b9bb395b1", "Salt":"36179ab8c6a78a79ca44aede601b5b103eab43cb9a10a6ceb5a645d44dc343c8", "Size":9344, "Sha1":"850c25fc136b6a41147f14044c7023df3f9db46a"
+      "MasterName":"JewelShop", "Signature":"0da09b0a0cb0f0ac006a533e0db0a00f7110df08b0c08708a0c2", "Iv":"d1e3daf64a6216dcadd2f1decaf7596c", "Salt":"c931337daea0a1f73c36c96a932ccf80ca7d2cb8c9dd6edcc9c12ab79ed96dbe", "Size":9344, "Sha1":"b12e1f0c61d0a5d47c74967efdfb04a4a416e443"
     },
     {
-      "MasterName":"LayoutGroup", "Signature":"6d0f10836c060009b330d909690a861190ad0dd0f80cd482d", "Iv":"bbfcf34ad47d63ab4ece684d6352137c", "Salt":"4f2a790033a57755a985d37ca7e2142292522942b76e47ce4d622e3d2b9e96df", "Size":2128, "Sha1":"9b7ad391103bcfb035c43ec33704a5d2b1c98a54"
+      "MasterName":"LayoutGroup", "Signature":"6c62540f1623a1f0d46f2f0d7160c55a0f30970db3576097", "Iv":"433a4efa574ab242331049359402b010", "Salt":"5a70cee46ff27904c4b610aed445d73d493e9fd74efb0b52a9f78e14c4cdd71b", "Size":2128, "Sha1":"6c37183f1bcc31c0291c133772e07c71da3d4a55"
     },
     {
-      "MasterName":"LayoutObjectSkill", "Signature":"6a0a100d6320b409b0c9456228060a008d0a84b0b62e08d1a", "Iv":"3369acbc46544509d3a158eb34f8634f", "Salt":"5c5b436d4bc969bcb174ea3a3b39ebc5af771d70384009909c708f4dbddb6a83", "Size":4176, "Sha1":"402c7fe275c5a127d760f0d6e6f8e646f02e8afb"
+      "MasterName":"LayoutObjectSkill", "Signature":"05716c6d0800ef215c0b61e177406610fb0e259140a08d", "Iv":"57807cabad82e8a459eae11e50ff7d7b", "Salt":"4578ebcd5e39cfcfc0885221a186776b626ca115591187c2b7534cb3498537cc", "Size":4176, "Sha1":"d2b9532b1eb847b301027e53a367fcd8be977b9d"
     },
     {
-      "MasterName":"LoginBonusBody", "Signature":"0cb4b6b40270fe3b764276530a1250dc430e51c0bf0a10f0", "Iv":"d1387d86b25e7779ba369c5f57672de2", "Salt":"3de2d629bbba5e1a4a3bd8abad433ada650dd56accae98b0b781c0072b1d54e0", "Size":2768, "Sha1":"d120de10b161b8d719d96ab51b61f47845425c7a"
+      "MasterName":"LoginBonusBody", "Signature":"0c73b09e476a0a165190de4d6d0ea0cb247a09d220c82f79", "Iv":"6d7c9da54ca3a40ace68b56e42bad2d6", "Salt":"5bbc74383cdadce43269948a94376a242b013429bf4bc43a657c4eb2a24a9cd7", "Size":2768, "Sha1":"cf654cb41ee05fbc13cd454c26cd16188fc30359"
     },
     {
-      "MasterName":"LoginBonusInside", "Signature":"0de6c0ec0c3300a35f450fb4a530c10af661708c093670fd092", "Iv":"a981ff9d9d283b00b9255747b494c522", "Salt":"d2605b39a9644f70c71c1f62d18622a6436edb95642571136454f569cad12565", "Size":7536, "Sha1":"44ca91721920acf954ed4192142449ac1cdd6917"
+      "MasterName":"LoginBonusInside", "Signature":"0b6420f7100dc42415f0c20a90e50e33d3b790b004256e21", "Iv":"598b49402fd53b2a636dda1da3656740", "Salt":"90f32baec8c5901294af5889bdb64c93c1426dfd48e3750858489e4dc5ce16bf", "Size":7536, "Sha1":"4388dcd2e7caf5c50e5e60ea7962b34a03a9438d"
     },
     {
-      "MasterName":"MapStage", "Signature":"08a0b9030cc1671713b0b30940c81558380c50c10922d0f90b2", "Iv":"8ff9164a52d0a2723771ae5b9112f725", "Salt":"3a4a4ab03e1c608a4f1868072c084f24b0b76726afba425f38d21d615aba0d11", "Size":41568, "Sha1":"e1a9be4d83aa773c73e11d8a930d1a6d244f94ac"
+      "MasterName":"MapStage", "Signature":"6e4809d096406908f0e60fd300b40e57808e0b9540a0913c0ad", "Iv":"b31e0f31a81a0bf447aa176a6cc573c7", "Salt":"5e71d97e2d45f7aab4be60a74a1f4a5db60f42eb4910d5fa42d6680792756c73", "Size":41568, "Sha1":"7b27efd8ca6c71c884fb4a384946dd379606fc40"
     },
     {
-      "MasterName":"MatchingTips", "Signature":"0c50ea093620f7525a0ea1a0eb6112310ca0d123680a96453", "Iv":"c55393be31e923493b56b93fb43a97d6", "Salt":"b6b42e6536c235752c47e9b42ad6e4bd5cf612efa296ea42983912706be05a16", "Size":1600, "Sha1":"3f950431ec315576716cfc33002562630d6e6842"
+      "MasterName":"MatchingTips", "Signature":"0eb0df0b1170a125140c5165e2c0e30b4150f0850fd19596c", "Iv":"40af15b7c99dbc6736d56e3cd375cbb8", "Salt":"c71e53714df25929614789223351fe8353fab06ab0c7c3b03dffa578b07721c0", "Size":1600, "Sha1":"f31ade170c47aef87f99d8b6dac311ff70a43e51"
     },
     {
-      "MasterName":"Mission", "Signature":"2f0f10ac0bb0940af0d028285e340e5190a678650f47d09d3c", "Iv":"b2ea4945337ef506c31b6722c0d05835", "Salt":"b50466d155570129beae96cd6bde218cb3dc7c0e53789f543afdd23e6f531a76", "Size":215744, "Sha1":"1d880d776b5ecb0df241c79c8c28859782c8a336"
+      "MasterName":"Mission", "Signature":"0a659140c10f07d21180cd560c6570910c40ed2b0d40b70bc0c4", "Iv":"45bba8623839b20f92cb78502e00b28e", "Salt":"c1d3a2075e3508586e100dc756dd85dd69d023575b6087c766e0dfb3a342efdb", "Size":215744, "Sha1":"a1eea3da9fec43c1785f032e9a8d788981d165ee"
     },
     {
-      "MasterName":"NgWord", "Signature":"1d1d460960cc730f63b0470607a7d5f0e67f5d0d31428", "Iv":"6436669c613e03445b1b5b77619f9fab", "Salt":"6a71ccbc665bbcd193109006435382af625985f85f05d4f3a6d3315562f497f8", "Size":105920, "Sha1":"5ebe16eeb8dc6e3fec5bab117f4335a27832a243"
+      "MasterName":"NgWord", "Signature":"0e40ec0c834770408a4c0fb4e0b96d0d60d8460c7570be130c6", "Iv":"3a86be2c573f612a3b9a5c853d231eb6", "Salt":"457f0751308b2da0959b8fc16af49bb7ccec55124f2ab011440395cd6495d385", "Size":105920, "Sha1":"5caefd6429d4124f2b06e527fa0f13283a82c1ea"
     },
     {
-      "MasterName":"OceanTrainingDiary", "Signature":"0a67e095104e310a109d0f30ef0fb5a2d720e109a0dc09c0d41a", "Iv":"2bd4fca89848458690962f9369ec0528", "Salt":"b0a21b7a4824ad96a49d4c96af75c12ba9d24b33d4de99599f76bff93f0f206e", "Size":8400, "Sha1":"2906b3499eb60b0e78a1779b2093149bbcb45e09"
+      "MasterName":"OceanTrainingDiary", "Signature":"0e709f0c2430dd460a495d0f7260dd0c9750d36a01500b70a6", "Iv":"43f5ae1e6dfd4839c939616c51ecfa2c", "Salt":"40d868e190bbae54a0f597155420863da2d090316e634d0fa810b5bdc32dd118", "Size":8400, "Sha1":"a7250780681eccadc15eda8e8e530eac21c9af54"
     },
     {
-      "MasterName":"OceanTrainingDiaryContents", "Signature":"0c10ee0e90b8121d33720ab410993c0850ea08c1c0fc610fe0e9", "Iv":"45908d84a9ee852fa963534dd01a7a6d", "Salt":"904dcfeb583affee2d504117d4a84089a796859b569143d8356f4fcc5a1e4399", "Size":12848, "Sha1":"c8d5d675b6c1533a435fd4a8573d0b19d6233bef"
+      "MasterName":"OceanTrainingDiaryContents", "Signature":"0f00d00f40f5353962210ec0d908d6e05089370c20db0945a43", "Iv":"9a77eaf3698db3f49c5c0ff555eafa6f", "Salt":"a7c1cc8f41a72b2eb6a4a4ae9d2c53ebcf2ceb555413e728c23a1139bd4c5941", "Size":12848, "Sha1":"2b7ec9b2695d0fc237826b668ceaa1feab1a7241"
     },
     {
-      "MasterName":"OceanTrainingDiaryLog", "Signature":"020b30f0c09f09083f09f020897b08e571a0ba5d0e60ed0dd", "Iv":"93feab205a66e4dcb556d6699bd17ffc", "Salt":"6f8f16fdc946eac9ab03ee7535a8f26f61a5cb3a447b999e93248c15bea88f7f", "Size":88784, "Sha1":"243519c81972e14ae9630c675cb43ad501554b77"
+      "MasterName":"OceanTrainingDiaryLog", "Signature":"314d0a20900c40eb0d2705b0be0f1d0b40a80b70a20d03a0e170", "Iv":"2eb21385a7955cb3349419a2c6db8cce", "Salt":"a3e09ecf93176d4a3cb92febc2ea65926fc838b33fbbbc8a6e6dae1a9d25addd", "Size":88784, "Sha1":"f21aa6bd956c28009668c9bd102db345275ceab7"
     },
     {
-      "MasterName":"OceanTrainingList", "Signature":"501b017f0a30b4427e704d477d17352a0ac7f0fb6f0a1", "Iv":"bbe6c9dac81012e4b8807d7fa0750757", "Salt":"b9bd75b1551605cdbc45b629b45e3b6f59ac51cc4f0f8f329aa267ac9844092c", "Size":57296, "Sha1":"34558ed956aef7a742dff1184d2b54dc59ecea21"
+      "MasterName":"OceanTrainingList", "Signature":"314b460b30e60ac0b208f0950ff0c94512590f2089750a7460a7", "Iv":"3167c8c84ff6b3d66985dc7ab778dad6", "Salt":"aacddd6936d7dfa1bfde5c26a1031e86a6d1a569cb6b4aa341aad5237014f7d4", "Size":57296, "Sha1":"93371272b12eb2954a6bf455a59742662e95f3fa"
     },
     {
-      "MasterName":"Prize", "Signature":"0ce680be190dd420f4470d47873280c80d8657c510930f70b8", "Iv":"a9c07c6c2bd9fab6b80e42a3a3638adb", "Salt":"9c66f46d2c7db4842e31dc7ea3b178cbace624695ce39765c5d9db33c5408366", "Size":227024, "Sha1":"d78964f691f1f548318492b57a3d7dd6e2804237"
+      "MasterName":"Prize", "Signature":"08d0e3330b26e620bd5e2e471f0d77e252c0da5208f0e558", "Iv":"6245e9f25ab1e0b8b0bd44fb63ede4a5", "Salt":"b401b74368c052af34af9e9eceb184b294f6a91092d6d41e638248b43cfb9452", "Size":228400, "Sha1":"1f98a19301cbc3a29e12e923f4e563b2c59f4cef"
     },
     {
-      "MasterName":"PrizeGroup", "Signature":"0860c90f92d0d40c0740b1080970d6780c60ad0f56b0900fc2449", "Iv":"a0343f5d9edb8d4a9ffc71f5c9873102", "Salt":"706f1d144a526d20b26e93776f0cc53e9ed80960d218de24cf556a4e48f14e98", "Size":1139152, "Sha1":"bb53faff4d5ac2cb807f92723c684095a33ea090"
+      "MasterName":"PrizeGroup", "Signature":"510f00f91a3248012f7357180df753e0b75b73084157e", "Iv":"be0ec90d4e8c5461d31ce4b7a2c5943e", "Salt":"9ec006e14d494161b2be38fdca2d5bcca52c644da886ef048fa94e5661ae4739", "Size":1154464, "Sha1":"fa697b432ad606ab028fa821c8bbda0ab68c8927"
     },
     {
-      "MasterName":"PrizeUnite", "Signature":"0ed0b071640890d40f80866016023d1e152c3979033f08f", "Iv":"5e86ccbfc460a724c3a649a497294a4c", "Salt":"35709d4ac7a3afd2b08f5afc644471dfd3f1403997f201e751ddab135cdf3aa2", "Size":640, "Sha1":"9b438e0dd5d6ce8a5ff53a4a9b0ab1f3faf38636"
+      "MasterName":"PrizeUnite", "Signature":"0a40b9310f308b0ee355c0920867777470bf085367a1c099099", "Iv":"b0cbed18cf03bc4eabb37443b733417b", "Salt":"645486d2cebee44f4e54eb619a5d2a9acb79fe8db81ec069302127e6c25ba90b", "Size":640, "Sha1":"87e0a6547093218def1e2127cd0377ba27124ce6"
     },
     {
-      "MasterName":"Profile", "Signature":"0b4670f40c10cf0850f10f01f0d2610a20a14f0d0173532460db", "Iv":"cc0b85c4abcfdbd76052efbb395a0150", "Salt":"c5bb4d19322d403c393bfcec96c1e08b38b423b43b723643ae2ec291640afb2e", "Size":38624, "Sha1":"93e49eb71f502c3cfd1a9133c3ec69fcd07e2486"
+      "MasterName":"Profile", "Signature":"315e09c0c30ed091490e00c30d208a725f08167470880f73a08b", "Iv":"d45568995acab3c333aae8663b128d30", "Salt":"535d9f88aa878863696d9ff3b38eff012b36d912d222c3bab2933ae3ca0703ca", "Size":38624, "Sha1":"e01099e4269603a3e88196d26334062b1a67d397"
     },
     {
-      "MasterName":"RandomFleet", "Signature":"0d954460a72b0ad0cb0cb580ce0b109e0e0533a325034290f0", "Iv":"70ff52e73d002ffa5fd4d049677fe617", "Salt":"4d4dc9bd4d295ce3a95b94452def640bc1e29dd55e7e9b4e576c0ec152129305", "Size":6928, "Sha1":"0d381d64d3bf8e8401f93d1a37ac92da88a2c2b8"
+      "MasterName":"RandomFleet", "Signature":"09240ea0e90a0dd740e480e1f7909e09c0b00ee0910be0c06f", "Iv":"c10716b4aa1c181dcda9f6154597a820", "Salt":"5ec085795bf398d4a3278f8a42bf9f1c3450c602be6bfbbe4929619bbc19f417", "Size":6928, "Sha1":"33595851d7a705f8834d9bc59371871e73e5cb6f"
     },
     {
-      "MasterName":"Rankmatch", "Signature":"0c20996f0c25c0a00fb0e70d66f680df0ca7a304f361f7d4d", "Iv":"b54c50af95a59c7b4d26c364318536fe", "Salt":"4f6d2dbb39e6dfef679faa729d112ecb4bd441fbce763ea7bf440604cc2ebaec", "Size":38560, "Sha1":"56d9c8ddc8ee75bf79a5eaa2b217e2b4541eb17b"
+      "MasterName":"Rankmatch", "Signature":"122b41620c60ee382d0994b621a0ab510b9092400bb1803", "Iv":"cd16811b6785268b99dea775469c9dca", "Salt":"9621f6ddd126d017cc536fce9a55166d5f4e51686428b8fbc07fa46b42c2d902", "Size":39456, "Sha1":"595aeaf43c48a802d82b8e5fdd1ec3034bfea24e"
     },
     {
-      "MasterName":"RankmatchClass", "Signature":"0eb09150095262708d0d90ba60094023a095099087314d6a0e9", "Iv":"a9ac41b3b720cbfd2faf1ae9cb8b310c", "Salt":"45778d463c1000ee97a7133ac25d2d69b99611e4a1e05c57a44c82d35c89127b", "Size":13248, "Sha1":"aae23c6861f6b4f5e2df72d1ce3463e55eb2110d"
+      "MasterName":"RankmatchClass", "Signature":"0bd5b0ca0a20e83031320a737470fb0ab5208b09b1c0a50de18", "Iv":"5aee552359b5cf6c9ddc682338861bc4", "Salt":"381b472a5d5935134dbf1aa962f49e03c45912af4e7c84776e089cc02e22399f", "Size":13248, "Sha1":"19b10c59f969128ce0ff5d41f6d0cf64cab031cc"
     },
     {
-      "MasterName":"Refresh", "Signature":"640f1094360da3c7a09f08809b6724453c470f46b356e0c7", "Iv":"beac8303696ff6b4ae65aedfa578c651", "Salt":"591e4ff56661a78e33818eccc78fed2acbe23f5dc31bb942c9d48473d2d34f6b", "Size":1904, "Sha1":"a50801b4bc1df1f34ea501d6d75a145d8d7b8625"
+      "MasterName":"Refresh", "Signature":"0af590960c36a0c30cf57445e0b85e0960ee09e0c00e10e20e70d", "Iv":"bdaa7fc4d1d1cca56b5be01e2f6c013c", "Salt":"52d2e68393a09133a3d63d5440e97f75ae67ef615cd46f06a3f6b31dc92f953f", "Size":1904, "Sha1":"b79a9bf8103db6a32562cc26b57496b72b9956e9"
     },
     {
-      "MasterName":"RoomChat", "Signature":"0f50d64e0d0170910c10fb0e808e0e7130930ef38760c008e0d86e", "Iv":"aa6cb9b69caebf0aa93ce1793f8c8eb8", "Salt":"5d0ef030cd7f31a99b34eed79cd8b4c9aecb56bcd04dfb6541700c116473dd7e", "Size":1200, "Sha1":"a2e7037da2044e9e9fc8ddb699708694429e7fb2"
+      "MasterName":"RoomChat", "Signature":"0ed7c10170b97f0e43b270e90a00be3208e684d0d61b0ea65", "Iv":"6dfff0c3bcbce4b44971b14b42858964", "Salt":"35dbf697635290756bdbb790cb7b39dca3fcb17e5a58590bbdfd00d3505d129f", "Size":1200, "Sha1":"3d7071d9415be71d361a390d9bb5114dc3cd5c34"
     },
     {
-      "MasterName":"SdSkin", "Signature":"08a0946a1f09d0842c460c2050a00eb1a098216c088610c00b2", "Iv":"c5f69212a1bfc2daab420c11a0b522b8", "Salt":"b5275213b10e9ad2bf67ff08cb8574ba64811ffe6e740f3851080f73ba7bb2b6", "Size":13312, "Sha1":"f4d807fdc880635a34e1c7d138c351bec0d9c72a"
+      "MasterName":"SdSkin", "Signature":"2809b0f96a3a0e6097766f041316520d90ca08e46670e05b", "Iv":"5ef380c72d63b950b131c3a52c64201d", "Salt":"9d8b5a233662dc4f9e50dc3a430b122c6524ff03b68b90ae67003445b8877075", "Size":16640, "Sha1":"234bb189ebca383a0b53cca3983a2c83b9938163"
     },
     {
-      "MasterName":"Ship", "Signature":"0e1c0e10af3e0e0150ac0c30c361153f7a42316a475911", "Iv":"470d15aea1c3b0a64ade050a376b8ac3", "Salt":"6be835c2c1fa5df19c28f9b16462a580a95b6be5a93795e66aad757b8fdb14d5", "Size":27552, "Sha1":"090960b45e7032049dc05e9e7baf9bdd1eff0afd"
+      "MasterName":"Ship", "Signature":"1946533d0c40bd260b80c80890e44a0950fa09f09c0c4295b00", "Iv":"a52ff7c32df13f7a53b73fad63bac5bb", "Salt":"cfec472eb3fcd8fcc866808842d6d9bcadab24533800472d3627b28ecb3496a3", "Size":27552, "Sha1":"6ad555ccca5bf452753d000543c4a0b26109950a"
     },
     {
-      "MasterName":"ShopBody", "Signature":"0980bd0b1290c40301710fe423f0936573700d0710f50a80e2", "Iv":"934f1a913ed04cb8648cd8a23ab03113", "Salt":"a2d4474c4840ec83acbdc2d3529fc8b5c5554e0058d1f82f545c1ddab02ad1b9", "Size":7312, "Sha1":"bb517392d8230f6688ae897014cf9d5d04f4f325"
+      "MasterName":"ShopBody", "Signature":"0f034220e7c0b09b0b82e0e0fe0e40d3061f0e609e0b20880ae", "Iv":"4ef0cde0567a51de60a06654ceb1daaa", "Salt":"53295f7390760d03d474a30151bd0f1c352566de38b7dfc9bdd2434493ab31d3", "Size":7728, "Sha1":"8927e219066bc368f925d7dad1ba2134c039e507"
     },
     {
-      "MasterName":"ShopInside", "Signature":"770b308d6c5f0d836460df090f7110ac0960e5030ea305b0c0", "Iv":"6d9d980595cd255cbb1aa367c2892574", "Salt":"5c6c26d1346c15056fe205222c54acc3a0ef66dbb29689a84f7759e8466bed40", "Size":346048, "Sha1":"159acff8ccf32579af3dc61d88f7559e2b98bb18"
+      "MasterName":"ShopInside", "Signature":"480c5101b0bf010850980d0e77a0960a20a0ad0a62c71280a2", "Iv":"c7a10f15a31449fec276cd9fa047882f", "Salt":"3c16a63bb5b2a6d59e5c145360a984ec4ac1e3a4a7eb3d07665ca5ba32664233", "Size":364176, "Sha1":"10c99847ad1dcc8fd9c47f9e44798e4ebfd79673"
     },
     {
-      "MasterName":"ShopProduct", "Signature":"136a0b40eb0b81b085613275466c0b70f09a740c08108904", "Iv":"4781a1655abff50f45aa47eab5baaf33", "Salt":"9de8fb192ddd4789b1fbfaacb5f926a091f1f9e0bb2371854ed5d57c345a12be", "Size":36624, "Sha1":"716505d97a6396abf8f3758eecb46b8e6bf89828"
+      "MasterName":"ShopProduct", "Signature":"3f160a70a80b1081270f0c20bd0b0f1e0dd0fa0d3b374d0bf", "Iv":"aba63c34d0fa352d3e794891b3c23d3b", "Salt":"9f333aa19a70490360fff927ae5089a29ac7090dcd42bede9b3db4b8ba2f53b7", "Size":39792, "Sha1":"d453ea4bba9ddca4ef45bfbd9d234045a3d79836"
     },
     {
-      "MasterName":"SkillStatusUp", "Signature":"7f0d90e70ff0ee08909b3a0dc0a4077f0e50fe0c70c50fc27172a", "Iv":"3c2103f9c65106dcc6c4a70cad76f55c", "Salt":"d4176964a2807490aa5647a7d46d335960fc3e2b3e5ef9ac3fa27f584b6e8771", "Size":198912, "Sha1":"bd35516cab2b0087209936e8aa51b1dac9314088"
+      "MasterName":"SkillStatusUp", "Signature":"0e70c50fb0a808067490d30a4652e098171a2c0f10f40c11869", "Iv":"405df1449a0ce5c64030b8953ed01424", "Salt":"556d4bd3b7f402d94a8e515ec1db4f22417ee17d44de82a26df7e925493305af", "Size":198912, "Sha1":"898ea436f1e01c59562b939d1186d7ec1e4f42af"
     },
     {
-      "MasterName":"SkillType", "Signature":"087250fb3646590a30db0f10d60e3309f590fa0ca650fe084e", "Iv":"4b24ddca6318791666644b37c43cd9cc", "Salt":"a183ce762b344298385b963da7520d31d4cdb70d435bc4dd386a464f5566e23e", "Size":10224, "Sha1":"f5c67b905fe25f97c84396432387b02baa162136"
+      "MasterName":"SkillType", "Signature":"0e3556a320ef570e564c5d0ed0991b47260b20b5002f0cc", "Iv":"c1635a4030a4a7a86e4237b3b4b0bdc0", "Salt":"62fe181833a39130a82c927aabab6acc9a35ec2833d34e1ac43d7e98ca705d07", "Size":10224, "Sha1":"bb56e38d497f3d64a6021ef2daca634294f29ab0"
     },
     {
-      "MasterName":"SpecialEfficacyCard", "Signature":"480eb170d953660e00ad0eb0da5e1b1b0960f44c280dd760a1", "Iv":"401b89dd552fa11266b0b532bb0963ff", "Salt":"98c1b23f4cdb39429aaa0dfc5169a848a4ab2ba5a3f8a116cf6164976908a824", "Size":10560, "Sha1":"d7ba498a4f230cdb039c83bc5496115d47e4e8a2"
+      "MasterName":"SpecialEfficacyCard", "Signature":"0a92d2c550dc0b40a00f86b0be0b049400cb655c4c0e80860ba", "Iv":"5d83175b43823dd5cab322a79b9e7406", "Salt":"c8a04e5c372b91b7be21269cb6b4e85caa75cb76b8993a91a98a0b94589d70a4", "Size":10560, "Sha1":"1535c0c406239a6f1a3dd4a47b60946430bac643"
     },
     {
-      "MasterName":"SpineSkin", "Signature":"0e20d90ae0c840406d0813b190e80cf150b1621b0bc0fc0c974", "Iv":"ce0b059cbf0e93eb47653b9356d354e3", "Salt":"8ffa358e9281de352e3ea73dc8fb83cf34f42669503980e1a22039a543245a15", "Size":220960, "Sha1":"bf80d577eb638c8a638a30df8c0ffbe1ec66eeaa"
+      "MasterName":"SpineSkin", "Signature":"1b400a0c7082504b0a10a0cc3b460d83f420950a70980a00bf", "Iv":"ab3d7d445e4c6dd15289eb2c39ff7833", "Salt":"3a526b20cb00a36a910a87c8cd64e610317e96fa3e082b145998c42739dc6baa", "Size":220960, "Sha1":"78af554e94427e5cc7f5fe12809a126d4df020a6"
     },
     {
-      "MasterName":"Steam", "Signature":"08f0fa0b46e0f9185a09a096086093500f0015314f373968", "Iv":"445f5c8eba09619b8fe9fabc38f27fa9", "Salt":"424433e660c33a483103d682a9fceb5fd3c2a13a5deb896fa2ed8ca26aa0c5a6", "Size":15904, "Sha1":"149a65a579dab2c93b73d26c619ede4265d81825"
+      "MasterName":"Steam", "Signature":"0b0fc0da0e558760db0fd0bb270ab0bf0b45f3d0d70b908e0f70bd", "Iv":"acb8446270738760602212b23d569ccb", "Salt":"4dcb60895441a34a40af8f5d654f4b236a2f2a176f8f0e175e35e7ea67e847dc", "Size":15904, "Sha1":"93d463358e7c18cbfb219a77cfa2379fc8c47543"
     },
     {
-      "MasterName":"StoryChapter", "Signature":"7b731f083470d5770c94e0a6450b06e0f0440d0ed0b37568", "Iv":"bc57be0ec8a8ec9e58f99c4156d2d33f", "Salt":"6fdd2fa05303495547930384ca4e98062d89747e2b09c50850aca8c4c35ce7d8", "Size":14848, "Sha1":"c869417e9d651edeedb9061ac7207cd841fd8299"
+      "MasterName":"StoryChapter", "Signature":"4c4f0ec0c90820cb5a0d40f1740c70cb0fd12196b0c00e10b515", "Iv":"bb3f0eff4856189eb1def6d1bfa6957e", "Salt":"5210245db4e95aea42c7a9acc413f7f2a2311022acad54fba769337e4dde939f", "Size":14848, "Sha1":"b06d1024f94793a95beb15619d338b333fa29e9b"
     },
     {
-      "MasterName":"StoryChapterDifficulty", "Signature":"0e55c0ce0bf0d5163e770bf0a0b0720896f010ed60180880d7", "Iv":"5269a09c99f5a5623f19318ca4152699", "Salt":"2c739eafbd8047ac3046d9bec4210a62b7d31e6190cdc7433a037a52aa200adb", "Size":1216, "Sha1":"b2a2e7e362762699c9b9933158216c44c67a9b2d"
+      "MasterName":"StoryChapterDifficulty", "Signature":"0c9790f60845169510a92b08b0b808e0825f0c509b0e50e90b60f8", "Iv":"3ad72a754d025bb08fde6540adf2043f", "Salt":"438a32d15d13685d438cfbb6325cf9db3e10b0b09c5755f3a7e3508accd7903d", "Size":1216, "Sha1":"8ec7183f57b4ab2cba7ad437a46392dffb41d2c8"
     },
     {
-      "MasterName":"StoryMission", "Signature":"590908c0850c239560b4285621680a20f56e0951f0b30910d3", "Iv":"53b380784f55980f706ee2629585a0eb", "Salt":"b385a1573c192fdeac437c4d5a5a5f999d8c43dbc35df9adc09039f3adb15633", "Size":3280, "Sha1":"a340a277ab5b6badd04080ee92921b6ab89ed4dc"
+      "MasterName":"StoryMission", "Signature":"11487b0a509109e0de0d0c71e09b0fd15340af7808c400e218", "Iv":"4a330fd3d116390d6926d2b42c08d227", "Salt":"32797b3fd0f2d6d38f102f65b7848691a465c7935eb66dc5544d02aa9e821bdc", "Size":3280, "Sha1":"294965b74190b38422f69f41c8327faa00609313"
     },
     {
-      "MasterName":"StoryScene", "Signature":"0992a0aa0b90cf030fa022440470ca0a70d0be590a30be09a0aa", "Iv":"35336de0626b1b9ea52b835bbdf0c718", "Salt":"2ecdc6f78f7e83986ae79235a51c0be26d157aab94e8eb3ecbbe389e502d7cfb", "Size":367392, "Sha1":"eced06001dca58ecf0dc03ad3706ca6e748f5693"
+      "MasterName":"StoryScene", "Signature":"0f80e660c309e0a1084030cd0de0f201a2445490e00860b70b3", "Iv":"bd59e5dc5bf7218db72d28995f6a5b53", "Salt":"bbde8a82c5450397d4916b435cfa5e1d948dd0a4d4b1727fc27f63b690cb3993", "Size":368848, "Sha1":"90d6437106232d4fef4bdea98bd8171a9e0375b1"
     },
     {
-      "MasterName":"StorySceneDifficulty", "Signature":"513f0c00d20ce087550a20a20f453650ee0c80bf0b4770a7780ec", "Iv":"520430ae5d4096c568d6234f96405537", "Salt":"431edaa05e5c209db7fdd36cc3580a449e84bf852dff41f699a5f8fd999699f6", "Size":26096, "Sha1":"de7c6666353b67518bb315ccafcec129725f5b6f"
+      "MasterName":"StorySceneDifficulty", "Signature":"6703463d0dc180c70b8415419440fa0940fd0c6e0dd646e", "Iv":"b419efcb94463a9f6df15ed4c121a5cf", "Salt":"6c7d16f7446ecd7f46397158a0b19ba46a7470c6a41167a12b964fe2655ef8fe", "Size":26096, "Sha1":"44d040daf095be3588d8493d2fd3a9a3eca3b27c"
     },
     {
-      "MasterName":"System", "Signature":"0870af0ea0ee0bc200d10b30ed140d450cd0c80ea084650f5623d", "Iv":"bf3ab8afa0aa8cf14c3d122a50498168", "Salt":"5245c6274d1422c6a1fe610133ef836baba1161dd442f6559b1040d3333bfdaf", "Size":512, "Sha1":"40adecbde197b8283d98a71bbd269156e87daac5"
+      "MasterName":"System", "Signature":"5a6e7242091082100cf0dd48090c50d90a40a0c4d690bc0b9", "Iv":"59c9fb6565549d7194160103bc783a08", "Salt":"94677ddaa44ab70cbb9fd824a90ff470a4d199a068f8a8b65e113395afabbe1c", "Size":512, "Sha1":"613b1bc4f0c67e3a841a1b75bbfbdbd4693a2842"
     },
     {
-      "MasterName":"VoiceTitle", "Signature":"0b50d70bb0f40c32e0ba09a0881509c0bc210820fb770f70f80a405", "Iv":"b55526b2449f4f7ac08202dda4399202", "Salt":"62e9b7d09459926f3b5f79e894cf7dd83ce23af8505d628cb14cf2626adc9ea2", "Size":3568, "Sha1":"eec692bf9729edb6f430db7450fa35e9a867bf60"
+      "MasterName":"VoiceTitle", "Signature":"1b08c0c80d7780f1390c82e100840a009a0cf6e09101614a0ae", "Iv":"417ab771c6b8e020a286636c99e94c9e", "Salt":"9d37d9fbc7630180c5390c54a1fecede52f88aa1646215dba4595890a5b13f3a", "Size":3568, "Sha1":"d5aaaf7f14fe6ddef618cecf4c078f96937481ba"
     },
     {
-      "MasterName":"WinRateMatching", "Signature":"132f0f10e36f08209f026a47093210e646000b55b0a1520c1", "Iv":"a57762d6c85d95053428fc9570d2a9de", "Salt":"684d5e39ced4a42eba85499b32a1cbce61d25e746948868b4aa988e6593e09ae", "Size":624, "Sha1":"15335823d7c3d8044b31e59cb6571a63ae0c6148"
+      "MasterName":"WinRateMatching", "Signature":"0a635170a10f10ca3f250cb0ef0b7060a30d57c4d0b808f0df0cb", "Iv":"94de8b8646f2a100b853ecbea63a6cc0", "Salt":"6176233c92dabd3fd01d68855e49ec7db765de7cb44794fd60877cc3494c16cc", "Size":624, "Sha1":"9fc3fa5b46b7166dd03beac8aab0116b6039e8bc"
     }
   ]
 }
