@@ -523,6 +523,9 @@
       "No":174, "Group":40174, "DataType":5, "DataNo":9003002, "Count":1
     },
     {
+      "No":175, "Group":40175, "DataType":5, "DataNo":9024003, "Count":1
+    },
+    {
       "No":50001, "Group":50001, "DataType":2, "DataNo":150000, "Count":1
     },
     {
@@ -749,6 +752,15 @@
     },
     {
       "No":50077, "Group":50077, "DataType":2, "DataNo":340000, "Count":1
+    },
+    {
+      "No":50078, "Group":50078, "DataType":2, "DataNo":2450000, "Count":1
+    },
+    {
+      "No":50079, "Group":50079, "DataType":2, "DataNo":4150000, "Count":1
+    },
+    {
+      "No":50080, "Group":50080, "DataType":2, "DataNo":3140000, "Count":1
     },
     {
       "No":6000101, "Group":6000101, "DataType":3, "DataNo":190000, "Count":1

@@ -1,49 +1,49 @@
 {
   "Name":"ShopInside", "Rows":[
     {
-      "No":10001001, "CollabNo":0, "Group":10001, "ProductGroup":4000101, "Description":"航海科用の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001001, "CollabNo":0, "Group":10001, "ProductGroup":4000101, "Description":"航海科用の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":1, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001002, "CollabNo":0, "Group":10001, "ProductGroup":4000201, "Description":"航海科用の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001002, "CollabNo":0, "Group":10001, "ProductGroup":4000201, "Description":"航海科用の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":2, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001003, "CollabNo":0, "Group":10001, "ProductGroup":4000301, "Description":"航海科用の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001003, "CollabNo":0, "Group":10001, "ProductGroup":4000301, "Description":"航海科用の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":3, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001004, "CollabNo":0, "Group":10001, "ProductGroup":4000401, "Description":"砲雷科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001004, "CollabNo":0, "Group":10001, "ProductGroup":4000401, "Description":"砲雷科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":4, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001005, "CollabNo":0, "Group":10001, "ProductGroup":4000501, "Description":"砲雷科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001005, "CollabNo":0, "Group":10001, "ProductGroup":4000501, "Description":"砲雷科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":5, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001006, "CollabNo":0, "Group":10001, "ProductGroup":4000601, "Description":"砲雷科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001006, "CollabNo":0, "Group":10001, "ProductGroup":4000601, "Description":"砲雷科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":6, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001007, "CollabNo":0, "Group":10001, "ProductGroup":4000701, "Description":"機関科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001007, "CollabNo":0, "Group":10001, "ProductGroup":4000701, "Description":"機関科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":7, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001008, "CollabNo":0, "Group":10001, "ProductGroup":4000801, "Description":"機関科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001008, "CollabNo":0, "Group":10001, "ProductGroup":4000801, "Description":"機関科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":8, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001009, "CollabNo":0, "Group":10001, "ProductGroup":4000901, "Description":"機関科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001009, "CollabNo":0, "Group":10001, "ProductGroup":4000901, "Description":"機関科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":9, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001010, "CollabNo":0, "Group":10001, "ProductGroup":4001001, "Description":"主計科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001010, "CollabNo":0, "Group":10001, "ProductGroup":4001001, "Description":"主計科の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":10, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001011, "CollabNo":0, "Group":10001, "ProductGroup":4001101, "Description":"主計科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001011, "CollabNo":0, "Group":10001, "ProductGroup":4001101, "Description":"主計科の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":11, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001012, "CollabNo":0, "Group":10001, "ProductGroup":4001201, "Description":"主計科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001012, "CollabNo":0, "Group":10001, "ProductGroup":4001201, "Description":"主計科の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":12, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001013, "CollabNo":0, "Group":10001, "ProductGroup":4001301, "Description":"その他の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001013, "CollabNo":0, "Group":10001, "ProductGroup":4001301, "Description":"その他の覚醒素材（☆３以下用）", "DailyType":0, "DailyProbability":0, "Order":13, "Type":3, "PaymentItemNo":2001001, "PaymentCount":10000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001014, "CollabNo":0, "Group":10001, "ProductGroup":4001401, "Description":"その他の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001014, "CollabNo":0, "Group":10001, "ProductGroup":4001401, "Description":"その他の覚醒素材（☆４用）", "DailyType":0, "DailyProbability":0, "Order":14, "Type":3, "PaymentItemNo":2001001, "PaymentCount":20000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":10001015, "CollabNo":0, "Group":10001, "ProductGroup":4001501, "Description":"その他の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":15, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":10001015, "CollabNo":0, "Group":10001, "ProductGroup":4001501, "Description":"その他の覚醒素材（☆５用）", "DailyType":0, "DailyProbability":0, "Order":15, "Type":3, "PaymentItemNo":2001001, "PaymentCount":30000, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
       "No":10001016, "CollabNo":0, "Group":10001, "ProductGroup":31002002, "Description":"集めると「仁義のない映画祭」のイベントストーリーが解放される\n※既に解放済のストーリー数によって必要個数は変わります", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
@@ -64,25 +64,25 @@
       "No":10001021, "CollabNo":0, "Group":10001, "ProductGroup":31007002, "Description":"集めると「遊園地でドキドキハロウィン!」のイベントストーリーが\n解放される※既に解放済のストーリー数によって必要個数は変わります", "DailyType":0, "DailyProbability":0, "Order":106, "Type":3, "PaymentItemNo":2001001, "PaymentCount":25000, "PurchaseLimit":6, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":20001001, "CollabNo":0, "Group":20001, "ProductGroup":4001601, "Description":"お風呂チケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":1, "PaymentItemNo":0, "PaymentCount":50, "PurchaseLimit":15, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
+      "No":20001001, "CollabNo":0, "Group":20001, "ProductGroup":4001601, "Description":"お風呂チケット", "DailyType":0, "DailyProbability":0, "Order":1, "Type":1, "PaymentItemNo":0, "PaymentCount":50, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
-      "No":20001002, "CollabNo":0, "Group":20001, "ProductGroup":4001602, "Description":"お風呂チケット（15枚のセット）", "DailyType":0, "DailyProbability":0, "Order":2, "Type":1, "PaymentItemNo":0, "PaymentCount":750, "PurchaseLimit":9, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":20001002, "CollabNo":0, "Group":20001, "ProductGroup":4001602, "Description":"お風呂チケット（15枚のセット）", "DailyType":0, "DailyProbability":0, "Order":2, "Type":1, "PaymentItemNo":0, "PaymentCount":750, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":20001003, "CollabNo":0, "Group":20001, "ProductGroup":4001701, "Description":"コイン　10000", "DailyType":0, "DailyProbability":0, "Order":3, "Type":1, "PaymentItemNo":0, "PaymentCount":100, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":20001003, "CollabNo":0, "Group":20001, "ProductGroup":4001701, "Description":"コイン　10000", "DailyType":0, "DailyProbability":0, "Order":3, "Type":1, "PaymentItemNo":0, "PaymentCount":100, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":20001004, "CollabNo":0, "Group":20001, "ProductGroup":4001702, "Description":"コイン　50000", "DailyType":0, "DailyProbability":0, "Order":4, "Type":1, "PaymentItemNo":0, "PaymentCount":450, "PurchaseLimit":18, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":20001004, "CollabNo":0, "Group":20001, "ProductGroup":4001702, "Description":"コイン　50000", "DailyType":0, "DailyProbability":0, "Order":4, "Type":1, "PaymentItemNo":0, "PaymentCount":450, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":20001005, "CollabNo":0, "Group":20001, "ProductGroup":4001801, "Description":"外洋訓練支援物資", "DailyType":0, "DailyProbability":0, "Order":5, "Type":1, "PaymentItemNo":0, "PaymentCount":500, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":20001005, "CollabNo":0, "Group":20001, "ProductGroup":4001801, "Description":"外洋訓練支援物資", "DailyType":0, "DailyProbability":0, "Order":5, "Type":1, "PaymentItemNo":0, "PaymentCount":500, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":20001006, "CollabNo":0, "Group":20001, "ProductGroup":4001901, "Description":"強化特訓でスキルの強化状態を\r\nリセットすることができる", "DailyType":0, "DailyProbability":0, "Order":6, "Type":1, "PaymentItemNo":0, "PaymentCount":300, "PurchaseLimit":5, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":20001006, "CollabNo":0, "Group":20001, "ProductGroup":4001901, "Description":"強化特訓でスキルの強化状態を\r\nリセットすることができる", "DailyType":0, "DailyProbability":0, "Order":6, "Type":1, "PaymentItemNo":0, "PaymentCount":300, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
-      "No":20001011, "CollabNo":0, "Group":20001, "ProductGroup":4002001, "Description":"今週のハイフリを解放することができる\n(公開されていない話を見ることはできません)", "DailyType":0, "DailyProbability":0, "Order":10, "Type":1, "PaymentItemNo":0, "PaymentCount":100, "PurchaseLimit":10, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+      "No":20001011, "CollabNo":0, "Group":20001, "ProductGroup":4002001, "Description":"今週のハイフリを解放することができる\n(公開されていない話を見ることはできません)", "DailyType":0, "DailyProbability":0, "Order":10, "Type":1, "PaymentItemNo":0, "PaymentCount":100, "PurchaseLimit":0, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
       "No":4001001, "CollabNo":4001002, "Group":40001, "ProductGroup":40051, "Description":"限界突破素材 岬 明乃☆4", "DailyType":0, "DailyProbability":0, "Order":101, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
@@ -1945,6 +1945,21 @@
       "No":4001620, "CollabNo":0, "Group":40001, "ProductGroup":40174, "Description":"限界突破素材 立石 志摩☆4", "DailyType":0, "DailyProbability":0, "Order":160, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":4001621, "CollabNo":4001622, "Group":40001, "ProductGroup":40175, "Description":"限界突破素材 広田 空☆5", "DailyType":0, "DailyProbability":0, "Order":65, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001622, "CollabNo":4001623, "Group":40001, "ProductGroup":40175, "Description":"限界突破素材 広田 空☆5", "DailyType":0, "DailyProbability":0, "Order":65, "Type":3, "PaymentItemNo":27001001, "PaymentCount":2, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001623, "CollabNo":4001624, "Group":40001, "ProductGroup":40175, "Description":"限界突破素材 広田 空☆5", "DailyType":0, "DailyProbability":0, "Order":65, "Type":3, "PaymentItemNo":27001001, "PaymentCount":3, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001624, "CollabNo":4001625, "Group":40001, "ProductGroup":40175, "Description":"限界突破素材 広田 空☆5", "DailyType":0, "DailyProbability":0, "Order":65, "Type":3, "PaymentItemNo":27001001, "PaymentCount":4, "PurchaseLimit":20, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4001625, "CollabNo":0, "Group":40001, "ProductGroup":40175, "Description":"限界突破素材 広田 空☆5", "DailyType":0, "DailyProbability":0, "Order":65, "Type":3, "PaymentItemNo":27001001, "PaymentCount":5, "PurchaseLimit":0, "ValidTime":"2019-11-18T14:30:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":4002001, "CollabNo":0, "Group":40002, "ProductGroup":50001, "Description":"【くじ引き最強伝説】岬 明乃", "DailyType":1, "DailyProbability":1, "Order":1, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":true
     },
     {
@@ -2143,6 +2158,12 @@
       "No":4002074, "CollabNo":0, "Group":40002, "ProductGroup":50074, "Description":"【主砲旋回担当のお仕事】武田 美千留", "DailyType":2, "DailyProbability":1, "Order":132, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
+      "No":4002079, "CollabNo":0, "Group":40002, "ProductGroup":50079, "Description":"【日記を書きます】山辺 あゆみ", "DailyType":1, "DailyProbability":1, "Order":35, "Type":3, "PaymentItemNo":27001001, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":4002080, "CollabNo":0, "Group":40002, "ProductGroup":50080, "Description":"【みなみさんの漢語入門】鏑木 美波", "DailyType":2, "DailyProbability":1, "Order":133, "Type":3, "PaymentItemNo":27001001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
       "No":60001001, "CollabNo":0, "Group":60001, "ProductGroup":6000101, "Description":"チーム対抗戦「どっちの水着がいいかな？」\nAチーム キレイ系水着 岬明乃のスキン", "DailyType":0, "DailyProbability":0, "Order":5, "Type":2, "PaymentItemNo":0, "PaymentCount":1000, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
@@ -2195,6 +2216,9 @@
     },
     {
       "No":70001110, "CollabNo":0, "Group":70001, "ProductGroup":50077, "Description":"【タマの砲撃講座】立石 志摩", "DailyType":0, "DailyProbability":0, "Order":3380, "Type":3, "PaymentItemNo":11901001, "PaymentCount":400, "PurchaseLimit":1, "ValidTime":"2019-12-17T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
+    },
+    {
+      "No":70001111, "CollabNo":0, "Group":70001, "ProductGroup":50078, "Description":"【ツッコミは大切】広田 空", "DailyType":0, "DailyProbability":0, "Order":3175, "Type":3, "PaymentItemNo":11901001, "PaymentCount":800, "PurchaseLimit":1, "ValidTime":"2019-12-17T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
     },
     {
       "No":70001201, "CollabNo":0, "Group":70001, "ProductGroup":7000101, "Description":"【水着】岬 明乃のSDキャラスキン", "DailyType":0, "DailyProbability":0, "Order":4019, "Type":3, "PaymentItemNo":11901001, "PaymentCount":200, "PurchaseLimit":1, "ValidTime":"2017-12-01T00:00:00+09:00", "InvalidTime":"2099-12-01T00:00:00+09:00", "UserHour":0, "PickUp":false
